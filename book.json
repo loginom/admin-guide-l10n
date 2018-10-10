@@ -1,0 +1,33 @@
+{
+  "title": "Loginom Admin Guide",
+  "language" : "ru",
+  "plugins": [
+    "-sharing",
+    "-fontsettings",
+    "-theme-default",
+    "anchors@0.7.1",
+    "anchor-translit@0.0.2",
+    "partial-summary-ex@1.0.0",
+    "expand-active-chapter@1.0.0",
+    "code@0.1.0",
+    "spoiler@1.0.0",
+    "image-captions@3.1.0",
+    "theme-loginom-website@1.1.3"
+  ],
+  "pluginsConfig": {
+    "theme-loginom-website" : {
+      "showLevel": false,
+      "resource_type": "Admin guide",
+      "show_block_additionally": true,
+      "embedded_mode": false
+    },
+    "partial-summary-ex" : {
+      "depth": 1,
+      "caption": "<hr>Статьи в разделе:\n\n"
+    },
+    "image-captions": {
+      "caption": "_CAPTION_"
+    }
+  },
+  "root": "./data"
+}

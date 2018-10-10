@@ -1,0 +1,109 @@
+variables:
+  deploy_root: "/var/www/build/adminguide"
+
+.review_template: &review_def
+  only:
+    - branches
+  except:
+    - master
+
+.staging_template: &staging_def
+  only:
+    - master
+
+.release_template: &release_def
+  only:
+    - /^v(?:0|[1-9]\d*)\.(?:0|[1-9]\d*)\.(?:0|[1-9]\d*)(?:$|-)/
+  except:
+    - branches
+
+.artifacts_template: &artifacts_def
+    name: ${CI_COMMIT_REF_NAME}_embedded
+    paths:
+      - build/
+
+.artifacts_review_template: &artifacts_review_def
+  artifacts:
+    <<: *artifacts_def
+    expire_in: 1 days
+
+.artifacts_staging_template: &artifacts_staging_def
+  artifacts:
+    <<: *artifacts_def
+    expire_in: 2 weeks
+
+.artifacts_release_template: &artifacts_release_def
+  artifacts:
+    <<: *artifacts_def
+
+.build_template: &build_def
+  stage: build
+  script:
+    # build embedded version
+    - gitbook install
+    - gitbook build ./ build
+
+.deploy_template: &deploy_def
+  stage: deploy
+  environment:
+    name: $CI_COMMIT_REF_NAME
+    url: https://docs.bg.local/adminguide/$CI_COMMIT_REF_NAME/
+    on_stop: cleanup
+  script:
+    - deploy_dir="$deploy_root/$CI_COMMIT_REF_NAME"
+    - if [ -d "$deploy_dir/" ]; then rm -rf "$deploy_dir/"; fi
+    - mkdir $deploy_dir
+    - /bin/cp --recursive --link ./build/* $deploy_root/$CI_COMMIT_REF_NAME/
+  variables:
+    GIT_STRATEGY: none
+
+build_review:
+  <<: *review_def
+  <<: *build_def
+  <<: *artifacts_review_def
+
+deploy_review:
+  <<: *review_def
+  <<: *deploy_def
+
+build_staging:
+  <<: *staging_def
+  <<: *build_def
+  <<: *artifacts_staging_def
+
+deploy_staging:
+  <<: *staging_def
+  <<: *deploy_def
+
+build_release:
+  variables:
+    is_release: "1"
+  <<: *release_def
+  <<: *build_def
+  <<: *artifacts_release_def
+
+deploy_release:
+  <<: *release_def
+  variables:
+    GIT_STRATEGY: none
+  stage: deploy
+  environment:
+    name: $CI_COMMIT_REF_NAME
+    url: https://docs.bg.local/adminguide/$CI_COMMIT_REF_NAME/
+    on_stop: cleanup
+  script:
+    - deploy_dir="$deploy_root/$CI_COMMIT_REF_NAME"
+    - if [ -d "$deploy_dir/" ]; then rm -rf "$deploy_dir/"; fi
+    - mkdir $deploy_dir
+    - /bin/cp --recursive --link ./build/* $deploy_root/$CI_COMMIT_REF_NAME/
+    - ~/bin/deploy-production adminguide ./build
+
+cleanup:
+  stage: deploy
+  script:
+    - deploy_dir="$deploy_root/$CI_COMMIT_REF_NAME"
+    - if [ -d "$deploy_dir/" ]; then rm -rf "$deploy_dir/"; fi
+  when: manual
+  environment:
+    name: $CI_COMMIT_REF_NAME
+    action: stop
