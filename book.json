@@ -11,8 +11,8 @@
     "expand-active-chapter@1.0.0",
     "code@0.1.0",
     "spoiler@1.0.0",
+    "image-captions@3.1.0",
     "theme-loginom-website@1.1.3"
-    
   ],
   "pluginsConfig": {
     "theme-loginom-website" : {
@@ -24,6 +24,9 @@
     "partial-summary-ex" : {
       "depth": 1,
       "caption": "<hr>Статьи в разделе:\n\n"
+    },
+    "image-captions": {
+      "caption": "_CAPTION_"
     }
   },
   "root": "./data"
