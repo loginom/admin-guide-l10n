@@ -4,7 +4,7 @@
 
 ## Включение компонентов IIS
 
-* В командной строке, запущенной от имени администратора:
+В командной строке, запущенной от имени администратора:
 
 ```cmd
 dism /online /enable-feature /FeatureName:IIS-WebServerRole /FeatureName:IIS-WebServer /FeatureName:IIS-WebServerManagementTools /FeatureName:IIS-ManagementScriptingTools
@@ -12,7 +12,7 @@ dism /online /enable-feature /FeatureName:IIS-WebServerRole /FeatureName:IIS-Web
 
 ## Включение компонентов IIS для Loginom Studio
 
-* В командной строке, запущенной от имени администратора:
+В командной строке, запущенной от имени администратора:
 
 ```cmd
 dism /online /enable-feature /FeatureName:IIS-CommonHttpFeatures /FeatureName:IIS-StaticContent /FeatureName:IIS-DefaultDocument /FeatureName:IIS-Performance /FeatureName:IIS-HttpCompressionStatic
