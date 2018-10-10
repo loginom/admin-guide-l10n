@@ -47,7 +47,7 @@ variables:
   stage: deploy
   environment:
     name: $CI_COMMIT_REF_NAME
-    url: https://docs.bg.local/help/$CI_COMMIT_REF_NAME/
+    url: https://docs.bg.local/adminguide/$CI_COMMIT_REF_NAME/
     on_stop: cleanup
   script:
     - deploy_dir="$deploy_root/$CI_COMMIT_REF_NAME"
