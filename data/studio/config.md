@@ -2,7 +2,7 @@
 
 Путь к файлу конфигурации Loginom Studio: `%ProgramFiles%\BaseGroup\Loginom 6\Client\server.json`
 
-В файле конфигурации задается URL подключения к [серверу Loginom](./README.md#server-loginom).
+В файле конфигурации задается URL подключения к [серверу Loginom](../server/README.md).
 
 Значения по умолчанию:
 
