@@ -72,12 +72,12 @@
 
 * **Каталог веб-приложения**
 * **URL веб-приложения**
-* **Подключение к серверу Loginom** — содержит параметры для формирования [файла конфигурации Loginom Studio](./studio-config.md)
-  * **Хост** — определяет значение параметра [host](./studio-config.md#host). Если значение поля равняется значению host поля *URL веб-приложения*, в `server.json` указывается `host: null`.
-  * **Порт WS** и **Порт WSS** — определяют значения параметров [wsport](./studio-config.md#wsport) и [wssport](./studio-config.md#wssport) соответственно.
-  * **Всегда использовать безопасное подключение** — включает параметр [secure](./studio-config.md#secure).
-  * **Использовать WebSocket proxy** — включает параметр [wsproxy](./studio-config.md#wsproxy).
-  * **Proxy URI** — определяет параметр [path](./studio-config.md#path).
+* **Подключение к серверу Loginom** — содержит параметры для формирования [файла конфигурации Loginom Studio](../studio/config.md)
+  * **Хост** — определяет значение параметра [host](../studio/config.md#host). Если значение поля равняется значению host поля *URL веб-приложения*, в `server.json` указывается `host: null`.
+  * **Порт WS** и **Порт WSS** — определяют значения параметров [wsport](../studio/config.md#wsport) и [wssport](../studio/config.md#wssport) соответственно.
+  * **Всегда использовать безопасное подключение** — включает параметр [secure](../studio/config.md#secure).
+  * **Использовать WebSocket proxy** — включает параметр [wsproxy](../studio/config.md#wsproxy).
+  * **Proxy URI** — определяет параметр [path](../studio/config.md#path).
 
 ### Командная строка
 

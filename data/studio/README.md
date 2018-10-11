@@ -13,4 +13,4 @@ Studio – основное рабочее место аналитика и ко
 * [Internet Explorer](https://www.microsoft.com/ru-ru/download/internet-explorer.aspx) не ниже 11.0
 * [Edge](https://www.microsoft.com/ru-ru/windows/microsoft-edge) не ниже 14.0
 
-Параметры подключения к Loginom Server задаются в [файле конфигурации](../studio/studio-config.md).
+Параметры подключения к Loginom Server задаются в [файле конфигурации](./config.md).
