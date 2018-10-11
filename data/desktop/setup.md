@@ -18,7 +18,7 @@
 
 #### Выбор компонентов для установки
 
-![](../images/admin/personal_msi_features_default.png)
+![](../images/personal_msi_features_default.png)
 
 * Компонент **"Loginom Personal"** обязателен для установки.
 * Компонент **"Документация"** устанавливает файлы документации по работе с платформой.

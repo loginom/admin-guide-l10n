@@ -2,7 +2,7 @@
 
 Взаимодействие между Server и остальными компонентами платформы осуществляется по следующей схеме:
 
-![](../images/admin/lg-scheme.svg)
+![](../images/lg-scheme.svg)
 
 * При запросе (**1**) url `http(s)://web-server-host/app` в браузере загружается (**2**) Loginom Studio.
 * Из конфигурации [server.json](../studio/config.md) формируется URL для подключения к серверу Loginom.

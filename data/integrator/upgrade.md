@@ -4,7 +4,7 @@
 
 Для обновления Loginom Integrator необходимо запустить инсталлятор новой версии:
 
-![](../images/admin/integrator_msi_upgrade.png)
+![](../images/integrator_msi_upgrade.png)
 
 Нажатие на кнопку **"Обновить"** выполняет обновление установленного экземпляра Loginom Integrator.
 

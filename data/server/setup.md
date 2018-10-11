@@ -32,7 +32,7 @@
 * **Документация** добавляет в web-интерфейс раздел справки по работе с платформой.
 * **Веб-сервер** устанавливает встроенный web-сервер Apache Httpd. Если предполагается использование стороннего web-сервера, компонент должен быть отключен.
 
-![](../images/admin/server_msi_features_default.png)
+![](../images/server_msi_features_default.png)
 
 
 > **Примечание:** По умолчанию устанавливаются все компоненты.
@@ -41,7 +41,7 @@
 
 Данный диалог доступен только при установке компонента *Loginom Server*.
 
-![](../images/admin/server_msi_server.png)
+![](../images/server_msi_server.png)
 
 * **Порт сервера** — определяет значение параметра [Порт сервера](./definitions.md#port-servera).
 * **Порт WS** — определяет значение параметра [Порт websocket](./definitions.md#port-websocket).
@@ -55,7 +55,7 @@
 
 Диалог доступен только при установке компонента *Веб-сервер*.
 
-![](../images/admin/server_msi_httpd.png)
+![](../images/server_msi_httpd.png)
 
 * **Порт HTTP**
 * **Использовать WebSocket proxy**
@@ -68,7 +68,7 @@
 
 Диалог доступен только при установке компонента Loginom Studio без установки компонента Веб-сервер.
 
-![](../images/admin/server_msi_studio.png)
+![](../images/server_msi_studio.png)
 
 * **Каталог веб-приложения**
 * **URL веб-приложения**

@@ -44,11 +44,11 @@ dism /online /enable-feature /FeatureName:IIS-ApplicationDevelopment /FeatureNam
 
 По умолчанию установка производится в каталог `%ProgramFiles%\BaseGroup\`;
 
-![](../images/admin/integrator_msi_path.png)
+![](../images/integrator_msi_path.png)
 
 #### Параметры установки
 
-![](../images/admin/integrator_msi_parameters.png)
+![](../images/integrator_msi_parameters.png)
 
 Блок **IIS**:
 
