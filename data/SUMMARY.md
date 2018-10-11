@@ -21,3 +21,4 @@
   * [Удаление](./desktop/remove.md)
 * [Лицензионные ключи](./licenses/README.md)
   * [Варианты исполнения ключа](./licenses/case.md)
+  * [Активация софтверного ключа](./licenses/sp-activate.md)
