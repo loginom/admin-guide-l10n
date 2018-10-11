@@ -6,7 +6,7 @@
 
 ## Включение компонентов IIS
 
-Необходимо выполнить команду от имени администратора:
+Необходимо выполнить в командной строке от имени администратора:
 
 ```cmd
 dism /online /enable-feature /FeatureName:IIS-WebServerRole /FeatureName:IIS-WebServer /FeatureName:IIS-WebServerManagementTools /FeatureName:IIS-ManagementScriptingTools
@@ -16,7 +16,7 @@ dism /online /enable-feature /FeatureName:IIS-WebServerRole /FeatureName:IIS-Web
 
 Для корректной работы Loginom Integrator требуется установленный NetFramework v4.5+.
 
-Необходимо выполнить команду от имени администратора:
+Необходимо выполнить в командной строке от имени администратора:
 
 ```cmd
 :: Для windows 2008/7/2012/8:

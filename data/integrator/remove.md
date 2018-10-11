@@ -7,7 +7,7 @@
 
 ![](../images/admin/integrator_msi_remove.png)
 
-* Выполнить от имени администратора команду:
+* Выполнить в командной строке от имени администратора:
 
 ```cmd
 msiexec /x LoginomIntegrator_6.x.x.msi /qn

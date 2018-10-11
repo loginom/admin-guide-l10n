@@ -7,7 +7,7 @@
 
 ![](../images/admin/personal_msi_remove.png)
 
-* Выполнить от имени администратора команду:
+* Выполнить в командной строке от имени администратора:
 
 ```cmd
 msiexec /x LoginomPersonal_6.x.x_x64.msi /qn
