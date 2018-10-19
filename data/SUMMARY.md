@@ -1,13 +1,13 @@
 # SUMMARY
 
 * [Введение](./README.md)
+  * [Схема работы](./platform/scheme.md)
 * [Loginom Server](./server/README.md)
   * [Установка](./server/setup.md)
     * [IIS](./server/iis.md)
   * [Конфигурация](./server/config.md)
   * [Обновление](./server/upgrade.md)
   * [Удаление](./server/remove.md)
-  * [Схема работы](./server/scheme.md)
 * [Loginom Studio](./studio/README.md)
   * [Конфигурация](./studio/config.md)
 * [Loginom Integrator](./integrator/README.md)
