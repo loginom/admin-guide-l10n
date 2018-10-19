@@ -46,7 +46,7 @@ dism /online /enable-feature /FeatureName:IIS-CommonHttpFeatures /FeatureName:II
 
 ### Установка модуля Rewrite
 
-> Модуль требуется для работы Loginom Studio в браузерах Internet Explorer v11+ / Edge. Также он необходим для использования [wsproxy](./definitions.md#websocket-proxy).
+> Модуль требуется для работы Loginom Studio в браузерах Internet Explorer v11+ / Edge. Также он необходим для использования wsproxy.
 
 * Скачиваем и устанавливаем модуль [URL Rewrite](https://www.iis.net/downloads/microsoft/url-rewrite)
 * Добавляем в `web.config`:

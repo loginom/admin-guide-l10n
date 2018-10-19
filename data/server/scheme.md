@@ -7,5 +7,5 @@
 * При запросе (**1**) url `http(s)://web-server-host/app` в браузере загружается (**2**) Loginom Studio.
 * Из конфигурации [server.json](../studio/config.md) формируется URL для подключения к серверу Loginom.
 * Loginom Studio подключается к серверу Loginom по протоколу `websocket`.
-  * Если [websocket proxy](./definitions.md#websocket-proxy) не используется, выполняется подключение к хосту сервера Loginom (**3a**) на порт `websocket (secure)`.
+  * Если *websocket proxy* не используется, выполняется подключение к хосту сервера Loginom (**3a**) на порт `websocket (secure)`.
   * Иначе выполняется подключение к хосту web-сервера (**3b**) на порт `http(s)` с указанным URI. Web-сервер проксирует это подключение на хост сервера Loginom (**4b**) на порт `websocket (secure)`.

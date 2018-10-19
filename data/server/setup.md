@@ -10,7 +10,7 @@
 
 где 6.x.x – цифры, обозначающие версию и релиз программы.
 
-Для работы с программой [Loginom Studio](../studio) (web-интерфейс к Loginom Server)обязательным условием является наличие [web-сервера](./definitions.md#web-server).
+Для работы с программой [Loginom Studio](../studio/README.md) (web-интерфейс к Loginom Server)обязательным условием является наличие web-сервера.
 
 Допустимым является использование следующих вариантов web-сервера:
 
@@ -27,13 +27,12 @@
 
 #### Выбор компонентов для установки
 
-* **Loginom Server** обязателен для установки [сервера Loginom](./definitions.md#server-loginom).
-* **Loginom Studio** устанавливает [web-интерфейс](./definitions.md#loginom-studio).
+* **Loginom Server** обязателен для установки *сервера Loginom*.
+* **Loginom Studio** устанавливает web-интерфейс.
 * **Документация** добавляет в web-интерфейс раздел справки по работе с платформой.
 * **Веб-сервер** устанавливает встроенный web-сервер Apache Httpd. Если предполагается использование стороннего web-сервера, компонент должен быть отключен.
 
 ![](../images/server_msi_features_default.png)
-
 
 > **Примечание:** По умолчанию устанавливаются все компоненты.
 
@@ -43,12 +42,11 @@
 
 ![](../images/server_msi_server.png)
 
-* **Порт сервера** — определяет значение параметра [Порт сервера](./definitions.md#port-servera).
-* **Порт WS** — определяет значение параметра [Порт websocket](./definitions.md#port-websocket).
+* **Порт сервера** — определяет номер порта для подключения Loginom Integrator и BatchLauncher.
+* **Порт WS** — определяет номер порта для подключения Loginom Studio по протоколу websocket (ws).
 * **Использовать WebSocket secure** — включает возможность задать параметры ssl для websocket:
-  * **Порт WSS** — определяет значение параметра [Порт websocket secure](./definitions.md#port-websocket-secure).
-  * **Сертификат SSL** — требуется указать полный путь к файлу [сертификата SSL](./definitions.md#sertifikat-ssl-websocket)
-  * **Ключ SSL** — требуется указать полный путь к файлу [ключа SSL](./definitions.md#klyuch-ssl-websocket)
+  * **Порт WSS** — определяет номер порта для подключения Loginom Studio по протоколу websocket secure (wss).
+  * **Сертификат SSL**, **Ключ SSL** — полные пути к файлам сертификата и ключа SSL в формате *pem*.
 * **Установить драйвера Guardant x64** — запускает установку в автоматическом режиме драйверов для работы электронного ключа защиты.
 
 #### Параметры web-сервера Apache Httpd
@@ -57,12 +55,11 @@
 
 ![](../images/server_msi_httpd.png)
 
-* **Порт HTTP**
-* **Использовать WebSocket proxy**
+* **Порт HTTP** — определяет номер http порта web-сервера.
+* **Использовать WebSocket proxy** — включает проксирование websocket соединений.
 * **Использовать HTTPS** — включает возможность задать параметры ssl для http:
-  * **Порт HTTPS** — определяет значение параметра [Порт web-сервера](./definitions.md#port-web-servera).
-  * **Сертификат SSL** — требуется указать полный путь к файлу [сертификата SSL](./definitions.md#sertifikat-ssl-http)
-  * **Ключ SSL** — требуется указать полный путь к файлу [ключа SSL](./definitions.md#klyuch-ssl-http)
+  * **Порт HTTPS** — определяет номер https порта web-сервера.
+  * **Сертификат SSL**, **Ключ SSL** — полные пути к файлам сертификата и ключа SSL в формате *pem*.
 
 #### Параметры Loginom Studio
 
