@@ -1,8 +1,8 @@
-# Файл конфигурации Loginom Studio
+# Конфигурация
 
-> Путь к файлу конфигурации: `%ProgramFiles%\BaseGroup\Loginom 6\Client\server.json`
+Путь к файлу конфигурации Loginom Studio: `%ProgramFiles%\BaseGroup\Loginom 6\Client\server.json`
 
-Конфигурация Loginom Studio определяет URL подключения к [серверу Loginom](./README.md#server-loginom).
+В файле конфигурации задается URL подключения к [серверу Loginom](../server/README.md).
 
 Значения по умолчанию:
 
@@ -13,7 +13,10 @@
 }
 ```
 
-Результрующий url: `ws://web-server-host:8080` или `wss://web-server-host:8443`
+Результрующий url:
+
+* http: `ws://web-server-host:8080`
+* https: `wss://web-server-host:8443`
 
 Шифрование протокола `ws` определяется наличием шифрования `http`.
 
@@ -103,7 +106,7 @@
 
 Если параметр не указан, при подключении к веб-серверу по `http` подключение к серверу Loginom будет выполняться без шифрования.
 
-Если параметр указан и установлен в `true`, подключение всегда будет выполняться с шифрованием - по протоколу `websocket secure` на порт `wssport`.
+Если параметр указан и установлен в `true`, подключение всегда будет выполняться с шифрованием — по протоколу `websocket secure` на порт `wssport`.
 
 ```json
 {

@@ -4,7 +4,7 @@
 
 ## Включение компонентов IIS
 
-* В командной строке, запущенной от имени администратора:
+В командной строке, запущенной от имени администратора:
 
 ```cmd
 dism /online /enable-feature /FeatureName:IIS-WebServerRole /FeatureName:IIS-WebServer /FeatureName:IIS-WebServerManagementTools /FeatureName:IIS-ManagementScriptingTools
@@ -12,7 +12,7 @@ dism /online /enable-feature /FeatureName:IIS-WebServerRole /FeatureName:IIS-Web
 
 ## Включение компонентов IIS для Loginom Studio
 
-* В командной строке, запущенной от имени администратора:
+В командной строке, запущенной от имени администратора:
 
 ```cmd
 dism /online /enable-feature /FeatureName:IIS-CommonHttpFeatures /FeatureName:IIS-StaticContent /FeatureName:IIS-DefaultDocument /FeatureName:IIS-Performance /FeatureName:IIS-HttpCompressionStatic
@@ -46,7 +46,7 @@ dism /online /enable-feature /FeatureName:IIS-CommonHttpFeatures /FeatureName:II
 
 ### Установка модуля Rewrite
 
-> Модуль требуется для работы Loginom Studio в браузерах Internet Explorer v11+ / Edge. Также он необходим для использования [wsproxy](../config/README.md#websocket-proxy).
+> Модуль требуется для работы Loginom Studio в браузерах Internet Explorer v11+ / Edge. Также он необходим для использования wsproxy.
 
 * Скачиваем и устанавливаем модуль [URL Rewrite](https://www.iis.net/downloads/microsoft/url-rewrite)
 * Добавляем в `web.config`:
