@@ -19,7 +19,18 @@
       "showLevel": false,
       "resource_type": "Admin guide",
       "show_block_additionally": true,
-      "embedded_mode": false
+      "embedded_mode": false,
+      "links_related":{
+        "User guide": {
+          "url": "https://help.loginom.ru/",
+          "num": "2"
+        },
+        "Wiki": {
+          "url": "https://wiki.loginom.ru/",
+          "num": "4"
+        }
+      }
+
     },
     "partial-summary-ex" : {
       "depth": 1,
