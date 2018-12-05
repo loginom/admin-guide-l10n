@@ -1,10 +1,10 @@
 # SUMMARY
 
-* [Введение](./README.md)
-  * [Схема работы](./platform/scheme.md)
+* [Главная](./README.md)
+  * [Взаимодействие компонентов](./platform/scheme.md)
 * [Loginom Server](./server/README.md)
   * [Установка](./server/setup.md)
-    * [IIS](./server/iis.md)
+    * [Microsoft IIS](./server/iis.md)
   * [Конфигурация](./server/config.md)
   * [Обновление](./server/upgrade.md)
   * [Удаление](./server/remove.md)
