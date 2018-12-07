@@ -18,9 +18,9 @@ variables:
     - branches
 
 .artifacts_template: &artifacts_def
-    name: ${CI_COMMIT_REF_NAME}_embedded
+    name: ${CI_PROJECT_NAME}_${CI_COMMIT_REF_NAME}
     paths:
-      - build/
+      - local/
 
 .artifacts_review_template: &artifacts_review_def
   artifacts:
@@ -35,13 +35,22 @@ variables:
 .artifacts_release_template: &artifacts_release_def
   artifacts:
     <<: *artifacts_def
+    paths:
+      - local/
+      - public/
 
 .build_template: &build_def
   stage: build
   script:
-    # build embedded version
-    - gitbook install
-    - gitbook build ./ build
+    - &build_script |
+      gitbook install
+      gitbook build ./ local
+
+.clean_template: &clean_def
+  script:
+    - &clean_script |
+      deploy_dir="$deploy_root/$CI_COMMIT_REF_NAME"
+      if [ -d "$deploy_dir/" ]; then rm -rf "$deploy_dir/"; fi
 
 .deploy_template: &deploy_def
   stage: deploy
@@ -49,13 +58,14 @@ variables:
     name: $CI_COMMIT_REF_NAME
     url: https://docs.bg.local/adminguide/$CI_COMMIT_REF_NAME/
     on_stop: cleanup
-  script:
-    - deploy_dir="$deploy_root/$CI_COMMIT_REF_NAME"
-    - if [ -d "$deploy_dir/" ]; then rm -rf "$deploy_dir/"; fi
-    - mkdir $deploy_dir
-    - /bin/cp --recursive --link ./build/* $deploy_root/$CI_COMMIT_REF_NAME/
   variables:
     GIT_STRATEGY: none
+  <<: *clean_def
+  script:
+    - *clean_script
+    - &deploy_local_script |
+      mkdir $deploy_dir
+      /bin/cp --recursive --link ./local/* $deploy_root/$CI_COMMIT_REF_NAME/
 
 build_review:
   <<: *review_def
@@ -76,33 +86,28 @@ deploy_staging:
   <<: *deploy_def
 
 build_release:
-  variables:
-    is_release: "1"
   <<: *release_def
   <<: *build_def
+  script: 
+    - *build_script
+    - config=`/usr/bin/jq -n --slurpfile orig ./book.json '$orig[] | .pluginsConfig."theme-loginom-website".counters_enabled = true'`
+    - echo "$config" > ./book.json
+    - gitbook build ./ public
   <<: *artifacts_release_def
 
 deploy_release:
   <<: *release_def
-  variables:
-    GIT_STRATEGY: none
-  stage: deploy
+  extends: .deploy_template
   environment:
-    name: $CI_COMMIT_REF_NAME
-    url: https://docs.bg.local/adminguide/$CI_COMMIT_REF_NAME/
-    on_stop: cleanup
+    url: https://help.loginom.ru/adminguide
   script:
-    - deploy_dir="$deploy_root/$CI_COMMIT_REF_NAME"
-    - if [ -d "$deploy_dir/" ]; then rm -rf "$deploy_dir/"; fi
-    - mkdir $deploy_dir
-    - /bin/cp --recursive --link ./build/* $deploy_root/$CI_COMMIT_REF_NAME/
-    - ~/bin/deploy-production adminguide ./build
+    - *clean_script
+    - *deploy_local_script
+    - ~/bin/deploy-production adminguide ./public
 
 cleanup:
   stage: deploy
-  script:
-    - deploy_dir="$deploy_root/$CI_COMMIT_REF_NAME"
-    - if [ -d "$deploy_dir/" ]; then rm -rf "$deploy_dir/"; fi
+  <<: *clean_def
   when: manual
   environment:
     name: $CI_COMMIT_REF_NAME
