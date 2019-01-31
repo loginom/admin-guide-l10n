@@ -4,7 +4,15 @@
 
 ## Studio
 
-### Без wsproxy (при установке с параметрами по умолчанию)
+[Studio](../studio/README.md) обменивается данными с Loginom Server по протоколу [websocket](https://ru.wikipedia.org/wiki/WebSocket). Соединение может устанавливаться одним из двух способов - напрямую с сервером Loginom, либо через websocket proxy, настроенном на web-сервере.
+
+Websocket proxy позволяет предоставлять доступ к Loginom Server через http(s) порт web-сервера, что упрощает конфигурацию сетевых экранов.
+
+Для включения wsproxy на встроенном web-сервере достаточно отметить пункт "Использовать WebSocket proxy" [при установке](../server/setup.md#parametry-web-servera-apache-httpd), IIS требует более сложной [настройки](../server/iis.md#nastroyka-websocket-proxy).
+
+При установке по умолчанию websocket proxy отключен.
+
+### Без wsproxy
 
 ![](../images/without-proxy.svg)
 
@@ -35,5 +43,5 @@
 
 ![](../images/service.svg)
 
-* Внешний сервис подключается по протоколу http к web-серверу (IIS), на котором развернуто web-приложение Loginom Integrator;
+* Внешний сервис подключается по протоколу http к web-серверу (IIS), на котором развернуто web-приложение [Loginom Integrator](../integrator/README.md);
 * Integrator обрабатывает запрос и создает подключение на TCP [порт сервера](../server/setup.md#parametry-loginom-server) к хосту сервера Loginom.
