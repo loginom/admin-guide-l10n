@@ -1,6 +1,11 @@
 variables:
   deploy_root: "/var/www/build/adminguide"
 
+stages:
+  - build
+  - deploy
+  - test
+
 .review_template: &review_def
   only:
     - branches
@@ -67,6 +72,13 @@ variables:
       mkdir $deploy_dir
       /bin/cp --recursive --link ./local/* $deploy_root/$CI_COMMIT_REF_NAME/
 
+.testing_template: &testing_def
+  stage: test
+  environment:
+    name: $CI_COMMIT_REF_NAME
+  script:
+    - /usr/bin/linkchecker https://docs.bg.local/adminguide/$CI_COMMIT_REF_NAME/ --no-status
+
 build_review:
   <<: *review_def
   <<: *build_def
@@ -76,6 +88,10 @@ deploy_review:
   <<: *review_def
   <<: *deploy_def
 
+testing_review:
+  <<: *review_def
+  <<: *testing_def
+
 build_staging:
   <<: *staging_def
   <<: *build_def
@@ -84,6 +100,10 @@ build_staging:
 deploy_staging:
   <<: *staging_def
   <<: *deploy_def
+
+testing_staging:
+  <<: *staging_def
+  <<: *testing_def
 
 build_release:
   <<: *release_def
@@ -104,6 +124,10 @@ deploy_release:
     - *clean_script
     - *deploy_local_script
     - ~/bin/deploy-production adminguide ./public
+
+testing_release:
+  <<: *release_def
+  <<: *testing_def
 
 cleanup:
   stage: deploy
