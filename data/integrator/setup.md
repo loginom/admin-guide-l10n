@@ -30,14 +30,15 @@ dism /online /enable-feature /FeatureName:IIS-ApplicationDevelopment /FeatureNam
 :: Для windows до 10/2016 регистрируем ASP.NET:
 "%WinDir%\Microsoft.NET\Framework64\v4.0.30319\Aspnet_regiis.exe" -iru
 
-:: Для windows до 10/2016 разрешаем исполнение модулей ISAPI:
+:: Для windows до 2016/10 разрешаем исполнение модулей ISAPI:
 "%windir%\system32\inetsrv\appcmd.exe" set config /section:isapiCgiRestriction /[path='%WinDir%\Microsoft.NET\Framework64\v4.0.30319\aspnet_isapi.dll'].allowed:True
 
 :: Для windows 2016/10:
 dism /online /enable-feature /FeatureName:IIS-ASP
 ```
 
-В итоге должны быть установлены следующие роли сервера:
+В итоге должны быть установлены следующие роли сервера (windows 2016):
+
     - Веб Сервер IIS
         - Безопасность > Фильтрация запросов
         - Исправность и диагностика > Ведение журнала HTTP
