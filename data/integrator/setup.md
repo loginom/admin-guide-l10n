@@ -16,6 +16,8 @@ dism /online /enable-feature /FeatureName:IIS-WebServerRole /FeatureName:IIS-Web
 
 Для корректной работы Loginom Integrator требуется установленный NetFramework v4.5+.
 
+Необходимо установить следующие компоненты:
+
 Необходимо выполнить в командной строке от имени администратора:
 
 ```cmd
@@ -23,14 +25,29 @@ dism /online /enable-feature /FeatureName:IIS-WebServerRole /FeatureName:IIS-Web
 dism /online /enable-feature /FeatureName:IIS-ApplicationDevelopment /FeatureName:IIS-ISAPIExtensions /FeatureName:WAS-WindowsActivationService /FeatureName:WAS-ProcessModel /FeatureName:IIS-NetFxExtensibility /FeatureName:WAS-NetFxEnvironment /FeatureName:WAS-ConfigurationAPI /FeatureName:WCF-HTTP-Activation
 
 :: Для windows 2012r2/8.1/2016/10:
-dism /online /enable-feature /FeatureName:IIS-ApplicationDevelopment /FeatureName:IIS-ISAPIExtensions /FeatureName:WAS-WindowsActivationService /FeatureName:WAS-ProcessModel /FeatureName:IIS-ASPNET45 /FeatureName:IIS-NetFxExtensibility45 /FeatureName:NetFx4Extended-ASPNET45 /FeatureName:WCF-Services45 /FeatureName:IIS-ISAPIFilter /FeatureName:WCF-HTTP-Activation45
+dism /online /enable-feature /FeatureName:IIS-ApplicationDevelopment /FeatureName:IIS-ISAPIExtensions /FeatureName:WAS-WindowsActivationService /FeatureName:WAS-ProcessModel /FeatureName:IIS-ASPNET45 /FeatureName:IIS-NetFxExtensibility45 /FeatureName:NetFx4Extended-ASPNET45 /FeatureName:WCF-Services45 /FeatureName:IIS-ISAPIFilter /FeatureName:WCF-HTTP-Activation45 /all
 
-:: Регистрируем ASP.NET
+:: Для windows до 10/2016 регистрируем ASP.NET:
 "%WinDir%\Microsoft.NET\Framework64\v4.0.30319\Aspnet_regiis.exe" -iru
 
-:: Разрешаем исполнение модулей ISAPI:
+:: Для windows до 10/2016 разрешаем исполнение модулей ISAPI:
 "%windir%\system32\inetsrv\appcmd.exe" set config /section:isapiCgiRestriction /[path='%WinDir%\Microsoft.NET\Framework64\v4.0.30319\aspnet_isapi.dll'].allowed:True
+
+:: Для windows 2016/10:
+dism /online /enable-feature /FeatureName:IIS-ASP
 ```
+
+В итоге должны быть установлены следующие роли сервера:
+    - Веб Сервер IIS
+        - Безопасность > Фильтрация запросов
+        - Исправность и диагностика > Ведение журнала HTTP
+        - Общие функции HTTP > Документ по умолчанию, Обзор Каталога, Ошибки HTTP, Статическое содержимое
+        - Производительность > Сжатие статического содержимого
+        - Разработка приложений > ASP, ASP.NET 4.6, Расширения ISAPI, Расширяемость .NET4.6, Фильтры ISAPI
+    - Средства управления    
+        - Консоль управления службами IIS
+        - Наборы символов и средства управления службами IIS
+
 
 ## Установка MSI
 
