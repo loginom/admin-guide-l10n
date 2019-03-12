@@ -27,25 +27,22 @@ dism /online /enable-feature /FeatureName:IIS-ApplicationDevelopment /FeatureNam
 :: Для windows 2012r2/8.1/2016/10:
 dism /online /enable-feature /FeatureName:IIS-ApplicationDevelopment /FeatureName:IIS-ISAPIExtensions /FeatureName:WAS-WindowsActivationService /FeatureName:WAS-ProcessModel /FeatureName:IIS-ASPNET45 /FeatureName:IIS-NetFxExtensibility45 /FeatureName:NetFx4Extended-ASPNET45 /FeatureName:WCF-Services45 /FeatureName:IIS-ISAPIFilter /FeatureName:WCF-HTTP-Activation45 /all
 
-:: Для windows до 10/2016 регистрируем ASP.NET:
+:: Для windows 2008/7/2012/8/2012r2/8.1 регистрируем ASP.NET:
 "%WinDir%\Microsoft.NET\Framework64\v4.0.30319\Aspnet_regiis.exe" -iru
 
-:: Для windows до 2016/10 разрешаем исполнение модулей ISAPI:
+:: Для windows 2008/7/2012/8/2012r2/8.1 разрешаем исполнение модулей ISAPI:
 "%windir%\system32\inetsrv\appcmd.exe" set config /section:isapiCgiRestriction /[path='%WinDir%\Microsoft.NET\Framework64\v4.0.30319\aspnet_isapi.dll'].allowed:True
-
-:: Для windows 2016/10:
-dism /online /enable-feature /FeatureName:IIS-ASP
 ```
 
 В итоге должны быть установлены следующие роли сервера (windows 2016):
 
-    - Веб Сервер IIS
+    - Веб Сервер (IIS) (Установлено 13 из 43)
         - Безопасность > Фильтрация запросов
         - Исправность и диагностика > Ведение журнала HTTP
         - Общие функции HTTP > Документ по умолчанию, Обзор Каталога, Ошибки HTTP, Статическое содержимое
         - Производительность > Сжатие статического содержимого
-        - Разработка приложений > ASP, ASP.NET 4.6, Расширения ISAPI, Расширяемость .NET4.6, Фильтры ISAPI
-    - Средства управления    
+        - Разработка приложений > ASP.NET 4.6, Расширения ISAPI, Расширяемость .NET4.6, Фильтры ISAPI
+    - Средства управления (Установлено 2 из 7)    
         - Консоль управления службами IIS
         - Наборы символов и средства управления службами IIS
 
