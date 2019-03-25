@@ -183,7 +183,7 @@ netsh advfirewall firewall add rule name="Allow Loginom Port" dir=in action=allo
 * Разрешаем подключения к серверу сетевых ключей для Loginom Server
 
 ```cmd
-netsh advfirewall firewall add rule name="Allow Guardant Net" action=allow remoteport=3186-3187 remoteip=%guardant_net_host_ip%
+netsh advfirewall firewall add rule name="Allow Guardant Net" dir=out action=allow protocol=TCP remoteport=3186-3187 remoteip=%guardant_net_host_ip%
 ```
 
 %/spoiler%
