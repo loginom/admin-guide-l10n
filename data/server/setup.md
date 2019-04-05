@@ -197,6 +197,9 @@ netsh advfirewall firewall add rule name="Allow Guardant Net" dir=out action=all
 * `admin` с паролем `admin` — для администрирования сервера Loginom
 * `service` с паролем `service` — для подключения внешних приложений (Integrator и BatchLauncher)
 
+> **Примечание:** После завершения учтановки в обязательном порядке необходимо изменить пароль учетной записи администратора (admin).
+
+
 ## Проверка работоспособности
 
 * Запустить web-клиент Loginom Studio
