@@ -23,3 +23,4 @@
   * [Варианты исполнения ключа](./licenses/case.md)
   * [Активация софтверного ключа](./licenses/sp-activate.md)
   * [Обновление USB-ключа](./licenses/usb-upgrade.md)
+  * [Диагностика ключей Guardant](./licenses/grddiag.md)
