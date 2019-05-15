@@ -13,13 +13,13 @@ Adapter представляет собой веб-сервис — «прокс
 
 ## Системные требования
 
-?
-
 | Компонент | Минимальные | Рекомендуемые |
 |:--------- |:-------------|:------------- |
-| OS | ? Windows Server 2012 и выше | |
-| Software | IIS ? и выше, DotNet 3.5 | |
-| CPU | ? core | ? core |
-| RAM | ? GB | ? GB |
-| HDD | ? GB | ? GB |
-| USB | ? | ? |
+| OS | ? Windows Server 2008 и выше | |
+| Software | IIS 7.5 и выше, DotNet 3.5 | |
+| ? CPU | Intel Core 2 Duo | Intel Xeon |
+| CPU | 2 core | 8 core |
+| RAM | 1 GB | 8 GB |
+| ? HDD | 15 Mb | ? GB |
+| HDD | 10 GB | 500 GB |
+| ? USB | ? | ? |
