@@ -1,4 +1,4 @@
-# Loginom Adapter
+# Порядок установки Loginom Adapter
 
 Для установки Loginom Adapter'а необходимо:
 
