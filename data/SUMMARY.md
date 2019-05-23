@@ -21,6 +21,7 @@
     * [Описание параметров](./adapter/config/parameters.md)
     * [Настройка](./adapter/config/tuning-principles.md)
   * [Примеры](./adapter/examples/README.md)
+  * [Удаление](./adapter/remove.md)
 * [Loginom Integrator](./integrator/README.md)
   * [Установка](./integrator/setup.md)
   * [Конфигурация](./integrator/config.md)
