@@ -19,6 +19,7 @@
     * [Установка](./adapter/setup/setup.md)
   * [Конфигурация](./adapter/config/README.md)
   * [Примеры](./adapter/examples/README.md)
+  * [Удаление](./adapter/remove.md)
 * [Loginom Integrator](./integrator/README.md)
   * [Установка](./integrator/setup.md)
   * [Конфигурация](./integrator/config.md)
