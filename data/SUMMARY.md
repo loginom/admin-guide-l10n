@@ -18,6 +18,8 @@
     * [Настройка IIS](./adapter/setup/iis-config.md)
     * [Установка](./adapter/setup/setup.md)
   * [Конфигурация](./adapter/config/README.md)
+    * [Описание параметров](./adapter/config/parameters.md)
+    * [Настройка](./adapter/config/tuning-principles.md)
   * [Примеры](./adapter/examples/README.md)
   * [Удаление](./adapter/remove.md)
 * [Loginom Integrator](./integrator/README.md)
