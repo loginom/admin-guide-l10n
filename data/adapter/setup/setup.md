@@ -53,7 +53,7 @@
 
 ## Настройка лицензии Loginom Adapter
 
-Для работы *Адаптера* требуется настройка [ключей лицензирования](../licenses/README.md).
+Для работы *Адаптера* требуется настройка [ключей лицензирования](../../licenses/README.md).
 
 При использовании сервера сетевых ключей требуется создать и отредактировать файл [GnClient.ini](https://dev.guardant.ru/pages/viewpage.action?pageId=1277980) в каталоге `"C:\ProgramData\BaseGroup\Loginom 6\Adapter"`.
 
