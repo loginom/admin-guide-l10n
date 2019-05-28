@@ -8,6 +8,9 @@
    * .Net Framework 3.5.
    * .Net Framework 4.5.
    * Microsoft Internet Information Server (IIS).
+1. Дополнительно необходимо включить:
+   * IIS -> Management Tools -> IIS 6 Management Compatibility.
+   * .NET Framework 4.5 -> WCF Services -> HTTP Activation.
 1. Создать и настроить [особую учетную запись](./special-user.md).
 1. [Настроить IIS](./iis-config.md).
 1. При необходимости следует установить опциональное программное обеспечение:
@@ -27,10 +30,10 @@
 ![ ](../../images/adapter-setup-page.png)
 
 * **Веб-узел** — по умолчанию `Default Web Site` (можно задать другой, созданный в диспетчере служб IIS);
-* **Виртуальный каталог** — `LoginomAdapter`;
+* **Виртуальный каталог** — имя каталога, где будет размещено установленное приложение (по умолчанию, `LoginomAdapter`);
 * **Пул приложений** — выбираем созданный в диспетчере служб IIS пул, например, `LoginomAdapterAppPool`.
 
-При таких параметрах установка *Адаптера* осуществляется в каталог размещения виртуальной папки *LoginomAdapter* веб-узла `Default Web Site`. При таких настройках каталогом установки по умолчанию является `C:\inetpub\wwwroot\LoginomAdapter\`.
+По умолчанию путь будет `C:\inetpub\wwwroot\LoginomAdapter\`.
 
 > Примечание: компьютер, на котором работает *Адаптер*, должен иметь сетевой доступ к внешним сервисам.
 
@@ -46,7 +49,7 @@
 
 Пример: `http://localhost/LoginomAdapter/service.svc?wsdl`
 
-*Адаптер* должен отдать WSDL SOAP веб-сервиса с предупреждением:
+*Адаптер* должен отдать WSDL SOAP веб-сервиса с сообщением наподобие:
 
 ```xml
 <wsdl:definitions xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" …>
