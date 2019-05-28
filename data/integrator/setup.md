@@ -16,6 +16,8 @@ dism /online /enable-feature /FeatureName:IIS-WebServerRole /FeatureName:IIS-Web
 
 Для корректной работы Loginom Integrator требуется установленный NetFramework v4.5+.
 
+Необходимо установить следующие компоненты:
+
 Необходимо выполнить в командной строке от имени администратора:
 
 ```cmd
@@ -23,13 +25,33 @@ dism /online /enable-feature /FeatureName:IIS-WebServerRole /FeatureName:IIS-Web
 dism /online /enable-feature /FeatureName:IIS-ApplicationDevelopment /FeatureName:IIS-ISAPIExtensions /FeatureName:WAS-WindowsActivationService /FeatureName:WAS-ProcessModel /FeatureName:IIS-NetFxExtensibility /FeatureName:WAS-NetFxEnvironment /FeatureName:WAS-ConfigurationAPI /FeatureName:WCF-HTTP-Activation
 
 :: Для windows 2012r2/8.1/2016/10:
-dism /online /enable-feature /FeatureName:IIS-ApplicationDevelopment /FeatureName:IIS-ISAPIExtensions /FeatureName:WAS-WindowsActivationService /FeatureName:WAS-ProcessModel /FeatureName:IIS-ASPNET45 /FeatureName:IIS-NetFxExtensibility45 /FeatureName:NetFx4Extended-ASPNET45 /FeatureName:WCF-Services45 /FeatureName:IIS-ISAPIFilter /FeatureName:WCF-HTTP-Activation45
+dism /online /enable-feature /FeatureName:IIS-ApplicationDevelopment /FeatureName:IIS-ISAPIExtensions /FeatureName:WAS-WindowsActivationService /FeatureName:WAS-ProcessModel /FeatureName:IIS-ASPNET45 /FeatureName:IIS-NetFxExtensibility45 /FeatureName:NetFx4Extended-ASPNET45 /FeatureName:WCF-Services45 /FeatureName:IIS-ISAPIFilter /FeatureName:WCF-HTTP-Activation45 /all
 
-:: Регистрируем ASP.NET
+:: Для windows 2008/7/2012/8/2012r2/8.1 регистрируем ASP.NET:
 "%WinDir%\Microsoft.NET\Framework64\v4.0.30319\Aspnet_regiis.exe" -iru
 
-:: Разрешаем исполнение модулей ISAPI:
+:: Для windows 2008/7/2012/8/2012r2/8.1 разрешаем исполнение модулей ISAPI:
 "%windir%\system32\inetsrv\appcmd.exe" set config /section:isapiCgiRestriction /[path='%WinDir%\Microsoft.NET\Framework64\v4.0.30319\aspnet_isapi.dll'].allowed:True
+```
+
+***
+
+Минимально должны быть установлены следующие роли сервера (windows 2016):
+
+```txt
+Веб Сервер (IIS) (Установлено 8 из 43)
+- Веб сервер (Установлено 8 из 34) 
+   - Безопасность (Установлено 1 из 9)
+        * Фильтрация запросов
+   - Общие функции HTTP (Установлено 3 из 6)
+        * Документ по умолчанию 
+        * Обзор Каталога
+        * Статическое содержимое
+   - Разработка приложений (Установлено 4 из 11)
+        * ASP.NET 4.6 
+        * Расширения ISAPI
+        * Расширяемость .NET4.
+        * Фильтры ISAPI
 ```
 
 ## Установка MSI
