@@ -18,28 +18,28 @@
 
 ```XML
 <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
-xmlns:web="http://schemas.loginom.ru/integration/Cheques">
+xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer">
 <soapenv:Header/>
     <soapenv:Body>
-        <web:Cheques>
+        <ded:Cheques>
             <variables>
                 <DateMin>2000-06-06T23:59:00</DateMin>
                 <DateMax>2017-06-06T23:59:00</DateMax>
             </variables>
-        </web:Cheques>
+        </ded:Cheques>
     </soapenv:Body>
 </soapenv:Envelope>
 ```
 
-Для приведенного примера из SOAP-пакета будет выделен узел «li:Cheques», и дальнейшая трансформация на следующих этапах будет производиться с текстом xml:
+Для приведенного примера из SOAP-пакета будет выделен узел «ded:Cheques», и дальнейшая трансформация на следующих этапах будет производиться с текстом xml:
 
 ```XML
-<web:Cheques>
+<ded:Cheques>
     <variables>
         <DateMin>2000-06-06T23:59:00</DateMin>
         <DateMax>2017-06-06T23:59:00</DateMax>
     </variables>
-</web:Cheques>
+</ded:Cheques>
 ```
 
 Первым этапом преобразования XML запроса может быть XSLT трансформация. Настройка выполнения этого этапа производится с помощью параметров конфигуратора *XSLT для трансформации входящего сообщения перед передачей* и *Параметры XSLT*, представленных на рисунке 4.2.
@@ -104,31 +104,30 @@ xmlns:web="http://schemas.loginom.ru/integration/Cheques">
 
 *Строка запроса (Request Line):*
 ```
-POST https://stend-sup-29/lgi/Service.svc/Soap/Cheques HTTP/1.1
+POST https://stend-sup-29/DIS/Service.svc/ServiceClass HTTP/1.1
 ```
 
 *Заголовки (Message Headers):*
 
 ```
 Content-Type: text/xml; charset=UTF-8
-SOAPAction: "http://schemas.loginom.ru/integration/Cheques"
+SOAPAction: "http://www.basegroup.ru/WebServiceProxy/DIS_stend-sup-29/Cheques"
 Content-Length: 499
 Host: stend-057
-Connection: Keep-Alive
 ```
 
 *Тело сообщения (Entity Body):*
 ```XML
 <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
-xmlns:web="http://schemas.loginom.ru/integration/Cheques">
+xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer">
 <soapenv:Header/>
     <soapenv:Body>
-        <web:Cheques>
+        <ded:Cheques>
             <variables>
                 <DateMin>2000-06-06T23:59:00</DateMin>
                 <DateMax>2017-06-06T23:59:00</DateMax>
             </variables>
-        </web:Cheques>
+        </ded:Cheques>
     </soapenv:Body>
 </soapenv:Envelope>
 ```
@@ -173,8 +172,8 @@ WSDL сервиса формируется исходя из следующих 
 ```XML
 <wsdl:definitions .... >
     <wsdl:types>
-        <xsd:schema targetNamespace="http://www.basegroup.ru/LoginomAdapter/Imports">
-            <xsd:import namespace="http://www.basegroup.ru/DeductorIntegrationServer" schemaLocation="/LoginomAdapter/Service.svc?xsd=xsd1"/>
+        <xsd:schema targetNamespace="http://www.basegroup.ru/WebServiceProxy/Imports">
+            <xsd:import namespace="http://www.basegroup.ru/DeductorIntegrationServer" schemaLocation="/WebServiceProxy/Service.svc?xsd=xsd1"/>
         </xsd:schema>
     </wsdl:types>
     <wsdl:message name="DIS_stend-sup-29_Cheques_InputMessage">
@@ -188,7 +187,7 @@ WSDL сервиса формируется исходя из следующих 
 
 ```
 
-В данном примере по ссылке "/LoginomAdapter/Service.svc?xsd=xsd1" конструкцией `<xsd:import … >` импортируется XSD-схема описания сервиса. Структура(tipe) входящего сообщения (запроса) метода `Cheques` сервиса `DIS_stend-sup-29` в узле `<wsdl:message name="DIS_stend-sup-29_Cheques_InputMessage">` задается определяемым в этой схеме элементом `Cheques`. Аналогично, для описания структуры исходящего сообщения (ответа) этого метода используется элемент схемы `ChequesResponse`.
+В данном примере по ссылке `/WebServiceProxy/Service.svc?xsd=xsd1` конструкцией `<xsd:import … >` импортируется XSD-схема описания сервиса. Структура(tipe) входящего сообщения (запроса) метода `Cheques` сервиса `DIS_stend-sup-29` в узле `<wsdl:message name="DIS_stend-sup-29_Cheques_InputMessage">` задается определяемым в этой схеме элементом `Cheques`. Аналогично, для описания структуры исходящего сообщения (ответа) этого метода используется элемент схемы `ChequesResponse`.
 
 Таким образом, XSD-схема описания сервиса должна содержать эти элементы и задавать их структуру(tipe), а из настроек *Адаптера* должно быть понятно, какое именно сообщение описывается определенным элементом импортируемой схемы. Для этого для запроса и ответа каждого метода необходимо задать имя и пространство имен соответствующего элемента схемы. Эти атрибуты однозначно идентифицируют элементы в XSD-схеме, и задаются следующими параметрами:
 
