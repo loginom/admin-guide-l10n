@@ -4,18 +4,32 @@
 
 Перед установкой *Адаптера* необходимо:
 
-1. Включить компоненты:
+1. Убедиться, что следующие компоненты включены:
    * .Net Framework 3.5.
    * .Net Framework 4.5.
    * Microsoft Internet Information Server (IIS).
-1. Дополнительно необходимо включить:
-   * IIS -> Management Tools -> IIS 6 Management Compatibility.
-   * .NET Framework 4.5 -> WCF Services -> HTTP Activation.
+1. Также должны быть включены:
+   * IIS -> Средства управления -> Управление совместимостью с IIS 6.
+   * .NET Framework 3.5 -> Активация по HTTP.
+   * .NET Framework 4.5 -> Службы WCF -> Активация по HTTP.
 1. Создать и настроить [особую учетную запись](./special-user.md).
 1. [Настроить IIS](./iis-config.md).
 1. При необходимости следует установить опциональное программное обеспечение:
    * Криптопровайдер — если использование *Адаптера* подразумевает использование шифрования.
    * Java Runtime Environment — если это необходимо для подключения к конкретному веб-сервису.
+
+Для быстрой установки указанных компонентов можно воспользоваться командами:
+
+```cmd
+dism /online /enable-feature /all /FeatureName:NetFx3
+dism /online /enable-feature /FeatureName:IIS-WebServerRole
+dism /online /enable-feature /FeatureName:IIS-WebServer
+dism /online /enable-feature /FeatureName:IIS-WebServerManagementTools
+dism /online /enable-feature /FeatureName:IIS-ManagementScriptingTools
+dism /online /enable-feature /FeatureName:IIS-IIS6ManagementCompatibility
+dism /online /enable-feature /all /FeatureName:WCF-HTTP-Activation
+dism /online /enable-feature /all /FeatureName:WCF-HTTP-Activation45
+```
 
 ## Установка MSI
 
