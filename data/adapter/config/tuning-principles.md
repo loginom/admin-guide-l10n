@@ -18,15 +18,15 @@
 
 ```XML
 <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
-xmlns:li="http://www.basegroup.ru/LoginomIntegrator">
+xmlns:web="http://schemas.loginom.ru/integration/Cheques">
 <soapenv:Header/>
     <soapenv:Body>
-        <li:Cheques>
+        <web:Cheques>
             <variables>
                 <DateMin>2000-06-06T23:59:00</DateMin>
                 <DateMax>2017-06-06T23:59:00</DateMax>
             </variables>
-        </li:Cheques>
+        </web:Cheques>
     </soapenv:Body>
 </soapenv:Envelope>
 ```
@@ -34,12 +34,12 @@ xmlns:li="http://www.basegroup.ru/LoginomIntegrator">
 Для приведенного примера из SOAP-пакета будет выделен узел «li:Cheques», и дальнейшая трансформация на следующих этапах будет производиться с текстом xml:
 
 ```XML
-<li:Cheques>
+<web:Cheques>
     <variables>
         <DateMin>2000-06-06T23:59:00</DateMin>
         <DateMax>2017-06-06T23:59:00</DateMax>
     </variables>
-</li:Cheques>
+</web:Cheques>
 ```
 
 Первым этапом преобразования XML запроса может быть XSLT трансформация. Настройка выполнения этого этапа производится с помощью параметров конфигуратора *XSLT для трансформации входящего сообщения перед передачей* и *Параметры XSLT*, представленных на рисунке 4.2.
@@ -104,30 +104,32 @@ xmlns:li="http://www.basegroup.ru/LoginomIntegrator">
 
 *Строка запроса (Request Line):*
 ```
-POST https://stend-sup-29/DIS/Service.svc/ServiceClass HTTP/1.1
+POST https://stend-sup-29/lgi/Service.svc/Soap/Cheques HTTP/1.1
 ```
 
 *Заголовки (Message Headers):*
 
 ```
 Content-Type: text/xml; charset=UTF-8
-SOAPAction: "http://www.basegroup.ru/WebServiceProxy/DIS_stend-sup-29/Cheques"
+SOAPAction: "http://schemas.loginom.ru/integration/Cheques"
 Content-Length: 499
 Host: stend-057
+Connection: Keep-Alive
 ```
 
 *Тело сообщения (Entity Body):*
 ```XML
-<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer">
-    <soapenv:Header/>
-        <soapenv:Body>
-            <ded:Cheques>
-                <variables>
-                    <DateMin>2000-06-06T23:59:00</DateMin>
-                    <DateMax>2017-06-06T23:59:00</DateMax>
-                </variables>
-            </ded:Cheques>
-        </soapenv:Body>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+xmlns:web="http://schemas.loginom.ru/integration/Cheques">
+<soapenv:Header/>
+    <soapenv:Body>
+        <web:Cheques>
+            <variables>
+                <DateMin>2000-06-06T23:59:00</DateMin>
+                <DateMax>2017-06-06T23:59:00</DateMax>
+            </variables>
+        </web:Cheques>
+    </soapenv:Body>
 </soapenv:Envelope>
 ```
 
