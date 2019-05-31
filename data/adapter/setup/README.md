@@ -5,29 +5,36 @@
 Перед установкой *Адаптера* необходимо:
 
 1. Убедиться, что следующие компоненты включены:
-   * .Net Framework 3.5.
-   * .Net Framework 4.5.
    * Microsoft Internet Information Server (IIS).
-1. Также должны быть включены:
    * IIS -> Средства управления -> Управление совместимостью с IIS 6.
-   * .NET Framework 3.5 -> Активация по HTTP.
-   * .NET Framework 4.5 -> Службы WCF -> Активация по HTTP.
+   * Для версий до Windows 2012:
+     * .Net Framework 3.5.
+     * .NET Framework 3.5 -> Активация по HTTP.
+   * Для версий Windows 2012 и выше:
+     * .Net Framework 4.5.
+     * .NET Framework 4.5 -> Службы WCF -> Активация по HTTP.
 1. Создать и настроить [особую учетную запись](./special-user.md).
 1. [Настроить IIS](./iis-config.md).
 1. При необходимости следует установить опциональное программное обеспечение:
    * Криптопровайдер — если использование *Адаптера* подразумевает использование шифрования.
    * Java Runtime Environment — если это необходимо для подключения к конкретному веб-сервису.
 
-Также для установки указанных компонентов можно воспользоваться командами:
+Установку указанных в пункте 1 компонентов можно произвести из консоли при помощи команд:
 
 ```cmd
+// для .Net Framework 3.5:
 dism /online /enable-feature /all /FeatureName:NetFx3
+dism /online /enable-feature /all /FeatureName:WCF-HTTP-Activation
+
+// для IIS:
 dism /online /enable-feature /FeatureName:IIS-WebServerRole
 dism /online /enable-feature /FeatureName:IIS-WebServer
 dism /online /enable-feature /FeatureName:IIS-WebServerManagementTools
 dism /online /enable-feature /FeatureName:IIS-ManagementScriptingTools
 dism /online /enable-feature /FeatureName:IIS-IIS6ManagementCompatibility
-dism /online /enable-feature /all /FeatureName:WCF-HTTP-Activation
+
+// для .Net Framework 4.5:
+dism /online /enable-feature /all /FeatureName:NetFx4
 dism /online /enable-feature /all /FeatureName:WCF-HTTP-Activation45
 ```
 
@@ -35,7 +42,7 @@ dism /online /enable-feature /all /FeatureName:WCF-HTTP-Activation45
 
 Имя установочного файла состоит из названия и версии продукта: `LoginomAdapter_6.x.x.msi`, где 6.x.x — цифры, обозначающие версию и релиз программы.
 
-> Примечание: при запуске программы установщика *Адаптера* может появится информационное окно с сообщением: `отсутствуют необходимые права… Войдите в систему под именем администратора…`. В этом случае следует запустить установщик из командной строки (**command prompt**), запущенной от имени администратора (ПКМ по ярлыку командной строки, после чего выбрать **Run as Administrator**).
+Запуск программы установщика следует производить из консоли, запущенной с правами Администратора. Иначе будет выведено окно с сообщением: `отсутствуют необходимые права… Войдите в систему под именем администратора…`.
 
 Если во время подготовки все было настроено верно, появится окно установщика.
 
@@ -47,7 +54,7 @@ dism /online /enable-feature /all /FeatureName:WCF-HTTP-Activation45
 * **Виртуальный каталог** — имя каталога, где будет размещено установленное приложение (по умолчанию, `LoginomAdapter`);
 * **Пул приложений** — выбираем созданный в диспетчере служб IIS пул, например, `LoginomAdapterAppPool`.
 
-По умолчанию путь будет `C:\inetpub\wwwroot\LoginomAdapter\`.
+По умолчанию программа будет установлена в `C:\inetpub\wwwroot\LoginomAdapter\`.
 
 > Примечание: компьютер, на котором работает *Адаптер*, должен иметь сетевой доступ к внешним сервисам.
 
