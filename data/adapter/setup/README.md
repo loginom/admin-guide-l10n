@@ -11,6 +11,7 @@
      * .Net Framework 3.5.
      * .NET Framework 3.5 -> Активация по HTTP.
    * Для версий Windows 2012 и выше:
+     * .Net Framework 3.5 (необходим только для установщика).
      * .Net Framework 4.5.
      * .NET Framework 4.5 -> Службы WCF -> Активация по HTTP.
 1. Создать и настроить [особую учетную запись](./special-user.md).
