@@ -63,7 +63,7 @@ dism /online /enable-feature /all /FeatureName:WCF-HTTP-Activation45
 
 Для работы *Адаптера* требуется настройка [ключей лицензирования](../../licenses/README.md).
 
-При использовании сервера сетевых ключей требуется создать и отредактировать файл [GnClient.ini](https://dev.guardant.ru/pages/viewpage.action?pageId=1277980) в каталоге `"C:\ProgramData\BaseGroup\Loginom 6\Adapter"`.
+При использовании сервера сетевых ключей требуется отредактировать файл [GnClient.ini](https://dev.guardant.ru/pages/viewpage.action?pageId=1277980) в каталоге `"C:\ProgramData\BaseGroup\Loginom 6\Adapter"`, указав в секции `[Server]` в поле `IP_NAME` адрес сервера ключей.
 
 ## Проверка работоспособности
 
