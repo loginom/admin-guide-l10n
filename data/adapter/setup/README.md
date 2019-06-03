@@ -39,6 +39,12 @@ dism /online /enable-feature /all /FeatureName:NetFx4
 dism /online /enable-feature /all /FeatureName:WCF-HTTP-Activation45
 ```
 
+Команду `dism` можно дополнить параметрами для ограничения доступа к серверу обновления Windows Update и указания дистрибутива: `dism … /LimitAccess /Source:Z:\sources\sxs`, где Z — адрес диска с дистрибутивом, например,
+
+```cmd
+dism /online /enable-feature /all /FeatureName:NetFx3 /LimitAccess /Source:D:\sources\sxs
+```
+
 ## Установка MSI
 
 Имя установочного файла состоит из названия и версии продукта: `LoginomAdapter_6.x.x.msi`, где 6.x.x — цифры, обозначающие версию и релиз программы.
