@@ -15,15 +15,13 @@
 2. На рабочем столе в RDP-сессии :
 
 * Открыть ярлык к файлу `ReadMe.txt`, в котором находится информация:
-		Loginom Web Admin Password: - пароль пользователя "admin", являющимся администратором Loginom для веб-интерфейса
-		Password for system user .\loginom: - пароль пользователя ОС windows, от которого запукскаются и работают службы Loginom Server и веб-сервера
+Loginom Web Admin Password: - пароль пользователя "admin", являющимся администратором Loginom для веб-интерфейса
+Password for system user .\loginom: - пароль пользователя ОС windows, от которого запукскаются и работают службы Loginom Server и веб-сервера
 
 	
-* Если не работает, то проверить наличие запущенных служб согласно [инструкции](https://help.loginom.ru/adminguide/server/setup.html#zapusk-sluzhb)
-	Ярлыки `Запуск веб-сервера` и `Запуск сервера Loginom` - запускают необходимые работы Loginom Studio службы.
+* Если не работает, то проверить наличие запущенных служб согласно [инструкции](https://help.loginom.ru/adminguide/server/setup.html#zapusk-sluzhb).
+Ярлыки `Запуск веб-сервера` и `Запуск сервера Loginom` - запускают необходимые работы Loginom Studio службы.
 	
-	
-
 
 ## Продолжение работ
 
