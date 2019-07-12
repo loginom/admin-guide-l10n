@@ -14,9 +14,8 @@
 
 2. Открыть файл `ReadMe.txt` (ярлык находится на рабочем столе). Файл содержит следующую информацию:
 
-* Loginom Web Admin Password: пароль пользователя "admin" – администратора веб-приложения Loginom
-* Password for system user .\loginom: пароль пользователя ОС Windows, от имени которого запускаются и работают службы Loginom Server и веб-сервера
-
+  * Loginom Web Admin Password: пароль пользователя "admin" – администратора веб-приложения Loginom
+  * Password for system user .\loginom: пароль пользователя ОС Windows, от имени которого запускаются и работают службы Loginom Server и веб-сервера
 
 3.  Если не работает, то проверить наличие запущенных служб согласно [инструкции](https://help.loginom.ru/adminguide/server/setup.html#zapusk-sluzhb).
 Ярлыки `Запуск веб-сервера` и `Запуск сервера Loginom` - запускают необходимые работы Loginom Studio службы.
