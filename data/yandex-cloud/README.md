@@ -1,8 +1,8 @@
 # Яндекс.Облако
 
 
-Открыть [Loginom Studio] (./app/)  (предпочитаемый браузер Google Сhrome)
-[Справка](./app/help/) по интерфесу Loginom Studio 
+Открыть [Loginom Studio] (./app/) [<HOST-IP>/app/](./app/), рекомендуемый браузер Google Сhrome.
+[Справка](https://help.loginom.ru/) по интерфесу Loginom Studio также доступна внутри программы по URL [<HOST-IP>/app/help/](./app/help/)
 
 
 ## Начало работы
@@ -11,31 +11,32 @@
 
 1. Зайдите на удаленный рабочий стол системы по протоколу RDP
 
-2. На рабочем столе необходимо запустить:
+2. На рабочем столе RDP-сессии необходимо:
 
-	1. На рабочем столе присутствует ярлык к файлу ReadMe.txt, в котором находится информация:
+2.1. Открыть ярлык к файлу ReadMe.txt, в котором находится информация:
 		Loginom Web Admin Password: - пароль пользователя "admin", являющимся администратором Loginom для веб-интерфейса
 		Password for system user .\loginom: - пароль пользователя ОС windows, от которого запукскаются и работают службы Loginom Server и веб-сервера
 
-
-	3. На рабочем столе присутствует ярлык ведущий к файлу ReadMe.txt, в котором находится информация:
-		Loginom Web-Admin password: - пароль пользователя "admin", являющимся администратором Loginom
-		Password for user .\loginom: - пароль пользователя ОС windows, от которого работают службы loginom и веб сервера
-		
-	4. Ярлык "Задать пароль admin" - ведет к скрипту для задания нового пароля пользователя admin, в случае его утери
-
-	4. Ярлык "Loginom Studio" - открывает веб страницу Loginom, предпочитаемый браузер Google Сhrome
 	
-	5. Если не работает проверить наличие запущенных служб согласно [инструкции] (https://help.loginom.ru/adminguide/server/setup.html#zapusk-sluzhb)
+2.2. Если не работает проверить наличие запущенных служб согласно [инструкции] (https://help.loginom.ru/adminguide/server/setup.html#zapusk-sluzhb)
 	Ярлыки "Запуск веб-сервера" и "Запуск сервера Loginom" - запускают необходимые работы Loginom Studio службы.
 	
 	
-	6. Техподдержка доступна по .....
 	
 
 ## Продолжение работ
 
+На рабочем столе есть дополнительные ярлыки:
 	
-	GuardantActivationWizard - приложение для активации софтварного ключа ПО Loginom, [инструкция](	https://help.loginom.ru/adminguide/licenses/sp-activate.html) по активации в файле "Активация SP-ключей"
+1.	GuardantActivationWizard - приложение для активации софтварного ключа ПО Loginom, [инструкция](	https://help.loginom.ru/adminguide/licenses/sp-activate.html) по активации в файле "Активация SP-ключей"
 	https://help.loginom.ru/adminguide/licenses/sp-activate.html
+
+2.	Ярлык "Задать пароль admin" - ведет к скрипту для задания нового пароля пользователя admin, в случае его утери
+
+3.	Ярлык "Loginom Studio" - открывает веб страницу Loginom, предпочитаемый браузер Google Сhrome
+	
+	
+## Дополнительная помощь
+
+Техподдержка доступна по .....
 	
