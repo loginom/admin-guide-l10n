@@ -16,7 +16,7 @@
 
 * Loginom Web Admin Password: - пароль пользователя "admin", являющимся администратором Loginom для веб-интерфейса
 * Password for system user .\loginom: - пароль пользователя ОС windows, от которого запукскаются и работают службы Loginom Server и веб-сервера
-	
+
 3.  Если не работает, то проверить наличие запущенных служб согласно [инструкции](https://help.loginom.ru/adminguide/server/setup.html#zapusk-sluzhb).
 Ярлыки `Запуск веб-сервера` и `Запуск сервера Loginom` - запускают необходимые работы Loginom Studio службы.
 	
