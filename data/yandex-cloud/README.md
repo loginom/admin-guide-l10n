@@ -17,20 +17,19 @@
   * Loginom Web Admin Password: пароль пользователя "admin" – администратора веб-приложения Loginom
   * Password for system user .\loginom: пароль пользователя ОС Windows, от имени которого запускаются и работают службы Loginom Server и веб-сервера
 
-3.  Если не работает, то проверить наличие запущенных служб согласно [инструкции](https://help.loginom.ru/adminguide/server/setup.html#zapusk-sluzhb).
-Ярлыки `Запуск веб-сервера` и `Запуск сервера Loginom` - запускают необходимые работы Loginom Studio службы.
-	
+3.Если после описанных действий Loginom Studio не удается запустить, необходимо воспользоваться [инструкции](https://help.loginom.ru/adminguide/server/setup.html#zapusk-sluzhb) и проверить наличие запущенных служб.
+Ярлыки `Запуск веб-сервера` и `Запуск сервера Loginom` (на рабочем столе) - запускают службы, необходимые для работы Loginom Studio.	
 
 ## Продолжение работ
 
 На рабочем столе в RDP-сессии есть дополнительные ярлыки:
 	
-1.	Ярлык `GuardantActivationWizard` - приложение для активации софтварного ключа ПО Loginom, [инструкция](	https://help.loginom.ru/adminguide/licenses/sp-activate.html) по активации в файле "Активация SP-ключей"
+1.	Ярлык `GuardantActivationWizard` - приложение для активации программного SP-ключа ПО Loginom, [инструкция](	https://help.loginom.ru/adminguide/licenses/sp-activate.html) по активации в файле "Активация SP-ключей"
 	https://help.loginom.ru/adminguide/licenses/sp-activate.html
 
-2.	Ярлык `Задать пароль admin` - ведет к скрипту для задания нового пароля пользователя admin, в случае его утери
+2.	Ярлык `Задать пароль admin` - запускает скрипт принудительного указания и обновления пароля пользователя `admin`. Может потребоваться при необходимости задать новый пароль, например в случае потери действующего.
 
-3.	Ярлык `Loginom Studio` - открывает веб страницу Loginom, предпочитаемый браузер Google Сhrome
+3.	Ярлык `Loginom Studio` - открывает страницу c веб-приложением Loginom Studio. Рекомендуется использовать для работы браузер Google Сhrome.
 	
 	
 ## Дополнительная помощь
