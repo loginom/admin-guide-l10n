@@ -31,5 +31,6 @@
 * [Лицензионные ключи](./licenses/README.md)
   * [Варианты исполнения ключа](./licenses/case.md)
   * [Активация софтверного ключа](./licenses/sp-activate.md)
+  * [Активация софтверного ключа без интенета](./licenses/sp-key-offline.md)
   * [Обновление USB-ключа](./licenses/usb-upgrade.md)
   * [Диагностика ключей Guardant](./licenses/grddiag.md)
