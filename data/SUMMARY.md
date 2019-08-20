@@ -1,7 +1,6 @@
 # SUMMARY
 
 * [Главная](./README.md)
-  * [Установка Loginom Academic](./install-loginom-academic/loginom-academic.md)
   * [Взаимодействие компонентов](./platform/scheme.md)
 * [Loginom Server](./server/README.md)
   * [Установка](./server/setup.md)
