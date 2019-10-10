@@ -30,6 +30,7 @@
   * [Удаление](./desktop/remove.md)
 * [Лицензионные ключи](./licenses/README.md)
   * [Варианты исполнения ключа](./licenses/case.md)
-  * [Активация софтверного ключа](./licenses/sp-activate.md)
+  * [Активация SP-ключа (online)](./licenses/sp-key-activate.md)
+  * [Активация SP-ключа (offline)](./licenses/sp-key-activate-offline.md)
   * [Обновление USB-ключа](./licenses/usb-upgrade.md)
   * [Диагностика ключей Guardant](./licenses/grddiag.md)
