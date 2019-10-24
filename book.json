@@ -18,11 +18,6 @@
     "theme-loginom-website" : {
       "showLevel": false,
       "resource_type": "Admin guide",
-      "counters_enabled": false,
-      "counters": {
-      "ym": "49236613",
-      "ga": "UA-112733573-3"
-      },
       "embedded_mode": false,
       "links_related":{
         "User guide": {
