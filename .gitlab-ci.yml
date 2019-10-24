@@ -90,6 +90,7 @@ publish_html:
 ## проверка ссылок в HTML версии
 links_check:
   <<: *runner_gitbook
+  <<: *only_branches
   only:
     - branches
   extends: .links_check_html
