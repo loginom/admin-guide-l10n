@@ -1,138 +1,101 @@
-variables:
-  deploy_root: "/var/www/build/adminguide"
+# === Общие шаблоны ===
 
-stages:
-  - build
-  - deploy
-  - test
+include:
+  - project: 'cicd/gitbook'
+    ref: v1.0
+    file: '/config/stages.yml'
+  - project: 'cicd/gitbook'
+    ref: v1.0
+    file: '/config/templates.yml'
 
-.review_template: &review_def
+# === Локальные шаблоны ===
+
+.runner_gitbook: &runner_gitbook
+  tags:
+    - gitbook
+
+.only_branches: &only_branches
   only:
     - branches
-  except:
-    - master
-
-.staging_template: &staging_def
-  only:
-    - master
-
-.release_template: &release_def
+  variables:
+    deploy_dir: $BASE_DEPLOY_DIR/$CI_PROJECT_PATH/$CI_COMMIT_REF_NAME
+  
+.release_template: &release
   only:
     - /^v(?:0|[1-9]\d*)\.(?:0|[1-9]\d*)\.(?:0|[1-9]\d*)(?:$|-)/
   except:
     - branches
 
-.artifacts_template: &artifacts_def
-    name: ${CI_PROJECT_NAME}_${CI_COMMIT_REF_NAME}
-    paths:
-      - local/
+# === Этап pre-build ===
 
-.artifacts_review_template: &artifacts_review_def
-  artifacts:
-    <<: *artifacts_def
-    expire_in: 1 days
+## устанавливаем плагины gitbook
+install_gitbook_plugins:
+  <<: *runner_gitbook
+  extends: .gitbook_plugins_install
 
-.artifacts_staging_template: &artifacts_staging_def
-  artifacts:
-    <<: *artifacts_def
-    expire_in: 2 weeks
+# === Этап build ===
 
-.artifacts_release_template: &artifacts_release_def
-  artifacts:
-    <<: *artifacts_def
-    paths:
-      - local/
-      - public/
+## собираем HTML версию
+build_html:
+  <<: *runner_gitbook
+  extends: .build_html
 
-.build_template: &build_def
-  stage: build
-  script:
-    - &build_script |
-      gitbook install
-      gitbook build ./ local
+## собираем PDF версию
+build_pdf:
+  <<: *runner_gitbook
+  extends: .build_pdf
 
-.clean_template: &clean_def
-  script:
-    - &clean_script |
-      deploy_dir="$deploy_root/$CI_COMMIT_REF_NAME"
-      if [ -d "$deploy_dir/" ]; then rm -rf "$deploy_dir/"; fi
+# === Этап pre-deploy ===
 
-.deploy_template: &deploy_def
-  stage: deploy
+## создаем каталог развертывания документации
+make_docs_deploy_dir:
+  <<: *runner_gitbook
+  <<: *only_branches
+  extends: .make_docs_deploy_dir
+
+# === Этап deploy ===
+
+## развертывание HTML версии
+deploy_html:
+  <<: *runner_gitbook
+  <<: *only_branches
+  dependencies:
+    - build_html
   environment:
-    name: $CI_COMMIT_REF_NAME
-    url: https://docs.bg.local/adminguide/$CI_COMMIT_REF_NAME/
-    on_stop: cleanup
-  variables:
-    GIT_STRATEGY: none
-  <<: *clean_def
-  script:
-    - *clean_script
-    - &deploy_local_script |
-      mkdir $deploy_dir
-      /bin/cp --recursive --link ./local/* $deploy_root/$CI_COMMIT_REF_NAME/
+    on_stop: cleanup_gitbook_env
+  extends: .deploy_html
+  dependencies:
+    - build_html
 
-.testing_template: &testing_def
-  stage: test
-  environment:
-    name: $CI_COMMIT_REF_NAME
-  script:
-    - /usr/bin/linkchecker https://docs.bg.local/adminguide/$CI_COMMIT_REF_NAME/ --no-status
+## развертывание PDF версии
+deploy_docs_pdf:
+  <<: *runner_gitbook
+  <<: *only_branches
+  extends: .deploy_pdf
+  dependencies:
+    - build_pdf
 
-build_review:
-  <<: *review_def
-  <<: *build_def
-  <<: *artifacts_review_def
-
-deploy_review:
-  <<: *review_def
-  <<: *deploy_def
-
-testing_review:
-  <<: *review_def
-  <<: *testing_def
-
-build_staging:
-  <<: *staging_def
-  <<: *build_def
-  <<: *artifacts_staging_def
-
-deploy_staging:
-  <<: *staging_def
-  <<: *deploy_def
-
-testing_staging:
-  <<: *staging_def
-  <<: *testing_def
-
-build_release:
-  <<: *release_def
-  <<: *build_def
-  script: 
-    - *build_script
-    - config=`/usr/bin/jq -n --slurpfile orig ./book.json '$orig[] | .pluginsConfig."theme-loginom-website".counters_enabled = true'`
-    - echo "$config" > ./book.json
-    - gitbook build ./ public
-  <<: *artifacts_release_def
-
-deploy_release:
-  <<: *release_def
-  extends: .deploy_template
+## публикация HTML версии
+publish_html:
+  <<: *runner_gitbook
+  <<: *release
+  dependencies:
+    - build_html
   environment:
     url: https://help.loginom.ru/adminguide
-  script:
-    - *clean_script
-    - *deploy_local_script
-    - ~/bin/deploy-production adminguide ./public
+  extends: .deploy_html_public
 
-testing_release:
-  <<: *release_def
-  <<: *testing_def
+# == Этап testing ===
 
-cleanup:
-  stage: deploy
-  <<: *clean_def
-  when: manual
-  environment:
-    name: $CI_COMMIT_REF_NAME
-    action: stop
+## проверка ссылок в HTML версии
+links_check:
+  <<: *runner_gitbook
+  only:
+    - branches
+  extends: .links_check_html
+
+# === очистка тестовой среды ===
+cleanup_gitbook_env:
+  <<: *runner_gitbook
+  <<: *only_branches
+  extends: .cleanup_gitbook_env
