@@ -6,7 +6,7 @@ Studio – основное рабочее место аналитика и ко
 
 Поддерживаются браузеры:
 
-* [Chrome](https://www.google.ru/chrome/browse) не ниже 39.0
+* [Chrome](https://www.google.ru/chrome/) не ниже 39.0
 * [Firefox](https://www.mozilla.org/en-US/firefox/organizations/) не ниже 52.0
 * [Opera](http://www.opera.com/ru) не ниже 37.0
 * [Safari](https://www.apple.com/ru/safari/) не ниже 10.3

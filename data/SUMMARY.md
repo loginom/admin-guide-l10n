@@ -34,3 +34,4 @@
   * [Активация SP-ключа (offline)](./licenses/sp-key-activate-offline.md)
   * [Обновление USB-ключа](./licenses/usb-upgrade.md)
   * [Диагностика ключей Guardant](./licenses/grddiag.md)
+* [Loginom в Яндекс.Облако](./yandex-cloud/README.md)
