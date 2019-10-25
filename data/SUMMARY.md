@@ -33,4 +33,4 @@
   * [Активация софтверного ключа](./licenses/sp-activate.md)
   * [Обновление USB-ключа](./licenses/usb-upgrade.md)
   * [Диагностика ключей Guardant](./licenses/grddiag.md)
-* [Яндекс.Облако](./yandex-cloud/README.md)
+* [Loginom в Яндекс.Облако](./yandex-cloud/README.md)

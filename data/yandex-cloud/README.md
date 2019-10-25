@@ -1,10 +1,8 @@
-# Яндекс.Облако
-
-
-[Loginom Platform в Яндекс.Облаке](https://cloud.yandex.ru/marketplace/products/f2esjn14f4ekcb53igdt)
-
+# Loginom в Яндекс.Облако
 
 <p><iframe allowfullscreen="" frameborder="0" height="472" src="https://www.youtube.com/embed/rOYXRR-Lzow" width="835"></iframe></p>
+
+[Loginom Platform в Яндекс.Облаке](https://cloud.yandex.ru/marketplace/products/f2esjn14f4ekcb53igdt)
 
 Открыть [Loginom Studio] (./app/) [`<HOST-IP>/app/`](./app/), рекомендуемый браузер Google Сhrome.
 
@@ -35,6 +33,8 @@
 2.	Ярлык `Задать пароль admin` - запускает скрипт принудительного задания и обновления пароля пользователя `admin`. Может потребоваться при необходимости задать новый пароль, например в случае потери действующего.
 
 3.	Ярлык `Loginom Studio` - открывает страницу c веб-приложением Loginom Studio. Рекомендуется использовать для работы браузер Google Сhrome.
+
+> Внимание: Версия Loginom расположенная в образе имеет ограниченный срок действия, и для полноценной продолжительной работы необходимо запросить продление лицензии по адресу help@loginom.ru.
 	
 ## Дополнительная помощь
 
