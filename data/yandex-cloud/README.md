@@ -2,9 +2,9 @@
 
 <p><iframe allowfullscreen="" frameborder="0" height="472" src="https://www.youtube.com/embed/rOYXRR-Lzow" width="835"></iframe></p>
 
-[Loginom Platform в Яндекс.Облаке](https://cloud.yandex.ru/marketplace/products/f2esjn14f4ekcb53igdt)
 
 Доступ к аналитической платформе предоставляется ресурсами сервиса Yandex Compute Cloud. Сервис позволяет использовать виртуальные машины в инфраструктуре Яндекс.Облака для работы с Loginom. В зависимости от сложности вычислений можно определить необходимое число ядер, объём памяти, размер и количество дисков, а также зона доступности виртуальной машины. А при необходимости эти параметры можете изменить без переустановки системы.
+[Loginom Platform в Яндекс.Облаке](https://cloud.yandex.ru/marketplace/products/f2esjn14f4ekcb53igdt)
 
 ## Начало работы
 
