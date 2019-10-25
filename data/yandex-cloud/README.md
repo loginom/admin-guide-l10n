@@ -3,6 +3,9 @@
 
 [Loginom Platform в Яндекс.Облаке](https://cloud.yandex.ru/marketplace/products/f2esjn14f4ekcb53igdt)
 
+
+<p><iframe allowfullscreen="" frameborder="0" height="472" src="https://www.youtube.com/embed/rOYXRR-Lzow" width="835"></iframe></p>
+
 Открыть [Loginom Studio] (./app/) [`<HOST-IP>/app/`](./app/), рекомендуемый браузер Google Сhrome.
 
 [Справка](https://help.loginom.ru/) по интерфесу Loginom Studio также доступна внутри программы по URL [`<HOST-IP>/app/help/`](./app/help/)
@@ -36,5 +39,5 @@
 	
 ## Дополнительная помощь
 
-Техподдержка доступна по адресу  help@loginom.ru.
+Техподдержка по вопросам развертывания, запуска и использования доступна по адресу  help@loginom.ru.
 	
