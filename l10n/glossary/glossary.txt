@@ -1,0 +1,368 @@
+Делитель	Divisor
+Делимое	Dividend
+Задано неверно	Is invalid
+Нормализация отношения	Relation normalization
+Числовое выражение	Numerical expression
+Целое	Integer
+Регулярное выражение	Regular expression
+String	String	последовательность символов.
+Строка	Row	строка - набор данных
+Строка	Line	строчка в тексте (крайне редко)
+Строка регулярного выражения	Regular expression string
+Входная строка	Input string
+Распознанные события	Captured response
+События	Events
+Символ	Character
+Операции удаления, вставки, замены и перестановки символов	Character deletion, insertion, substitution and transposition operations
+Значение временного промежутка	Time span value
+Временной промежуток	Time span
+Тип временного промежутка	Time span unit
+Резервный источник	Backup source
+Соответствуют условию	Filtered
+Не соответствуют условию	Filtered out
+Кэшировать	Cache
+Указано	Specified
+Явно заданное	Explicitly given
+Уровень логирования	Logging level
+Номер вхождения	Occurrence number
+Выходной набор	Output data set
+Число e	e constant
+В заданной степени	In the given degree
+Константы "ПИ"	pi constant
+Логарифм	Logarithm
+Аргумент	Argument
+Подстрока	Substring
+Искомая подстрока	Searched substring
+Аргумент числового типа	Argument of the numeric type
+Накапливающаяся сумма	Cumulative sum
+Постоянная	Constant
+Недопустимый тип данных	Invalid data type
+Пакет	Package
+Не удалось подключиться к серверу	Server connection failed
+Ряд	Series
+Заголовок	Caption
+Метка	Caption
+Вернуть изменения до точки	Rollback to backup point
+Выходной набор	Output data set
+Настройка	Configure, configuring
+Настройки	Settings
+Общая папка	Shared folder
+Запрос	Request
+Запрос	Query
+Синхронизатор	Synchronizer
+Исследование	Exploration
+Подмножество	Subset
+Репрезентативное подмножество	Representative subset
+Обучающее множество	Training set
+Формирование множества	Set selection
+Тестовое множество	Test set
+Запуск обработки	Start processing
+Выполнить узел	Run node
+Узел	Node
+Цикл	Loop
+Выполнение компонента	Component execution
+Пропущенные значения	Null values	Missing values - неправильно
+Свойство	Property
+Ограничения	Constraints
+Истинная доля событий	Prior probability
+Вендор	Vendor
+Настраиваемые поля	Configurable fields
+Совместимый	Compatible
+Несовместимый	Incompatible
+Мастер настройки	Wizard
+Линейная регрессия	Linear regression
+Логистическая регрессия	Logistic regression
+Построение модели	Model training
+Активировать	Activate
+Деактивировать	Deactivate
+Сводная таблица	Pivot table
+Плоская таблица	Flat table
+Запрещено	Forbidden
+Порог разделения кластеров	Cluster splitting significance threshold
+Соединение нескольких наборов	Combine several data sets
+Разгруппируемое	Ungroupable
+Приостановить автовычисление	Defer layout update
+Формирование множеств	Selection of sets
+Модель не построена	Model is not trained
+Верхняя граница	Upper limit
+Нижняя граница	Lower limit
+Задавать границу	Set limit
+Дополнительный вход	Supplementary input
+Вспомогательный источник данных	Supplementary data source
+Вспомогательные данные	Supplementary data
+Доля выборки	Percentile
+Разбиение на множества	Partitioning
+Параметры полей	Field features
+Соединение (переменные)	Variable Union
+Объединение	Union
+Источник данных для выравнивания	Data source for appending
+Факт	Measure	В Кубе факт переводится как measure. В хранилище данных переводится как fact.
+Искать с начала	Find first
+Поиск	Search
+Временный факт	Temporary measure
+Производный элемент	Derived item
+Производный элемент конфигурации	Derived configuration item
+Сценарий	Workflow	Сценарий как визуальное отображение узлов Loginom и связей между ними - workflow
+Сценарий	Script	Сценарий как программный код - script
+Локальная база данных	Local data base
+Индекс качества разгруппировки	Ungrouping quality indicator
+Показатели качества модели	Model quality indicators
+Сезонные индексы	Seasonal indexes
+Фактически	Actually
+Классифицировано	Predicted
+Соответствие	Mapping, map	Mapping - только когда можно от одной сущности построить связь к другой сущности (например, входные и выходные поля)
+Тип указателей	Type of pointers
+Извлечение данных	Extract data
+Хранилище данных	Data warehouse
+Установить компонент	Set component
+Формирование XML	XML Generation
+Область данных	Data source
+XSD-схема на входе	Input XSD schema
+Настройки обработчика	Node settings
+Клонировать выражение	Clone expression
+Разделитель разрядов	Thousands separator
+Импортирование данных	Data importing
+Несколько подряд разделителей	Multiple delimiters
+Исходный столбец	Source column
+Фактор	Factor
+Разделитель столбцов	Column delimiter
+Поиск кластеров	Clustering
+Прогон входных данных	Input data iteration
+Прогон на тестовом множестве	Test data set iteration
+Прогон на валидационном множестве	Validation data set iteration
+Имя листа	Sheet name
+Выполнить запрос	Execute query
+Соответствие между столбцами	Columns mapping
+Настройка соответствия между переменными	Adjustment of variables mapping
+Загружать	Upload, download, load	Есть разница - зависит от направления
+Квантование	Binning
+Количества производных элементов	Derived item count
+Количество	Count
+Неверный тип данных	Invalid data type
+Дополнить таблицу данными	Append data to table
+Не удалось	Failed
+Пакет	Package
+Настройки соответствия	Mapping settings
+Фильтр строк	Row filter
+Визуализатор	Visualizer
+Выполнение программы	Program execution
+Производные компоненты	Derived components
+Родительские узлы	Parent nodes
+При активации	On activation
+При обращении	On cell access
+Дублировать единичные значения	Repeat single values
+Ограничитель строк	Text qualifier
+Режим	Mode
+Назначение	Usage type
+Вычисляемый факт	Calculated measure
+Нигде	No totals
+Скрыта	Hidden
+Наблюдаемый минимум	Sample minimum
+Наблюдаемый максимум	Sample maximum
+Выбрать выделенные	Check selected
+Отменить выбор выделенных	Uncheck selected
+Количество строк данных	Row count
+Гистограмма	Histogram
+Доля	Weight
+Перейти к строке	Go to row
+Режим включенных/исключенных значений	Inclusive/exclusive filter
+Время жизни на время транзакции при неактивности	Idle-in-transaction timeout
+Не удалось получить путь к…	Failed to get path to…
+Ошибка при….	Error while….+ing
+Предпросмотр	Preview
+Тип кавычек	Identifier quotes
+Диапазон	Bin
+Итоги	Show totals
+Снять	Uncheck
+Снять все	Uncheck all
+Зациклить значения при перелистывании	Loop values
+Особый формат	Custom format
+Число десятичных знаков	Decimal place limit
+Измерение	Dimension
+Коэффициент регуляризации	Regularization сoefficient
+Специфичность	Specificity
+Качество бинарной классификации	Binary сlassification assessment
+С учетом регистра	Case-sensitive
+Без учета регистра	Case-insensitive
+Максимальное число точек каждого ряда	Maximum number of points in each series
+Колод кросс-валидации	Cross validation fold
+Колоды	Folds
+Расширение	Extension
+Режим журнала транзакций	Transaction journal mode
+Кодовая страница	Codepage
+Разделитель столбцов	Column delimiter
+Дерево XML	XML tree
+Мс (милисекунда)	ms
+Базовые показатели	Basic rates
+Оценки классификатора	Classifier scores
+Оценки классификации	Classification scores
+Порог отсечения	Cutoff
+Не задано	Unspecified
+Максимум общей точности	Highest overall accuracy
+Коэффициент Джини	Gini index
+Заданные итерации	Given iterations
+По заданным долям	By given quotas
+Вне списка	Not listed
+В списке	Listed
+Количество пропусков	Null count
+Заполнение пропусков	Imputation
+Принудительное включение	Enter
+Пошаговое включение	Forward
+Пошаговое включение/исключение	Stepwise
+Разрыв связи с сервером	Server connection lost
+Неисправен	Malfunctioned
+Узел заблокирован	Node is locked
+Измерения с установленным фильтром	Dimensions with enabled filter
+Отметить по маске	Check by pattern
+Диаграмма	Chart
+Размер в строках	Absolute (rows)
+Размер в процентах	Relative (%)
+Исходные узлы	Source nodes
+Узлы-ссылки	Reference nodes
+Точность положительного прогноза	Positive predictive value
+Настраиваемый, заданный	Configurable
+Статистика критерия Колмогорова-Смирнова	Kolmogorov-Smirnov statistics
+OPR (Усредненная точность прогноза)	OPR (Overall Precision Rate)
+Разбор схемы	Schema parsing
+Путь (иногда адрес)	Path
+Доверенные корневые центры сертификации	Trusted root certification authorities
+Пространство имен	Namespace
+Непрерывные значения	Continuous values
+Точка равновесия	Break even point
+Диаграмма равновесия	Break even chart
+Настройка соответствия между переменными	Adjustment of variables mapping
+Формирование XML	XML formation/generation
+Автоматическое упорядочивание узлов	Auto node alignment
+Среднее (отклонение)	Mean (deviation)
+Несмещенная дисперсия	Unbiased variance
+Метод вызван	Method was called
+Заданная точность	Required (decimal) precision
+Хи-квадрат	Chi-square
+Видимость	Visibility
+Подмодель	Supernode
+Настроить область видимости	Configure the area of visibility
+Значимость	Significance
+Установленный фильтр	Enabled filter
+Увеличить разрядность	Increase decimal
+Уменьшить разрядность	Decrease decimal
+Разрядность	Bitness
+Настройки компонента квантования	Configure binning component
+Вещественный	Real
+Элементы ХД	DWH Items
+Вещественное число	Real number
+Невозможно преобразовать значение	Failed to convert the value
+Закрытый	Private
+Подробнее	Show details
+Кластеризация	Clustering
+Установить связи автоматически	Auto Link
+Тащите на элемент	Drag to item
+Развернуть подмодель	Expand supernode
+Настройка внешнего разбиения	Configure external binning
+Конечные классы	Coarse сlasses
+Завершенные процессы	Completed processes
+Перетащите выражение	Drag expression
+Настроить узел	Configure node
+Настроить порядок выполнения	Customize execution order
+По умолчанию	Default
+Только чтение	Read-only
+Допустимые режимы пакетной обработки	Valid modes of batch processing
+Закрыть пакет принудительно	To close the package forcibly
+Задать вручную	Custom
+Собственный режим активации узла	Specified mode of node activation
+Каталог	Directory
+Черновик	Draft
+Недавние пакеты	Recent packages
+Правильное представление множества	Valid set representation
+(в описаниях функций калькулятора)
+Отображение данных в виде диаграммы	Chart data view
+Константа	Intercept	Intercept только в контексте регрессионных моделей
+Не-событие	Non-event	Терминология статистики
+Отображение данных в виде дерева	Tree data view
+Отображение данных в виде таблицы	Table data view
+Имя класса отображения	View class name
+Тип представления значения	Value view type
+Куб	Cube
+Кросс-таблица	Cross Table
+Свертка столбцов	Unpivoting
+Многомерное отображение	Multidimensional data view	View, так как viewer - один из режимов Loginom
+Кросс-таблица и кросс-диаграмма	Pivot table and pivot chart
+Далее приводится….	The following is …
+Текст ответа Json	Json response body
+Вид данных	Data kind
+Маска версии	Version mask
+Не соответствует фильтру	It does not match the filter
+Неравенство	Inequality
+Входной порт	Input port
+Экстремумы	Extremes
+Сумма разностей	Sum of differences
+Количество разностей	Count of differences
+Внешнее правое соединение	Outer right join
+Данные группируются	Data are grouped
+Статус выполнения итераций	Iteration execution status
+Максимальное количество потоков	Maximum thread count
+Должно быть не меньше	Must be no less than/must not be less than
+Соответствующий регулярному выражению	Matching the regular expression
+Дополнительная статистика	Ancillary statistics
+Средняя абсолютная ошибка	Mean absolute error
+Среднеквадратическая ошибка	Root-mean-square error
+Нейросеть	Neural network
+Средняя относительная ошибка	Mean relative error
+Признак контейнера	Container indicator
+Функциональность IF - THEN - ELSE	IF - THEN - ELSE feature
+Не более чем	Not more than
+Монтируемая директория	Mounted directory
+Абсолютный путь	Absolute path
+Некорректные порядковые номера измерений	Incorrect dimension indexes
+Попытка завершить блок отложенной обработки исключений	Attempting to complete a queued exception handling block
+Строковое представление аргумента	String representation of the argument
+Локаль	Locale
+Временной сдвиг	Time shift
+Линейная зависимость	Linear relationship
+Коэффициент ранговой корреляции	Rank correlation coefficient
+Конец набора данных	Data set limit
+Неверный ответ сервиса	Wrong service response
+В данный момент используются	Are currently in use
+Построение пользовательской модели экспоненциально сглаженного скользящего среднего	Construction of the user model of the exponentially smoothed moving average
+Простое скользящее среднее	Simple moving average
+Предпоследний	Penultimate
+Рекуррентное соотношение	Recurrence equation
+Псевдослучайное равномерно распределенное число	Pseudorandom evenly distributed number
+Расстояние Левенштейна	The Levenshtein distance
+Расстояние Дамерау-Левенштейна	The Damerau–Levenshtein distance
+Искомая подстрока	Searched substring
+Абсолютная погрешность	Absolute error
+Имя файла, подставляемого в качестве ответа	File name supplied as response
+Способ строкового представления GUID	Method of GUID string representation
+Верхний регистр	Upper case
+Шестнадцатеричные цифры	Hexadecimal digits
+Экземпляр класса	Class instance
+Расстановка связей по метке поля и типу данных	Links arranged by field caption and data type
+Агрегация	Aggregation
+Условие фильтрации	Filter relation
+Значение верхней границы	Upper bound value
+Выброс	Outlier
+Экстремальные значения	Extreme values
+Метод обработки выбросов	Outliers elimination method
+Редактирование выбросов	Eliminate outliers
+Среднее разностей	Mean difference
+Отбрасывание дробной части	Truncation of fractional part
+Режим округления	Round towards zero
+Вложенные ресиверы	Nested receivers
+Кросс-валидация	Cross validation
+Произошёл разрыв связи с сервером	Server connection lost
+Неизвестный тип описателя соединения	Unknown coupler type
+Не задано	Unspecified
+Источник истинной доли событий	Prior probability event source
+Индекс выходного набора	Output data set index
+В конце набора	End of set
+В начале набора	Start of set
+Очистка содержимого	Truncate
+Порядковый номер	Order number
+Именованный диапазон	Named range	Используется только в Excel. В остальных случаях нужно думать.
+Плохо обусловленная матрица факторного отображения	Ill-conditioned factor mapping matrix
+Признак контейнера	Container flag
+Порядок	Match index	Имена аргументов в Arguments и в Description
+Выводить	Show	Подразумевается, что поле должно быть включено/присутствовать в результирующей таблице
+Коэффициент Тау-b Кендалла	Kendall's Tau-b coefficient
+Автоматическая синхронизация	Automapping	Не автоматическая настройка
+P-значение	P-value
