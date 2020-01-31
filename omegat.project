@@ -9,7 +9,6 @@
             <mask>**/desktop.ini</mask>
             <mask>**/Thumbs.db</mask>
             <mask>**/.DS_Store</mask>
-            <mask>*.svg</mask>
         </source_dir_excludes>
         <target_dir>data-en</target_dir>
         <tm_dir>l10n/tm</tm_dir>
