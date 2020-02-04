@@ -1,14 +1,14 @@
-# Конфигурация Loginom Adapter
+# Configuration of Loginom Adapter
 
 ## Loginom Adapter Configurator
 
-Настройки Loginom Adapter хранятся в xml-файле [Web.config](https://ru.wikipedia.org/wiki/Web.config), редактирование которого осуществляется программой **Loginom Adapter Configurator** (далее по тексту *Конфигуратор*). При установке по умолчанию *Конфигуратор* находится в папке `C:\inetpub\wwwroot\LoginomAdapter\Configurator\`.
+Loginom Adapter settings are in xml-file [Web.config](https://ru.wikipedia.org/wiki/Web.config) edited by **Loginom Adapter Configurator** (hereafter referred to as the *Configurator*). When installing by default *the Configurator* is in the following folder:  `C:\inetpub\wwwroot\LoginomAdapter\Configurator\`.
 
-При сохранении настроек *Конфигуратор* перезаписывает файл `Web.config`. При этом запросы, полученные *Адаптером* до этого, будут завершены со старыми настройками. Последующие запросы к *Адаптеру* будут выполнены с учетом новых настроек.
+When saving the settings *the Configurator* rewrites the file `Web.config`. The requests previously received by the *Adapter* will be completed with the old settings. Subsequent requests to the *Adapter* will be executed taking into account the new settings.
 
-Интерфейс *Конфигуратора* состоит из двух панелей. На левой панели окна *Конфигуратора* располагается дерево навигации (см. рисунок 3), отображающее структуру настроек, на правой — сами настройки.
+The *Configurator* interface consists of two panels. The navigation tree is on the left window panel of the *Configurator* (refer to  Figure 3). It reflects the settings structure. The settings as such are on the right panel.
 
-![Рисунок 3. Дерево навигации настроек](./images/adapter_navigation_tree.png)
+![Figure 3. Settings navigation tree ](./images/adapter_navigation_tree.png)
 
 Дерево навигации представляет собой двухуровневую иерархическую структуру и включает в себя следующие элементы:
 

@@ -1,4 +1,4 @@
-# Описание параметров настроек
+# Description of configuration parameters
 
 ## Параметры общих настроек
 
