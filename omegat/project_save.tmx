@@ -4,6 +4,110 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Рисунок 3.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200203T075353Z" creationid="Марианна" creationdate="20200203T075353Z">
+        <seg>&lt;x1/&gt;Figure 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Loginom Adapter Configurator</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200203T072328Z" creationid="Марианна" creationdate="20200203T072328Z">
+        <seg>Loginom Adapter Configurator </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Дерево навигации настроек&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200203T075418Z" creationid="Марианна" creationdate="20200203T075418Z">
+        <seg>Settings navigation tree &lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Интерфейс &lt;x1/&gt;Конфигуратора&lt;x2/&gt; состоит из двух панелей.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200203T074026Z" creationid="Марианна" creationdate="20200203T074026Z">
+        <seg>The &lt;x1/&gt;Configurator&lt;x2/&gt; interface consists of two panels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Конфигурация Loginom Adapter</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200203T072253Z" creationid="Марианна" creationdate="20200203T072253Z">
+        <seg>Configuration of Loginom Adapter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>На левой панели окна &lt;x3/&gt;Конфигуратора&lt;x4/&gt; располагается дерево навигации (см.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200203T075310Z" creationid="Марианна" creationdate="20200203T074642Z">
+        <seg>The navigation tree is on the left window panel of the &lt;x3/&gt;Configurator&lt;x4/&gt; (refer to </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Настройки Loginom Adapter хранятся в xml-файле &lt;x1/&gt;Web.config&lt;x2/&gt;, редактирование которого осуществляется программой &lt;x3/&gt;Loginom Adapter Configurator&lt;x4/&gt; (далее по тексту &lt;x5/&gt;Конфигуратор&lt;x6/&gt;).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200203T072657Z" creationid="Марианна" creationdate="20200203T072657Z">
+        <seg>Loginom Adapter settings are in xml-file &lt;x1/&gt;Web.config&lt;x2/&gt; edited by &lt;x3/&gt;Loginom Adapter Configurator&lt;x4/&gt; (hereafter referred to as the &lt;x5/&gt;Configurator&lt;x6/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Описание параметров настроек</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200201T113015Z" creationid="Марианна" creationdate="20200201T112754Z">
+        <seg>Description of configuration parameters </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Последующие запросы к &lt;x7/&gt;Адаптеру&lt;x8/&gt; будут выполнены с учетом новых настроек.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200203T073947Z" creationid="Марианна" creationdate="20200203T073932Z">
+        <seg>Subsequent requests to the &lt;x7/&gt;Adapter&lt;x8/&gt; will be executed taking into account the new settings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>При сохранении настроек &lt;x1/&gt;Конфигуратор&lt;x2/&gt; перезаписывает файл &lt;x3/&gt;Web.config&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200203T073326Z" creationid="Марианна" creationdate="20200203T073326Z">
+        <seg>When saving the settings &lt;x1/&gt;the Configurator&lt;x2/&gt; rewrites the file &lt;x3/&gt;Web.config&lt;x4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>При установке по умолчанию &lt;x7/&gt;Конфигуратор&lt;x8/&gt; находится в папке &lt;x9/&gt;C:\inetpub\wwwroot\LoginomAdapter\Configurator\&lt;x10/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200203T073200Z" creationid="Марианна" creationdate="20200203T072917Z">
+        <seg>When installing by default &lt;x7/&gt;the Configurator&lt;x8/&gt; is in the following folder:  &lt;x9/&gt;C:\inetpub\wwwroot\LoginomAdapter\Configurator\&lt;x10/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>При этом запросы, полученные &lt;x5/&gt;Адаптером&lt;x6/&gt; до этого, будут завершены со старыми настройками.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200203T073751Z" creationid="Марианна" creationdate="20200203T073751Z">
+        <seg>The requests previously received by the &lt;x5/&gt;Adapter&lt;x6/&gt; will be completed with the old settings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>рисунок 3), отображающее структуру настроек, на правой — сами настройки.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200203T075336Z" creationid="Марианна" creationdate="20200203T075256Z">
+        <seg>Figure 3). It reflects the settings structure. The settings as such are on the right panel.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
