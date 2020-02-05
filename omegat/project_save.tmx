@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Корневые элементы, обозначающие внешние сервисы, с которыми осуществляется взаимодействие (в конфигурации, представленной на рисунке 3, присутствуют три таких элемента: &lt;x1/&gt;DEMO&lt;x2/&gt;, &lt;x3/&gt;EquifaxFPS&lt;x4/&gt; , &lt;x5/&gt;NBCH&lt;x6/&gt;).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200205T061021Z" creationid="Марианна" creationdate="20200205T061021Z">
+        <seg>The root elements denoting the external services , с которыми осуществляется взаимодействие (в конфигурации, представленной на рисунке 3, присутствуют три таких элемента: &lt;x1/&gt;DEMO&lt;x2/&gt;, &lt;x3/&gt;EquifaxFPS&lt;x4/&gt; , &lt;x5/&gt;NBCH&lt;x6/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>На левой панели окна &lt;x3/&gt;Конфигуратора&lt;x4/&gt; располагается дерево навигации (см.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200203T075310Z" creationid="Марианна" creationdate="20200203T074642Z">
