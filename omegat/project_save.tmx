@@ -32,8 +32,8 @@
       <tuv lang="RU">
         <seg>Дерево навигации представляет собой двухуровневую иерархическую структуру и включает в себя следующие элементы:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200205T060049Z" creationid="Марианна" creationdate="20200205T060049Z">
-        <seg>ТДерево навигации представляет собой двухуровневую иерархическую структуру и включает в себя следующие элементы:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200205T060225Z" creationid="Марианна" creationdate="20200205T060049Z">
+        <seg>The navigation tree is a two-level hierarchical structure that includes the following elements: </seg>
       </tuv>
     </tu>
     <tu>
@@ -50,6 +50,14 @@
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200205T055051Z" creationid="Марианна" creationdate="20200203T072253Z">
         <seg>Loginom Adapter Configuration </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Корневой элемент &lt;x1/&gt;Настройки&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200205T060409Z" creationid="Марианна" creationdate="20200205T060409Z">
+        <seg>The root element &lt;x1/&gt;Settings&lt;x2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -106,6 +114,22 @@
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200203T073751Z" creationid="Марианна" creationdate="20200203T073751Z">
         <seg>The requests previously received by the &lt;x5/&gt;Adapter&lt;x6/&gt; will be completed with the old settings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Содержит параметры общих настроек &lt;x3/&gt;Адаптера&lt;x4/&gt;, представленных в разделе &lt;x5/&gt;Параметры общих настроек&lt;x6/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200205T060719Z" creationid="Марианна" creationdate="20200205T060719Z">
+        <seg>It contains parameters of the general settings of the &lt;x3/&gt;Adapter&lt;x4/&gt; represented in the following section: &lt;x5/&gt;General Settings Parameters&lt;x6/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Элементы первого (корневого) уровня:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200205T060322Z" creationid="Марианна" creationdate="20200205T060322Z">
+        <seg>The elements of the first (root) level:</seg>
       </tuv>
     </tu>
     <tu>
