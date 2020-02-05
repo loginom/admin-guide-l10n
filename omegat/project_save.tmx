@@ -56,8 +56,8 @@
       <tuv lang="RU">
         <seg>Настройки Loginom Adapter хранятся в xml-файле &lt;x1/&gt;Web.config&lt;x2/&gt;, редактирование которого осуществляется программой &lt;x3/&gt;Loginom Adapter Configurator&lt;x4/&gt; (далее по тексту &lt;x5/&gt;Конфигуратор&lt;x6/&gt;).</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200203T072657Z" creationid="Марианна" creationdate="20200203T072657Z">
-        <seg>Loginom Adapter settings are in xml-file &lt;x1/&gt;Web.config&lt;x2/&gt; edited by &lt;x3/&gt;Loginom Adapter Configurator&lt;x4/&gt; (hereafter referred to as the &lt;x5/&gt;Configurator&lt;x6/&gt;).</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200205T055522Z" creationid="Марианна" creationdate="20200203T072657Z">
+        <seg>Loginom Adapter settings are in &lt;x1/&gt;Web.config&lt;x2/&gt; xml-file edited by &lt;x3/&gt;Loginom Adapter Configurator&lt;x4/&gt; (hereafter referred to as the &lt;x5/&gt;Configurator&lt;x6/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
