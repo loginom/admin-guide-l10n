@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Методы, по которым осуществляется взаимодействие с соответствующими внешними сервисами, представлены подчиненными элементами с наименованиями методов (на рисунке 3 это элементы: &lt;x1/&gt;Value&lt;x2/&gt;, &lt;x3/&gt;processingApplicationRequest&lt;x4/&gt;, &lt;x5/&gt;deleteApplicationRequest&lt;x6/&gt; и другие).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200206T065032Z" creationid="Марианна" creationdate="20200206T065032Z">
+        <seg>Methods of interaction with the relevant external services are represented by subordinate elements with method names (there are the following elements in Figure 3: &lt;x1/&gt;Value&lt;x2/&gt;, &lt;x3/&gt;processingApplicationRequest&lt;x4/&gt;, &lt;x5/&gt;deleteApplicationRequest&lt;x6/&gt;, etc).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>На левой панели окна &lt;x3/&gt;Конфигуратора&lt;x4/&gt; располагается дерево навигации (см.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200203T075310Z" creationid="Марианна" creationdate="20200203T074642Z">
@@ -138,6 +146,14 @@
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200205T060719Z" creationid="Марианна" creationdate="20200205T060719Z">
         <seg>It contains parameters of the general settings of the &lt;x3/&gt;Adapter&lt;x4/&gt; represented in the following section: &lt;x5/&gt;General Settings Parameters&lt;x6/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Элементы второго уровня:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200206T064639Z" creationid="Марианна" creationdate="20200206T064639Z">
+        <seg>The elements of the second level:</seg>
       </tuv>
     </tu>
     <tu>
