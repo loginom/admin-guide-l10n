@@ -22,6 +22,22 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>В файле &lt;x1/&gt;Web.config&lt;x2/&gt; допустимо использование как абсолютных путей на дополнительные файлы (с указанием буквы диска), так и относительных, которые задаются относительно расположения &lt;x3/&gt;Web.config&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200206T081818Z" creationid="Марианна" creationdate="20200206T081818Z">
+        <seg>It is allowed to use both absolute paths to the additional files (stating the drive letter) and the relative paths specified according to the location of &lt;x3/&gt;Web.config&lt;x4/&gt; in &lt;x1/&gt;Web.config&lt;x2/&gt; file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>В файле &lt;x19/&gt;Web.config&lt;x20/&gt; при этом будут содержаться ссылки на эти файлы.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200206T081300Z" creationid="Марианна" creationdate="20200206T081300Z">
+        <seg>&lt;x19/&gt;Web.config&lt;x20/&gt; file will include references to such files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Вместе с &lt;x1/&gt;Адаптером&lt;x2/&gt; могут поставляться настройки подключений (коннекторы) к таким внешним сервисам, как, например, &lt;x3/&gt;EquifaxFPS&lt;x4/&gt;, &lt;x5/&gt;NationalHunter&lt;x6/&gt;, &lt;x7/&gt;Национальное бюро кредитных историй&lt;x8/&gt; (НБКИ), &lt;x9/&gt;Бюро кредитных историй — Объединенное Кредитное Бюро&lt;x10/&gt; (БКИ — ОКБ), &lt;x11/&gt;QiwiScoring&lt;x12/&gt; и другим.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200206T080948Z" creationid="Марианна" creationdate="20200206T080948Z">
