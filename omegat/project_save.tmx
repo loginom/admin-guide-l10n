@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Это позволяет переносить &lt;x7/&gt;Адаптер&lt;x8/&gt; с одного компьютера на другой простым копированием папки с минимальным количеством перенастроек.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200206T082306Z" creationid="Марианна" creationdate="20200206T082306Z">
+        <seg>It enables to transfer &lt;x7/&gt;Adapter&lt;x8/&gt; from one computer to another just copying the folder with the minimum reconfiguration number.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>рисунок 3), отображающее структуру настроек, на правой — сами настройки.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200203T075336Z" creationid="Марианна" creationdate="20200203T075256Z">
