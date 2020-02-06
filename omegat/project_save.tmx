@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Как правило, дополнительные файлы этих настроек размещаются в подкаталогах &lt;x13/&gt;Data&lt;x14/&gt; и &lt;x15/&gt;Certificates&lt;x16/&gt; каталога установки (по умолчанию это &lt;x17/&gt;C:\inetpub\wwwroot\LoginomAdapter\&lt;x18/&gt;).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200206T081156Z" creationid="Марианна" creationdate="20200206T081156Z">
+        <seg>As a rule, the additional files of such settings are placed into the following subdirectories: &lt;x13/&gt;Data&lt;x14/&gt; and &lt;x15/&gt;Certificates&lt;x16/&gt; of the installation directory (by default it is &lt;x17/&gt;C:\inetpub\wwwroot\LoginomAdapter\&lt;x18/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Конфигурация Loginom Adapter</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200205T055051Z" creationid="Марианна" creationdate="20200203T072253Z">
