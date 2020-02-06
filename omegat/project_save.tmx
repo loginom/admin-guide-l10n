@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Подобная структура предполагает, что внешних сервисов, с которыми работает &lt;x1/&gt;Адаптер&lt;x2/&gt;, может быть несколько, и для каждого внешнего сервиса может быть определено несколько методов.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200206T065605Z" creationid="Марианна" creationdate="20200206T065605Z">
+        <seg>Such structure enables &lt;x1/&gt;Adapter&lt;x2/&gt; to work with several external services and several methods can be defined for each external service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Последующие запросы к &lt;x7/&gt;Адаптеру&lt;x8/&gt; будут выполнены с учетом новых настроек.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200203T073947Z" creationid="Марианна" creationdate="20200203T073932Z">
