@@ -2,7 +2,7 @@
 
 ## Loginom Adapter Configurator
 
-Loginom Adapter settings are in [Web.config](https://ru.wikipedia.org/wiki/Web.config) xml-file edited by **Loginom Adapter Configurator** (hereafter referred to as the *Configurator*). When installing by default the *Configurator* is in the following folder:  `C:\inetpub\wwwroot\LoginomAdapter\Configurator\`.
+Loginom Adapter settings are in [Web.config](https://ru.wikipedia.org/wiki/Web.config) xml-file edited by **Loginom Adapter Configurator** (hereafter referred to as the *Configurator*). When installing by default the *Configurator* is in the following folder: `C:\inetpub\wwwroot\LoginomAdapter\Configurator\`.
 
 When saving the settings the *Configurator* rewrites `Web.config` file. The requests previously received by the *Adapter* will be completed with the old settings. Subsequent requests to the *Adapter* will be executed taking into account the new settings.
 
