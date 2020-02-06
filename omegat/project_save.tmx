@@ -176,16 +176,16 @@
       <tuv lang="RU">
         <seg>При сохранении настроек &lt;x1/&gt;Конфигуратор&lt;x2/&gt; перезаписывает файл &lt;x3/&gt;Web.config&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200205T055620Z" creationid="Марианна" creationdate="20200203T073326Z">
-        <seg>When saving the settings &lt;x1/&gt;the Configurator&lt;x2/&gt; rewrites &lt;x3/&gt;Web.config&lt;x4/&gt; file.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200206T082515Z" creationid="Марианна" creationdate="20200203T073326Z">
+        <seg>When saving the settings the &lt;x1/&gt;Configurator&lt;x2/&gt; rewrites &lt;x3/&gt;Web.config&lt;x4/&gt; file.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>При установке по умолчанию &lt;x7/&gt;Конфигуратор&lt;x8/&gt; находится в папке &lt;x9/&gt;C:\inetpub\wwwroot\LoginomAdapter\Configurator\&lt;x10/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200203T073200Z" creationid="Марианна" creationdate="20200203T072917Z">
-        <seg>When installing by default &lt;x7/&gt;the Configurator&lt;x8/&gt; is in the following folder:  &lt;x9/&gt;C:\inetpub\wwwroot\LoginomAdapter\Configurator\&lt;x10/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200206T082442Z" creationid="Марианна" creationdate="20200203T072917Z">
+        <seg>When installing by default the &lt;x7/&gt;Configurator&lt;x8/&gt; is in the following folder:  &lt;x9/&gt;C:\inetpub\wwwroot\LoginomAdapter\Configurator\&lt;x10/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
