@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Вместе с &lt;x1/&gt;Адаптером&lt;x2/&gt; могут поставляться настройки подключений (коннекторы) к таким внешним сервисам, как, например, &lt;x3/&gt;EquifaxFPS&lt;x4/&gt;, &lt;x5/&gt;NationalHunter&lt;x6/&gt;, &lt;x7/&gt;Национальное бюро кредитных историй&lt;x8/&gt; (НБКИ), &lt;x9/&gt;Бюро кредитных историй — Объединенное Кредитное Бюро&lt;x10/&gt; (БКИ — ОКБ), &lt;x11/&gt;QiwiScoring&lt;x12/&gt; и другим.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200206T080948Z" creationid="Марианна" creationdate="20200206T080948Z">
+        <seg>Connection settings (connectors) for such external services as, for example, &lt;x3/&gt;EquifaxFPS&lt;x4/&gt;, &lt;x5/&gt;NationalHunter&lt;x6/&gt;, &lt;x7/&gt;National Bureau of Credit Histories&lt;x8/&gt; (NBCH), &lt;x9/&gt;Bureau of Credit Histories — Associated Credit Bureau&lt;x10/&gt; (BCH— ACB), &lt;x11/&gt;QiwiScoring&lt;x12/&gt;, etc. can be provided with &lt;x1/&gt;Adapter&lt;x2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Дерево навигации настроек&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200205T060104Z" creationid="Марианна" creationdate="20200203T075418Z">
