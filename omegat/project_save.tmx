@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Содержат параметры настроек, представленных в разделе &lt;x7/&gt;Параметры настроек методов взаимодействия с внешними сервисами&lt;x8/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200206T065310Z" creationid="Марианна" creationdate="20200206T065310Z">
+        <seg>They contain parameteres of the settings listed in the following section &lt;x7/&gt;Parameteres of the Settings of Methods of Interaction with the External Services&lt;x8/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Содержат параметры настроек, представленных в разделе &lt;x7/&gt;Параметры настроек подключения к внешним сервисам&lt;x8/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200206T064520Z" creationid="Марианна" creationdate="20200206T064520Z">
