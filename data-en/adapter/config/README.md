@@ -1,31 +1,31 @@
-# Configuration of Loginom Adapter
+# Loginom Adapter Configuration
 
 ## Loginom Adapter Configurator
 
-Loginom Adapter settings are in xml-file [Web.config](https://ru.wikipedia.org/wiki/Web.config) edited by **Loginom Adapter Configurator** (hereafter referred to as the *Configurator*). When installing by default *the Configurator* is in the following folder:  `C:\inetpub\wwwroot\LoginomAdapter\Configurator\`.
+Loginom Adapter settings are in [Web.config](https://ru.wikipedia.org/wiki/Web.config) xml-file edited by **Loginom Adapter Configurator** (hereafter referred to as the *Configurator*). When installing by default the *Configurator* is in the following folder:  `C:\inetpub\wwwroot\LoginomAdapter\Configurator\`.
 
-When saving the settings *the Configurator* rewrites the file `Web.config`. The requests previously received by the *Adapter* will be completed with the old settings. Subsequent requests to the *Adapter* will be executed taking into account the new settings.
+When saving the settings the *Configurator* rewrites `Web.config` file. The requests previously received by the *Adapter* will be completed with the old settings. Subsequent requests to the *Adapter* will be executed taking into account the new settings.
 
 The *Configurator* interface consists of two panels. The navigation tree is on the left window panel of the *Configurator* (refer to  Figure 3). It reflects the settings structure. The settings as such are on the right panel.
 
-![Figure 3. Settings navigation tree ](./images/adapter_navigation_tree.png)
+![Figure 3. Settings Navigation Tree ](./images/adapter_navigation_tree.png)
 
-Дерево навигации представляет собой двухуровневую иерархическую структуру и включает в себя следующие элементы:
+The navigation tree is a two-level hierarchical structure that includes the following elements:
 
-* Элементы первого (корневого) уровня:
-   * Корневой элемент `Настройки`. Содержит параметры общих настроек *Адаптера*, представленных в разделе [Параметры общих настроек](./parameters.md#parametry-obschikh-nastroek).
-   * Корневые элементы, обозначающие внешние сервисы, с которыми осуществляется взаимодействие (в конфигурации, представленной на рисунке 3, присутствуют три таких элемента: `DEMO`, `EquifaxFPS` , `NBCH`). Содержат параметры настроек, представленных в разделе [Параметры настроек подключения к внешним сервисам](./parameters.md#parametry-nastroek-podklyucheniya-k-vneshnim-servisam).
-* Элементы второго уровня:
-   * Методы, по которым осуществляется взаимодействие с соответствующими внешними сервисами, представлены подчиненными элементами с наименованиями методов (на рисунке 3 это элементы: `Value`, `processingApplicationRequest`, `deleteApplicationRequest` и другие). Содержат параметры настроек, представленных в разделе [Параметры настроек методов взаимодействия с внешними сервисами](./parameters.md#parametry-nastroek-metodov-vzaimodeystviya-s-vneshnimi-servisami).
+* The elements of the first (root) level:
+   * The root element `Settings`. contains parameters of the general settings of the *Adapter* represented in the following section: [General Settings Parameters](./parameters.md#parametry-obschikh-nastroek).
+   * The root elements denoting the external services interacted with (the configuration shown in Figure 3 includes three such elements: `DEMO`, `EquifaxFPS` , `NBCH`). contain parameteres of the settings listed in the following section: [Parameters of the Settings of Connection to the External Services](./parameters.md#parametry-nastroek-podklyucheniya-k-vneshnim-servisam).
+* The elements of the second level:
+   * Methods of interaction with the relevant external services are represented by subordinate elements with method names (there are the following elements in Figure 3: `Value`, `processingApplicationRequest`, `deleteApplicationRequest`, etc). contain parameters of the settings listed in the following section [Parameters of the Settings of Methods of Interaction with the External Services](./parameters.md#parametry-nastroek-metodov-vzaimodeystviya-s-vneshnimi-servisami).
 
-Подобная структура предполагает, что внешних сервисов, с которыми работает *Адаптер*, может быть несколько, и для каждого внешнего сервиса может быть определено несколько методов.
+Such structure enables *Adapter* to work with several external services and several methods can be defined for each external service.
 
-## Дополнительные файлы
+## Additional files
 
-Помимо предустановленных в процессе инсталляции папок и файлов, в процессе настройки *Адаптера* в каталоге установки могут быть размещены дополнительные файлы (сертификаты, XSD-схемы и т.п.), необходимые для работы с внешними сервисами.
+Apart from the folders and files pre-installed in the installation process when configuring *Adapter* additional files (certificates, XSD-schemes, etc.) required for the work with the external services can be placed into the installation directory.
 
-Вместе с *Адаптером* могут поставляться настройки подключений (коннекторы) к таким внешним сервисам, как, например, [EquifaxFPS](https://www.equifax.ru), *NationalHunter*, [Национальное бюро кредитных историй](https://www.nbki.ru/) (НБКИ), [Бюро кредитных историй — Объединенное Кредитное Бюро](https://bki-okb.ru) (БКИ — ОКБ), [QiwiScoring](https://corp.qiwi.com/business/banks/scoring.action) и другим. Как правило, дополнительные файлы этих настроек размещаются в подкаталогах *Data* и *Certificates* каталога установки (по умолчанию это `C:\inetpub\wwwroot\LoginomAdapter\`). В файле `Web.config` при этом будут содержаться ссылки на эти файлы.
+Connection settings (connectors) for such external services as, for example, [EquifaxFPS](https://www.equifax.ru), *NationalHunter*, [National Bureau of Credit Histories](https://www.nbki.ru/) (NBCH), [Bureau of Credit Histories — Associated Credit Bureau](https://bki-okb.ru) (BCH— ACB), [QiwiScoring](https://corp.qiwi.com/business/banks/scoring.action), etc. can be provided with *Adapter*. As a rule, the additional files of such settings are placed into the following subdirectories: *Data* and *Certificates* of the installation directory (by default it is `C:\inetpub\wwwroot\LoginomAdapter\`). `Web.config` file will include references to such files.
 
-В файле `Web.config` допустимо использование как абсолютных путей на дополнительные файлы (с указанием буквы диска), так и относительных, которые задаются относительно расположения `Web.config`.
+It is allowed to use both absolute paths to the additional files (stating the drive letter) and the relative paths specified according to the location of `Web.config` in `Web.config` file.
 
-> **Примечание**: рекомендуется помещать дополнительные файлы в папку, в которой установлен *Адаптер*, а в файле конфигурации `Web.config` указывать к ним относительные пути. Это позволяет переносить *Адаптер* с одного компьютера на другой простым копированием папки с минимальным количеством перенастроек.
+> **Note**: it is recommended to place the additional files into the folder in which *Adapter* has been installed and to specify the relative paths to them in `Web.config` configuration file. It enables to transfer *Adapter* from one computer to another just copying the folder with the minimum reconfiguration number.
