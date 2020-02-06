@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Дополнительные файлы</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200206T075207Z" creationid="Марианна" creationdate="20200206T075207Z">
+        <seg>Additional files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Интерфейс &lt;x1/&gt;Конфигуратора&lt;x2/&gt; состоит из двух панелей.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200203T074026Z" creationid="Марианна" creationdate="20200203T074026Z">
