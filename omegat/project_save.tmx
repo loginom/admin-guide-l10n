@@ -184,8 +184,8 @@
       <tuv lang="RU">
         <seg>При установке по умолчанию &lt;x7/&gt;Конфигуратор&lt;x8/&gt; находится в папке &lt;x9/&gt;C:\inetpub\wwwroot\LoginomAdapter\Configurator\&lt;x10/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200206T082442Z" creationid="Марианна" creationdate="20200203T072917Z">
-        <seg>When installing by default the &lt;x7/&gt;Configurator&lt;x8/&gt; is in the following folder:  &lt;x9/&gt;C:\inetpub\wwwroot\LoginomAdapter\Configurator\&lt;x10/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200206T083954Z" creationid="Марианна" creationdate="20200203T072917Z">
+        <seg>When installing by default the &lt;x7/&gt;Configurator&lt;x8/&gt; is in the following folder: &lt;x9/&gt;C:\inetpub\wwwroot\LoginomAdapter\Configurator\&lt;x10/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
