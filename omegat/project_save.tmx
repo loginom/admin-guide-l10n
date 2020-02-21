@@ -72,8 +72,8 @@
       <tuv lang="RU">
         <seg>Выбрать путь можно нажатием на кнопку .</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200221T074250Z" creationid="Марианна" creationdate="20200221T074250Z">
-        <seg>It is possible to specify a path by clicking the button.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200221T074318Z" creationid="Марианна" creationdate="20200221T074250Z">
+        <seg>It is possible to select a path by clicking the button.</seg>
       </tuv>
     </tu>
     <tu>
@@ -234,6 +234,14 @@
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200203T073947Z" creationid="Марианна" creationdate="20200203T073932Z">
         <seg>Subsequent requests to the &lt;x7/&gt;Adapter&lt;x8/&gt; will be executed taking into account the new settings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>При выборе данного параметра нужно учитывать, что пользователь должен иметь право на чтение и запись в папку для лог-файлов.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200221T074603Z" creationid="Марианна" creationdate="20200221T074603Z">
+        <seg>When selecting this parameter it is required to take into account that the user must be entitled to read and write to the folder for log files. </seg>
       </tuv>
     </tu>
     <tu>
