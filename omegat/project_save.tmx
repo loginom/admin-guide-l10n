@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Для отображения общих настроек &lt;x1/&gt;Адаптера&lt;x2/&gt; необходимо выделить элемент &lt;x3/&gt;Настройки&lt;x4/&gt; в дереве навигации (см.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200221T072320Z" creationid="Марианна" creationdate="20200221T072105Z">
+        <seg>To display the &lt;x1/&gt;Adapter&lt;x2/&gt; general settings it is required to select the &lt;x3/&gt;Settings&lt;x4/&gt; item in the navigation tree (refer to.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Дополнительные файлы</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200206T075207Z" creationid="Марианна" creationdate="20200206T075207Z">
@@ -152,8 +160,8 @@
       <tuv lang="RU">
         <seg>Параметры общих настроек</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200221T071943Z" creationid="Марианна" creationdate="20200221T071943Z">
-        <seg>Parameters of general settings </seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200221T071959Z" creationid="Марианна" creationdate="20200221T071943Z">
+        <seg>Parameters of the general settings </seg>
       </tuv>
     </tu>
     <tu>
