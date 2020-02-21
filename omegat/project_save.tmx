@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Рисунок 4.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200221T072349Z" creationid="Марианна" creationdate="20200221T072349Z">
+        <seg>&lt;x1/&gt;Figure 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Loginom Adapter Configurator</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200203T072328Z" creationid="Марианна" creationdate="20200203T072328Z">
@@ -150,6 +158,22 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Общие настройки представлены следующими параметрами:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200221T072434Z" creationid="Марианна" creationdate="20200221T072434Z">
+        <seg>The general settings are represented by the following parameters:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Общие настройки&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200221T072407Z" creationid="Марианна" creationdate="20200221T072407Z">
+        <seg>The general settings&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Описание параметров настроек</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200221T071745Z" creationid="Марианна" creationdate="20200201T112754Z">
@@ -266,6 +290,14 @@
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200203T075336Z" creationid="Марианна" creationdate="20200203T075256Z">
         <seg>Figure 3). It reflects the settings structure. The settings as such are on the right panel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>рисунок 4).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200221T072333Z" creationid="Марианна" creationdate="20200221T072333Z">
+        <seg>Figure 4).</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
