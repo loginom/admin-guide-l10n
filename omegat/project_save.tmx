@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Логировать ответ&lt;x2/&gt; — флаг, указывающий, что в лог необходимо сохранять xml ответы &lt;x3/&gt;Адаптера&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200221T075505Z" creationid="Марианна" creationdate="20200221T075505Z">
+        <seg>&lt;x1/&gt;Log response&lt;x2/&gt; — the flag that shows that it is required to save the &lt;x3/&gt;Adapter&lt;x4/&gt; xml responses in the log.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Папка для логов&lt;x2/&gt; — путь к папке для лог-файлов &lt;x3/&gt;Адаптера&lt;x4/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200221T073610Z" creationid="Марианна" creationdate="20200221T073610Z">
