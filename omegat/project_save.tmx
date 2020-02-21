@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Выбрать путь можно нажатием на кнопку .</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200221T074250Z" creationid="Марианна" creationdate="20200221T074250Z">
+        <seg>It is possible to specify a path by clicking the button.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Дерево навигации настроек&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200205T060104Z" creationid="Марианна" creationdate="20200203T075418Z">
