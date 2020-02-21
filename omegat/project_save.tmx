@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Если параметр не задан, то логи не сохраняются.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200221T073732Z" creationid="Марианна" creationdate="20200221T073732Z">
+        <seg>If a parameter is not set, the logs are not saved.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Интерфейс &lt;x1/&gt;Конфигуратора&lt;x2/&gt; состоит из двух панелей.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200203T074026Z" creationid="Марианна" creationdate="20200203T074026Z">
