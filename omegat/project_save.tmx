@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Таймаут&lt;x2/&gt; — максимально допустимое время в секундах между запросом и ответом об окончании обработки запроса.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T125833Z" creationid="Марианна" creationdate="20200225T125833Z">
+        <seg>&lt;x1/&gt;Timeout&lt;x2/&gt; — maximum allowed time expressed in seconds between a request and response on completion of the request processing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Loginom Adapter Configurator</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200203T072328Z" creationid="Марианна" creationdate="20200203T072328Z">
@@ -286,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Необязательный параметр.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T125538Z" creationid="Марианна" creationdate="20200225T125538Z">
+        <seg>The optional parameter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Общие настройки представлены следующими параметрами:</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200221T072434Z" creationid="Марианна" creationdate="20200221T072434Z">
@@ -304,8 +320,8 @@
       <tuv lang="RU">
         <seg>Обязательный параметр.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200225T125351Z" creationid="Марианна" creationdate="20200225T125351Z">
-        <seg>A required parameter.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T125544Z" creationid="Марианна" creationdate="20200225T125351Z">
+        <seg>The required parameter.</seg>
       </tuv>
     </tu>
     <tu>
