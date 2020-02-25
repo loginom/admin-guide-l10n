@@ -104,8 +104,8 @@
       <tuv lang="RU">
         <seg>Данному параметру можно задать значения &lt;x5/&gt;true&lt;x6/&gt; или &lt;x7/&gt;false&lt;x8/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200221T075238Z" creationid="Марианна" creationdate="20200221T075238Z">
-        <seg>It is possible to set &lt;x5/&gt;true&lt;x6/&gt; or &lt;x7/&gt;false&lt;x8/&gt; values for this parameter.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T123329Z" creationid="Марианна" creationdate="20200221T075238Z">
+        <seg>It is possible to set the &lt;x5/&gt;true&lt;x6/&gt; or &lt;x7/&gt;false&lt;x8/&gt; values for this parameter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -338,6 +338,14 @@
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200205T060322Z" creationid="Марианна" creationdate="20200205T060322Z">
         <seg>The elements of the first (root) level:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Эта информация выводится при запросе WSDL сервиса.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T123310Z" creationid="Марианна" creationdate="20200225T123310Z">
+        <seg>This information is shown while requesting WSDL service.</seg>
       </tuv>
     </tu>
     <tu>
