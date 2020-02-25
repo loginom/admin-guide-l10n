@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Пароль к сертификату&lt;x2/&gt; — для операций с некоторыми сертификатами требуется пароль.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T131559Z" creationid="Марианна" creationdate="20200225T131559Z">
+        <seg>&lt;x1/&gt;The certificate password&lt;x2/&gt; — a password is required for operations with some certificates.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: при указании пути к сертификату допустимо использование как абсолютных путей (с указанием буквы диска), так и относительных.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200225T131312Z" creationid="Марианна" creationdate="20200225T131312Z">
