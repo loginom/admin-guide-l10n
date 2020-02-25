@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Описание веб-сервиса&lt;x2/&gt; — произвольное описание веб-сервиса.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T125514Z" creationid="Марианна" creationdate="20200225T125514Z">
+        <seg>&lt;x1/&gt;The Web service description&lt;x2/&gt; — an arbitrary description of the Web service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Папка для логов&lt;x2/&gt; — путь к папке для лог-файлов &lt;x3/&gt;Адаптера&lt;x4/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200221T073610Z" creationid="Марианна" creationdate="20200221T073610Z">
@@ -290,6 +298,14 @@
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200221T072407Z" creationid="Марианна" creationdate="20200221T072407Z">
         <seg>The general settings&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Обязательный параметр.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T125351Z" creationid="Марианна" creationdate="20200225T125351Z">
+        <seg>A required parameter.</seg>
       </tuv>
     </tu>
     <tu>
