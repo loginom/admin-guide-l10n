@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>В связи с этим значение параметра подчиняется правилам именования элементов XML в соответствии со &lt;x5/&gt;спецификацией W3C&lt;x6/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T125303Z" creationid="Марианна" creationdate="20200225T125303Z">
+        <seg>In this regard, the parameter value is subject to the rules of naming of XML elements in accordance with &lt;x5/&gt;W3C specification&lt;x6/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>В файле &lt;x1/&gt;Web.config&lt;x2/&gt; допустимо использование как абсолютных путей на дополнительные файлы (с указанием буквы диска), так и относительных, которые задаются относительно расположения &lt;x3/&gt;Web.config&lt;x4/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200206T081818Z" creationid="Марианна" creationdate="20200206T081818Z">
