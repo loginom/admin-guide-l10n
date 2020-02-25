@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Хранилище сертификата&lt;x2/&gt; — может принимать одно из трех значений: &lt;x3/&gt;none&lt;x4/&gt;, &lt;x5/&gt;currentUser&lt;x6/&gt;, &lt;x7/&gt;localMachine&lt;x8/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T131717Z" creationid="Марианна" creationdate="20200225T131717Z">
+        <seg>&lt;x1/&gt;The certificate store&lt;x2/&gt; — one of three values can be taken: &lt;x3/&gt;none&lt;x4/&gt;, &lt;x5/&gt;currentUser&lt;x6/&gt;, &lt;x7/&gt;localMachine&lt;x8/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Loginom Adapter Configurator</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200203T072328Z" creationid="Марианна" creationdate="20200203T072328Z">
@@ -234,6 +242,14 @@
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200206T075207Z" creationid="Марианна" creationdate="20200206T075207Z">
         <seg>Additional files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Если клиентский сертификат имеет закрытый ключ, то он помещается в одно из хранилищ сертификатов — в хранилище локальной машины (&lt;x9/&gt;localMachine&lt;x10/&gt;) или хранилище текущего пользователя (&lt;x11/&gt;currentUser&lt;x12/&gt;).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T132516Z" creationid="Марианна" creationdate="20200225T132516Z">
+        <seg>If the client certificate has a private key, it is placed into one of the certificate stores - in the local machine store (&lt;x9/&gt;localMachine&lt;x10/&gt;) or the current user store (&lt;x11/&gt;currentUser&lt;x12/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
