@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Рисунок 5.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T124142Z" creationid="Марианна" creationdate="20200225T124142Z">
+        <seg>&lt;x1/&gt;Figure 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Loginom Adapter Configurator</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200203T072328Z" creationid="Марианна" creationdate="20200203T072328Z">
@@ -234,6 +242,14 @@
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200205T055522Z" creationid="Марианна" creationdate="20200203T072657Z">
         <seg>Loginom Adapter settings are in &lt;x1/&gt;Web.config&lt;x2/&gt; xml-file edited by &lt;x3/&gt;Loginom Adapter Configurator&lt;x4/&gt; (hereafter referred to as the &lt;x5/&gt;Configurator&lt;x6/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Настройки подключения к одному из внешних сервисов&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T124213Z" creationid="Марианна" creationdate="20200225T124213Z">
+        <seg>Settings of connection to one of the external services&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -418,6 +434,14 @@
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200221T072333Z" creationid="Марианна" creationdate="20200221T072333Z">
         <seg>Figure 4).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>рисунок 5).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T124135Z" creationid="Марианна" creationdate="20200225T124135Z">
+        <seg>Figure 5).</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
