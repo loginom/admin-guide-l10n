@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>В последнем случае путь задается относительно папки, в которой расположен файл &lt;x3/&gt;Web.config&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T131514Z" creationid="Марианна" creationdate="20200225T131514Z">
+        <seg>In the latter case the path is specified to the folder in which &lt;x3/&gt;Web.config&lt;x4/&gt; file is located.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>В связи с этим значение параметра подчиняется правилам именования элементов XML в соответствии со &lt;x5/&gt;спецификацией W3C&lt;x6/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200225T125303Z" creationid="Марианна" creationdate="20200225T125303Z">
