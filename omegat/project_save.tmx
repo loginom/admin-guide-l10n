@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Имя веб-сервиса&lt;x2/&gt; — уникальное имя веб-сервиса.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T124427Z" creationid="Марианна" creationdate="20200225T124427Z">
+        <seg>&lt;x1/&gt;The Web service name&lt;x2/&gt; — the unique Web service name.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Логировать запрос&lt;x2/&gt; — флаг, указывающий, что в лог необходимо сохранять xml-запрос к &lt;x3/&gt;Адаптеру&lt;x4/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200221T074943Z" creationid="Марианна" creationdate="20200221T074943Z">
@@ -290,6 +298,14 @@
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200221T071959Z" creationid="Марианна" creationdate="20200221T071943Z">
         <seg>Parameters of the general settings </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Перечень (содержание столбца &lt;x1/&gt;Key&lt;x2/&gt;) параметров одинаков для подключений ко всем сервисам, и включает в себя следующие параметры:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T124345Z" creationid="Марианна" creationdate="20200225T124345Z">
+        <seg>The list of (conent of the &lt;x1/&gt;Key&lt;x2/&gt; column) parameters is the same for connections to all services, and it includes the following parameters:</seg>
       </tuv>
     </tu>
     <tu>
