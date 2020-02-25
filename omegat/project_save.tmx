@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Макс.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T123556Z" creationid="Марианна" creationdate="20200225T123556Z">
+        <seg>&lt;x1/&gt;Max.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Папка для логов&lt;x2/&gt; — путь к папке для лог-файлов &lt;x3/&gt;Адаптера&lt;x4/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200221T073610Z" creationid="Марианна" creationdate="20200221T073610Z">
@@ -358,10 +366,26 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Это позволит получить детальную информацию для решения возможных проблем с настройкой.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T123529Z" creationid="Марианна" creationdate="20200225T123529Z">
+        <seg>It will enable you to get the detailed information to resolve possible configuration problems.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Это позволяет переносить &lt;x7/&gt;Адаптер&lt;x8/&gt; с одного компьютера на другой простым копированием папки с минимальным количеством перенастроек.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200206T082306Z" creationid="Марианна" creationdate="20200206T082306Z">
         <seg>It enables to transfer &lt;x7/&gt;Adapter&lt;x8/&gt; from one computer to another just copying the folder with the minimum reconfiguration number.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>размер входящего сообщения&lt;x2/&gt; — максимально допустимый размер входящего xml-сообщения в байтах (по умолчанию 10 Мб).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T123755Z" creationid="Марианна" creationdate="20200225T123755Z">
+        <seg>size of the incoming message &lt;x2/&gt; — maximum allowed size of the incoming xml message in bytes (by default - 10 MB).</seg>
       </tuv>
     </tu>
     <tu>
