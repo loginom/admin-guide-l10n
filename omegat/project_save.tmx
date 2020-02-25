@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Режим отладки&lt;x2/&gt; — флаг, указывающий, что при ошибках в работе &lt;x3/&gt;Адаптера&lt;x4/&gt; следует выдавать отладочную информацию.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T123115Z" creationid="Марианна" creationdate="20200225T123115Z">
+        <seg>&lt;x1/&gt;Debug mode&lt;x2/&gt; — the flag that shows that it is required to show the debugging information in case of errors during the &lt;x3/&gt;Adapter&lt;x4/&gt; usage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Рисунок 3.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200203T075353Z" creationid="Марианна" creationdate="20200203T075353Z">
