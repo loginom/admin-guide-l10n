@@ -62,10 +62,26 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: при указании пути к сертификату допустимо использование как абсолютных путей (с указанием буквы диска), так и относительных.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T131312Z" creationid="Марианна" creationdate="20200225T131312Z">
+        <seg>&lt;x1/&gt;Note&lt;x2/&gt;: specifying the certificate path it is allowed to use both absolute (including the drive letter) and relative paths.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: рекомендуется помещать дополнительные файлы в папку, в которой установлен &lt;x3/&gt;Адаптер&lt;x4/&gt;, а в файле конфигурации &lt;x5/&gt;Web.config&lt;x6/&gt; указывать к ним относительные пути.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200206T082050Z" creationid="Марианна" creationdate="20200206T082050Z">
         <seg>&lt;x1/&gt;Note&lt;x2/&gt;: it is recommended to place the additional files into the folder in which &lt;x3/&gt;Adapter&lt;x4/&gt; has been installed and to specify the relative paths to them in &lt;x5/&gt;Web.config&lt;x6/&gt; configuration file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Путь к сертификату&lt;x2/&gt; — при использовании шифрования указывается путь к клиентскому сертификату.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T131141Z" creationid="Марианна" creationdate="20200225T131141Z">
+        <seg>&lt;x1/&gt;The certificate path&lt;x2/&gt; — when using encryption, it is required to specify the path to the client certificate.</seg>
       </tuv>
     </tu>
     <tu>
