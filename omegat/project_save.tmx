@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Может принимать значения: &lt;x3/&gt;default&lt;x4/&gt;, &lt;x5/&gt;experianEncoding&lt;x6/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200226T110237Z" creationid="Марианна" creationdate="20200226T110237Z">
+        <seg>It can take the following values: &lt;x3/&gt;default&lt;x4/&gt;, &lt;x5/&gt;experianEncoding&lt;x6/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>На левой панели окна &lt;x3/&gt;Конфигуратора&lt;x4/&gt; располагается дерево навигации (см.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200203T075310Z" creationid="Марианна" creationdate="20200203T074642Z">
