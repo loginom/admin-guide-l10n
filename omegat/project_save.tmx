@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Заголовок входящего сообщения&lt;x2/&gt; — применяется для БКИ «ОКБ».</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200226T110321Z" creationid="Марианна" creationdate="20200226T110321Z">
+        <seg>&lt;x1/&gt;The incoming message header&lt;x2/&gt; — it is used for credit reference bureau "UNITED CREDIT BUREAU".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Имя веб-сервиса&lt;x2/&gt; — уникальное имя веб-сервиса.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200225T124427Z" creationid="Марианна" creationdate="20200225T124427Z">
@@ -202,6 +210,14 @@
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200225T125303Z" creationid="Марианна" creationdate="20200225T125303Z">
         <seg>In this regard, the parameter value is subject to the rules of naming of XML elements in accordance with &lt;x5/&gt;W3C specification&lt;x6/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>В таком заголовке может передаваться дополнительная информация (например, имя пользователя, пароль и т.д.).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200226T110405Z" creationid="Марианна" creationdate="20200226T110405Z">
+        <seg>Such header can include the additional information (e.g., user name, password, etc.).</seg>
       </tuv>
     </tu>
     <tu>
