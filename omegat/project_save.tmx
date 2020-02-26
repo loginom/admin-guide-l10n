@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Формат сообщения&lt;x2/&gt; — может принимать одно из трех значений: &lt;x3/&gt;plainXml&lt;x4/&gt;, &lt;x5/&gt;soap&lt;x6/&gt;, &lt;x7/&gt;soap12&lt;x8/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200226T104749Z" creationid="Марианна" creationdate="20200226T104749Z">
+        <seg>&lt;x1/&gt;Message format&lt;x2/&gt; — can take one of three values: &lt;x3/&gt;plainXml&lt;x4/&gt;, &lt;x5/&gt;soap&lt;x6/&gt;, &lt;x7/&gt;soap12&lt;x8/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Хранилище сертификата&lt;x2/&gt; — может принимать одно из трех значений: &lt;x3/&gt;none&lt;x4/&gt;, &lt;x5/&gt;currentUser&lt;x6/&gt;, &lt;x7/&gt;localMachine&lt;x8/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200225T131717Z" creationid="Марианна" creationdate="20200225T131717Z">
@@ -168,8 +176,8 @@
       <tuv lang="RU">
         <seg>В противном случае &lt;x9/&gt;Адаптер&lt;x10/&gt; не сможет обратиться к клиентскому сертификату, расположенному в хранилище (см.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200226T104231Z" creationid="Марианна" creationdate="20200226T104231Z">
-        <seg>Otherwise, the &lt;x9/&gt;Adapter&lt;x10/&gt; will not be able to refer to the client certificate located in the store (refer to </seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200226T104500Z" creationid="Марианна" creationdate="20200226T104231Z">
+        <seg>Otherwise, the &lt;x9/&gt;Adapter&lt;x10/&gt; will not be able to refer to the client certificate located in the store (also refer to </seg>
       </tuv>
     </tu>
     <tu>
@@ -600,8 +608,8 @@
       <tuv lang="RU">
         <seg>также раздел &lt;x11/&gt;Работа с сертификатами&lt;x12/&gt;).</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200226T104455Z" creationid="Марианна" creationdate="20200226T104455Z">
-        <seg> &lt;x11/&gt;Работа с сертификатами&lt;x12/&gt; section).</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200226T104647Z" creationid="Марианна" creationdate="20200226T104455Z">
+        <seg> &lt;x11/&gt;Certificates operation&lt;x12/&gt; section).</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
