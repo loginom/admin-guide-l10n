@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Передавать адрес в заголовке сообщения SOAP&lt;x2/&gt; — флаг, указывающий на необходимость передачи адреса в заголовке (секции &lt;x3/&gt;Header&lt;x4/&gt;) сообщения SOAP.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200226T105538Z" creationid="Марианна" creationdate="20200226T105538Z">
+        <seg>&lt;x1/&gt;To transfer the address in SOAP message header &lt;x2/&gt; — the flag that shows that it is required to transfer the address in the header (&lt;x3/&gt;Header&lt;x4/&gt; sections) of SOAP message.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: в случае, когда клиентский сертификат находится в хранилище, обязательна процедура экспорта из хранилища в файл &lt;x3/&gt;.CER&lt;x4/&gt; в DER-кодировке &lt;x5/&gt;X.509&lt;x6/&gt; и указания пути к этому файлу в параметре &lt;x7/&gt;Путь к сертификату&lt;x8/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200226T103403Z" creationid="Марианна" creationdate="20200226T103403Z">
