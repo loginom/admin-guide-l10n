@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: в случае, когда клиентский сертификат находится в хранилище, обязательна процедура экспорта из хранилища в файл &lt;x3/&gt;.CER&lt;x4/&gt; в DER-кодировке &lt;x5/&gt;X.509&lt;x6/&gt; и указания пути к этому файлу в параметре &lt;x7/&gt;Путь к сертификату&lt;x8/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200226T103403Z" creationid="Марианна" creationdate="20200226T103403Z">
+        <seg>&lt;x1/&gt;Note&lt;x2/&gt;: when the client certificate is in the store, DER-encoded &lt;x5/&gt;X.509&lt;x6/&gt; export from the store to &lt;x3/&gt;.CER&lt;x4/&gt; file and specification of path to such file in &lt;x7/&gt;Certificate path&lt;x8/&gt; parameter are obligatory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: при указании пути к сертификату допустимо использование как абсолютных путей (с указанием буквы диска), так и относительных.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200225T131312Z" creationid="Марианна" creationdate="20200225T131312Z">
