@@ -596,6 +596,14 @@
         <seg>Figure 5).</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>также раздел &lt;x11/&gt;Работа с сертификатами&lt;x12/&gt;).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200226T104455Z" creationid="Марианна" creationdate="20200226T104455Z">
+        <seg> &lt;x11/&gt;Работа с сертификатами&lt;x12/&gt; section).</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
