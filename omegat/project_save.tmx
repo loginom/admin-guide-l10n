@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Кодировка сообщений&lt;x2/&gt; — указывается кодировка сообщений, применяемая внешним сервисом.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200226T110522Z" creationid="Марианна" creationdate="20200226T110456Z">
+        <seg>&lt;x1/&gt;Message encoding&lt;x2/&gt; — the message encoding applied by the external service is specified.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Логировать запрос&lt;x2/&gt; — флаг, указывающий, что в лог необходимо сохранять xml-запрос к &lt;x3/&gt;Адаптеру&lt;x4/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200221T074943Z" creationid="Марианна" creationdate="20200221T074943Z">
@@ -414,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Может принимать значения: &lt;x3/&gt;utf-8&lt;x4/&gt;, &lt;x5/&gt;windows-1251&lt;x6/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200226T110544Z" creationid="Марианна" creationdate="20200226T110514Z">
+        <seg>It can take the following values: &lt;x3/&gt;utf-8&lt;x4/&gt;, &lt;x5/&gt;windows-1251&lt;x6/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>На левой панели окна &lt;x3/&gt;Конфигуратора&lt;x4/&gt; располагается дерево навигации (см.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200203T075310Z" creationid="Марианна" creationdate="20200203T074642Z">
@@ -506,6 +522,14 @@
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200225T124345Z" creationid="Марианна" creationdate="20200225T124345Z">
         <seg>The list of (conent of the &lt;x1/&gt;Key&lt;x2/&gt; column) parameters is the same for connections to all services, and it includes the following parameters:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>По умолчанию используется &lt;x7/&gt;utf-8&lt;x8/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200226T110604Z" creationid="Марианна" creationdate="20200226T110604Z">
+        <seg> &lt;x7/&gt;utf-8&lt;x8/&gt; is used by default.</seg>
       </tuv>
     </tu>
     <tu>
