@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Значение &lt;x9/&gt;plainXml&lt;x10/&gt; параметра задает режим работы с внешним сервисом как с REST-сервисом.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200226T105059Z" creationid="Марианна" creationdate="20200226T105059Z">
+        <seg>The value of &lt;x9/&gt;plainXml&lt;x10/&gt; parameter enables to assign the mode of the external service operation as REST service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Значение зависит от веб-сервиса, к которому осуществляется подключение.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200226T104813Z" creationid="Марианна" creationdate="20200226T104813Z">
@@ -306,6 +314,14 @@
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200225T124741Z" creationid="Марианна" creationdate="20200225T124548Z">
         <seg>The parameter value is used as a part of names (name) of elements and attributes in WSDL description of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Значения &lt;x11/&gt;soap&lt;x12/&gt;, &lt;x13/&gt;soap12&lt;x14/&gt; параметра задают режим работы с внешним сервисом как с SOAP-сервисом в спецификациях 1.1 и 1.2 соответственно.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200226T105319Z" creationid="Марианна" creationdate="20200226T105319Z">
+        <seg>The values of &lt;x11/&gt;soap&lt;x12/&gt;, &lt;x13/&gt;soap12&lt;x14/&gt; parameter enable to assign the mode of the external service operation as SOAP service in Specifications 1.1 and 1.2 correspondingly.</seg>
       </tuv>
     </tu>
     <tu>
