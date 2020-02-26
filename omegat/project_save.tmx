@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Значение зависит от веб-сервиса, к которому осуществляется подключение.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200226T104813Z" creationid="Марианна" creationdate="20200226T104813Z">
+        <seg>The value depends on the Web service to which you are connecting.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Значение параметра используется в качестве составной части имен (name) элементов и атрибутов WSDL-описания веб-сервиса &lt;x3/&gt;Адаптера&lt;x4/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200225T124741Z" creationid="Марианна" creationdate="20200225T124548Z">
