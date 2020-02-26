@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;targetNamespace в WSDL&lt;x2/&gt; — значение берется из одноименного атрибута WSDL-описания внешнего сервиса.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200226T110728Z" creationid="Марианна" creationdate="20200226T110728Z">
+        <seg>&lt;x1/&gt;targetNamespace в WSDL&lt;x2/&gt; — the value is taken from the similarly-named attribute of WSDL description of the external service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Заголовок входящего сообщения&lt;x2/&gt; — применяется для БКИ «ОКБ».</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200226T110321Z" creationid="Марианна" creationdate="20200226T110321Z">
@@ -586,6 +594,14 @@
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200203T073751Z" creationid="Марианна" creationdate="20200203T073751Z">
         <seg>The requests previously received by the &lt;x5/&gt;Adapter&lt;x6/&gt; will be completed with the old settings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Применяется только для SOAP-сервисов.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200226T110744Z" creationid="Марианна" creationdate="20200226T110744Z">
+        <seg>It is used only for SOAP services.</seg>
       </tuv>
     </tu>
     <tu>
