@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>В противном случае &lt;x9/&gt;Адаптер&lt;x10/&gt; не сможет обратиться к клиентскому сертификату, расположенному в хранилище (см.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200226T104231Z" creationid="Марианна" creationdate="20200226T104231Z">
+        <seg>Otherwise, the &lt;x9/&gt;Adapter&lt;x10/&gt; will not be able to refer to the client certificate located in the store (refer to </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>В связи с этим значение параметра подчиняется правилам именования элементов XML в соответствии со &lt;x5/&gt;спецификацией W3C&lt;x6/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200225T125303Z" creationid="Марианна" creationdate="20200225T125303Z">
