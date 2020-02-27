@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Имя метода в Loginom Adapter&lt;x2/&gt; — используется для формирования имен элементов в WSDL-описании веб-сервиса в случае совпадения значений параметра &lt;x3/&gt;Имя метода&lt;x4/&gt; для различных методов конфигурации &lt;x5/&gt;Адаптера&lt;x6/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200227T161941Z" creationid="Марианна" creationdate="20200227T161941Z">
+        <seg>&lt;x1/&gt;Method name in Loginom Adapter&lt;x2/&gt; — it is used to give the element names in WSDL description of the Web service in case of coincidence of values of &lt;x3/&gt;Method name&lt;x4/&gt; parameter for different configuration methods of the &lt;x5/&gt;Adapter&lt;x6/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Имя метода&lt;x2/&gt; — в случае если параметр &lt;x3/&gt;Имя метода в Loginom Adapter&lt;x4/&gt; не задан, значение параметра используется в качестве составной части имен(name) элементов и атрибутов WSDL-описания веб-сервиса &lt;x5/&gt;Адаптера&lt;x6/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200227T161440Z" creationid="Марианна" creationdate="20200227T161440Z">
