@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>XSD-схема может содержать ссылки на связанные XSD-схемы.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200227T155820Z" creationid="Марианна" creationdate="20200227T155820Z">
+        <seg>XSD schema can contain references to the associated XSD schemas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>В последнем случае путь задается относительно папки, в которой расположен файл &lt;x3/&gt;Web.config&lt;x4/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200225T131514Z" creationid="Марианна" creationdate="20200225T131514Z">
@@ -642,6 +650,14 @@
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200206T082759Z" creationid="Марианна" creationdate="20200205T060719Z">
         <seg>contains parameters of the general settings of the &lt;x3/&gt;Adapter&lt;x4/&gt; represented in the following section: &lt;x5/&gt;General Settings Parameters&lt;x6/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Схема описывает структуру XML-сообщений запросов и ответов веб-сервиса &lt;x3/&gt;Адаптера&lt;x4/&gt; и участвует в формировании WSDL-описания сервиса.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200227T155723Z" creationid="Марианна" creationdate="20200227T155723Z">
+        <seg>The schema describes the structure of XML messages of requests and responses of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service and participates in generation of WSDL service description.</seg>
       </tuv>
     </tu>
     <tu>
