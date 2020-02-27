@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Имя метода&lt;x2/&gt; — в случае если параметр &lt;x3/&gt;Имя метода в Loginom Adapter&lt;x4/&gt; не задан, значение параметра используется в качестве составной части имен(name) элементов и атрибутов WSDL-описания веб-сервиса &lt;x5/&gt;Адаптера&lt;x6/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200227T161440Z" creationid="Марианна" creationdate="20200227T161440Z">
+        <seg>&lt;x1/&gt;Method name&lt;x2/&gt; — if &lt;x3/&gt;Method name in Loginom Adapter&lt;x4/&gt; parameter is not specified, the parameter value is used as a part of names (name) of elements and attributes in WSDL description of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Кодировка сообщений&lt;x2/&gt; — указывается кодировка сообщений, применяемая внешним сервисом.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200226T110522Z" creationid="Марианна" creationdate="20200226T110456Z">
@@ -310,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Данные настройки включают в себя следующие параметры:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200227T161045Z" creationid="Марианна" creationdate="20200227T161045Z">
+        <seg>These settings include the following parameters:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Дерево навигации настроек&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200205T060104Z" creationid="Марианна" creationdate="20200203T075418Z">
@@ -506,6 +522,14 @@
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200205T055522Z" creationid="Марианна" creationdate="20200203T072657Z">
         <seg>Loginom Adapter settings are in &lt;x1/&gt;Web.config&lt;x2/&gt; xml-file edited by &lt;x3/&gt;Loginom Adapter Configurator&lt;x4/&gt; (hereafter referred to as the &lt;x5/&gt;Configurator&lt;x6/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Настройки метода взаимодействия с внешним сервисом&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200227T161018Z" creationid="Марианна" creationdate="20200227T161018Z">
+        <seg>Settings of method of interaction with the external service&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
