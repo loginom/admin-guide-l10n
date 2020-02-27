@@ -328,8 +328,8 @@
       <tuv lang="RU">
         <seg>Для отображения настроек методов взаимодействия с внешним сервисом необходимо выделить соответствующий ему элемент в дереве настроек (см.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200227T160641Z" creationid="Марианна" creationdate="20200227T160641Z">
-        <seg>To show the settings of methods of interaction with the external service it is required to select the corresponding item in the settings tree. (refer to </seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200227T160844Z" creationid="Марианна" creationdate="20200227T160641Z">
+        <seg>To display the settings of methods of interaction with the external service, it is required to select the corresponding item in the settings tree. (refer to </seg>
       </tuv>
     </tu>
     <tu>
