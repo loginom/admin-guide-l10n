@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Описание метода&lt;x2/&gt; — произвольное описание метода.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200227T162556Z" creationid="Марианна" creationdate="20200227T162556Z">
+        <seg>&lt;x1/&gt;Method description&lt;x2/&gt; — arbitrary method description.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Особый формат сообщения&lt;x2/&gt; — используется для веб-сервисов с нестандартным форматом сообщений, в частности для БКИ «ОКБ».</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200226T110200Z" creationid="Марианна" creationdate="20200226T110200Z">
