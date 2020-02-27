@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Для отображения настроек методов взаимодействия с внешним сервисом необходимо выделить соответствующий ему элемент в дереве настроек (см.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200227T160641Z" creationid="Марианна" creationdate="20200227T160641Z">
+        <seg>To show the settings of methods of interaction with the external service it is required to select the corresponding item in the settings tree. (refer to </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Для отображения настроек подключения к внешнему сервису необходимо выделить соответствующий ему элемент в дереве навигации (см.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200225T124124Z" creationid="Марианна" creationdate="20200225T124124Z">
@@ -538,6 +546,14 @@
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200221T071745Z" creationid="Марианна" creationdate="20200201T112754Z">
         <seg>Description of the configuration parameters </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Параметры настроек методов взаимодействия с внешними сервисами</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200227T160409Z" creationid="Марианна" creationdate="20200227T160409Z">
+        <seg>Setting parameters of methods of interaction with the external services. </seg>
       </tuv>
     </tu>
     <tu>
