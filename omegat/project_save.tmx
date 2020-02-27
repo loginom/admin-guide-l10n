@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Рисунок 6.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200227T160700Z" creationid="Марианна" creationdate="20200227T160700Z">
+        <seg>&lt;x1/&gt;Figure 6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Схема, на которую будет ссылаться описание сервиса&lt;x2/&gt; — задает путь к XSD-схеме описания сервиса.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200227T155422Z" creationid="Марианна" creationdate="20200227T155422Z">
@@ -770,6 +778,14 @@
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200225T124135Z" creationid="Марианна" creationdate="20200225T124135Z">
         <seg>Figure 5).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>рисунок 6).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200227T160651Z" creationid="Марианна" creationdate="20200227T160651Z">
+        <seg>Figure 6).</seg>
       </tuv>
     </tu>
     <tu>
