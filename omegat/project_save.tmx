@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>В этом случае значение параметра подчиняется правилам именования элементов XML в соответствии со &lt;x7/&gt;спецификацией W3C&lt;x8/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200227T161543Z" creationid="Марианна" creationdate="20200227T161543Z">
+        <seg>In this regard, the parameter value is subject to the rules of naming of XML elements in accordance with &lt;x7/&gt;specification W3C&lt;x8/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Вместе с &lt;x1/&gt;Адаптером&lt;x2/&gt; могут поставляться настройки подключений (коннекторы) к таким внешним сервисам, как, например, &lt;x3/&gt;EquifaxFPS&lt;x4/&gt;, &lt;x5/&gt;NationalHunter&lt;x6/&gt;, &lt;x7/&gt;Национальное бюро кредитных историй&lt;x8/&gt; (НБКИ), &lt;x9/&gt;Бюро кредитных историй — Объединенное Кредитное Бюро&lt;x10/&gt; (БКИ — ОКБ), &lt;x11/&gt;QiwiScoring&lt;x12/&gt; и другим.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200206T080948Z" creationid="Марианна" creationdate="20200206T080948Z">
