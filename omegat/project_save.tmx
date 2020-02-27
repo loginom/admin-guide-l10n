@@ -48,8 +48,8 @@
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Имя метода в Loginom Adapter&lt;x2/&gt; — используется для формирования имен элементов в WSDL-описании веб-сервиса в случае совпадения значений параметра &lt;x3/&gt;Имя метода&lt;x4/&gt; для различных методов конфигурации &lt;x5/&gt;Адаптера&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200227T161941Z" creationid="Марианна" creationdate="20200227T161941Z">
-        <seg>&lt;x1/&gt;Method name in Loginom Adapter&lt;x2/&gt; — it is used to give the element names in WSDL description of the Web service in case of coincidence of values of &lt;x3/&gt;Method name&lt;x4/&gt; parameter for different configuration methods of the &lt;x5/&gt;Adapter&lt;x6/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200227T162139Z" creationid="Марианна" creationdate="20200227T161941Z">
+        <seg>&lt;x1/&gt;Method name in Loginom Adapter&lt;x2/&gt; — it is used to form the element names in WSDL description of the Web service in case of coincidence of values of &lt;x3/&gt;Method name&lt;x4/&gt; parameter for different configuration methods of the &lt;x5/&gt;Adapter&lt;x6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Если оставить данный параметр пустым, то для формирования имен элементов в WSDL используется параметр &lt;x7/&gt;Имя метода&lt;x8/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200227T162229Z" creationid="Марианна" creationdate="20200227T162048Z">
+        <seg>If this parameter is left empty, to form the element names in WSDL &lt;x7/&gt;Method name&lt;x8/&gt; parameter is used.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Если параметр не задан, то логи не сохраняются.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200221T073732Z" creationid="Марианна" creationdate="20200221T073732Z">
@@ -650,6 +658,14 @@
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200206T083101Z" creationid="Марианна" creationdate="20200206T075830Z">
         <seg>Apart from the folders and files pre-installed in the installation process when configuring &lt;x1/&gt;Adapter&lt;x2/&gt; additional files (certificates, XSD-schemes, etc.) required for the work with the external services can be placed into the installation directory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Поскольку параметр используется в качестве составной части имен (name) элементов и атрибутов WSDL-описания, значение параметра подчиняется правилам именования элементов XML в соответствии со &lt;x9/&gt;спецификацией W3C&lt;x10/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200227T162435Z" creationid="Марианна" creationdate="20200227T162435Z">
+        <seg>As the parameter is used as a part of names (name) of elements and attributes of WSDL description, the parameter value is subject to the naming rules of XML elements in accordance with &lt;x9/&gt;W3C specification&lt;x10/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
