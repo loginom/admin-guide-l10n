@@ -1,6 +1,6 @@
 {
   "title": "Loginom Admin Guide",
-  "language" : "ru",
+  "language" : "en",
   "plugins": [
     "-sharing",
     "-fontsettings",
@@ -39,5 +39,5 @@
       "caption": "_CAPTION_"
     }
   },
-  "root": "./data"
+  "root": "./data-en"
 }
