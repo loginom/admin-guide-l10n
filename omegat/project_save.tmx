@@ -64,16 +64,16 @@
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Имя корневого элемента SOAP запроса&lt;x2/&gt;, &lt;x3/&gt;Namespace корневого элемента SOAP запроса&lt;x4/&gt; — значения этих параметров берутся из XSD-схемы описания запроса.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200304T072005Z" creationid="Марианна" creationdate="20200304T071938Z">
-        <seg>&lt;x1/&gt;The root element name of SOAP request&lt;x2/&gt;, &lt;x3/&gt;Namespace of the root element of SOAP request&lt;x4/&gt; — values of these parameters are taken from XSD schema of the resuest description.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200304T072138Z" creationid="Марианна" creationdate="20200304T071938Z">
+        <seg>&lt;x1/&gt;The root element name of SOAP request&lt;x2/&gt;, &lt;x3/&gt;Namespace of the root element of SOAP request&lt;x4/&gt; — values of these parameters are taken from XSD schema of the request description.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Имя корневого элемента SOAP ответа&lt;x2/&gt;, &lt;x3/&gt;Namespace корневого элемента SOAP ответа&lt;x4/&gt; — значения этих параметров берутся из XSD-схемы описания запроса.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200304T071958Z" creationid="Марианна" creationdate="20200304T071958Z">
-        <seg>&lt;x1/&gt;The root element name of SOAP response&lt;x2/&gt;, &lt;x3/&gt;Namespace корневого элемента SOAP ответа&lt;x4/&gt; — значения этих параметров берутся из XSD-схемы описания запроса.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200304T072123Z" creationid="Марианна" creationdate="20200304T071958Z">
+        <seg>&lt;x1/&gt;The root element name of SOAP response&lt;x2/&gt;, &lt;x3/&gt;Namespace of the root element of SOAP response&lt;x4/&gt; — values of these parameters are taken from XSD schema of the request description.</seg>
       </tuv>
     </tu>
     <tu>
@@ -186,6 +186,14 @@
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200225T131312Z" creationid="Марианна" creationdate="20200225T131312Z">
         <seg>&lt;x1/&gt;Note&lt;x2/&gt;: specifying the certificate path it is allowed to use both absolute (including the drive letter) and relative paths.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: путь к XSD-схеме указывается в параметре &lt;x3/&gt;Схема, на которую будет ссылаться описание сервиса&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200304T072255Z" creationid="Марианна" creationdate="20200304T072255Z">
+        <seg>&lt;x1/&gt;Note&lt;x2/&gt;: path to XSD schema is specified in the parameter &lt;x3/&gt;The schema to which the service description will refer to&lt;x4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
