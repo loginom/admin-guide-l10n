@@ -62,6 +62,22 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Имя корневого элемента SOAP запроса&lt;x2/&gt;, &lt;x3/&gt;Namespace корневого элемента SOAP запроса&lt;x4/&gt; — значения этих параметров берутся из XSD-схемы описания запроса.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200304T072005Z" creationid="Марианна" creationdate="20200304T071938Z">
+        <seg>&lt;x1/&gt;The root element name of SOAP request&lt;x2/&gt;, &lt;x3/&gt;Namespace of the root element of SOAP request&lt;x4/&gt; — values of these parameters are taken from XSD schema of the resuest description.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Имя корневого элемента SOAP ответа&lt;x2/&gt;, &lt;x3/&gt;Namespace корневого элемента SOAP ответа&lt;x4/&gt; — значения этих параметров берутся из XSD-схемы описания запроса.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200304T071958Z" creationid="Марианна" creationdate="20200304T071958Z">
+        <seg>&lt;x1/&gt;The root element name of SOAP response&lt;x2/&gt;, &lt;x3/&gt;Namespace корневого элемента SOAP ответа&lt;x4/&gt; — значения этих параметров берутся из XSD-схемы описания запроса.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Имя метода в Loginom Adapter&lt;x2/&gt; — используется для формирования имен элементов в WSDL-описании веб-сервиса в случае совпадения значений параметра &lt;x3/&gt;Имя метода&lt;x4/&gt; для различных методов конфигурации &lt;x5/&gt;Адаптера&lt;x6/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200227T162139Z" creationid="Марианна" creationdate="20200227T161941Z">
