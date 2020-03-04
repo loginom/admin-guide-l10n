@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;SOAPAction для передачи в заголовке&lt;x2/&gt; — значение данного параметра передается в заголовке &lt;x3/&gt;SOAPAction&lt;x4/&gt; HTTP/HTTPS-пакета, передаваемого внешнему сервису.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200304T070336Z" creationid="Марианна" creationdate="20200304T070336Z">
+        <seg>&lt;x1/&gt;SOAPAction for transfer in the header&lt;x2/&gt; — value of this parameter is transferred in the header &lt;x3/&gt;SOAPAction&lt;x4/&gt; HTTP/HTTPS-package transferred to the external service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;URL для отправки запроса&lt;x2/&gt; — адрес веб-сервиса, куда будут отправляться запросы.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200225T130012Z" creationid="Марианна" creationdate="20200225T130012Z">
@@ -610,6 +618,14 @@
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200221T071745Z" creationid="Марианна" creationdate="20200201T112754Z">
         <seg>Description of the configuration parameters </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Определяет вызываемый метод внешнего SOAP-сервиса.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200304T070444Z" creationid="Марианна" creationdate="20200304T070444Z">
+        <seg>It defines the called method of the external SOAP service.</seg>
       </tuv>
     </tu>
     <tu>
