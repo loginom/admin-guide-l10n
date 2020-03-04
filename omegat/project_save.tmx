@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;XML-сообщение подписано сертификатом&lt;x2/&gt; — принимает значения &lt;x3/&gt;true&lt;x4/&gt;, &lt;x5/&gt;false&lt;x6/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200304T070902Z" creationid="Марианна" creationdate="20200304T070902Z">
+        <seg>&lt;x1/&gt;Certificate signed XML message &lt;x2/&gt; — takes the &lt;x3/&gt;true&lt;x4/&gt;, &lt;x5/&gt;false&lt;x6/&gt; values.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;targetNamespace в WSDL&lt;x2/&gt; — значение берется из одноименного атрибута WSDL-описания внешнего сервиса.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200226T110728Z" creationid="Марианна" creationdate="20200226T110728Z">
@@ -634,6 +642,14 @@
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200304T070444Z" creationid="Марианна" creationdate="20200304T070444Z">
         <seg>It defines the called method of the external SOAP service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Параметр указывается в зависимости от требований к настройке соответствующего веб-сервиса.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200304T070801Z" creationid="Марианна" creationdate="20200304T070801Z">
+        <seg>The parameter is specified in accordance with the requirements to the corresponding web service settings.</seg>
       </tuv>
     </tu>
     <tu>
