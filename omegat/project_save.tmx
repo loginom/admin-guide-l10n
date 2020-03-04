@@ -774,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Пустое значение параметра равносильно &lt;x9/&gt;false&lt;x10/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200304T071650Z" creationid="Марианна" creationdate="20200304T071650Z">
+        <seg>The parameter null value is equal to &lt;x9/&gt;false&lt;x10/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Сертификаты без закрытого ключа могут располагаться отдельным файлом по указанному в параметре &lt;x13/&gt;Путь к сертификату&lt;x14/&gt; месте файловой системы.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200225T132849Z" creationid="Марианна" creationdate="20200225T132849Z">
