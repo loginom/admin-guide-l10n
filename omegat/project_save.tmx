@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>При значении &lt;x7/&gt;true&lt;x8/&gt; задействуется алгоритм преобразования ответа БКИ «НБКИ», в котором из XML ответа сервиса удаляется подпись сертификатом.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200304T071454Z" creationid="Марианна" creationdate="20200304T071055Z">
+        <seg>In case of the &lt;x7/&gt;true&lt;x8/&gt; value the algorithm of the response transformation of credit reference bureau "UNITED CREDIT BUREAU" in which the certifcate signature is removed from XML service response is applied.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>При сохранении настроек &lt;x1/&gt;Конфигуратор&lt;x2/&gt; перезаписывает файл &lt;x3/&gt;Web.config&lt;x4/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200206T082515Z" creationid="Марианна" creationdate="20200203T073326Z">
