@@ -66,6 +66,22 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;XSLT для трансформации входящего сообщения перед передачей&lt;x2/&gt; — указывается путь к соответствующим файлам xslt-преобразований.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200309T125319Z" creationid="Марианна" creationdate="20200309T125141Z">
+        <seg>&lt;x1/&gt;XSLT for the incoming message transformation before its transfer&lt;x2/&gt; — the path to corresponding files of xslt transformations is specified.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;XSLT для трансформации ответного сообщения&lt;x2/&gt; — указывается путь к соответствующим файлам xslt-преобразований.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200309T125316Z" creationid="Марианна" creationdate="20200309T125316Z">
+        <seg>&lt;x1/&gt;XSLT for the response message transformation&lt;x2/&gt; — the path to corresponding files of xslt transformations is specified.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;targetNamespace в WSDL&lt;x2/&gt; — значение берется из одноименного атрибута WSDL-описания внешнего сервиса.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200226T110728Z" creationid="Марианна" creationdate="20200226T110728Z">
