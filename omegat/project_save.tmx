@@ -6,6 +6,20 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="RU">
+        <seg>"C:\Program Files\7-Zip\7z" a -tzip "%outputFile%" "%inputFile%"
+
+// шаблоны %inputFile% и %outputFile% при выполнении команды заменяются на значения параметров
+// «Исходное имя файла запроса» и «Результирующее имя файла запроса» соответственно.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200309T124211Z" creationid="Марианна" creationdate="20200309T124211Z">
+        <seg>"C:\Program Files\7-Zip\7z" a -tzip "%outputFile%" "%inputFile%"
+
+// templates %inputFile% and %outputFile% are replaced with the parameters values while the command execution
+// "The request file source name" and "The resulting name of the request file", correspondingly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;ContentType для передачи в заголовке&lt;x2/&gt; — значение данного параметра передается в заголовке &lt;x3/&gt;Content-Type&lt;x4/&gt; пакета сообщения к внешнему сервису.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200227T160055Z" creationid="Марианна" creationdate="20200227T160055Z">
