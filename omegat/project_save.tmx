@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Подробнее о работе параметров см.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200309T123525Z" creationid="Марианна" creationdate="20200309T123509Z">
+        <seg>The detailed information on the parameters application is provided in</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Помимо предустановленных в процессе инсталляции папок и файлов, в процессе настройки &lt;x1/&gt;Адаптера&lt;x2/&gt; в каталоге установки могут быть размещены дополнительные файлы (сертификаты, XSD-схемы и т.п.), необходимые для работы с внешними сервисами.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200206T083101Z" creationid="Марианна" creationdate="20200206T075830Z">
@@ -802,6 +810,14 @@
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200226T110744Z" creationid="Марианна" creationdate="20200226T110744Z">
         <seg>It is used only for SOAP services.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Пример команды:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200309T123739Z" creationid="Марианна" creationdate="20200309T123739Z">
+        <seg>The command example:</seg>
       </tuv>
     </tu>
     <tu>
@@ -898,6 +914,14 @@
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200206T082306Z" creationid="Марианна" creationdate="20200206T082306Z">
         <seg>It enables to transfer &lt;x7/&gt;Adapter&lt;x8/&gt; from one computer to another just copying the folder with the minimum reconfiguration number.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>в разделе &lt;x7/&gt;Настройка роли клиента внешних сервисов&lt;x8/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200309T123720Z" creationid="Марианна" creationdate="20200309T123521Z">
+        <seg>section &lt;x7/&gt;Configuration of the client role of the extarnal services&lt;x8/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
