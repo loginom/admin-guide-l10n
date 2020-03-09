@@ -1,4 +1,4 @@
-# Description of the configuration parameters
+# Description of the Configuration Parameters
 
 ## Parameters of the general settings
 
