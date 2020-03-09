@@ -116,6 +116,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Исходное имя файла ответа&lt;x2/&gt;, &lt;x3/&gt;Результирующее имя файла ответа&lt;x4/&gt;, &lt;x5/&gt;Команда обработки ответа&lt;x6/&gt; — данные параметры используются для задания команды ОС обработки текста ответа сервиса.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200309T124504Z" creationid="Марианна" creationdate="20200309T124504Z">
+        <seg>&lt;x1/&gt;The response file source name&lt;x2/&gt;, &lt;x3/&gt;The resulting name of the response file&lt;x4/&gt;, &lt;x5/&gt;The response processing command&lt;x6/&gt; — these parameters are used to assign the OS command of the service response text processing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Кодировка сообщений&lt;x2/&gt; — указывается кодировка сообщений, применяемая внешним сервисом.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200226T110522Z" creationid="Марианна" creationdate="20200226T110456Z">
