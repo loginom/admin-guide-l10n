@@ -1012,8 +1012,8 @@
       <tuv lang="RU">
         <seg>размер входящего сообщения&lt;x2/&gt; — максимально допустимый размер входящего xml-сообщения в байтах (по умолчанию 10 Мб).</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200225T123755Z" creationid="Марианна" creationdate="20200225T123755Z">
-        <seg>size of the incoming message &lt;x2/&gt; — maximum allowed size of the incoming xml message in bytes (by default - 10 MB).</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200309T142318Z" creationid="Марианна" creationdate="20200225T123755Z">
+        <seg>size of the incoming message &lt;x2/&gt; — maximum allowed size of the incoming XML message in bytes (by default - 10 MB).</seg>
       </tuv>
     </tu>
     <tu>
