@@ -2,17 +2,17 @@
 
 ## Parameters of the General Settings
 
-To display the *Adapter* general settings it is required to select the `Settings` item in the navigation tree (refer to  Figure 4).
+To display the *Adapter* general settings it is required to select the `Settings` item in the navigation tree (refer to tru Figure 4).
 
 ![Figure 4. The general settings](./images/general_settings.png)
 
 The general settings are represented by the following parameters:
 
 * **Folder for logs** — path to the folder for the *Adapter* log files. If a parameter is not set, the logs are not saved. It is possible to select a path by clicking the button. When selecting this parameter it is required to take into account that the user must be entitled to read and write to the folder for log files.
-* **Log request** — the flag that shows that it is required to save xml request to the *Adapter* in the log. It is possible to set the `true` or `false` values for this parameter.
-* **Log response** — the flag that shows that it is required to save the *Adapter* xml responses in the log. It is possible to set the `true` or `false` values for this parameter.
-* **Debug mode** — the flag that shows that it is required to show the debugging information in case of errors during the *Adapter* usage. This information is shown while requesting WSDL service. It is possible to set the `true` or `false` values for this parameter. At the configuration stage it is recommended to enable the debug mode and logging of requests and responses. It will enable you to get the detailed information to resolve possible configuration problems.
-* **Max. size of the incoming message ** — maximum allowed size of the incoming xml message in bytes (by default - 10 MB).
+* **Log request** — the flag that shows that it is required to save XML request to the *Adapter* in the log. It is possible to set `true` or `false` values for this parameter.
+* **Log response** — the flag that shows that it is required to save the *Adapter* XML responses in the log. It is possible to set `true` or `false` values for this parameter.
+* **Debug mode** — the flag that shows that it is required to show the debugging information in case of errors during the *Adapter* usage. This information is shown while requesting WSDL service. It is possible to set `true` or `false` values for this parameter. At the configuration stage it is recommended to enable the debug mode and logging of requests and responses. It will enable you to get the detailed information to resolve possible configuration problems.
+* **Max. size of the incoming message ** — maximum allowed size of the incoming XML message in bytes (by default - 10 MB).
 
 ## Setting parameters of connection to the external services
 
