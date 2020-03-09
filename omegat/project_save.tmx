@@ -60,8 +60,8 @@
       <tuv lang="RU">
         <seg>&lt;x1/&gt;XML-сообщение подписано сертификатом&lt;x2/&gt; — принимает значения &lt;x3/&gt;true&lt;x4/&gt;, &lt;x5/&gt;false&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200304T070902Z" creationid="Марианна" creationdate="20200304T070902Z">
-        <seg>&lt;x1/&gt;Certificate signed XML message &lt;x2/&gt; — takes the &lt;x3/&gt;true&lt;x4/&gt;, &lt;x5/&gt;false&lt;x6/&gt; values.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200309T142920Z" creationid="Марианна" creationdate="20200304T070902Z">
+        <seg>&lt;x1/&gt;Certificate signed XML message &lt;x2/&gt; — takes &lt;x3/&gt;true&lt;x4/&gt;, &lt;x5/&gt;false&lt;x6/&gt; values.</seg>
       </tuv>
     </tu>
     <tu>
