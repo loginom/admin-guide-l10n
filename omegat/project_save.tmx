@@ -564,8 +564,8 @@
       <tuv lang="RU">
         <seg>Значение параметра используется в качестве составной части имен (name) элементов и атрибутов WSDL-описания веб-сервиса &lt;x3/&gt;Адаптера&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200225T124741Z" creationid="Марианна" creationdate="20200225T124548Z">
-        <seg>The parameter value is used as a part of names (name) of elements and attributes in WSDL description of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T134418Z" creationid="Марианна" creationdate="20200225T124548Z">
+        <seg>The parameter value is used as a part of names (name) of items and attributes in WSDL description of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service.</seg>
       </tuv>
     </tu>
     <tu>
