@@ -82,5 +82,5 @@ These settings include the following parameters:
 ```
 
 * **XSLT for the incoming message transformation before its transfer** — the path to corresponding files of xslt transformations is specified.
-* **XSLT for the response message transformation** — the path to corresponding files of xslt transformations is specified.
+* **XSLT for the response message transformation** — the path to corresponding files of XSLT transformations is specified.
 * **Parameters of XSLT transformation** are specified only if xslt transformations accept the input parameters. The detailed information on the application and configuration of this parameter is provided in section [Configuration of the client role of the external services](./tuning-principles.md#nastroyka-roli-klienta-vneshnikh-servisov).
