@@ -660,8 +660,8 @@
       <tuv lang="RU">
         <seg>На этапе настройки рекомендуется включить режим отладки и логирование запросов и ответов.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200225T123451Z" creationid="Марианна" creationdate="20200225T123451Z">
-        <seg>At the configuration stage it is recommended to enable the debug mode and logging of requests and responses.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T113002Z" creationid="Марианна" creationdate="20200225T123451Z">
+        <seg>At the configuration stage, it is recommended to enable the debug mode and logging of requests and responses.</seg>
       </tuv>
     </tu>
     <tu>
