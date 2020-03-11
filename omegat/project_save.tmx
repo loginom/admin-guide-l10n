@@ -572,8 +572,8 @@
       <tuv lang="RU">
         <seg>Значения &lt;x11/&gt;soap&lt;x12/&gt;, &lt;x13/&gt;soap12&lt;x14/&gt; параметра задают режим работы с внешним сервисом как с SOAP-сервисом в спецификациях 1.1 и 1.2 соответственно.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200226T105319Z" creationid="Марианна" creationdate="20200226T105319Z">
-        <seg>The values of &lt;x11/&gt;soap&lt;x12/&gt;, &lt;x13/&gt;soap12&lt;x14/&gt; parameter enable to assign the mode of the external service operation as SOAP service in Specifications 1.1 and 1.2 correspondingly.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T141502Z" creationid="Марианна" creationdate="20200226T105319Z">
+        <seg>The values of &lt;x11/&gt;soap&lt;x12/&gt;, &lt;x13/&gt;soap12&lt;x14/&gt; parameter enable to assign the mode of the external service operation as with SOAP service in Specifications 1.1 and 1.2 correspondingly.</seg>
       </tuv>
     </tu>
     <tu>
