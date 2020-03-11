@@ -460,8 +460,8 @@
       <tuv lang="RU">
         <seg>Данный параметр должен содержать наименование метода из wsdl-описания SOAP-сервиса.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200304T070646Z" creationid="Марианна" creationdate="20200304T070646Z">
-        <seg>This parameter must contain the method name taken from wsdl description of SOAP service.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T143249Z" creationid="Марианна" creationdate="20200304T070646Z">
+        <seg>This parameter must contain the method name taken from WSDL description of SOAP service.</seg>
       </tuv>
     </tu>
     <tu>
