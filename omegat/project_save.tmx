@@ -420,8 +420,8 @@
       <tuv lang="RU">
         <seg>В этом случае значение параметра подчиняется правилам именования элементов XML в соответствии со &lt;x7/&gt;спецификацией W3C&lt;x8/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200227T161543Z" creationid="Марианна" creationdate="20200227T161543Z">
-        <seg>In this regard, the parameter value is subject to the rules of naming of XML elements in accordance with &lt;x7/&gt;specification W3C&lt;x8/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T115327Z" creationid="Марианна" creationdate="20200227T161543Z">
+        <seg>In this regard, the parameter value is subject to the rules of naming of XML elements under &lt;x7/&gt;specification W3C&lt;x8/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
