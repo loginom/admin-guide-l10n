@@ -8,7 +8,7 @@ To display the *Adapter* general settings it is required to select the `Settings
 
 The general settings are represented by the following parameters:
 
-* **Folder for logs** — the path to the folder for the *Adapter* log files. If a parameter is not set, the logs are not saved. It is possible to select a path by clicking the button. When selecting this parameter it is required to take into account that the user must be entitled to read and write to the folder for log files.
+* **Folder for logs** — the path to the folder for the *Adapter* log files. If a parameter is not set, the logs are not saved. It is possible to select a path by clicking the button. When selecting this parameter, it is required to take into account that the user must be entitled to read and write to the folder for log files.
 * **Log request** — the flag that shows that it is required to save XML request to the *Adapter* in the log. It is possible to set `true` or `false` values for this parameter.
 * **Log response** — the flag that shows that it is required to save the *Adapter* XML responses in the log. It is possible to set `true` or `false` values for this parameter.
 * **Debug mode** — the flag that shows that it is required to show the debugging information in case of errors during the *Adapter* usage. This information is shown while requesting WSDL service. It is possible to set `true` or `false` values for this parameter. At the configuration stage, it is recommended to enable the debug mode and logging of requests and responses. It will enable you to get detailed information to resolve possible configuration problems.
