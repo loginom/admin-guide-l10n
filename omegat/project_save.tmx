@@ -900,8 +900,8 @@
       <tuv lang="RU">
         <seg>Работа параметров аналогична команде обработки запросов и описана в разделе &lt;x7/&gt;Настройка роли клиента внешних сервисов&lt;x8/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200309T124746Z" creationid="Марианна" creationdate="20200309T124710Z">
-        <seg>The parameters application is similar to the request processing command and it is described in the section &lt;x7/&gt;Configuration of the client role of the external services&lt;x8/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T144042Z" creationid="Марианна" creationdate="20200309T124710Z">
+        <seg>The parameters application is similar to the request processing command and it is described in the following section: &lt;x7/&gt;Configuration of the client role of the external services&lt;x8/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
