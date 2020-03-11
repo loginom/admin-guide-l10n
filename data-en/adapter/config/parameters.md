@@ -14,7 +14,7 @@ The general settings are represented by the following parameters:
 * **Debug mode** — the flag that shows that it is required to show the debugging information in case of errors during the *Adapter* usage. This information is shown while requesting WSDL service. It is possible to set `true` or `false` values for this parameter. At the configuration stage, it is recommended to enable the debug mode and logging of requests and responses. It will enable you to get detailed information to resolve possible configuration problems.
 * **Max. size of the incoming message ** — the maximum allowed size of the incoming XML message in bytes (by default - 10 MB).
 
-## Setting parameters of connection to the external services
+## Setting Parameters of Connection to the External Services
 
 To display the settings of connection to the external service, it is required to select the corresponding item in the navigation tree (refer to  Figure 5).
 
