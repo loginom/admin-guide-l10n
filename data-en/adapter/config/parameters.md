@@ -61,7 +61,7 @@ These settings include the following parameters:
 * **The root element name of SOAP request**, **Namespace of the root element of SOAP request** — values of these parameters are taken from XSD schema of the request description.
 * **The root element name of SOAP response**, **Namespace of the root element of SOAP response** — values of these parameters are taken from XSD schema of the request description.
 
-> **Note**: path to XSD schema is specified in the parameter *The schema to which the service description will refer to*.
+> **Note**: the path to XSD schema is specified in the parameter *The schema to which the service description will refer to*.
 
 * **The request file source name**, **The resulting name of the request file**, **The request file processing command** — these parameters are used to assign the OS (operational system) command of the preliminary processing of the request text before its sending to the external service.  The detailed information on the application of the parameters is provided in section [Configuration of the client role of the external services](./tuning-principles.md#nastroyka-roli-klienta-vneshnikh-servisov). The command example:
 
