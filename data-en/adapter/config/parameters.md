@@ -24,7 +24,7 @@ The list of (content of the *Key* column) parameters is the same for connections
 
 * **The Web service name** — the unique Web service name. The parameter value is used as a part of names (name) of items and attributes in WSDL description of the *Adapter* Web service. In this regard, the parameter value is subject to the rules of naming of XML elements under [W3C specification](https://www.w3.org/TR/2008/REC-xml-20081126/#NT-Name). The required parameter.
 * **The Web service description** — an arbitrary description of the Web service. The optional parameter.
-* **Timeout** — maximum allowed time expressed in seconds between a request and response on completion of the request processing. The optional parameter.
+* **Timeout** — the maximum allowed time expressed in seconds between a request and response on completion of the request processing. The optional parameter.
 * **URL for the request sending** — the Web service address for requests sending.
 * **The certificate path** — when using encryption, it is required to specify the path to the client certificate.
 
