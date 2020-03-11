@@ -260,8 +260,8 @@
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: путь к XSD-схеме указывается в параметре &lt;x3/&gt;Схема, на которую будет ссылаться описание сервиса&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200311T143611Z" creationid="Марианна" creationdate="20200304T072255Z">
-        <seg>&lt;x1/&gt;Note&lt;x2/&gt;: the path to XSD schema is specified in the parameter &lt;x3/&gt;The schema to which the service description will refer to&lt;x4/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T143716Z" creationid="Марианна" creationdate="20200304T072255Z">
+        <seg>&lt;x1/&gt;Note&lt;x2/&gt;: the path to XSD schema is specified in the following parameter: &lt;x3/&gt;The schema to which the service description will refer to&lt;x4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
