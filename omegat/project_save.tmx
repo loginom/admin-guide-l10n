@@ -796,8 +796,8 @@
       <tuv lang="RU">
         <seg>Подробнее о применении и настройке данного параметра см.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200309T125602Z" creationid="Марианна" creationdate="20200309T125602Z">
-        <seg>The detailed information on application and configuration of this parameter is provided in</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T120020Z" creationid="Марианна" creationdate="20200309T125602Z">
+        <seg>The detailed information on the application and configuration of this parameter is provided in</seg>
       </tuv>
     </tu>
     <tu>
