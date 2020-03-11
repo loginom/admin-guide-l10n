@@ -508,8 +508,8 @@
       <tuv lang="RU">
         <seg>Для таких сертификатов в параметре &lt;x15/&gt;Хранилище сертификатов&lt;x16/&gt; указывается значение &lt;x17/&gt;none&lt;x18/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200226T102609Z" creationid="Марианна" creationdate="20200226T102609Z">
-        <seg>&lt;x17/&gt;none&lt;x18/&gt; value is specified for such certificates in &lt;x15/&gt;Certificate store&lt;x16/&gt; parameter.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T140505Z" creationid="Марианна" creationdate="20200226T102609Z">
+        <seg>&lt;x17/&gt;none&lt;x18/&gt; value is specified for such certificates in the &lt;x15/&gt;Certificate store&lt;x16/&gt; parameter.</seg>
       </tuv>
     </tu>
     <tu>
