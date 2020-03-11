@@ -388,8 +388,8 @@
       <tuv lang="RU">
         <seg>В связи с этим значение параметра подчиняется правилам именования элементов XML в соответствии со &lt;x5/&gt;спецификацией W3C&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200225T125303Z" creationid="Марианна" creationdate="20200225T125303Z">
-        <seg>In this regard, the parameter value is subject to the rules of naming of XML elements in accordance with &lt;x5/&gt;W3C specification&lt;x6/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T113410Z" creationid="Марианна" creationdate="20200225T125303Z">
+        <seg>In this regard, the parameter value is subject to the rules of naming of XML elements under &lt;x5/&gt;W3C specification&lt;x6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
