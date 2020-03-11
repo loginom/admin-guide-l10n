@@ -332,8 +332,8 @@
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Таймаут&lt;x2/&gt; — максимально допустимое время в секундах между запросом и ответом об окончании обработки запроса.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200225T125833Z" creationid="Марианна" creationdate="20200225T125833Z">
-        <seg>&lt;x1/&gt;Timeout&lt;x2/&gt; — maximum allowed time expressed in seconds between a request and response on completion of the request processing.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T140132Z" creationid="Марианна" creationdate="20200225T125833Z">
+        <seg>&lt;x1/&gt;Timeout&lt;x2/&gt; — the maximum allowed time expressed in seconds between a request and response on completion of the request processing.</seg>
       </tuv>
     </tu>
     <tu>
