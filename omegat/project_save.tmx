@@ -92,8 +92,8 @@
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Заголовок входящего сообщения&lt;x2/&gt; — применяется для БКИ «ОКБ».</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200226T110321Z" creationid="Марианна" creationdate="20200226T110321Z">
-        <seg>&lt;x1/&gt;The incoming message header&lt;x2/&gt; — it is used for credit reference bureau "UNITED CREDIT BUREAU".</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T141639Z" creationid="Марианна" creationdate="20200226T110321Z">
+        <seg>&lt;x1/&gt;The incoming message header&lt;x2/&gt; is used for credit reference bureau "UNITED CREDIT BUREAU".</seg>
       </tuv>
     </tu>
     <tu>
@@ -204,8 +204,8 @@
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Особый формат сообщения&lt;x2/&gt; — используется для веб-сервисов с нестандартным форматом сообщений, в частности для БКИ «ОКБ».</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200226T110200Z" creationid="Марианна" creationdate="20200226T110200Z">
-        <seg>&lt;x1/&gt;The special message format&lt;x2/&gt; — it is used for the Web services with nonstandard message format, in particular, for credit reference bureau "UNITED CREDIT BUREAU".</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T141625Z" creationid="Марианна" creationdate="20200226T110200Z">
+        <seg>&lt;x1/&gt;The special message format&lt;x2/&gt; is used for the Web services with nonstandard message format, in particular, for credit reference bureau "UNITED CREDIT BUREAU".</seg>
       </tuv>
     </tu>
     <tu>
