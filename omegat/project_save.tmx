@@ -548,8 +548,8 @@
       <tuv lang="RU">
         <seg>Значение &lt;x9/&gt;plainXml&lt;x10/&gt; параметра задает режим работы с внешним сервисом как с REST-сервисом.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200226T105059Z" creationid="Марианна" creationdate="20200226T105059Z">
-        <seg>The value of &lt;x9/&gt;plainXml&lt;x10/&gt; parameter enables to assign the mode of the external service operation as REST service.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T141336Z" creationid="Марианна" creationdate="20200226T105059Z">
+        <seg>The value of &lt;x9/&gt;plainXml&lt;x10/&gt; parameter enables to assign the mode of the external service operation as with REST service.</seg>
       </tuv>
     </tu>
     <tu>
