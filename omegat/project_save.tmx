@@ -220,8 +220,8 @@
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Параметры XSLT трансформации&lt;x2/&gt; — указываются в случае, если xslt-преобразования принимают входные параметры.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200309T125508Z" creationid="Марианна" creationdate="20200309T125508Z">
-        <seg>&lt;x1/&gt;Parameters of XSLT transformation&lt;x2/&gt; are specified only if xslt transformations accept the input parameters.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T144421Z" creationid="Марианна" creationdate="20200309T125508Z">
+        <seg>&lt;x1/&gt;Parameters of XSLT transformation&lt;x2/&gt; are specified only if XSLT transformations accept the input parameters.</seg>
       </tuv>
     </tu>
     <tu>
