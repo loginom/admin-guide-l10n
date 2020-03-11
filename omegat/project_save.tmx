@@ -980,8 +980,8 @@
       <tuv lang="RU">
         <seg>Это позволит получить детальную информацию для решения возможных проблем с настройкой.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200225T123529Z" creationid="Марианна" creationdate="20200225T123529Z">
-        <seg>It will enable you to get the detailed information to resolve possible configuration problems.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T113102Z" creationid="Марианна" creationdate="20200225T123529Z">
+        <seg>It will enable you to get detailed information to resolve possible configuration problems.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1012,8 +1012,8 @@
       <tuv lang="RU">
         <seg>размер входящего сообщения&lt;x2/&gt; — максимально допустимый размер входящего xml-сообщения в байтах (по умолчанию 10 Мб).</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200309T142318Z" creationid="Марианна" creationdate="20200225T123755Z">
-        <seg>size of the incoming message &lt;x2/&gt; — maximum allowed size of the incoming XML message in bytes (by default - 10 MB).</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T113110Z" creationid="Марианна" creationdate="20200225T123755Z">
+        <seg>size of the incoming message &lt;x2/&gt; — the maximum allowed size of the incoming XML message in bytes (by default - 10 MB).</seg>
       </tuv>
     </tu>
     <tu>
