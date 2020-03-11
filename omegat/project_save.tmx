@@ -68,8 +68,8 @@
       <tuv lang="RU">
         <seg>&lt;x1/&gt;XSLT для трансформации входящего сообщения перед передачей&lt;x2/&gt; — указывается путь к соответствующим файлам xslt-преобразований.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200309T125319Z" creationid="Марианна" creationdate="20200309T125141Z">
-        <seg>&lt;x1/&gt;XSLT for the incoming message transformation before its transfer&lt;x2/&gt; — the path to corresponding files of xslt transformations is specified.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T144403Z" creationid="Марианна" creationdate="20200309T125141Z">
+        <seg>&lt;x1/&gt;XSLT for the incoming message transformation before its transfer&lt;x2/&gt; — the path to corresponding files of XSLT transformations is specified.</seg>
       </tuv>
     </tu>
     <tu>
