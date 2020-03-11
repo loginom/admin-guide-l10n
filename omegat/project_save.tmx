@@ -996,8 +996,8 @@
       <tuv lang="RU">
         <seg>в разделе &lt;x7/&gt;Настройка роли клиента внешних сервисов&lt;x8/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200309T124727Z" creationid="Марианна" creationdate="20200309T123521Z">
-        <seg>section &lt;x7/&gt;Configuration of the client role of the external services&lt;x8/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T143832Z" creationid="Марианна" creationdate="20200309T123521Z">
+        <seg>the following section: &lt;x7/&gt;Configuration of the client role of the external services&lt;x8/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
