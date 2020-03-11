@@ -63,7 +63,7 @@ These settings include the following parameters:
 
 > **Note**: the path to XSD schema is specified in the following parameter: *The schema to which the service description will refer to*.
 
-* **The request file source name**, **The resulting name of the request file**, **The request file processing command** — these parameters are used to assign the OS (operational system) command of the preliminary processing of the request text before its sending to the external service.  The detailed information on the application of the parameters is provided in section [Configuration of the client role of the external services](./tuning-principles.md#nastroyka-roli-klienta-vneshnikh-servisov). The command example:
+* **The request file source name**, **The resulting name of the request file**, **The request file processing command** — these parameters are used to assign the OS (operational system) command of the preliminary processing of the request text before its sending to the external service.  The detailed information on the application of the parameters is provided in the following section: [Configuration of the client role of the external services](./tuning-principles.md#nastroyka-roli-klienta-vneshnikh-servisov). The command example:
 
 ```
 "C:\Program Files\7-Zip\7z" a -tzip "%outputFile%" "%inputFile%"
