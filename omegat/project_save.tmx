@@ -772,8 +772,8 @@
       <tuv lang="RU">
         <seg>Перечень (содержание столбца &lt;x1/&gt;Key&lt;x2/&gt;) параметров одинаков для подключений ко всем сервисам, и включает в себя следующие параметры:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200225T124345Z" creationid="Марианна" creationdate="20200225T124345Z">
-        <seg>The list of (conent of the &lt;x1/&gt;Key&lt;x2/&gt; column) parameters is the same for connections to all services, and it includes the following parameters:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T113219Z" creationid="Марианна" creationdate="20200225T124345Z">
+        <seg>The list of (content of the &lt;x1/&gt;Key&lt;x2/&gt; column) parameters is the same for connections to all services, and it includes the following parameters:</seg>
       </tuv>
     </tu>
     <tu>
