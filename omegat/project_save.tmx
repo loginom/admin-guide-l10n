@@ -836,8 +836,8 @@
       <tuv lang="RU">
         <seg>При выборе данного параметра нужно учитывать, что пользователь должен иметь право на чтение и запись в папку для лог-файлов.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200221T074603Z" creationid="Марианна" creationdate="20200221T074603Z">
-        <seg>When selecting this parameter it is required to take into account that the user must be entitled to read and write to the folder for log files. </seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T140302Z" creationid="Марианна" creationdate="20200221T074603Z">
+        <seg>When selecting this parameter, it is required to take into account that the user must be entitled to read and write to the folder for log files. </seg>
       </tuv>
     </tu>
     <tu>
