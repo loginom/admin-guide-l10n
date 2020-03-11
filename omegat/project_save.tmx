@@ -500,8 +500,8 @@
       <tuv lang="RU">
         <seg>Для отображения общих настроек &lt;x1/&gt;Адаптера&lt;x2/&gt; необходимо выделить элемент &lt;x3/&gt;Настройки&lt;x4/&gt; в дереве навигации (см.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200309T142002Z" creationid="Марианна" creationdate="20200221T072105Z">
-        <seg>To display the &lt;x1/&gt;Adapter&lt;x2/&gt; general settings it is required to select the &lt;x3/&gt;Settings&lt;x4/&gt; item in the navigation tree (refer to tru</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T132800Z" creationid="Марианна" creationdate="20200221T072105Z">
+        <seg>To display the &lt;x1/&gt;Adapter&lt;x2/&gt; general settings it is required to select the &lt;x3/&gt;Settings&lt;x4/&gt; item in the navigation tree (refer to </seg>
       </tuv>
     </tu>
     <tu>
