@@ -212,8 +212,8 @@
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Папка для логов&lt;x2/&gt; — путь к папке для лог-файлов &lt;x3/&gt;Адаптера&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200221T073610Z" creationid="Марианна" creationdate="20200221T073610Z">
-        <seg>&lt;x1/&gt;Folder for logs&lt;x2/&gt; — path to the folder for the &lt;x3/&gt;Adapter&lt;x4/&gt; log files.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T133123Z" creationid="Марианна" creationdate="20200221T073610Z">
+        <seg>&lt;x1/&gt;Folder for logs&lt;x2/&gt; — the path to the folder for the &lt;x3/&gt;Adapter&lt;x4/&gt; log files.</seg>
       </tuv>
     </tu>
     <tu>
