@@ -44,8 +44,8 @@
       <tuv lang="RU">
         <seg>&lt;x1/&gt;SOAPAction для передачи в заголовке&lt;x2/&gt; — значение данного параметра передается в заголовке &lt;x3/&gt;SOAPAction&lt;x4/&gt; HTTP/HTTPS-пакета, передаваемого внешнему сервису.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200311T115432Z" creationid="Марианна" creationdate="20200304T070336Z">
-        <seg>&lt;x1/&gt;SOAPAction for transfer in the header&lt;x2/&gt; — the value of this parameter is transferred in the header &lt;x3/&gt;SOAPAction&lt;x4/&gt; HTTP/HTTPS package transferred to the external service.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T143102Z" creationid="Марианна" creationdate="20200304T070336Z">
+        <seg>&lt;x1/&gt;SOAPAction for transfer in the header&lt;x2/&gt; — the value of this parameter is transferred in the &lt;x3/&gt;SOAPAction&lt;x4/&gt; header of HTTP/HTTPS package transferred to the external service.</seg>
       </tuv>
     </tu>
     <tu>
