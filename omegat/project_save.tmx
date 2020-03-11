@@ -532,8 +532,8 @@
       <tuv lang="RU">
         <seg>Если оставить данный параметр пустым, то для формирования имен элементов в WSDL используется параметр &lt;x7/&gt;Имя метода&lt;x8/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200311T134649Z" creationid="Марианна" creationdate="20200227T162048Z">
-        <seg>If this parameter is left empty, to form the item names in WSDL &lt;x7/&gt;Method name&lt;x8/&gt; parameter is used.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T142721Z" creationid="Марианна" creationdate="20200227T162048Z">
+        <seg>If this parameter is left empty, to form the item names in WSDL the &lt;x7/&gt;Method name&lt;x8/&gt; parameter is used.</seg>
       </tuv>
     </tu>
     <tu>
