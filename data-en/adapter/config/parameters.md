@@ -72,7 +72,7 @@ These settings include the following parameters:
 // "The request file source name" and "The resulting name of the request file", correspondingly.
 ```
 
-* **The response file source name**, **The resulting name of the response file**, **The response processing command** — these parameters are used to assign the OS command of the service response text processing. The parameters application is similar to the request processing command and it is described in the section [Configuration of the client role of the external services](./tuning-principles.md#nastroyka-roli-klienta-vneshnikh-servisov). The command example:
+* **The response file source name**, **The resulting name of the response file**, **The response processing command** — these parameters are used to assign the OS command of the service response text processing. The parameters application is similar to the request processing command and it is described in the following section: [Configuration of the client role of the external services](./tuning-principles.md#nastroyka-roli-klienta-vneshnikh-servisov). The command example:
 
 ```
 "C:\Program Files\7-Zip\7z" e "%inputFile%" -so > "%outputFile%"
