@@ -1052,8 +1052,8 @@
       <tuv lang="RU">
         <seg>также раздел &lt;x11/&gt;Работа с сертификатами&lt;x12/&gt;).</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200226T104647Z" creationid="Марианна" creationdate="20200226T104455Z">
-        <seg> &lt;x11/&gt;Certificates operation&lt;x12/&gt; section).</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T141141Z" creationid="Марианна" creationdate="20200226T104455Z">
+        <seg>the &lt;x11/&gt;Certificates operation&lt;x12/&gt; section).</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
