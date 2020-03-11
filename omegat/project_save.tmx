@@ -340,8 +340,8 @@
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Формат сообщения&lt;x2/&gt; — может принимать одно из трех значений: &lt;x3/&gt;plainXml&lt;x4/&gt;, &lt;x5/&gt;soap&lt;x6/&gt;, &lt;x7/&gt;soap12&lt;x8/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200226T104749Z" creationid="Марианна" creationdate="20200226T104749Z">
-        <seg>&lt;x1/&gt;Message format&lt;x2/&gt; — can take one of three values: &lt;x3/&gt;plainXml&lt;x4/&gt;, &lt;x5/&gt;soap&lt;x6/&gt;, &lt;x7/&gt;soap12&lt;x8/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T141229Z" creationid="Марианна" creationdate="20200226T104749Z">
+        <seg>&lt;x1/&gt;Message format&lt;x2/&gt; can take one of three values: &lt;x3/&gt;plainXml&lt;x4/&gt;, &lt;x5/&gt;soap&lt;x6/&gt;, &lt;x7/&gt;soap12&lt;x8/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
