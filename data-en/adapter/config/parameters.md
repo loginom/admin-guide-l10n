@@ -44,7 +44,7 @@ The list of (content of the *Key* column) parameters is the same for connections
 * **The schema referenced by the service description ** — it specifies the path to XSD schema of the service description. The schema describes the structure of XML messages of requests and responses of the *Adapter* Web service and participates in the generation of WSDL service description. XSD schema can contain references to the associated XSD schemas. The required parameter.
 * **ContentType for transfer in the header** — the value of this parameter is transferred in the `Content-Type` header of the message package to the external service. It is used in the process of work with credit reference bureau "UNITED CREDIT BUREAU".
 
-## Setting parameters of methods of interaction with the external services.
+## Setting Parameters of Methods of Interaction with the External Services
 
 To display the settings of methods of interaction with the external service, it is required to select the corresponding item in the settings tree. (refer to  Figure 6).
 
