@@ -196,8 +196,8 @@
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Описание метода&lt;x2/&gt; — произвольное описание метода.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200227T162556Z" creationid="Марианна" creationdate="20200227T162556Z">
-        <seg>&lt;x1/&gt;Method description&lt;x2/&gt; — arbitrary method description.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T142847Z" creationid="Марианна" creationdate="20200227T162556Z">
+        <seg>&lt;x1/&gt;Method description&lt;x2/&gt; — an arbitrary method description.</seg>
       </tuv>
     </tu>
     <tu>
