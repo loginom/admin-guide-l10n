@@ -140,8 +140,8 @@
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Исходное имя файла запроса&lt;x2/&gt;, &lt;x3/&gt;Результирующее имя файла запроса&lt;x4/&gt;, &lt;x5/&gt;Команда обработки файла запроса&lt;x6/&gt; — данные параметры используются для задания команды ОС (операционной системы) предварительной обработки текста запроса перед его отправкой внешнему сервису.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200309T123417Z" creationid="Марианна" creationdate="20200309T123417Z">
-        <seg>&lt;x1/&gt;The request file source name&lt;x2/&gt;, &lt;x3/&gt;The resulting name of the request file&lt;x4/&gt;, &lt;x5/&gt;The request file processing command&lt;x6/&gt; — these parameters are used to assign the OS (operational system) command of the preliminary processing of the request text prior to its sending to the external service. </seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T115735Z" creationid="Марианна" creationdate="20200309T123417Z">
+        <seg>&lt;x1/&gt;The request file source name&lt;x2/&gt;, &lt;x3/&gt;The resulting name of the request file&lt;x4/&gt;, &lt;x5/&gt;The request file processing command&lt;x6/&gt; — these parameters are used to assign the OS (operational system) command of the preliminary processing of the request text before its sending to the external service. </seg>
       </tuv>
     </tu>
     <tu>
