@@ -372,8 +372,8 @@
       <tuv lang="RU">
         <seg>В последнем случае путь задается относительно папки, в которой расположен файл &lt;x3/&gt;Web.config&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200225T131514Z" creationid="Марианна" creationdate="20200225T131514Z">
-        <seg>In the latter case the path is specified to the folder in which &lt;x3/&gt;Web.config&lt;x4/&gt; file is located.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T113634Z" creationid="Марианна" creationdate="20200225T131514Z">
+        <seg>In the latter case, the path is specified to the folder in which &lt;x3/&gt;Web.config&lt;x4/&gt; file is located.</seg>
       </tuv>
     </tu>
     <tu>
@@ -940,8 +940,8 @@
       <tuv lang="RU">
         <seg>Схема описывает структуру XML-сообщений запросов и ответов веб-сервиса &lt;x3/&gt;Адаптера&lt;x4/&gt; и участвует в формировании WSDL-описания сервиса.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200227T155723Z" creationid="Марианна" creationdate="20200227T155723Z">
-        <seg>The schema describes the structure of XML messages of requests and responses of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service and participates in generation of WSDL service description.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T113717Z" creationid="Марианна" creationdate="20200227T155723Z">
+        <seg>The schema describes the structure of XML messages of requests and responses of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service and participates in the generation of WSDL service description.</seg>
       </tuv>
     </tu>
     <tu>
