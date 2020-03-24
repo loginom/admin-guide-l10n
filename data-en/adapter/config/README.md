@@ -22,7 +22,7 @@ Such structure enables the *Adapter* to work with several external services and 
 
 ## Additional Files
 
-Apart from the folders and files pre-installed in the installation process when configuring *Adapter* additional files (certificates, XSD-schemes, etc.) required for the work with the external services can be placed into the installation directory.
+Apart from the folders and files pre-installed in the installation process, when configuring the *Adapter*, additional files (certificates, XSD schemas, etc.) required for the work with the external services can be placed into the installation directory.
 
 Connection settings (connectors) for such external services as, for example, [EquifaxFPS](https://www.equifax.ru), *NationalHunter*, [National Bureau of Credit Histories](https://www.nbki.ru/) (NBCH), [Bureau of Credit Histories — Associated Credit Bureau](https://bki-okb.ru) (BCH— ACB), [QiwiScoring](https://corp.qiwi.com/business/banks/scoring.action), etc. can be provided with *Adapter*. As a rule, the additional files of such settings are placed into the following subdirectories: *Data* and *Certificates* of the installation directory (by default it is `C:\inetpub\wwwroot\LoginomAdapter\`). `Web.config` file will include references to such files.
 
