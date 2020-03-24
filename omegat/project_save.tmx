@@ -924,8 +924,8 @@
       <tuv lang="RU">
         <seg>Содержат параметры настроек, представленных в разделе &lt;x7/&gt;Параметры настроек подключения к внешним сервисам&lt;x8/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200324T065207Z" creationid="Марианна" creationdate="20200206T064520Z">
-        <seg>contain parameters of the settings listed in the following section: &lt;x7/&gt;Parameters of the Settings of Connection to the External Services&lt;x8/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200324T070328Z" creationid="Марианна" creationdate="20200206T064520Z">
+        <seg>contain parameters of the settings listed in the following section: &lt;x7/&gt;Setting Parameters of Connection to the External Services&lt;x8/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
