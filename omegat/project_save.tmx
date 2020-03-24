@@ -812,8 +812,8 @@
       <tuv lang="RU">
         <seg>Помимо предустановленных в процессе инсталляции папок и файлов, в процессе настройки &lt;x1/&gt;Адаптера&lt;x2/&gt; в каталоге установки могут быть размещены дополнительные файлы (сертификаты, XSD-схемы и т.п.), необходимые для работы с внешними сервисами.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200206T083101Z" creationid="Марианна" creationdate="20200206T075830Z">
-        <seg>Apart from the folders and files pre-installed in the installation process when configuring &lt;x1/&gt;Adapter&lt;x2/&gt; additional files (certificates, XSD-schemes, etc.) required for the work with the external services can be placed into the installation directory.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200324T071021Z" creationid="Марианна" creationdate="20200206T075830Z">
+        <seg>Apart from the folders and files pre-installed in the installation process, when configuring the &lt;x1/&gt;Adapter&lt;x2/&gt;, additional files (certificates, XSD schemas, etc.) required for the work with the external services can be placed into the installation directory.</seg>
       </tuv>
     </tu>
     <tu>
