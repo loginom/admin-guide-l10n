@@ -33,7 +33,7 @@ The list of (content of the *Key* column) parameters is the same for connections
 * **The certificate password** — a password is required for operations with some certificates.
 * **The certificate store** — one of three values can be taken: `none`, `currentUser`, `localMachine`. If the client certificate has a private key, it is placed into one of the certificate stores - into the local machine store (*localMachine*) or the current user store (*currentUser*). The certificates without a private key can be placed into a separate file in the file system location specified by the *certificate Path* parameter. `none` value is specified for such certificates in the *Certificate store* parameter.
 
-> **Note**: when the client certificate is in the store, DER-encoded `X.509` export from the store to `.CER` file and specification of path to such file in the *Certificate path* parameter are obligatory. Otherwise, the *Adapter* will not be able to refer to the client certificate located in the store (also refer to  the [Certificates operation](./work-with-certificates.md) section).
+> **Note**: when the client certificate is in the store, DER-encoded `X.509` export from the store to `.CER` file and specification of path to such file in the *Certificate path* parameter are obligatory. Otherwise, the *Adapter* will not be able to refer to the client certificate located in the store (also refer to  the [Certificates Operation](./work-with-certificates.md) section).
 
 * **Message format** can take one of three values: `plainXml`, `soap`, `soap12`. The value depends on the Web service to which you are connecting. The value of `plainXml` parameter enables to assign the mode of the external service operation as with REST service. The values of `soap`, `soap12` parameter enable to assign the mode of the external service operation as with SOAP service in Specifications 1.1 and 1.2 correspondingly.
 * **To transfer the address in SOAP message header ** — the flag that shows that it is required to transfer the address in the header (the *Header* sections) of SOAP message. It is required to place the flag for the Web services in WSDL description of which `UsingAddressing` policy is specified.
@@ -63,7 +63,7 @@ These settings include the following parameters:
 
 > **Note**: the path to XSD schema is specified in the following parameter: *The schema to which the service description will refer to*.
 
-* **The request file source name**, **The resulting name of the request file**, **The request file processing command** — these parameters are used to assign the OS (operational system) command of the preliminary processing of the request text before its sending to the external service.  The detailed information on the application of the parameters is provided in the following section: [Configuration of the client role of the external services](./tuning-principles.md#nastroyka-roli-klienta-vneshnikh-servisov). The command example:
+* **The request file source name**, **The resulting name of the request file**, **The request file processing command** — these parameters are used to assign the OS (operational system) command of the preliminary processing of the request text before its sending to the external service.  The detailed information on the application of the parameters is provided in the following section: [Configuration of the Client Role of the External Services](./tuning-principles.md#nastroyka-roli-klienta-vneshnikh-servisov). The command example:
 
 ```
 "C:\Program Files\7-Zip\7z" a -tzip "%outputFile%" "%inputFile%"
@@ -72,7 +72,7 @@ These settings include the following parameters:
 // "The request file source name" and "The resulting name of the request file", correspondingly.
 ```
 
-* **The response file source name**, **The resulting name of the response file**, **The response processing command** — these parameters are used to assign the OS command of the service response text processing. The parameters application is similar to the request processing command and it is described in the following section: [Configuration of the client role of the external services](./tuning-principles.md#nastroyka-roli-klienta-vneshnikh-servisov). The command example:
+* **The response file source name**, **The resulting name of the response file**, **The response processing command** — these parameters are used to assign the OS command of the service response text processing. The parameters application is similar to the request processing command and it is described in the following section: [Configuration of the Client Role of the External Services](./tuning-principles.md#nastroyka-roli-klienta-vneshnikh-servisov). The command example:
 
 ```
 "C:\Program Files\7-Zip\7z" e "%inputFile%" -so > "%outputFile%"
@@ -83,4 +83,4 @@ These settings include the following parameters:
 
 * **XSLT for the incoming message transformation before its transfer** — the path to corresponding files of XSLT transformations is specified.
 * **XSLT for the response message transformation** — the path to corresponding files of XSLT transformations is specified.
-* **Parameters of XSLT transformation** are specified only if XSLT transformations accept the input parameters. The detailed information on the application and configuration of this parameter is provided in the following section: [Configuration of the client role of the external services](./tuning-principles.md#nastroyka-roli-klienta-vneshnikh-servisov).
+* **Parameters of XSLT transformation** are specified only if XSLT transformations accept the input parameters. The detailed information on the application and configuration of this parameter is provided in the following section: [Configuration of the Client Role of the External Services](./tuning-principles.md#nastroyka-roli-klienta-vneshnikh-servisov).
