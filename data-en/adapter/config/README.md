@@ -4,7 +4,7 @@
 
 Loginom Adapter settings are in [Web.config](https://ru.wikipedia.org/wiki/Web.config) XML file edited by **Loginom Adapter Configurator** (hereafter referred to as the *Configurator*). When installing by default, the *Configurator* is in the following folder: `C:\inetpub\wwwroot\LoginomAdapter\Configurator\`.
 
-When saving the settings the *Configurator* rewrites `Web.config` file. The requests previously received by the *Adapter* will be completed with the old settings. Subsequent requests to the *Adapter* will be executed taking into account the new settings.
+When saving the settings, the *Configurator* rewrites `Web.config` file. The requests previously received by the *Adapter* will be completed with the old settings. Subsequent requests to the *Adapter* will be executed taking into account the new settings.
 
 The *Configurator* interface consists of two panels. The navigation tree is on the left window panel of the *Configurator* (refer to  Figure 3). It reflects the settings structure. The settings as such are on the right panel.
 
