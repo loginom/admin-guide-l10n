@@ -852,8 +852,8 @@
       <tuv lang="RU">
         <seg>При сохранении настроек &lt;x1/&gt;Конфигуратор&lt;x2/&gt; перезаписывает файл &lt;x3/&gt;Web.config&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200206T082515Z" creationid="Марианна" creationdate="20200203T073326Z">
-        <seg>When saving the settings the &lt;x1/&gt;Configurator&lt;x2/&gt; rewrites &lt;x3/&gt;Web.config&lt;x4/&gt; file.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200324T065345Z" creationid="Марианна" creationdate="20200203T073326Z">
+        <seg>When saving the settings, the &lt;x1/&gt;Configurator&lt;x2/&gt; rewrites &lt;x3/&gt;Web.config&lt;x4/&gt; file.</seg>
       </tuv>
     </tu>
     <tu>
