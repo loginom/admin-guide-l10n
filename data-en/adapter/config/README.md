@@ -28,4 +28,4 @@ Connection settings (connectors) for such external services as, for example, [Eq
 
 It is allowed to use both absolute paths to the additional files (stating the drive letter) and the relative paths specified according to the location of `Web.config` in `Web.config` file.
 
-> **Note**: it is recommended to place the additional files into the folder in which *Adapter* has been installed and to specify the relative paths to them in `Web.config` configuration file. It enables to transfer *Adapter* from one computer to another just copying the folder with the minimum reconfiguration number.
+> **Note**: it is recommended to place the additional files into the folder in which the *Adapter* has been installed and to specify the relative paths to them in `Web.config` configuration file. It enables to transfer *Adapter* from one computer to another just copying the folder with the minimum reconfiguration number.
