@@ -18,7 +18,7 @@ The navigation tree is a two-level hierarchical structure that includes the foll
 * The elements of the second level:
    * Methods of interaction with the relevant external services are represented by subordinate elements with method names (there are the following elements in Figure 3: `Value`, `processingApplicationRequest`, `deleteApplicationRequest`, etc). They contain parameters of the settings listed in the following section [Setting Parameters of Methods of Interaction with the External Services](./parameters.md#parametry-nastroek-metodov-vzaimodeystviya-s-vneshnimi-servisami).
 
-Such structure enables *Adapter* to work with several external services and several methods can be defined for each external service.
+Such structure enables the *Adapter* to work with several external services and several methods can be defined for each external service.
 
 ## Additional files
 
