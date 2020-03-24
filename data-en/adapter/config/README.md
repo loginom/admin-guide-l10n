@@ -20,7 +20,7 @@ The navigation tree is a two-level hierarchical structure that includes the foll
 
 Such structure enables the *Adapter* to work with several external services and several methods can be defined for each external service.
 
-## Additional files
+## Additional Files
 
 Apart from the folders and files pre-installed in the installation process when configuring *Adapter* additional files (certificates, XSD-schemes, etc.) required for the work with the external services can be placed into the installation directory.
 
