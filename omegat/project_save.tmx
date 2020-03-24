@@ -908,8 +908,8 @@
       <tuv lang="RU">
         <seg>Сертификаты без закрытого ключа могут располагаться отдельным файлом по указанному в параметре &lt;x13/&gt;Путь к сертификату&lt;x14/&gt; месте файловой системы.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200225T132849Z" creationid="Марианна" creationdate="20200225T132849Z">
-        <seg>The certificates without a private key can be placed into a separate file in the file system location specified in the &lt;x13/&gt;certificate Path&lt;x14/&gt; parameter.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200324T061129Z" creationid="Марианна" creationdate="20200225T132849Z">
+        <seg>The certificates without a private key can be placed into a separate file in the file system location specified by the &lt;x13/&gt;certificate Path&lt;x14/&gt; parameter.</seg>
       </tuv>
     </tu>
     <tu>
