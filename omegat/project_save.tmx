@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="ru"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>"C:\Program Files\7-Zip\7z" a -tzip "%outputFile%" "%inputFile%"
 
 // шаблоны %inputFile% и %outputFile% при выполнении команды заменяются на значения параметров
 // «Исходное имя файла запроса» и «Результирующее имя файла запроса» соответственно.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200309T124211Z" creationid="Марианна" creationdate="20200309T124211Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200309T124211Z" creationid="Марианна" creationdate="20200309T124211Z">
         <seg>"C:\Program Files\7-Zip\7z" a -tzip "%outputFile%" "%inputFile%"
 
 // templates %inputFile% and %outputFile% are replaced with the parameters values while the command execution
@@ -19,13 +19,13 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>"C:\Program Files\7-Zip\7z" e "%inputFile%" -so &gt; "%outputFile%"
 
 // шаблоны %inputFile% и %outputFile% при выполнении команды заменяются на значения параметров
 // «Исходное имя файла ответа» и «Результирующее имя файла ответа» соответственно.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200309T125009Z" creationid="Марианна" creationdate="20200309T125009Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200309T125009Z" creationid="Марианна" creationdate="20200309T125009Z">
         <seg>"C:\Program Files\7-Zip\7z" e "%inputFile%" -so &gt; "%outputFile%"
 
 // templates %inputFile% and %outputFile% are replaced with the parameters values while the command execution
@@ -33,1026 +33,1026 @@
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;ContentType для передачи в заголовке&lt;x2/&gt; — значение данного параметра передается в заголовке &lt;x3/&gt;Content-Type&lt;x4/&gt; пакета сообщения к внешнему сервису.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200227T160055Z" creationid="Марианна" creationdate="20200227T160055Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200227T160055Z" creationid="Марианна" creationdate="20200227T160055Z">
         <seg>&lt;x1/&gt;ContentType for transfer in the header&lt;x2/&gt; — the value of this parameter is transferred in the &lt;x3/&gt;Content-Type&lt;x4/&gt; header of the message package to the external service.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;SOAPAction для передачи в заголовке&lt;x2/&gt; — значение данного параметра передается в заголовке &lt;x3/&gt;SOAPAction&lt;x4/&gt; HTTP/HTTPS-пакета, передаваемого внешнему сервису.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T143102Z" creationid="Марианна" creationdate="20200304T070336Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T143102Z" creationid="Марианна" creationdate="20200304T070336Z">
         <seg>&lt;x1/&gt;SOAPAction for transfer in the header&lt;x2/&gt; — the value of this parameter is transferred in the &lt;x3/&gt;SOAPAction&lt;x4/&gt; header of HTTP/HTTPS package transferred to the external service.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;URL для отправки запроса&lt;x2/&gt; — адрес веб-сервиса, куда будут отправляться запросы.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200225T130012Z" creationid="Марианна" creationdate="20200225T130012Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T130012Z" creationid="Марианна" creationdate="20200225T130012Z">
         <seg>&lt;x1/&gt;URL for the request sending&lt;x2/&gt; — the Web service address for requests sending.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;XML-сообщение подписано сертификатом&lt;x2/&gt; — принимает значения &lt;x3/&gt;true&lt;x4/&gt;, &lt;x5/&gt;false&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200309T142920Z" creationid="Марианна" creationdate="20200304T070902Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200309T142920Z" creationid="Марианна" creationdate="20200304T070902Z">
         <seg>&lt;x1/&gt;Certificate signed XML message &lt;x2/&gt; — takes &lt;x3/&gt;true&lt;x4/&gt;, &lt;x5/&gt;false&lt;x6/&gt; values.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;XSLT для трансформации входящего сообщения перед передачей&lt;x2/&gt; — указывается путь к соответствующим файлам xslt-преобразований.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T144403Z" creationid="Марианна" creationdate="20200309T125141Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T144403Z" creationid="Марианна" creationdate="20200309T125141Z">
         <seg>&lt;x1/&gt;XSLT for the incoming message transformation before its transfer&lt;x2/&gt; — the path to corresponding files of XSLT transformations is specified.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;XSLT для трансформации ответного сообщения&lt;x2/&gt; — указывается путь к соответствующим файлам xslt-преобразований.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T144206Z" creationid="Марианна" creationdate="20200309T125316Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T144206Z" creationid="Марианна" creationdate="20200309T125316Z">
         <seg>&lt;x1/&gt;XSLT for the response message transformation&lt;x2/&gt; — the path to corresponding files of XSLT transformations is specified.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;targetNamespace в WSDL&lt;x2/&gt; — значение берется из одноименного атрибута WSDL-описания внешнего сервиса.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200226T110728Z" creationid="Марианна" creationdate="20200226T110728Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200226T110728Z" creationid="Марианна" creationdate="20200226T110728Z">
         <seg>&lt;x1/&gt;targetNamespace в WSDL&lt;x2/&gt; — the value is taken from the similarly-named attribute of WSDL description of the external service.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Заголовок входящего сообщения&lt;x2/&gt; — применяется для БКИ «ОКБ».</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T141639Z" creationid="Марианна" creationdate="20200226T110321Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T141639Z" creationid="Марианна" creationdate="20200226T110321Z">
         <seg>&lt;x1/&gt;The incoming message header&lt;x2/&gt; is used for credit reference bureau "UNITED CREDIT BUREAU".</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Имя веб-сервиса&lt;x2/&gt; — уникальное имя веб-сервиса.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200225T124427Z" creationid="Марианна" creationdate="20200225T124427Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T124427Z" creationid="Марианна" creationdate="20200225T124427Z">
         <seg>&lt;x1/&gt;The Web service name&lt;x2/&gt; — the unique Web service name.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Имя корневого элемента SOAP запроса&lt;x2/&gt;, &lt;x3/&gt;Namespace корневого элемента SOAP запроса&lt;x4/&gt; — значения этих параметров берутся из XSD-схемы описания запроса.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200304T072138Z" creationid="Марианна" creationdate="20200304T071938Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200304T072138Z" creationid="Марианна" creationdate="20200304T071938Z">
         <seg>&lt;x1/&gt;The root element name of SOAP request&lt;x2/&gt;, &lt;x3/&gt;Namespace of the root element of SOAP request&lt;x4/&gt; — values of these parameters are taken from XSD schema of the request description.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Имя корневого элемента SOAP ответа&lt;x2/&gt;, &lt;x3/&gt;Namespace корневого элемента SOAP ответа&lt;x4/&gt; — значения этих параметров берутся из XSD-схемы описания запроса.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200304T072123Z" creationid="Марианна" creationdate="20200304T071958Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200304T072123Z" creationid="Марианна" creationdate="20200304T071958Z">
         <seg>&lt;x1/&gt;The root element name of SOAP response&lt;x2/&gt;, &lt;x3/&gt;Namespace of the root element of SOAP response&lt;x4/&gt; — values of these parameters are taken from XSD schema of the request description.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Имя метода в Loginom Adapter&lt;x2/&gt; — используется для формирования имен элементов в WSDL-описании веб-сервиса в случае совпадения значений параметра &lt;x3/&gt;Имя метода&lt;x4/&gt; для различных методов конфигурации &lt;x5/&gt;Адаптера&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T142556Z" creationid="Марианна" creationdate="20200227T161941Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T142556Z" creationid="Марианна" creationdate="20200227T161941Z">
         <seg>&lt;x1/&gt;Method name in Loginom Adapter&lt;x2/&gt; is used to form the item names in WSDL description of the Web service in case of coincidence of values of the &lt;x3/&gt;Method name&lt;x4/&gt; parameter for different configuration methods of the &lt;x5/&gt;Adapter&lt;x6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Имя метода&lt;x2/&gt; — в случае если параметр &lt;x3/&gt;Имя метода в Loginom Adapter&lt;x4/&gt; не задан, значение параметра используется в качестве составной части имен(name) элементов и атрибутов WSDL-описания веб-сервиса &lt;x5/&gt;Адаптера&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T142128Z" creationid="Марианна" creationdate="20200227T161440Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T142128Z" creationid="Марианна" creationdate="20200227T161440Z">
         <seg>&lt;x1/&gt;Method name&lt;x2/&gt; — if the &lt;x3/&gt;Method name in Loginom Adapter&lt;x4/&gt; parameter is not specified, the parameter value is used as a part of names (name) of items and attributes in WSDL description of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service. </seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Исходное имя файла запроса&lt;x2/&gt;, &lt;x3/&gt;Результирующее имя файла запроса&lt;x4/&gt;, &lt;x5/&gt;Команда обработки файла запроса&lt;x6/&gt; — данные параметры используются для задания команды ОС (операционной системы) предварительной обработки текста запроса перед его отправкой внешнему сервису.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T115735Z" creationid="Марианна" creationdate="20200309T123417Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T115735Z" creationid="Марианна" creationdate="20200309T123417Z">
         <seg>&lt;x1/&gt;The request file source name&lt;x2/&gt;, &lt;x3/&gt;The resulting name of the request file&lt;x4/&gt;, &lt;x5/&gt;The request file processing command&lt;x6/&gt; — these parameters are used to assign the OS (operational system) command of the preliminary processing of the request text before its sending to the external service. </seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Исходное имя файла ответа&lt;x2/&gt;, &lt;x3/&gt;Результирующее имя файла ответа&lt;x4/&gt;, &lt;x5/&gt;Команда обработки ответа&lt;x6/&gt; — данные параметры используются для задания команды ОС обработки текста ответа сервиса.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200309T124504Z" creationid="Марианна" creationdate="20200309T124504Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200309T124504Z" creationid="Марианна" creationdate="20200309T124504Z">
         <seg>&lt;x1/&gt;The response file source name&lt;x2/&gt;, &lt;x3/&gt;The resulting name of the response file&lt;x4/&gt;, &lt;x5/&gt;The response processing command&lt;x6/&gt; — these parameters are used to assign the OS command of the service response text processing.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Кодировка сообщений&lt;x2/&gt; — указывается кодировка сообщений, применяемая внешним сервисом.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200226T110522Z" creationid="Марианна" creationdate="20200226T110456Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200226T110522Z" creationid="Марианна" creationdate="20200226T110456Z">
         <seg>&lt;x1/&gt;Message encoding&lt;x2/&gt; — the message encoding applied by the external service is specified.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Логировать запрос&lt;x2/&gt; — флаг, указывающий, что в лог необходимо сохранять xml-запрос к &lt;x3/&gt;Адаптеру&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200309T142221Z" creationid="Марианна" creationdate="20200221T074943Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200309T142221Z" creationid="Марианна" creationdate="20200221T074943Z">
         <seg>&lt;x1/&gt;Log request&lt;x2/&gt; — the flag that shows that it is required to save XML request to the &lt;x3/&gt;Adapter&lt;x4/&gt; in the log.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Логировать ответ&lt;x2/&gt; — флаг, указывающий, что в лог необходимо сохранять xml ответы &lt;x3/&gt;Адаптера&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200309T142236Z" creationid="Марианна" creationdate="20200221T075505Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200309T142236Z" creationid="Марианна" creationdate="20200221T075505Z">
         <seg>&lt;x1/&gt;Log response&lt;x2/&gt; — the flag that shows that it is required to save the &lt;x3/&gt;Adapter&lt;x4/&gt; XML responses in the log.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Макс.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200225T123556Z" creationid="Марианна" creationdate="20200225T123556Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T123556Z" creationid="Марианна" creationdate="20200225T123556Z">
         <seg>&lt;x1/&gt;Max.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Описание веб-сервиса&lt;x2/&gt; — произвольное описание веб-сервиса.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200225T125514Z" creationid="Марианна" creationdate="20200225T125514Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T125514Z" creationid="Марианна" creationdate="20200225T125514Z">
         <seg>&lt;x1/&gt;The Web service description&lt;x2/&gt; — an arbitrary description of the Web service.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Описание метода&lt;x2/&gt; — произвольное описание метода.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T142847Z" creationid="Марианна" creationdate="20200227T162556Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T142847Z" creationid="Марианна" creationdate="20200227T162556Z">
         <seg>&lt;x1/&gt;Method description&lt;x2/&gt; — an arbitrary method description.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Особый формат сообщения&lt;x2/&gt; — используется для веб-сервисов с нестандартным форматом сообщений, в частности для БКИ «ОКБ».</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T141625Z" creationid="Марианна" creationdate="20200226T110200Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T141625Z" creationid="Марианна" creationdate="20200226T110200Z">
         <seg>&lt;x1/&gt;The special message format&lt;x2/&gt; is used for the Web services with nonstandard message format, in particular, for credit reference bureau "UNITED CREDIT BUREAU".</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Папка для логов&lt;x2/&gt; — путь к папке для лог-файлов &lt;x3/&gt;Адаптера&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T133123Z" creationid="Марианна" creationdate="20200221T073610Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T133123Z" creationid="Марианна" creationdate="20200221T073610Z">
         <seg>&lt;x1/&gt;Folder for logs&lt;x2/&gt; — the path to the folder for the &lt;x3/&gt;Adapter&lt;x4/&gt; log files.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Параметры XSLT трансформации&lt;x2/&gt; — указываются в случае, если xslt-преобразования принимают входные параметры.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T144421Z" creationid="Марианна" creationdate="20200309T125508Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T144421Z" creationid="Марианна" creationdate="20200309T125508Z">
         <seg>&lt;x1/&gt;Parameters of XSLT transformation&lt;x2/&gt; are specified only if XSLT transformations accept the input parameters.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Пароль к сертификату&lt;x2/&gt; — для операций с некоторыми сертификатами требуется пароль.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200225T131559Z" creationid="Марианна" creationdate="20200225T131559Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T131559Z" creationid="Марианна" creationdate="20200225T131559Z">
         <seg>&lt;x1/&gt;The certificate password&lt;x2/&gt; — a password is required for operations with some certificates.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Передавать адрес в заголовке сообщения SOAP&lt;x2/&gt; — флаг, указывающий на необходимость передачи адреса в заголовке (секции &lt;x3/&gt;Header&lt;x4/&gt;) сообщения SOAP.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T141746Z" creationid="Марианна" creationdate="20200226T105538Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T141746Z" creationid="Марианна" creationdate="20200226T105538Z">
         <seg>&lt;x1/&gt;To transfer the address in SOAP message header &lt;x2/&gt; — the flag that shows that it is required to transfer the address in the header (the &lt;x3/&gt;Header&lt;x4/&gt; sections) of SOAP message.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: в случае, когда клиентский сертификат находится в хранилище, обязательна процедура экспорта из хранилища в файл &lt;x3/&gt;.CER&lt;x4/&gt; в DER-кодировке &lt;x5/&gt;X.509&lt;x6/&gt; и указания пути к этому файлу в параметре &lt;x7/&gt;Путь к сертификату&lt;x8/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T140940Z" creationid="Марианна" creationdate="20200226T103403Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T140940Z" creationid="Марианна" creationdate="20200226T103403Z">
         <seg>&lt;x1/&gt;Note&lt;x2/&gt;: when the client certificate is in the store, DER-encoded &lt;x5/&gt;X.509&lt;x6/&gt; export from the store to &lt;x3/&gt;.CER&lt;x4/&gt; file and specification of path to such file in the &lt;x7/&gt;Certificate path&lt;x8/&gt; parameter are obligatory.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: при указании пути к сертификату допустимо использование как абсолютных путей (с указанием буквы диска), так и относительных.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200225T131312Z" creationid="Марианна" creationdate="20200225T131312Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T131312Z" creationid="Марианна" creationdate="20200225T131312Z">
         <seg>&lt;x1/&gt;Note&lt;x2/&gt;: specifying the certificate path it is allowed to use both absolute (including the drive letter) and relative paths.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: путь к XSD-схеме указывается в параметре &lt;x3/&gt;Схема, на которую будет ссылаться описание сервиса&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T143716Z" creationid="Марианна" creationdate="20200304T072255Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T143716Z" creationid="Марианна" creationdate="20200304T072255Z">
         <seg>&lt;x1/&gt;Note&lt;x2/&gt;: the path to XSD schema is specified in the following parameter: &lt;x3/&gt;The schema to which the service description will refer to&lt;x4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: рекомендуется помещать дополнительные файлы в папку, в которой установлен &lt;x3/&gt;Адаптер&lt;x4/&gt;, а в файле конфигурации &lt;x5/&gt;Web.config&lt;x6/&gt; указывать к ним относительные пути.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200324T071453Z" creationid="Марианна" creationdate="20200206T082050Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200324T071453Z" creationid="Марианна" creationdate="20200206T082050Z">
         <seg>&lt;x1/&gt;Note&lt;x2/&gt;: it is recommended to place the additional files into the folder in which the &lt;x3/&gt;Adapter&lt;x4/&gt; has been installed and to specify the relative paths to them in &lt;x5/&gt;Web.config&lt;x6/&gt; configuration file.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Путь к сертификату&lt;x2/&gt; — при использовании шифрования указывается путь к клиентскому сертификату.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200225T131141Z" creationid="Марианна" creationdate="20200225T131141Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T131141Z" creationid="Марианна" creationdate="20200225T131141Z">
         <seg>&lt;x1/&gt;The certificate path&lt;x2/&gt; — when using encryption, it is required to specify the path to the client certificate.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Режим отладки&lt;x2/&gt; — флаг, указывающий, что при ошибках в работе &lt;x3/&gt;Адаптера&lt;x4/&gt; следует выдавать отладочную информацию.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200225T123115Z" creationid="Марианна" creationdate="20200225T123115Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T123115Z" creationid="Марианна" creationdate="20200225T123115Z">
         <seg>&lt;x1/&gt;Debug mode&lt;x2/&gt; — the flag that shows that it is required to show the debugging information in case of errors during the &lt;x3/&gt;Adapter&lt;x4/&gt; usage.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Рисунок 3.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200203T075353Z" creationid="Марианна" creationdate="20200203T075353Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200203T075353Z" creationid="Марианна" creationdate="20200203T075353Z">
         <seg>&lt;x1/&gt;Figure 3.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Рисунок 4.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200221T072349Z" creationid="Марианна" creationdate="20200221T072349Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200221T072349Z" creationid="Марианна" creationdate="20200221T072349Z">
         <seg>&lt;x1/&gt;Figure 4.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Рисунок 5.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200225T124142Z" creationid="Марианна" creationdate="20200225T124142Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T124142Z" creationid="Марианна" creationdate="20200225T124142Z">
         <seg>&lt;x1/&gt;Figure 5.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Рисунок 6.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200227T160700Z" creationid="Марианна" creationdate="20200227T160700Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200227T160700Z" creationid="Марианна" creationdate="20200227T160700Z">
         <seg>&lt;x1/&gt;Figure 6.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Схема, на которую будет ссылаться описание сервиса&lt;x2/&gt; — задает путь к XSD-схеме описания сервиса.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200227T155422Z" creationid="Марианна" creationdate="20200227T155422Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200227T155422Z" creationid="Марианна" creationdate="20200227T155422Z">
         <seg>&lt;x1/&gt;The schema referenced by the service description &lt;x2/&gt; — it specifies the path to XSD schema of the service description.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Таймаут&lt;x2/&gt; — максимально допустимое время в секундах между запросом и ответом об окончании обработки запроса.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T140132Z" creationid="Марианна" creationdate="20200225T125833Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T140132Z" creationid="Марианна" creationdate="20200225T125833Z">
         <seg>&lt;x1/&gt;Timeout&lt;x2/&gt; — the maximum allowed time expressed in seconds between a request and response on completion of the request processing.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Формат сообщения&lt;x2/&gt; — может принимать одно из трех значений: &lt;x3/&gt;plainXml&lt;x4/&gt;, &lt;x5/&gt;soap&lt;x6/&gt;, &lt;x7/&gt;soap12&lt;x8/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T141229Z" creationid="Марианна" creationdate="20200226T104749Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T141229Z" creationid="Марианна" creationdate="20200226T104749Z">
         <seg>&lt;x1/&gt;Message format&lt;x2/&gt; can take one of three values: &lt;x3/&gt;plainXml&lt;x4/&gt;, &lt;x5/&gt;soap&lt;x6/&gt;, &lt;x7/&gt;soap12&lt;x8/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Хранилище сертификата&lt;x2/&gt; — может принимать одно из трех значений: &lt;x3/&gt;none&lt;x4/&gt;, &lt;x5/&gt;currentUser&lt;x6/&gt;, &lt;x7/&gt;localMachine&lt;x8/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200225T131717Z" creationid="Марианна" creationdate="20200225T131717Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T131717Z" creationid="Марианна" creationdate="20200225T131717Z">
         <seg>&lt;x1/&gt;The certificate store&lt;x2/&gt; — one of three values can be taken: &lt;x3/&gt;none&lt;x4/&gt;, &lt;x5/&gt;currentUser&lt;x6/&gt;, &lt;x7/&gt;localMachine&lt;x8/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Loginom Adapter Configurator</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200203T072328Z" creationid="Марианна" creationdate="20200203T072328Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200203T072328Z" creationid="Марианна" creationdate="20200203T072328Z">
         <seg>Loginom Adapter Configurator </seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>XSD-схема может содержать ссылки на связанные XSD-схемы.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200227T155820Z" creationid="Марианна" creationdate="20200227T155820Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200227T155820Z" creationid="Марианна" creationdate="20200227T155820Z">
         <seg>XSD schema can contain references to the associated XSD schemas.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>В последнем случае путь задается относительно папки, в которой расположен файл &lt;x3/&gt;Web.config&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T113634Z" creationid="Марианна" creationdate="20200225T131514Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T113634Z" creationid="Марианна" creationdate="20200225T131514Z">
         <seg>In the latter case, the path is specified to the folder in which &lt;x3/&gt;Web.config&lt;x4/&gt; file is located.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>В противном случае &lt;x9/&gt;Адаптер&lt;x10/&gt; не сможет обратиться к клиентскому сертификату, расположенному в хранилище (см.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200226T104500Z" creationid="Марианна" creationdate="20200226T104231Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200226T104500Z" creationid="Марианна" creationdate="20200226T104231Z">
         <seg>Otherwise, the &lt;x9/&gt;Adapter&lt;x10/&gt; will not be able to refer to the client certificate located in the store (also refer to </seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>В связи с этим значение параметра подчиняется правилам именования элементов XML в соответствии со &lt;x5/&gt;спецификацией W3C&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T113410Z" creationid="Марианна" creationdate="20200225T125303Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T113410Z" creationid="Марианна" creationdate="20200225T125303Z">
         <seg>In this regard, the parameter value is subject to the rules of naming of XML elements under &lt;x5/&gt;W3C specification&lt;x6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>В таком заголовке может передаваться дополнительная информация (например, имя пользователя, пароль и т.д.).</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200226T110405Z" creationid="Марианна" creationdate="20200226T110405Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200226T110405Z" creationid="Марианна" creationdate="20200226T110405Z">
         <seg>Such header can include the additional information (e.g., user name, password, etc.).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>В файле &lt;x1/&gt;Web.config&lt;x2/&gt; допустимо использование как абсолютных путей на дополнительные файлы (с указанием буквы диска), так и относительных, которые задаются относительно расположения &lt;x3/&gt;Web.config&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200206T081818Z" creationid="Марианна" creationdate="20200206T081818Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200206T081818Z" creationid="Марианна" creationdate="20200206T081818Z">
         <seg>It is allowed to use both absolute paths to the additional files (stating the drive letter) and the relative paths specified according to the location of &lt;x3/&gt;Web.config&lt;x4/&gt; in &lt;x1/&gt;Web.config&lt;x2/&gt; file.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>В файле &lt;x19/&gt;Web.config&lt;x20/&gt; при этом будут содержаться ссылки на эти файлы.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200206T081300Z" creationid="Марианна" creationdate="20200206T081300Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200206T081300Z" creationid="Марианна" creationdate="20200206T081300Z">
         <seg>&lt;x19/&gt;Web.config&lt;x20/&gt; file will include references to such files.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>В этом случае значение параметра подчиняется правилам именования элементов XML в соответствии со &lt;x7/&gt;спецификацией W3C&lt;x8/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T142354Z" creationid="Марианна" creationdate="20200227T161543Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T142354Z" creationid="Марианна" creationdate="20200227T161543Z">
         <seg>In this regard, the parameter value is subject to the rules of naming of XML elements under &lt;x7/&gt; W3C specification&lt;x8/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Вместе с &lt;x1/&gt;Адаптером&lt;x2/&gt; могут поставляться настройки подключений (коннекторы) к таким внешним сервисам, как, например, &lt;x3/&gt;EquifaxFPS&lt;x4/&gt;, &lt;x5/&gt;NationalHunter&lt;x6/&gt;, &lt;x7/&gt;Национальное бюро кредитных историй&lt;x8/&gt; (НБКИ), &lt;x9/&gt;Бюро кредитных историй — Объединенное Кредитное Бюро&lt;x10/&gt; (БКИ — ОКБ), &lt;x11/&gt;QiwiScoring&lt;x12/&gt; и другим.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200324T071152Z" creationid="Марианна" creationdate="20200206T080948Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200324T071152Z" creationid="Марианна" creationdate="20200206T080948Z">
         <seg>Connection settings (connectors) for such external services as, for example, &lt;x3/&gt;EquifaxFPS&lt;x4/&gt;, &lt;x5/&gt;NationalHunter&lt;x6/&gt;, &lt;x7/&gt;National Bureau of Credit Histories&lt;x8/&gt; (NBCH), &lt;x9/&gt;Bureau of Credit Histories — Associated Credit Bureau&lt;x10/&gt; (BCH— ACB), &lt;x11/&gt;QiwiScoring&lt;x12/&gt;, etc. can be provided with the &lt;x1/&gt;Adapter&lt;x2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Выбрать путь можно нажатием на кнопку .</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200221T074318Z" creationid="Марианна" creationdate="20200221T074250Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200221T074318Z" creationid="Марианна" creationdate="20200221T074250Z">
         <seg>It is possible to select a path by clicking the button.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Данному параметру можно задать значения &lt;x5/&gt;true&lt;x6/&gt; или &lt;x7/&gt;false&lt;x8/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200309T142011Z" creationid="Марианна" creationdate="20200221T075238Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200309T142011Z" creationid="Марианна" creationdate="20200221T075238Z">
         <seg>It is possible to set &lt;x5/&gt;true&lt;x6/&gt; or &lt;x7/&gt;false&lt;x8/&gt; values for this parameter.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Данные настройки включают в себя следующие параметры:</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200227T161045Z" creationid="Марианна" creationdate="20200227T161045Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200227T161045Z" creationid="Марианна" creationdate="20200227T161045Z">
         <seg>These settings include the following parameters:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Данный параметр должен содержать наименование метода из wsdl-описания SOAP-сервиса.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T143249Z" creationid="Марианна" creationdate="20200304T070646Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T143249Z" creationid="Марианна" creationdate="20200304T070646Z">
         <seg>This parameter must contain the method name taken from WSDL description of SOAP service.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Дерево навигации настроек&lt;x2/&gt;</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200205T060104Z" creationid="Марианна" creationdate="20200203T075418Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200205T060104Z" creationid="Марианна" creationdate="20200203T075418Z">
         <seg>Settings Navigation Tree &lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Дерево навигации представляет собой двухуровневую иерархическую структуру и включает в себя следующие элементы:</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200205T060225Z" creationid="Марианна" creationdate="20200205T060049Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200205T060225Z" creationid="Марианна" creationdate="20200205T060049Z">
         <seg>The navigation tree is a two-level hierarchical structure that includes the following elements: </seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Для отображения настроек методов взаимодействия с внешним сервисом необходимо выделить соответствующий ему элемент в дереве настроек (см.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200227T160844Z" creationid="Марианна" creationdate="20200227T160641Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200227T160844Z" creationid="Марианна" creationdate="20200227T160641Z">
         <seg>To display the settings of methods of interaction with the external service, it is required to select the corresponding item in the settings tree. (refer to </seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Для отображения настроек подключения к внешнему сервису необходимо выделить соответствующий ему элемент в дереве навигации (см.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200225T124124Z" creationid="Марианна" creationdate="20200225T124124Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T124124Z" creationid="Марианна" creationdate="20200225T124124Z">
         <seg>To display the settings of connection to the external service, it is required to select the corresponding item in the navigation tree (refer to </seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Для отображения общих настроек &lt;x1/&gt;Адаптера&lt;x2/&gt; необходимо выделить элемент &lt;x3/&gt;Настройки&lt;x4/&gt; в дереве навигации (см.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T132800Z" creationid="Марианна" creationdate="20200221T072105Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T132800Z" creationid="Марианна" creationdate="20200221T072105Z">
         <seg>To display the &lt;x1/&gt;Adapter&lt;x2/&gt; general settings it is required to select the &lt;x3/&gt;Settings&lt;x4/&gt; item in the navigation tree (refer to </seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Для таких сертификатов в параметре &lt;x15/&gt;Хранилище сертификатов&lt;x16/&gt; указывается значение &lt;x17/&gt;none&lt;x18/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T140505Z" creationid="Марианна" creationdate="20200226T102609Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T140505Z" creationid="Марианна" creationdate="20200226T102609Z">
         <seg>&lt;x17/&gt;none&lt;x18/&gt; value is specified for such certificates in the &lt;x15/&gt;Certificate store&lt;x16/&gt; parameter.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Дополнительные файлы</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200324T070732Z" creationid="Марианна" creationdate="20200206T075207Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200324T070732Z" creationid="Марианна" creationdate="20200206T075207Z">
         <seg>Additional Files</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Если клиентский сертификат имеет закрытый ключ, то он помещается в одно из хранилищ сертификатов — в хранилище локальной машины (&lt;x9/&gt;localMachine&lt;x10/&gt;) или хранилище текущего пользователя (&lt;x11/&gt;currentUser&lt;x12/&gt;).</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T140753Z" creationid="Марианна" creationdate="20200225T132516Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T140753Z" creationid="Марианна" creationdate="20200225T132516Z">
         <seg>If the client certificate has a private key, it is placed into one of the certificate stores - into the local machine store (&lt;x9/&gt;localMachine&lt;x10/&gt;) or the current user store (&lt;x11/&gt;currentUser&lt;x12/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Если оставить данный параметр пустым, то для формирования имен элементов в WSDL используется параметр &lt;x7/&gt;Имя метода&lt;x8/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T142721Z" creationid="Марианна" creationdate="20200227T162048Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T142721Z" creationid="Марианна" creationdate="20200227T162048Z">
         <seg>If this parameter is left empty, to form the item names in WSDL the &lt;x7/&gt;Method name&lt;x8/&gt; parameter is used.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Если параметр не задан, то логи не сохраняются.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200221T073732Z" creationid="Марианна" creationdate="20200221T073732Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200221T073732Z" creationid="Марианна" creationdate="20200221T073732Z">
         <seg>If a parameter is not set, the logs are not saved.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Значение &lt;x9/&gt;plainXml&lt;x10/&gt; параметра задает режим работы с внешним сервисом как с REST-сервисом.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T141336Z" creationid="Марианна" creationdate="20200226T105059Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T141336Z" creationid="Марианна" creationdate="20200226T105059Z">
         <seg>The value of &lt;x9/&gt;plainXml&lt;x10/&gt; parameter enables to assign the mode of the external service operation as with REST service.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Значение зависит от веб-сервиса, к которому осуществляется подключение.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200226T104813Z" creationid="Марианна" creationdate="20200226T104813Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200226T104813Z" creationid="Марианна" creationdate="20200226T104813Z">
         <seg>The value depends on the Web service to which you are connecting.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Значение параметра используется в качестве составной части имен (name) элементов и атрибутов WSDL-описания веб-сервиса &lt;x3/&gt;Адаптера&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T134418Z" creationid="Марианна" creationdate="20200225T124548Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T134418Z" creationid="Марианна" creationdate="20200225T124548Z">
         <seg>The parameter value is used as a part of names (name) of items and attributes in WSDL description of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Значения &lt;x11/&gt;soap&lt;x12/&gt;, &lt;x13/&gt;soap12&lt;x14/&gt; параметра задают режим работы с внешним сервисом как с SOAP-сервисом в спецификациях 1.1 и 1.2 соответственно.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T141502Z" creationid="Марианна" creationdate="20200226T105319Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T141502Z" creationid="Марианна" creationdate="20200226T105319Z">
         <seg>The values of &lt;x11/&gt;soap&lt;x12/&gt;, &lt;x13/&gt;soap12&lt;x14/&gt; parameter enable to assign the mode of the external service operation as with SOAP service in Specifications 1.1 and 1.2 correspondingly.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Интерфейс &lt;x1/&gt;Конфигуратора&lt;x2/&gt; состоит из двух панелей.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200203T074026Z" creationid="Марианна" creationdate="20200203T074026Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200203T074026Z" creationid="Марианна" creationdate="20200203T074026Z">
         <seg>The &lt;x1/&gt;Configurator&lt;x2/&gt; interface consists of two panels.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Используется для работы с БКИ «ОКБ».</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200227T160213Z" creationid="Марианна" creationdate="20200227T160213Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200227T160213Z" creationid="Марианна" creationdate="20200227T160213Z">
         <seg>It is used in the process of work with credit reference bureau "UNITED CREDIT BUREAU". </seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Как правило, дополнительные файлы этих настроек размещаются в подкаталогах &lt;x13/&gt;Data&lt;x14/&gt; и &lt;x15/&gt;Certificates&lt;x16/&gt; каталога установки (по умолчанию это &lt;x17/&gt;C:\inetpub\wwwroot\LoginomAdapter\&lt;x18/&gt;).</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200206T081156Z" creationid="Марианна" creationdate="20200206T081156Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200206T081156Z" creationid="Марианна" creationdate="20200206T081156Z">
         <seg>As a rule, the additional files of such settings are placed into the following subdirectories: &lt;x13/&gt;Data&lt;x14/&gt; and &lt;x15/&gt;Certificates&lt;x16/&gt; of the installation directory (by default it is &lt;x17/&gt;C:\inetpub\wwwroot\LoginomAdapter\&lt;x18/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Конфигурация Loginom Adapter</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200205T055051Z" creationid="Марианна" creationdate="20200203T072253Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200205T055051Z" creationid="Марианна" creationdate="20200203T072253Z">
         <seg>Loginom Adapter Configuration </seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Корневой элемент &lt;x1/&gt;Настройки&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200205T060409Z" creationid="Марианна" creationdate="20200205T060409Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200205T060409Z" creationid="Марианна" creationdate="20200205T060409Z">
         <seg>The root element &lt;x1/&gt;Settings&lt;x2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Корневые элементы, обозначающие внешние сервисы, с которыми осуществляется взаимодействие (в конфигурации, представленной на рисунке 3, присутствуют три таких элемента: &lt;x1/&gt;DEMO&lt;x2/&gt;, &lt;x3/&gt;EquifaxFPS&lt;x4/&gt; , &lt;x5/&gt;NBCH&lt;x6/&gt;).</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200206T063856Z" creationid="Марианна" creationdate="20200205T061021Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200206T063856Z" creationid="Марианна" creationdate="20200205T061021Z">
         <seg>The root elements denoting the external services interacted with (the configuration shown in Figure 3 includes three such elements: &lt;x1/&gt;DEMO&lt;x2/&gt;, &lt;x3/&gt;EquifaxFPS&lt;x4/&gt; , &lt;x5/&gt;NBCH&lt;x6/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Методы, по которым осуществляется взаимодействие с соответствующими внешними сервисами, представлены подчиненными элементами с наименованиями методов (на рисунке 3 это элементы: &lt;x1/&gt;Value&lt;x2/&gt;, &lt;x3/&gt;processingApplicationRequest&lt;x4/&gt;, &lt;x5/&gt;deleteApplicationRequest&lt;x6/&gt; и другие).</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200206T065032Z" creationid="Марианна" creationdate="20200206T065032Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200206T065032Z" creationid="Марианна" creationdate="20200206T065032Z">
         <seg>Methods of interaction with the relevant external services are represented by subordinate elements with method names (there are the following elements in Figure 3: &lt;x1/&gt;Value&lt;x2/&gt;, &lt;x3/&gt;processingApplicationRequest&lt;x4/&gt;, &lt;x5/&gt;deleteApplicationRequest&lt;x6/&gt;, etc).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Может принимать значения: &lt;x3/&gt;default&lt;x4/&gt;, &lt;x5/&gt;experianEncoding&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200226T110237Z" creationid="Марианна" creationdate="20200226T110237Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200226T110237Z" creationid="Марианна" creationdate="20200226T110237Z">
         <seg>It can take the following values: &lt;x3/&gt;default&lt;x4/&gt;, &lt;x5/&gt;experianEncoding&lt;x6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Может принимать значения: &lt;x3/&gt;utf-8&lt;x4/&gt;, &lt;x5/&gt;windows-1251&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200226T110544Z" creationid="Марианна" creationdate="20200226T110514Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200226T110544Z" creationid="Марианна" creationdate="20200226T110514Z">
         <seg>It can take the following values: &lt;x3/&gt;utf-8&lt;x4/&gt;, &lt;x5/&gt;windows-1251&lt;x6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>На левой панели окна &lt;x3/&gt;Конфигуратора&lt;x4/&gt; располагается дерево навигации (см.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200203T075310Z" creationid="Марианна" creationdate="20200203T074642Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200203T075310Z" creationid="Марианна" creationdate="20200203T074642Z">
         <seg>The navigation tree is on the left window panel of the &lt;x3/&gt;Configurator&lt;x4/&gt; (refer to </seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>На этапе настройки рекомендуется включить режим отладки и логирование запросов и ответов.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T113002Z" creationid="Марианна" creationdate="20200225T123451Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T113002Z" creationid="Марианна" creationdate="20200225T123451Z">
         <seg>At the configuration stage, it is recommended to enable the debug mode and logging of requests and responses.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Настройки Loginom Adapter хранятся в xml-файле &lt;x1/&gt;Web.config&lt;x2/&gt;, редактирование которого осуществляется программой &lt;x3/&gt;Loginom Adapter Configurator&lt;x4/&gt; (далее по тексту &lt;x5/&gt;Конфигуратор&lt;x6/&gt;).</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200309T142544Z" creationid="Марианна" creationdate="20200203T072657Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200309T142544Z" creationid="Марианна" creationdate="20200203T072657Z">
         <seg>Loginom Adapter settings are in &lt;x1/&gt;Web.config&lt;x2/&gt; XML file edited by &lt;x3/&gt;Loginom Adapter Configurator&lt;x4/&gt; (hereafter referred to as the &lt;x5/&gt;Configurator&lt;x6/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Настройки метода взаимодействия с внешним сервисом&lt;x2/&gt;</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200227T161018Z" creationid="Марианна" creationdate="20200227T161018Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200227T161018Z" creationid="Марианна" creationdate="20200227T161018Z">
         <seg>Settings of method of interaction with the external service&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Настройки подключения к одному из внешних сервисов&lt;x2/&gt;</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200225T124213Z" creationid="Марианна" creationdate="20200225T124213Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T124213Z" creationid="Марианна" creationdate="20200225T124213Z">
         <seg>Settings of connection to one of the external services&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Необязательный параметр.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T143030Z" creationid="Марианна" creationdate="20200225T125538Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T143030Z" creationid="Марианна" creationdate="20200225T125538Z">
         <seg>The optional parameter.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Общие настройки представлены следующими параметрами:</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200221T072434Z" creationid="Марианна" creationdate="20200221T072434Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200221T072434Z" creationid="Марианна" creationdate="20200221T072434Z">
         <seg>The general settings are represented by the following parameters:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Общие настройки&lt;x2/&gt;</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200221T072407Z" creationid="Марианна" creationdate="20200221T072407Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200221T072407Z" creationid="Марианна" creationdate="20200221T072407Z">
         <seg>The general settings&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Обязательный параметр.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200225T125544Z" creationid="Марианна" creationdate="20200225T125351Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T125544Z" creationid="Марианна" creationdate="20200225T125351Z">
         <seg>The required parameter.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Описание параметров настроек</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200309T132835Z" creationid="Марианна" creationdate="20200201T112754Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200309T132835Z" creationid="Марианна" creationdate="20200201T112754Z">
         <seg>Description of the Configuration Parameters </seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Определяет вызываемый метод внешнего SOAP-сервиса.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200304T070444Z" creationid="Марианна" creationdate="20200304T070444Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200304T070444Z" creationid="Марианна" creationdate="20200304T070444Z">
         <seg>It defines the called method of the external SOAP service.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Параметр указывается в зависимости от требований к настройке соответствующего веб-сервиса.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T115546Z" creationid="Марианна" creationdate="20200304T070801Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T115546Z" creationid="Марианна" creationdate="20200304T070801Z">
         <seg>The parameter is specified under the requirements to the corresponding web service settings.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Параметры настроек методов взаимодействия с внешними сервисами</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T142013Z" creationid="Марианна" creationdate="20200227T160409Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T142013Z" creationid="Марианна" creationdate="20200227T160409Z">
         <seg>Setting Parameters of Methods of Interaction with the External Services </seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Параметры настроек подключения к внешним сервисам</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T133413Z" creationid="Марианна" creationdate="20200225T123940Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T133413Z" creationid="Марианна" creationdate="20200225T123940Z">
         <seg>Setting Parameters of Connection to the External Services</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Параметры общих настроек</seg>
       </tuv>
-      <tuv lang="en" changeid="zamaraev" changedate="20200403T125914Z" creationid="Марианна" creationdate="20200221T071943Z">
-        <seg>Parameters of the General Settings </seg>
+      <tuv lang="EN" changeid="mayorov" changedate="20200406T062929Z" creationid="Марианна" creationdate="20200221T071943Z">
+        <seg>Parameters of the General  Settings </seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Перечень (содержание столбца &lt;x1/&gt;Key&lt;x2/&gt;) параметров одинаков для подключений ко всем сервисам, и включает в себя следующие параметры:</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T113219Z" creationid="Марианна" creationdate="20200225T124345Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T113219Z" creationid="Марианна" creationdate="20200225T124345Z">
         <seg>The list of (content of the &lt;x1/&gt;Key&lt;x2/&gt; column) parameters is the same for connections to all services, and it includes the following parameters:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>По умолчанию используется &lt;x7/&gt;utf-8&lt;x8/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200226T110604Z" creationid="Марианна" creationdate="20200226T110604Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200226T110604Z" creationid="Марианна" creationdate="20200226T110604Z">
         <seg> &lt;x7/&gt;utf-8&lt;x8/&gt; is used by default.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Подобная структура предполагает, что внешних сервисов, с которыми работает &lt;x1/&gt;Адаптер&lt;x2/&gt;, может быть несколько, и для каждого внешнего сервиса может быть определено несколько методов.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200324T070643Z" creationid="Марианна" creationdate="20200206T065605Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200324T070643Z" creationid="Марианна" creationdate="20200206T065605Z">
         <seg>Such structure enables the &lt;x1/&gt;Adapter&lt;x2/&gt; to work with several external services and several methods can be defined for each external service.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Подробнее о применении и настройке данного параметра см.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T120020Z" creationid="Марианна" creationdate="20200309T125602Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T120020Z" creationid="Марианна" creationdate="20200309T125602Z">
         <seg>The detailed information on the application and configuration of this parameter is provided in</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Подробнее о работе параметров см.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T115829Z" creationid="Марианна" creationdate="20200309T123509Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T115829Z" creationid="Марианна" creationdate="20200309T123509Z">
         <seg>The detailed information on the application of the parameters is provided in</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Помимо предустановленных в процессе инсталляции папок и файлов, в процессе настройки &lt;x1/&gt;Адаптера&lt;x2/&gt; в каталоге установки могут быть размещены дополнительные файлы (сертификаты, XSD-схемы и т.п.), необходимые для работы с внешними сервисами.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200324T071021Z" creationid="Марианна" creationdate="20200206T075830Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200324T071021Z" creationid="Марианна" creationdate="20200206T075830Z">
         <seg>Apart from the folders and files pre-installed in the installation process, when configuring the &lt;x1/&gt;Adapter&lt;x2/&gt;, additional files (certificates, XSD schemas, etc.) required for the work with the external services can be placed into the installation directory.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Поскольку параметр используется в качестве составной части имен (name) элементов и атрибутов WSDL-описания, значение параметра подчиняется правилам именования элементов XML в соответствии со &lt;x9/&gt;спецификацией W3C&lt;x10/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T134907Z" creationid="Марианна" creationdate="20200227T162435Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T134907Z" creationid="Марианна" creationdate="20200227T162435Z">
         <seg>As the parameter is used as a part of names (name) of items and attributes of WSDL description, the parameter value is subject to the naming rules of XML elements under &lt;x9/&gt;W3C specification&lt;x10/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Последующие запросы к &lt;x7/&gt;Адаптеру&lt;x8/&gt; будут выполнены с учетом новых настроек.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200203T073947Z" creationid="Марианна" creationdate="20200203T073932Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200203T073947Z" creationid="Марианна" creationdate="20200203T073932Z">
         <seg>Subsequent requests to the &lt;x7/&gt;Adapter&lt;x8/&gt; will be executed taking into account the new settings.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>При выборе данного параметра нужно учитывать, что пользователь должен иметь право на чтение и запись в папку для лог-файлов.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T140302Z" creationid="Марианна" creationdate="20200221T074603Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T140302Z" creationid="Марианна" creationdate="20200221T074603Z">
         <seg>When selecting this parameter, it is required to take into account that the user must be entitled to read and write to the folder for log files. </seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>При значении &lt;x7/&gt;true&lt;x8/&gt; задействуется алгоритм преобразования ответа БКИ «НБКИ», в котором из XML ответа сервиса удаляется подпись сертификатом.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T115654Z" creationid="Марианна" creationdate="20200304T071055Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T115654Z" creationid="Марианна" creationdate="20200304T071055Z">
         <seg>In case of the &lt;x7/&gt;true&lt;x8/&gt; value, the algorithm of the response transformation of credit reference bureau "UNITED CREDIT BUREAU" in which the certificate signature is removed from XML service response is applied.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>При сохранении настроек &lt;x1/&gt;Конфигуратор&lt;x2/&gt; перезаписывает файл &lt;x3/&gt;Web.config&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200324T065345Z" creationid="Марианна" creationdate="20200203T073326Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200324T065345Z" creationid="Марианна" creationdate="20200203T073326Z">
         <seg>When saving the settings, the &lt;x1/&gt;Configurator&lt;x2/&gt; rewrites &lt;x3/&gt;Web.config&lt;x4/&gt; file.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>При установке по умолчанию &lt;x7/&gt;Конфигуратор&lt;x8/&gt; находится в папке &lt;x9/&gt;C:\inetpub\wwwroot\LoginomAdapter\Configurator\&lt;x10/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200324T065246Z" creationid="Марианна" creationdate="20200203T072917Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200324T065246Z" creationid="Марианна" creationdate="20200203T072917Z">
         <seg>When installing by default, the &lt;x7/&gt;Configurator&lt;x8/&gt; is in the following folder: &lt;x9/&gt;C:\inetpub\wwwroot\LoginomAdapter\Configurator\&lt;x10/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>При этом запросы, полученные &lt;x5/&gt;Адаптером&lt;x6/&gt; до этого, будут завершены со старыми настройками.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200203T073751Z" creationid="Марианна" creationdate="20200203T073751Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200203T073751Z" creationid="Марианна" creationdate="20200203T073751Z">
         <seg>The requests previously received by the &lt;x5/&gt;Adapter&lt;x6/&gt; will be completed with the old settings.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Применяется только для SOAP-сервисов.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200226T110744Z" creationid="Марианна" creationdate="20200226T110744Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200226T110744Z" creationid="Марианна" creationdate="20200226T110744Z">
         <seg>It is used only for SOAP services.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Пример команды:</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200309T123739Z" creationid="Марианна" creationdate="20200309T123739Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200309T123739Z" creationid="Марианна" creationdate="20200309T123739Z">
         <seg>The command example:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Пустое значение параметра равносильно &lt;x9/&gt;false&lt;x10/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200304T071650Z" creationid="Марианна" creationdate="20200304T071650Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200304T071650Z" creationid="Марианна" creationdate="20200304T071650Z">
         <seg>The parameter null value is equal to &lt;x9/&gt;false&lt;x10/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Работа параметров аналогична команде обработки запросов и описана в разделе &lt;x7/&gt;Настройка роли клиента внешних сервисов&lt;x8/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200324T062427Z" creationid="Марианна" creationdate="20200309T124710Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200324T062427Z" creationid="Марианна" creationdate="20200309T124710Z">
         <seg>The parameters application is similar to the request processing command and it is described in the following section: &lt;x7/&gt;Configuration of the Client Role of the External Services&lt;x8/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Сертификаты без закрытого ключа могут располагаться отдельным файлом по указанному в параметре &lt;x13/&gt;Путь к сертификату&lt;x14/&gt; месте файловой системы.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200324T061129Z" creationid="Марианна" creationdate="20200225T132849Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200324T061129Z" creationid="Марианна" creationdate="20200225T132849Z">
         <seg>The certificates without a private key can be placed into a separate file in the file system location specified by the &lt;x13/&gt;certificate Path&lt;x14/&gt; parameter.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Содержат параметры настроек, представленных в разделе &lt;x7/&gt;Параметры настроек методов взаимодействия с внешними сервисами&lt;x8/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200324T070027Z" creationid="Марианна" creationdate="20200206T065310Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200324T070027Z" creationid="Марианна" creationdate="20200206T065310Z">
         <seg>They contain parameters of the settings listed in the following section &lt;x7/&gt;Setting Parameters of Methods of Interaction with the External Services&lt;x8/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Содержат параметры настроек, представленных в разделе &lt;x7/&gt;Параметры настроек подключения к внешним сервисам&lt;x8/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200324T070328Z" creationid="Марианна" creationdate="20200206T064520Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200324T070328Z" creationid="Марианна" creationdate="20200206T064520Z">
         <seg>contain parameters of the settings listed in the following section: &lt;x7/&gt;Setting Parameters of Connection to the External Services&lt;x8/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Содержит параметры общих настроек &lt;x3/&gt;Адаптера&lt;x4/&gt;, представленных в разделе &lt;x5/&gt;Параметры общих настроек&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200324T070216Z" creationid="Марианна" creationdate="20200205T060719Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200324T070216Z" creationid="Марианна" creationdate="20200205T060719Z">
         <seg>contains parameters of the general settings of the &lt;x3/&gt;Adapter&lt;x4/&gt; represented in the following section: &lt;x5/&gt;Parameters of the General Settings&lt;x6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Схема описывает структуру XML-сообщений запросов и ответов веб-сервиса &lt;x3/&gt;Адаптера&lt;x4/&gt; и участвует в формировании WSDL-описания сервиса.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T113717Z" creationid="Марианна" creationdate="20200227T155723Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T113717Z" creationid="Марианна" creationdate="20200227T155723Z">
         <seg>The schema describes the structure of XML messages of requests and responses of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service and participates in the generation of WSDL service description.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Флаг нужно указывать для веб-сервисов, в WSDL-описании которых задана политика &lt;x5/&gt;UsingAddressing&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200226T105855Z" creationid="Марианна" creationdate="20200226T105855Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200226T105855Z" creationid="Марианна" creationdate="20200226T105855Z">
         <seg>It is required to place the flag for the Web services in WSDL description of which &lt;x5/&gt;UsingAddressing&lt;x6/&gt; policy is specified.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Элементы второго уровня:</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200206T064639Z" creationid="Марианна" creationdate="20200206T064639Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200206T064639Z" creationid="Марианна" creationdate="20200206T064639Z">
         <seg>The elements of the second level:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Элементы первого (корневого) уровня:</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200205T060322Z" creationid="Марианна" creationdate="20200205T060322Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200205T060322Z" creationid="Марианна" creationdate="20200205T060322Z">
         <seg>The elements of the first (root) level:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Эта информация выводится при запросе WSDL сервиса.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200225T123310Z" creationid="Марианна" creationdate="20200225T123310Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T123310Z" creationid="Марианна" creationdate="20200225T123310Z">
         <seg>This information is shown while requesting WSDL service.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Это позволит получить детальную информацию для решения возможных проблем с настройкой.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T113102Z" creationid="Марианна" creationdate="20200225T123529Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T113102Z" creationid="Марианна" creationdate="20200225T123529Z">
         <seg>It will enable you to get detailed information to resolve possible configuration problems.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>Это позволяет переносить &lt;x7/&gt;Адаптер&lt;x8/&gt; с одного компьютера на другой простым копированием папки с минимальным количеством перенастроек.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200324T071549Z" creationid="Марианна" creationdate="20200206T082306Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200324T071549Z" creationid="Марианна" creationdate="20200206T082306Z">
         <seg>It enables to transfer the &lt;x7/&gt;Adapter&lt;x8/&gt; from one computer to another just copying the folder with the minimum reconfiguration number.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>в разделе &lt;x7/&gt;Настройка роли клиента внешних сервисов&lt;x8/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200324T062342Z" creationid="Марианна" creationdate="20200309T123521Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200324T062342Z" creationid="Марианна" creationdate="20200309T123521Z">
         <seg>the following section: &lt;x7/&gt;Configuration of the Client Role of the External Services&lt;x8/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>раздел &lt;x3/&gt;Настройка роли клиента внешних сервисов&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200324T062444Z" creationid="Марианна" creationdate="20200309T125628Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200324T062444Z" creationid="Марианна" creationdate="20200309T125628Z">
         <seg>the following section: &lt;x3/&gt;Configuration of the Client Role of the External Services&lt;x4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>размер входящего сообщения&lt;x2/&gt; — максимально допустимый размер входящего xml-сообщения в байтах (по умолчанию 10 Мб).</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200311T113110Z" creationid="Марианна" creationdate="20200225T123755Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200311T113110Z" creationid="Марианна" creationdate="20200225T123755Z">
         <seg>size of the incoming message &lt;x2/&gt; — the maximum allowed size of the incoming XML message in bytes (by default - 10 MB).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>рисунок 3), отображающее структуру настроек, на правой — сами настройки.</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200203T075336Z" creationid="Марианна" creationdate="20200203T075256Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200203T075336Z" creationid="Марианна" creationdate="20200203T075256Z">
         <seg>Figure 3). It reflects the settings structure. The settings as such are on the right panel.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>рисунок 4).</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200221T072333Z" creationid="Марианна" creationdate="20200221T072333Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200221T072333Z" creationid="Марианна" creationdate="20200221T072333Z">
         <seg>Figure 4).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>рисунок 5).</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200225T124135Z" creationid="Марианна" creationdate="20200225T124135Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200225T124135Z" creationid="Марианна" creationdate="20200225T124135Z">
         <seg>Figure 5).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>рисунок 6).</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200227T160651Z" creationid="Марианна" creationdate="20200227T160651Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200227T160651Z" creationid="Марианна" creationdate="20200227T160651Z">
         <seg>Figure 6).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="ru">
+      <tuv lang="RU">
         <seg>также раздел &lt;x11/&gt;Работа с сертификатами&lt;x12/&gt;).</seg>
       </tuv>
-      <tuv lang="en" changeid="Марианна" changedate="20200324T062308Z" creationid="Марианна" creationdate="20200226T104455Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200324T062308Z" creationid="Марианна" creationdate="20200226T104455Z">
         <seg>the &lt;x11/&gt;Certificates Operation&lt;x12/&gt; section).</seg>
       </tuv>
     </tu>
