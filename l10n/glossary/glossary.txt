@@ -24,7 +24,6 @@ String	String	последовательность символов.
 Указано	Specified
 Явно заданное	Explicitly given
 Уровень логирования	Logging level
-Номер вхождения	Occurrence number
 Выходной набор	Output data set
 Число e	e constant
 В заданной степени	In the given degree
@@ -47,8 +46,8 @@ String	String	последовательность символов.
 Настройка	Configure, configuring
 Настройки	Settings
 Общая папка	Shared folder
-Запрос	Request
-Запрос	Query
+Запрос	Request	Запрос данных по сети SOAP Request , REST Request...
+Запрос	Query	Запрос к базе данных
 Синхронизатор	Synchronizer
 Исследование	Exploration
 Подмножество	Subset
@@ -96,7 +95,8 @@ String	String	последовательность символов.
 Соединение (переменные)	Variable Union
 Объединение	Union
 Источник данных для выравнивания	Data source for appending
-Факт	Measure	В Кубе факт переводится как measure. В хранилище данных переводится как fact.
+Факт	Measure	В Кубе и в Кросс-таблице
+Факт	Fact	В хранилище данных
 Искать с начала	Find first
 Поиск	Search
 Временный факт	Temporary measure
@@ -163,7 +163,7 @@ XSD-схема на входе	Input XSD schema
 Отменить выбор выделенных	Uncheck selected
 Количество строк данных	Row count
 Гистограмма	Histogram
-Доля	Weight
+Доля	Weight	Конечные классы
 Перейти к строке	Go to row
 Режим включенных/исключенных значений	Inclusive/exclusive filter
 Время жизни на время транзакции при неактивности	Idle-in-transaction timeout
@@ -241,7 +241,8 @@ OPR (Усредненная точность прогноза)	OPR (Overall Prec
 Видимость	Visibility
 Подмодель	Supernode
 Настроить область видимости	Configure the area of visibility
-Значимость	Significance
+Значимость	Significance	Статистика
+Значимость	Importance	Профили кластеров
 Установленный фильтр	Enabled filter
 Увеличить разрядность	Increase decimal
 Уменьшить разрядность	Decrease decimal
@@ -282,10 +283,10 @@ OPR (Усредненная точность прогноза)	OPR (Overall Prec
 Имя класса отображения	View class name
 Тип представления значения	Value view type
 Куб	Cube
-Кросс-таблица	Cross Table
+Кросс-таблица	Cross table
 Свертка столбцов	Unpivoting
 Многомерное отображение	Multidimensional data view	View, так как viewer - один из режимов Loginom
-Кросс-таблица и кросс-диаграмма	Pivot table and pivot chart
+Кросс-диаграмма	Cross chart
 Далее приводится….	The following is …
 Текст ответа Json	Json response body
 Вид данных	Data kind
@@ -350,7 +351,6 @@ OPR (Усредненная точность прогноза)	OPR (Overall Prec
 Вложенные ресиверы	Nested receivers
 Кросс-валидация	Cross validation
 Произошёл разрыв связи с сервером	Server connection lost
-Неизвестный тип описателя соединения	Unknown coupler type
 Не задано	Unspecified
 Источник истинной доли событий	Prior probability event source
 Индекс выходного набора	Output data set index
@@ -366,3 +366,18 @@ OPR (Усредненная точность прогноза)	OPR (Overall Prec
 Коэффициент Тау-b Кендалла	Kendall's Tau-b coefficient
 Автоматическая синхронизация	Automapping	Не автоматическая настройка
 P-значение	P-value
+Внешние факторы (ARIMAX)	Exogenous factors (ARIMAX)
+Вес	Weight	В контексте coarse classes
+Сокет	Socket
+Порт	Port
+Представление	Representation	Результат преобразования данных к другому типу данных с изменением свойств
+Представление	Display	1. относится к отображению данных на экране; формат данных = Display format 2. в Кубе Display - отображение факта, еще не утверждено
+Представление	View	визуализатор; отчеты
+Режим просмотра отчетов	Reports view mode
+Режим разработки сценария	Design mode
+Интерактивный	Interactive
+Выполнение	Execution
+Номер	#	Относится только к страницам Excel
+Номер	No	Заголовок в гриде
+Некорректный ответ от сервера	Bad server response
+
