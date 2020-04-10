@@ -497,6 +497,11 @@
       </tuv>
     </tu>
     <tu>
+      <note>To display the &lt;x1/&gt;Adapter&lt;x2/&gt; general settings, selection of the &lt;x3/&gt;Settings&lt;x4/&gt; item in the navigation tree is required (refer to &lt;segment 0003 ¶&gt; &lt;segment 0003 ¶&gt;
+
+1. To display the settings of connection to the external service, selection of the corresponding item in the navigation tree is required. (refer to &lt;50/50/66% &gt;
+
+2. To display the settings of methods of interaction with the external service, selection of the corresponding item in the settings tree is required. (refer to &lt;38/41/60% &gt;</note>
       <tuv lang="RU">
         <seg>Для отображения общих настроек &lt;x1/&gt;Адаптера&lt;x2/&gt; необходимо выделить элемент &lt;x3/&gt;Настройки&lt;x4/&gt; в дереве навигации (см.</seg>
       </tuv>
@@ -721,6 +726,10 @@
       </tuv>
     </tu>
     <tu>
+      <note>I would change 1. to "General Settings Parameters"
+2. "Navigation Tree Settings"
+3. and 4. are fine
+</note>
       <tuv lang="RU">
         <seg>Описание параметров настроек</seg>
       </tuv>
@@ -761,6 +770,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>Heading &amp; Item 1. is good
+2. Navigation Tree Settings
+3. &amp; 4 good.
+
+From now on, I will only mention the sections of text that I require a tweak.
+</note>
       <tuv lang="RU">
         <seg>Параметры общих настроек</seg>
       </tuv>
