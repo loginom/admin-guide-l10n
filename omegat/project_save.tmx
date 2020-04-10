@@ -161,12 +161,14 @@
       </tuv>
     </tu>
     <tu>
-      <note>&lt;x1/&gt;Log request&lt;x2/&gt; — the flag that shows the requirement to save XML request to the &lt;x3/&gt;Adapter&lt;x4/&gt; in the log.&lt;segment 0012 ¶&gt;
+      <note>&lt;x1/&gt;Log request&lt;x2/&gt; — the flag that shows the requirement to save the XML request to the &lt;x3/&gt;Adapter&lt;x4/&gt; in the log.&lt;segment 0012 ¶&gt;
 
-&lt;x1/&gt;Log response&lt;x2/&gt; — the flag that shows the requirement to save the &lt;x3/&gt;Adapter&lt;x4/&gt; XML responses in the log.
-&lt;80/69/87% &gt;
+added definite article to "XML request"
 
-I try to limit repetition of relative pronouns in restrictive and non-restrictive clauses, where possible, in the same sentence. It's not that it isn'y grammatical; it's just that less is more if you can convey the same meaning using one less clause. </note>
+&lt;x1/&gt;Log response&lt;x2/&gt; — the flag that shows the requirement to save the &lt;x3/&gt;Adapter&lt;x4/&gt; XML responses in the log.&lt;80/69/87% &gt;
+
+
+I try to limit repetition of relative pronouns in restrictive and non-restrictive clauses, where possible, in the same sentence. It's not that it isn't grammatical; it's just that less is more if you can convey the same meaning using one less clause. </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Логировать запрос&lt;x2/&gt; — флаг, указывающий, что в лог необходимо сохранять xml-запрос к &lt;x3/&gt;Адаптеру&lt;x4/&gt;.</seg>
       </tuv>
