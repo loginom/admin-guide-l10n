@@ -177,9 +177,9 @@ I try to limit repetition of relative pronouns in restrictive and non-restrictiv
       </tuv>
     </tu>
     <tu>
-      <note>&lt;x1/&gt;Log response&lt;x2/&gt; — the flag which shows that it is required to save the &lt;x3/&gt;Adapter&lt;x4/&gt; XML responses in the log.&lt;segment 0014 ¶&gt;
+      <note>&lt;x1/&gt;Log response&lt;x2/&gt; — the flag that shows the requirement to save the &lt;x3/&gt;Adapter&lt;x4/&gt; XML responses in the log.&lt;segment 0014 ¶&gt;
 
-&lt;x1/&gt;Log request&lt;x2/&gt; — the flag wbich shows that it is required to save XML request to the &lt;x3/&gt;Adapter&lt;x4/&gt; in the log.
+&lt;x1/&gt;Log request&lt;x2/&gt; — the flag that shows the requirement to save XML request to the &lt;x3/&gt;Adapter&lt;x4/&gt; in the log.
 &lt;80/69/87% &gt;</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Логировать ответ&lt;x2/&gt; — флаг, указывающий, что в лог необходимо сохранять xml ответы &lt;x3/&gt;Адаптера&lt;x4/&gt;.</seg>
@@ -293,6 +293,7 @@ I try to limit repetition of relative pronouns in restrictive and non-restrictiv
       </tuv>
     </tu>
     <tu>
+      <note>&lt;x1/&gt;Debug mode&lt;x2/&gt; — the flag that shows the requirement to display the debugging information in case of errors during the &lt;x3/&gt;Adapter&lt;x4/&gt; usage.&lt;segment 0016 ¶&gt;</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Режим отладки&lt;x2/&gt; — флаг, указывающий, что при ошибках в работе &lt;x3/&gt;Адаптера&lt;x4/&gt; следует выдавать отладочную информацию.</seg>
       </tuv>
