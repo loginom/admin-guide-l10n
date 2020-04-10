@@ -169,6 +169,10 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;x1/&gt;Log response&lt;x2/&gt; — the flag which shows that it is required to save the &lt;x3/&gt;Adapter&lt;x4/&gt; XML responses in the log.&lt;segment 0014 ¶&gt;
+
+&lt;x1/&gt;Log request&lt;x2/&gt; — the flag wbich shows that it is required to save XML request to the &lt;x3/&gt;Adapter&lt;x4/&gt; in the log.
+&lt;80/69/87% &gt;</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Логировать ответ&lt;x2/&gt; — флаг, указывающий, что в лог необходимо сохранять xml ответы &lt;x3/&gt;Адаптера&lt;x4/&gt;.</seg>
       </tuv>
