@@ -83,7 +83,10 @@
     <tu>
       <note>&lt;x1/&gt;targetNamespace в WSDL&lt;x2/&gt; — the value is taken from the similarly-named attribute of the WSDL description of the external service.&lt;segment 0063 ¶&gt;
 
-*"the WSDL"</note>
+*"the WSDL"
+
+This parameter must contain the method name taken from the WSDL description of the SOAP service.
+&lt;30/25/42% &gt;</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;targetNamespace в WSDL&lt;x2/&gt; — значение берется из одноименного атрибута WSDL-описания внешнего сервиса.</seg>
       </tuv>
