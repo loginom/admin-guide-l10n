@@ -361,6 +361,10 @@ I try to limit repetition of relative pronouns in restrictive and non-restrictiv
       </tuv>
     </tu>
     <tu>
+      <note>&lt;x1/&gt;Message format&lt;x2/&gt; can take one of three values: &lt;x3/&gt;plainXml&lt;x4/&gt;, &lt;x5/&gt;soap&lt;x6/&gt;, or &lt;x7/&gt;soap12&lt;x8/&gt;.&lt;segment 0049 ¶&gt;
+
+1. &lt;x1/&gt;The certificate store&lt;x2/&gt; — one of three values can be taken: &lt;x3/&gt;none&lt;x4/&gt;, &lt;x5/&gt;currentUser&lt;x6/&gt;, or &lt;x7/&gt;localMachine&lt;x8/&gt;.
+&lt;44/54/85% &gt;</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Формат сообщения&lt;x2/&gt; — может принимать одно из трех значений: &lt;x3/&gt;plainXml&lt;x4/&gt;, &lt;x5/&gt;soap&lt;x6/&gt;, &lt;x7/&gt;soap12&lt;x8/&gt;.</seg>
       </tuv>
