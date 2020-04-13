@@ -435,6 +435,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>This type of header can include additional information (e.g., user name, password, etc.).&lt;segment 0059&gt;</note>
       <tuv lang="RU">
         <seg>В таком заголовке может передаваться дополнительная информация (например, имя пользователя, пароль и т.д.).</seg>
       </tuv>
