@@ -57,6 +57,9 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;x1/&gt;Certificate signed XML message &lt;x2/&gt; — takes &lt;x3/&gt;true&lt;x4/&gt;, or &lt;x5/&gt;false&lt;x6/&gt; values.&lt;segment 0092 ¶&gt;
+
+*"or" added, consistent with its use already in Subheading 1. </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;XML-сообщение подписано сертификатом&lt;x2/&gt; — принимает значения &lt;x3/&gt;true&lt;x4/&gt;, &lt;x5/&gt;false&lt;x6/&gt;.</seg>
       </tuv>
