@@ -654,6 +654,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>It is used in the process of work with credit reference bureau: "UNITED CREDIT BUREAU". &lt;segment 0070&gt;</note>
       <tuv lang="RU">
         <seg>Используется для работы с БКИ «ОКБ».</seg>
       </tuv>
@@ -718,7 +719,10 @@
       </tuv>
     </tu>
     <tu>
-      <note>It can take the following values: &lt;x3/&gt;utf-8&lt;x4/&gt;, and/or &lt;x5/&gt;windows-1251&lt;x6/&gt;.&lt;segment 0061&gt;</note>
+      <note>It can take the following values: &lt;x3/&gt;utf-8&lt;x4/&gt;, and/or &lt;x5/&gt;windows-1251&lt;x6/&gt;.&lt;segment 0061&gt;
+
+1. It can take the following values: &lt;x3/&gt;default&lt;x4/&gt;, and/or&lt;x5/&gt;experianEncoding&lt;x6/&gt;.
+&lt;50/60/70% &gt;</note>
       <tuv lang="RU">
         <seg>Может принимать значения: &lt;x3/&gt;utf-8&lt;x4/&gt;, &lt;x5/&gt;windows-1251&lt;x6/&gt;.</seg>
       </tuv>
