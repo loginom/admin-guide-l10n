@@ -25,6 +25,16 @@
       </tuv>
     </tu>
     <tu>
+      <note>"C:\Program Files\7-Zip\7z" e "%inputFile%" -so &gt; "%outputFile%"
+
+// templates %inputFile% and %outputFile% are replaced with the parameters values while the command
+// "The response file source name" and "The resulting name of the response file", is executed correspondingly.&lt;segment 0106 ¶&gt;
+
+1. "C:\Program Files\7-Zip\7z" a -tzip "%outputFile%" "%inputFile%"
+
+// templates %inputFile% and %outputFile% are replaced with the parameters values while the command
+// "The request file source name" and "The resulting name of the request file", is executed correspondingly.
+&lt;76/79/85% </note>
       <tuv lang="RU">
         <seg>"C:\Program Files\7-Zip\7z" e "%inputFile%" -so &gt; "%outputFile%"
 
