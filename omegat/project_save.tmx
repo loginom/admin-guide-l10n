@@ -261,6 +261,14 @@ I try to limit repetition of relative pronouns in restrictive and non-restrictiv
       </tuv>
     </tu>
     <tu>
+      <note>&lt;x1/&gt;Note&lt;x2/&gt;: specifying the certificate path, it is allowed to use both absolute (including the drive letter) and relative paths.&lt;segment 0039 ¶&gt;
+
+*Comma added
+
+1. It is allowed to use both absolute paths to the additional files (stating the drive letter), and the relative paths specified according to the location of &lt;x3/&gt;Web.config&lt;x4/&gt; in &lt;x1/&gt;Web.config&lt;x2/&gt; file.
+&lt;35/39/48% &gt;
+
+*Comma added after parentheses </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: при указании пути к сертификату допустимо использование как абсолютных путей (с указанием буквы диска), так и относительных.</seg>
       </tuv>
