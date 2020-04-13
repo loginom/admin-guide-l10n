@@ -690,6 +690,14 @@
       </tuv>
     </tu>
     <tu>
+      <note>It can take the following values: &lt;x3/&gt;default&lt;x4/&gt;, and &lt;x5/&gt;experianEncoding&lt;x6/&gt;.&lt;segment 0056&gt;
+
+*and
+
+1. It can take the following values: &lt;x3/&gt;utf-8&lt;x4/&gt;, and &lt;x5/&gt;windows-1251&lt;x6/&gt;.
+&lt;50/60/70% &gt;
+
+*and</note>
       <tuv lang="RU">
         <seg>Может принимать значения: &lt;x3/&gt;default&lt;x4/&gt;, &lt;x5/&gt;experianEncoding&lt;x6/&gt;.</seg>
       </tuv>
