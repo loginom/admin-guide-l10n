@@ -84,10 +84,6 @@
       </tuv>
     </tu>
     <tu>
-      <note>&lt;x1/&gt;XSLT for the incoming message transformation before it is transferred&lt;x2/&gt; — the path to corresponding files of XSLT transformations is specified.&lt;segment 0107 ¶&gt;
-
-
-Subheadin 1. okay</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;XSLT для трансформации входящего сообщения перед передачей&lt;x2/&gt; — указывается путь к соответствующим файлам xslt-преобразований.</seg>
       </tuv>
