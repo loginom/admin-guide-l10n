@@ -515,6 +515,11 @@ all else okay</note>
       </tuv>
     </tu>
     <tu>
+      <note>This parameter must contain the method name taken from WSDL description of the SOAP service.&lt;segment 0090&gt;
+
+*the SOAP service
+
+subheadings 1-3 okay</note>
       <tuv lang="RU">
         <seg>Данный параметр должен содержать наименование метода из wsdl-описания SOAP-сервиса.</seg>
       </tuv>
