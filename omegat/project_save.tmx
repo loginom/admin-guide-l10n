@@ -293,6 +293,9 @@ all else okay</note>
       </tuv>
     </tu>
     <tu>
+      <note>&lt;x1/&gt;Note&lt;x2/&gt;: the path to XSD schema is specified in the following parameter: &lt;x3/&gt;The schema to which the service description will refer&lt;x4/&gt;.&lt;segment 0097 ¶&gt;
+
+*redundant "to" at the end of the sentence removed</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: путь к XSD-схеме указывается в параметре &lt;x3/&gt;Схема, на которую будет ссылаться описание сервиса&lt;x4/&gt;.</seg>
       </tuv>
