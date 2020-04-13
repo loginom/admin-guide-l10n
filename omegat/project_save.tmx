@@ -533,6 +533,12 @@ This parameter must contain the method name taken from the WSDL description of t
       </tuv>
     </tu>
     <tu>
+      <note>3. Setting Parameters of methods of interaction with the external services 
+&lt;38/23/28% &gt;
+
+*applying consistency to capitalisation by removing the capitalisation for the terms not capitalised in other sections. 
+
+everything else okay</note>
       <tuv lang="RU">
         <seg>Для отображения настроек методов взаимодействия с внешним сервисом необходимо выделить соответствующий ему элемент в дереве настроек (см.</seg>
       </tuv>
