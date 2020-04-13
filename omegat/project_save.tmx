@@ -135,6 +135,12 @@ This parameter must contain the method name taken from the WSDL description of t
       </tuv>
     </tu>
     <tu>
+      <note>1. If this parameter is left empty, to form the item names in WSDL, the &lt;x7/&gt;Method name&lt;x8/&gt; parameter is used.
+&lt;31/29/39% &gt;
+
+*added comma to separate sentence clause for clarity
+
+all else okay</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Имя метода в Loginom Adapter&lt;x2/&gt; — используется для формирования имен элементов в WSDL-описании веб-сервиса в случае совпадения значений параметра &lt;x3/&gt;Имя метода&lt;x4/&gt; для различных методов конфигурации &lt;x5/&gt;Адаптера&lt;x6/&gt;.</seg>
       </tuv>
@@ -590,6 +596,11 @@ everything else okay</note>
       </tuv>
     </tu>
     <tu>
+      <note>If this parameter is left empty, to form the item names in WSDL, the &lt;x7/&gt;Method name&lt;x8/&gt; parameter is used.&lt;segment 0081&gt;
+
+*added comma to divide sentence clause
+
+subheading text 1. okay</note>
       <tuv lang="RU">
         <seg>Если оставить данный параметр пустым, то для формирования имен элементов в WSDL используется параметр &lt;x7/&gt;Имя метода&lt;x8/&gt;.</seg>
       </tuv>
