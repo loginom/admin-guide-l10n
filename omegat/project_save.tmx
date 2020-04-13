@@ -89,6 +89,14 @@
       </tuv>
     </tu>
     <tu>
+      <note>&lt;x1/&gt;The incoming message header&lt;x2/&gt; is used for credit reference bureau: "UNITED CREDIT BUREAU".&lt;segment 0058 ¶&gt;
+
+*colon added
+
+1. It is used in the process of work with credit reference bureau: "UNITED CREDIT BUREAU". 
+&lt;33/28/50% &gt;
+
+*Ibid</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Заголовок входящего сообщения&lt;x2/&gt; — применяется для БКИ «ОКБ».</seg>
       </tuv>
