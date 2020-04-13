@@ -345,7 +345,6 @@
       </tuv>
     </tu>
     <tu>
-      <note>&lt;x1/&gt;The schema referenced by the service description &lt;x2/&gt; — it specifies the path to the XSD schema of the service description.&lt;segment 0065 ¶&gt;</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Схема, на которую будет ссылаться описание сервиса&lt;x2/&gt; — задает путь к XSD-схеме описания сервиса.</seg>
       </tuv>
@@ -1026,6 +1025,9 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
     </tu>
     <tu>
+      <note>The schema describes the structure of XML messages of requests and responses of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service, and participates in the generation of WSDL service description.&lt;segment 0066&gt;
+
+*+comma</note>
       <tuv lang="RU">
         <seg>Схема описывает структуру XML-сообщений запросов и ответов веб-сервиса &lt;x3/&gt;Адаптера&lt;x4/&gt; и участвует в формировании WSDL-описания сервиса.</seg>
       </tuv>
