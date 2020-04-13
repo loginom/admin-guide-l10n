@@ -213,6 +213,9 @@ I try to limit repetition of relative pronouns in restrictive and non-restrictiv
       </tuv>
     </tu>
     <tu>
+      <note>&lt;x1/&gt;The special message format&lt;x2/&gt; is used for Web services with nonstandard message format, in particular, for credit reference bureau "UNITED CREDIT BUREAU".&lt;segment 0055 ¶&gt;
+
+1. It is used in the process of work with the credit reference bureau "UNITED CREDIT BUREAU". &lt;25/31/35% &gt;</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Особый формат сообщения&lt;x2/&gt; — используется для веб-сервисов с нестандартным форматом сообщений, в частности для БКИ «ОКБ».</seg>
       </tuv>
@@ -1022,6 +1025,9 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
     </tu>
     <tu>
+      <note>It is required to place the flag for the Web services in WSDL description, of which &lt;x5/&gt;UsingAddressing&lt;x6/&gt; policy is specified.&lt;segment 0054&gt;
+
+*Comma added</note>
       <tuv lang="RU">
         <seg>Флаг нужно указывать для веб-сервисов, в WSDL-описании которых задана политика &lt;x5/&gt;UsingAddressing&lt;x6/&gt;.</seg>
       </tuv>
