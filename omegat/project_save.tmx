@@ -767,6 +767,7 @@ everything else okay</note>
       </tuv>
     </tu>
     <tu>
+      <note>No capitalisation for 2., but 5. has capitalisation " Connection to the External Services"?</note>
       <tuv lang="RU">
         <seg>Настройки метода взаимодействия с внешним сервисом&lt;x2/&gt;</seg>
       </tuv>
