@@ -1045,6 +1045,20 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
     </tu>
     <tu>
+      <note>The parameters application is similar to the request processing command, and it is described in the following section: &lt;x7/&gt;Configuration of the Client Role of the External Services&lt;x8/&gt;.&lt;segment 0104&gt;
+
+*comma added to separate clause
+
+1. The following section: &lt;x7/&gt;Configuration of the Client Role of the External Services&lt;x8/&gt;.
+&lt;46/46/50% &gt;
+
+2. The following section: &lt;x3/&gt;Configuration of the Client Role of the External Services&lt;x4/&gt;.
+&lt;46/33/34% &gt;
+
+3. Contain parameters of the settings listed in the following section: &lt;x7/&gt;Setting Parameters of Connection to the External Services&lt;x8/&gt;.
+&lt;30/6/40% &gt;
+
+*capitalisation added at the start of each subheading</note>
       <tuv lang="RU">
         <seg>Работа параметров аналогична команде обработки запросов и описана в разделе &lt;x7/&gt;Настройка роли клиента внешних сервисов&lt;x8/&gt;.</seg>
       </tuv>
