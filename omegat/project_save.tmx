@@ -5,6 +5,12 @@
   <body>
 <!-- Default translations -->
     <tu>
+      <note>// templates %inputFile% and %outputFile% are replaced with the parameters values while the command
+// "The request file source name" and "The resulting name of the request file", are executed correspondingly.&lt;segment 0102 ¶&gt;
+
+1. // templates %inputFile% and %outputFile% are replaced with the parameters values while the command
+// "The response file source name" and "The resulting name of the response file", are executed correspondingly.
+&lt;76/79/85% &gt;</note>
       <tuv lang="RU">
         <seg>"C:\Program Files\7-Zip\7z" a -tzip "%outputFile%" "%inputFile%"
 
