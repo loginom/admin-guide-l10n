@@ -633,9 +633,9 @@ I try to limit repetition of relative pronouns in restrictive and non-restrictiv
       </tuv>
     </tu>
     <tu>
-      <note>The values of &lt;x11/&gt;soap&lt;x12/&gt;, &lt;x13/&gt;soap12&lt;x14/&gt; parameter enable assignment of mode of the external service operation, as with SOAP service in Specifications 1.1 and 1.2 correspondingly.&lt;segment 0052&gt;
+      <note>The values of &lt;x11/&gt;soap&lt;x12/&gt;, &lt;x13/&gt;soap12&lt;x14/&gt; parameter enables assignment of mode of the external service operation, as with SOAP service in Specifications 1.1 and 1.2 correspondingly.&lt;segment 0052&gt;
 
-1. The value of &lt;x9/&gt;plainXml&lt;x10/&gt; parameter enables to assign the mode of the external service operation, as with REST service. &lt;66/52/46% &gt;</note>
+1. The value of &lt;x9/&gt;plainXml&lt;x10/&gt; parameter enables assignment of mode of the external service operation, as with REST service. &lt;66/52/46% &gt;</note>
       <tuv lang="RU">
         <seg>Значения &lt;x11/&gt;soap&lt;x12/&gt;, &lt;x13/&gt;soap12&lt;x14/&gt; параметра задают режим работы с внешним сервисом как с SOAP-сервисом в спецификациях 1.1 и 1.2 соответственно.</seg>
       </tuv>
