@@ -292,7 +292,6 @@
       </tuv>
     </tu>
     <tu>
-      <note>&lt;x1/&gt;Debug mode&lt;x2/&gt; — the flag that shows the requirement to display the debugging information in case of errors during the &lt;x3/&gt;Adapter&lt;x4/&gt; usage.&lt;segment 0016 ¶&gt;</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Режим отладки&lt;x2/&gt; — флаг, указывающий, что при ошибках в работе &lt;x3/&gt;Адаптера&lt;x4/&gt; следует выдавать отладочную информацию.</seg>
       </tuv>
@@ -1122,6 +1121,9 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
     </tu>
     <tu>
+      <note>The &lt;x11/&gt;Certificates Operation&lt;x12/&gt; section).&lt;segment 0048&gt;
+
+*capitalised "the"</note>
       <tuv lang="RU">
         <seg>также раздел &lt;x11/&gt;Работа с сертификатами&lt;x12/&gt;).</seg>
       </tuv>
