@@ -715,6 +715,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>It can take the following values: &lt;x3/&gt;utf-8&lt;x4/&gt;, and/or &lt;x5/&gt;windows-1251&lt;x6/&gt;.&lt;segment 0061&gt;</note>
       <tuv lang="RU">
         <seg>Может принимать значения: &lt;x3/&gt;utf-8&lt;x4/&gt;, &lt;x5/&gt;windows-1251&lt;x6/&gt;.</seg>
       </tuv>
