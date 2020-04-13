@@ -837,6 +837,10 @@ This parameter must contain the method name taken from the WSDL description of t
       </tuv>
     </tu>
     <tu>
+      <note>4. Contain parameters of the settings listed in the following section: &lt;x7/&gt;Setting Parameters of Connection to the External Services&lt;x8/&gt;.
+&lt;40/16/29% &gt;
+
+*Capitalisation added. All other sections okay</note>
       <tuv lang="RU">
         <seg>Параметры настроек методов взаимодействия с внешними сервисами</seg>
       </tuv>
