@@ -585,13 +585,9 @@
 1. The values of &lt;x11/&gt;soap&lt;x12/&gt;, &lt;x13/&gt;soap12&lt;x14/&gt; parameter enables assignment of mode of the external service operation, as with SOAP service in Specifications 1.1 and 1.2 correspondingly.
 &lt;66/52/46% &gt;
 
-2. Setting Parameters of Methods of Interaction with the External Services &lt;30/7/26% &gt;
+2. Setting Parameters of Methods of Interaction with the External Services &lt;30/7/26% &gt; (no change)
 
-(no change)
-
-3. Setting Parameters of Connection to the External Services &lt;30/7/23% &gt;
-
-(no change)
+3. Setting Parameters of Connection to the External Services &lt;30/7/23% &gt; (no change)
 
 </note>
       <tuv lang="RU">
