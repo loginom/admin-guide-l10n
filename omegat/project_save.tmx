@@ -688,12 +688,12 @@ The parameter value is used as a part of the names (name) of items and attribute
 &lt;52/48/50% &gt;
 
 Marianna: 
-OK, I have got it. The WSDL description everywhere. Corrected. </note>
+OK, I have got it. The WSDL description everywhere. And the names (name). Corrected. </note>
       <tuv lang="RU">
         <seg>Значение параметра используется в качестве составной части имен (name) элементов и атрибутов WSDL-описания веб-сервиса &lt;x3/&gt;Адаптера&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200421T104255Z" creationid="Марианна" creationdate="20200225T124548Z">
-        <seg>The parameter value is used as a part of names (name) of items and attributes in the WSDL description of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T104833Z" creationid="Марианна" creationdate="20200225T124548Z">
+        <seg>The parameter value is used as a part of the names (name) of items and attributes in the WSDL description of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service.</seg>
       </tuv>
     </tu>
     <tu>
