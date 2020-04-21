@@ -764,7 +764,11 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>It is used in the process of work with credit reference bureau: "UNITED CREDIT BUREAU". &lt;segment 0070&gt;</note>
+      <note>Andrew:
+It is used in the process of work with credit reference bureau: "UNITED CREDIT BUREAU". &lt;segment 0070&gt;
+
+Marianna:
+No changes.</note>
       <tuv lang="RU">
         <seg>Используется для работы с БКИ «ОКБ».</seg>
       </tuv>
@@ -958,10 +962,14 @@ Marianna:
       </tuv>
     </tu>
     <tu>
-      <note>4. Contain parameters of the settings listed in the following section: &lt;x7/&gt;Setting Parameters of Connection to the External Services&lt;x8/&gt;.
+      <note>Andrew:
+4. Contain parameters of the settings listed in the following section: &lt;x7/&gt;Setting Parameters of Connection to the External Services&lt;x8/&gt;.
 &lt;40/16/29% &gt;
 
-*Capitalisation added. All other sections okay</note>
+*Capitalisation added. All other sections okay
+
+Marianna: 
+OK</note>
       <tuv lang="RU">
         <seg>Параметры настроек методов взаимодействия с внешними сервисами</seg>
       </tuv>
