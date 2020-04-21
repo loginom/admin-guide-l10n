@@ -581,16 +581,20 @@ Done</note>
       </tuv>
     </tu>
     <tu>
-      <note>This parameter must contain the method name taken from WSDL description of the SOAP service.&lt;segment 0090&gt;
+      <note>Andrew:
+This parameter must contain the method name taken from WSDL description of the SOAP service.&lt;segment 0090&gt;
 
 *the SOAP service
 
-subheadings 1-3 okay</note>
+subheadings 1-3 okay
+
+Marianna: 
+OK</note>
       <tuv lang="RU">
         <seg>Данный параметр должен содержать наименование метода из wsdl-описания SOAP-сервиса.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200421T110410Z" creationid="Марианна" creationdate="20200304T070646Z">
-        <seg>This parameter must contain the method name taken from the WSDL description of SOAP service.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T114646Z" creationid="Марианна" creationdate="20200304T070646Z">
+        <seg>This parameter must contain the method name taken from the WSDL description of the SOAP service.</seg>
       </tuv>
     </tu>
     <tu>
@@ -675,16 +679,20 @@ Ok, done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>If this parameter is left empty, to form the item names in WSDL, the &lt;x7/&gt;Method name&lt;x8/&gt; parameter is used.&lt;segment 0081&gt;
+      <note>Andrew:
+If this parameter is left empty, to form the item names in WSDL, the &lt;x7/&gt;Method name&lt;x8/&gt; parameter is used.&lt;segment 0081&gt;
 
 *added comma to divide sentence clause
 
-subheading text 1. okay</note>
+subheading text 1. okay
+
+Marianna: 
+OK</note>
       <tuv lang="RU">
         <seg>Если оставить данный параметр пустым, то для формирования имен элементов в WSDL используется параметр &lt;x7/&gt;Имя метода&lt;x8/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200311T142721Z" creationid="Марианна" creationdate="20200227T162048Z">
-        <seg>If this parameter is left empty, to form the item names in WSDL the &lt;x7/&gt;Method name&lt;x8/&gt; parameter is used.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T114604Z" creationid="Марианна" creationdate="20200227T162048Z">
+        <seg>If this parameter is left empty, to form the item names in WSDL, the &lt;x7/&gt;Method name&lt;x8/&gt; parameter is used.</seg>
       </tuv>
     </tu>
     <tu>
@@ -713,8 +721,8 @@ Ok, 2 segments corrected.
       <tuv lang="RU">
         <seg>Значение &lt;x9/&gt;plainXml&lt;x10/&gt; параметра задает режим работы с внешним сервисом как с REST-сервисом.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200421T112128Z" creationid="Марианна" creationdate="20200226T105059Z">
-        <seg>The value of &lt;x9/&gt;plainXml&lt;x10/&gt; parameter enables assignment of mode of the external service operation, as with REST service.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T114659Z" creationid="Марианна" creationdate="20200226T105059Z">
+        <seg>The value of &lt;x9/&gt;plainXml&lt;x10/&gt; parameter enables assignment of mode of the external service operation, as with the REST service.</seg>
       </tuv>
     </tu>
     <tu>
@@ -755,8 +763,8 @@ Done.</note>
       <tuv lang="RU">
         <seg>Значения &lt;x11/&gt;soap&lt;x12/&gt;, &lt;x13/&gt;soap12&lt;x14/&gt; параметра задают режим работы с внешним сервисом как с SOAP-сервисом в спецификациях 1.1 и 1.2 соответственно.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200421T112304Z" creationid="Марианна" creationdate="20200226T105319Z">
-        <seg>The values of &lt;x11/&gt;soap&lt;x12/&gt;, &lt;x13/&gt;soap12&lt;x14/&gt; parameter enable assignment of mode of the external service operation, as with SOAP service in Specifications 1.1 and 1.2 correspondingly.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T114723Z" creationid="Марианна" creationdate="20200226T105319Z">
+        <seg>The values of &lt;x11/&gt;soap&lt;x12/&gt;, &lt;x13/&gt;soap12&lt;x14/&gt; parameter enable assignment of mode of the external service operation, as with the SOAP service in Specifications 1.1 and 1.2 correspondingly.</seg>
       </tuv>
     </tu>
     <tu>
