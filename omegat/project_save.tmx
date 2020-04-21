@@ -114,14 +114,18 @@ This parameter must contain the method name taken from the WSDL description of t
       </tuv>
     </tu>
     <tu>
-      <note>&lt;x1/&gt;The incoming message header&lt;x2/&gt; is used for credit reference bureau: "UNITED CREDIT BUREAU".&lt;segment 0058 ¶&gt;
+      <note>Andrew: 
+&lt;x1/&gt;The incoming message header&lt;x2/&gt; is used for credit reference bureau: "UNITED CREDIT BUREAU".&lt;segment 0058 ¶&gt;
 
 *colon added
 
 1. It is used in the process of work with credit reference bureau: "UNITED CREDIT BUREAU". 
 &lt;33/28/50% &gt;
 
-*Ibid</note>
+*Ibid
+
+Marianna.
+No changes. A full company name. </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Заголовок входящего сообщения&lt;x2/&gt; — применяется для БКИ «ОКБ».</seg>
       </tuv>
@@ -500,12 +504,16 @@ Ok, the XML elements. Corrected everywhere.
       </tuv>
     </tu>
     <tu>
-      <note>This type of header can include additional information (e.g., user name, password, etc.).&lt;segment 0059&gt;</note>
+      <note>Andrew:
+This type of header can include additional information (e.g., user name, password, etc.).&lt;segment 0059&gt;
+
+Marianna:
+Done</note>
       <tuv lang="RU">
         <seg>В таком заголовке может передаваться дополнительная информация (например, имя пользователя, пароль и т.д.).</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200226T110405Z" creationid="Марианна" creationdate="20200226T110405Z">
-        <seg>Such header can include the additional information (e.g., user name, password, etc.).</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T113237Z" creationid="Марианна" creationdate="20200226T110405Z">
+        <seg>This type of header can include additional information (e.g., user name, password, etc.).</seg>
       </tuv>
     </tu>
     <tu>
@@ -797,19 +805,23 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>It can take the following values: &lt;x3/&gt;default&lt;x4/&gt;, and &lt;x5/&gt;experianEncoding&lt;x6/&gt;.&lt;segment 0056&gt;
+      <note>Andrew:
+It can take the following values: &lt;x3/&gt;default&lt;x4/&gt;, and &lt;x5/&gt;experianEncoding&lt;x6/&gt;.&lt;segment 0056&gt;
 
 *and
 
 1. It can take the following values: &lt;x3/&gt;utf-8&lt;x4/&gt;, and &lt;x5/&gt;windows-1251&lt;x6/&gt;.
 &lt;50/60/70% &gt;
 
-*and</note>
+*and
+
+Marianna:
+Done.</note>
       <tuv lang="RU">
         <seg>Может принимать значения: &lt;x3/&gt;default&lt;x4/&gt;, &lt;x5/&gt;experianEncoding&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200226T110237Z" creationid="Марианна" creationdate="20200226T110237Z">
-        <seg>It can take the following values: &lt;x3/&gt;default&lt;x4/&gt;, &lt;x5/&gt;experianEncoding&lt;x6/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T113104Z" creationid="Марианна" creationdate="20200226T110237Z">
+        <seg>It can take the following values: &lt;x3/&gt;default&lt;x4/&gt;, and &lt;x5/&gt;experianEncoding&lt;x6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
