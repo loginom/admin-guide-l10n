@@ -109,8 +109,8 @@ This parameter must contain the method name taken from the WSDL description of t
       <tuv lang="RU">
         <seg>&lt;x1/&gt;targetNamespace в WSDL&lt;x2/&gt; — значение берется из одноименного атрибута WSDL-описания внешнего сервиса.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200421T110017Z" creationid="Марианна" creationdate="20200226T110728Z">
-        <seg>&lt;x1/&gt;targetNamespace in WSDL&lt;x2/&gt; — the value is taken from the similarly-named attribute of WSDL description of the external service.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T110028Z" creationid="Марианна" creationdate="20200226T110728Z">
+        <seg>&lt;x1/&gt;targetNamespace in WSDL&lt;x2/&gt; — the value is taken from the similarly-named attribute of the WSDL description of the external service.</seg>
       </tuv>
     </tu>
     <tu>
