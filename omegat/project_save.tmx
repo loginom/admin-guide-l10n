@@ -512,8 +512,8 @@ Ok, the XML elements. Corrected everywhere.
       <tuv lang="RU">
         <seg>В этом случае значение параметра подчиняется правилам именования элементов XML в соответствии со &lt;x7/&gt;спецификацией W3C&lt;x8/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200311T142354Z" creationid="Марианна" creationdate="20200227T161543Z">
-        <seg>In this regard, the parameter value is subject to the rules of naming of XML elements under &lt;x7/&gt; W3C specification&lt;x8/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T110951Z" creationid="Марианна" creationdate="20200227T161543Z">
+        <seg>In this regard, the parameter value is subject to the rules of naming of the XML elements under &lt;x7/&gt; W3C specification&lt;x8/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -688,7 +688,7 @@ The parameter value is used as a part of the names (name) of items and attribute
 1. &lt;x1/&gt;Method name&lt;x2/&gt; — if the &lt;x3/&gt;Method name in Loginom Adapter&lt;x4/&gt; parameter is not specified, the parameter value is used as a part of the names (name) of items and attributes in  the WSDL description of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service. 
 &lt;62/56/45% &gt;
 
-2.  As the parameter is used as a part of the names (name) of items and attributes of the WSDL description, the parameter value is subject to the naming rules of XML elements under &lt;x9/&gt;W3C specification&lt;x10/&gt;.
+2.  As the parameter is used as a part of the names (name) of items and attributes of the WSDL description, the parameter value is subject to the naming rules of the XML elements under &lt;x9/&gt;W3C specification&lt;x10/&gt;.
 &lt;52/48/50%&gt;
 
 Marianna: 
