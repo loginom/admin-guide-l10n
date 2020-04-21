@@ -149,16 +149,16 @@ No changes. A full company name. </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Имя корневого элемента SOAP запроса&lt;x2/&gt;, &lt;x3/&gt;Namespace корневого элемента SOAP запроса&lt;x4/&gt; — значения этих параметров берутся из XSD-схемы описания запроса.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200304T072138Z" creationid="Марианна" creationdate="20200304T071938Z">
-        <seg>&lt;x1/&gt;The root element name of SOAP request&lt;x2/&gt;, &lt;x3/&gt;Namespace of the root element of SOAP request&lt;x4/&gt; — values of these parameters are taken from XSD schema of the request description.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T113631Z" creationid="Марианна" creationdate="20200304T071938Z">
+        <seg>&lt;x1/&gt;The root element name of SOAP request&lt;x2/&gt;, &lt;x3/&gt;Namespace of the root element of SOAP request&lt;x4/&gt; — values of these parameters are taken from the XSD schema of the request description.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Имя корневого элемента SOAP ответа&lt;x2/&gt;, &lt;x3/&gt;Namespace корневого элемента SOAP ответа&lt;x4/&gt; — значения этих параметров берутся из XSD-схемы описания запроса.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200304T072123Z" creationid="Марианна" creationdate="20200304T071958Z">
-        <seg>&lt;x1/&gt;The root element name of SOAP response&lt;x2/&gt;, &lt;x3/&gt;Namespace of the root element of SOAP response&lt;x4/&gt; — values of these parameters are taken from XSD schema of the request description.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T113652Z" creationid="Марианна" creationdate="20200304T071958Z">
+        <seg>&lt;x1/&gt;The root element name of SOAP response&lt;x2/&gt;, &lt;x3/&gt;Namespace of the root element of SOAP response&lt;x4/&gt; — values of these parameters are taken from the XSD schema of the request description.</seg>
       </tuv>
     </tu>
     <tu>
@@ -339,8 +339,8 @@ Ok, thanks. Corrected in 2 segments. </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: путь к XSD-схеме указывается в параметре &lt;x3/&gt;Схема, на которую будет ссылаться описание сервиса&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200311T143716Z" creationid="Марианна" creationdate="20200304T072255Z">
-        <seg>&lt;x1/&gt;Note&lt;x2/&gt;: the path to XSD schema is specified in the following parameter: &lt;x3/&gt;The schema to which the service description will refer to&lt;x4/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T113708Z" creationid="Марианна" creationdate="20200304T072255Z">
+        <seg>&lt;x1/&gt;Note&lt;x2/&gt;: the path to the XSD schema is specified in the following parameter: &lt;x3/&gt;The schema to which the service description will refer to&lt;x4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -400,14 +400,18 @@ Ok, thanks. Corrected in 2 segments. </note>
       </tuv>
     </tu>
     <tu>
-      <note>&lt;x1/&gt;The schema referenced by the service description &lt;x2/&gt; — it specifies the path to the XSD schema of the service description.&lt;segment 0065 ¶&gt;
+      <note>Andrew:
+&lt;x1/&gt;The schema referenced by the service description &lt;x2/&gt; — it specifies the path to the XSD schema of the service description.&lt;segment 0065 ¶&gt;
 
-* the XSD schema</note>
+* the XSD schema
+
+Marianna:
+Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Схема, на которую будет ссылаться описание сервиса&lt;x2/&gt; — задает путь к XSD-схеме описания сервиса.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200227T155422Z" creationid="Марианна" creationdate="20200227T155422Z">
-        <seg>&lt;x1/&gt;The schema referenced by the service description &lt;x2/&gt; — it specifies the path to XSD schema of the service description.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T113614Z" creationid="Марианна" creationdate="20200227T155422Z">
+        <seg>&lt;x1/&gt;The schema referenced by the service description &lt;x2/&gt; — it specifies the path to the XSD schema of the service description.</seg>
       </tuv>
     </tu>
     <tu>
@@ -466,8 +470,8 @@ Ok, corrected in 2 segments. </note>
       <tuv lang="RU">
         <seg>XSD-схема может содержать ссылки на связанные XSD-схемы.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200227T155820Z" creationid="Марианна" creationdate="20200227T155820Z">
-        <seg>XSD schema can contain references to the associated XSD schemas.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T113623Z" creationid="Марианна" creationdate="20200227T155820Z">
+        <seg>The XSD schema can contain references to the associated XSD schemas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1031,8 +1035,8 @@ From now on, I will only mention the sections of text that I require a tweak.
       <tuv lang="RU">
         <seg>Помимо предустановленных в процессе инсталляции папок и файлов, в процессе настройки &lt;x1/&gt;Адаптера&lt;x2/&gt; в каталоге установки могут быть размещены дополнительные файлы (сертификаты, XSD-схемы и т.п.), необходимые для работы с внешними сервисами.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200324T071021Z" creationid="Марианна" creationdate="20200206T075830Z">
-        <seg>Apart from the folders and files pre-installed in the installation process, when configuring the &lt;x1/&gt;Adapter&lt;x2/&gt;, additional files (certificates, XSD schemas, etc.) required for the work with the external services can be placed into the installation directory.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T113727Z" creationid="Марианна" creationdate="20200206T075830Z">
+        <seg>Apart from the folders and files pre-installed in the installation process, when configuring the &lt;x1/&gt;Adapter&lt;x2/&gt;, additional files (certificates, the XSD schemas, etc.) required for the work with the external services can be placed into the installation directory.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1173,14 +1177,18 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
     </tu>
     <tu>
-      <note>The schema describes the structure of XML messages of requests and responses of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service, and participates in the generation of the WSDL service description.&lt;segment 0066&gt;
+      <note>Andrew:
+The schema describes the structure of XML messages of requests and responses of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service, and participates in the generation of the WSDL service description.&lt;segment 0066&gt;
 
-*+comma</note>
+*+comma
+
+Marianna:
+Done</note>
       <tuv lang="RU">
         <seg>Схема описывает структуру XML-сообщений запросов и ответов веб-сервиса &lt;x3/&gt;Адаптера&lt;x4/&gt; и участвует в формировании WSDL-описания сервиса.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200421T110155Z" creationid="Марианна" creationdate="20200227T155723Z">
-        <seg>The schema describes the structure of XML messages of requests and responses of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service and participates in the generation of the WSDL service description.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T113826Z" creationid="Марианна" creationdate="20200227T155723Z">
+        <seg>The schema describes the structure of XML messages of requests and responses of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service, and participates in the generation of the WSDL service description.</seg>
       </tuv>
     </tu>
     <tu>
