@@ -610,12 +610,16 @@ subheadings 1-3 okay</note>
       </tuv>
     </tu>
     <tu>
-      <note>3. Setting Parameters of methods of interaction with the external services 
+      <note>Andrew: 
+3. Setting Parameters of methods of interaction with the external services 
 &lt;38/23/28% &gt;
 
 *applying consistency to capitalisation by removing the capitalisation for the terms not capitalised in other sections. 
 
-everything else okay</note>
+everything else okay
+
+Marianna: 
+Actually, it is better to read the github version where it is easy to find headers. </note>
       <tuv lang="RU">
         <seg>Для отображения настроек методов взаимодействия с внешним сервисом необходимо выделить соответствующий ему элемент в дереве настроек (см.</seg>
       </tuv>
@@ -877,7 +881,11 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>No capitalisation for 2., but 5. has capitalisation " Connection to the External Services"?</note>
+      <note>Andrew:
+No capitalisation for 2., but 5. has capitalisation " Connection to the External Services"?
+
+Marianna:
+Let's read the github version where it is easier to find the headers. I will introduce capitalised letters if it's a header.</note>
       <tuv lang="RU">
         <seg>Настройки метода взаимодействия с внешним сервисом&lt;x2/&gt;</seg>
       </tuv>
