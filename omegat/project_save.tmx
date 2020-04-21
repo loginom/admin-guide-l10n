@@ -301,19 +301,23 @@ all else okay</note>
       </tuv>
     </tu>
     <tu>
-      <note>&lt;x1/&gt;Note&lt;x2/&gt;: specifying the certificate path, it is allowed to use both absolute (including the drive letter) and relative paths.&lt;segment 0039 ¶&gt;
+      <note>Andrew: 
+&lt;x1/&gt;Note&lt;x2/&gt;: specifying the certificate path, it is allowed to use both absolute (including the drive letter) and relative paths.&lt;segment 0039 ¶&gt;
 
 *Comma added
 
 1. It is allowed to use both absolute paths to the additional files (stating the drive letter), and the relative paths specified according to the location of &lt;x3/&gt;Web.config&lt;x4/&gt; in &lt;x1/&gt;Web.config&lt;x2/&gt; file.
 &lt;35/39/48% &gt;
 
-*Comma added after parentheses </note>
+*Comma added after parentheses 
+
+Marianna: 
+Ok, thanks. Corrected in 2 segments. </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: при указании пути к сертификату допустимо использование как абсолютных путей (с указанием буквы диска), так и относительных.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200225T131312Z" creationid="Марианна" creationdate="20200225T131312Z">
-        <seg>&lt;x1/&gt;Note&lt;x2/&gt;: specifying the certificate path it is allowed to use both absolute (including the drive letter) and relative paths.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T111142Z" creationid="Марианна" creationdate="20200225T131312Z">
+        <seg>&lt;x1/&gt;Note&lt;x2/&gt;: specifying the certificate path, it is allowed to use both absolute (including the drive letter) and relative paths.</seg>
       </tuv>
     </tu>
     <tu>
@@ -496,8 +500,8 @@ Ok, the XML elements. Corrected everywhere.
       <tuv lang="RU">
         <seg>В файле &lt;x1/&gt;Web.config&lt;x2/&gt; допустимо использование как абсолютных путей на дополнительные файлы (с указанием буквы диска), так и относительных, которые задаются относительно расположения &lt;x3/&gt;Web.config&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200206T081818Z" creationid="Марианна" creationdate="20200206T081818Z">
-        <seg>It is allowed to use both absolute paths to the additional files (stating the drive letter) and the relative paths specified according to the location of &lt;x3/&gt;Web.config&lt;x4/&gt; in &lt;x1/&gt;Web.config&lt;x2/&gt; file.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T111151Z" creationid="Марианна" creationdate="20200206T081818Z">
+        <seg>It is allowed to use both absolute paths to the additional files (stating the drive letter), and the relative paths specified according to the location of &lt;x3/&gt;Web.config&lt;x4/&gt; in &lt;x1/&gt;Web.config&lt;x2/&gt; file.</seg>
       </tuv>
     </tu>
     <tu>
