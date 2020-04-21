@@ -100,12 +100,16 @@
       </tuv>
     </tu>
     <tu>
-      <note>&lt;x1/&gt;targetNamespace в WSDL&lt;x2/&gt; — the value is taken from the similarly-named attribute of the WSDL description of the external service.&lt;segment 0063 ¶&gt;
+      <note>Andrew:
+&lt;x1/&gt;targetNamespace в WSDL&lt;x2/&gt; — the value is taken from the similarly-named attribute of the WSDL description of the external service.&lt;segment 0063 ¶&gt;
 
 *"the WSDL"
 
 This parameter must contain the method name taken from the WSDL description of the SOAP service.
-&lt;30/25/42% &gt;</note>
+&lt;30/25/42% &gt;
+
+Marianna: 
+Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;targetNamespace в WSDL&lt;x2/&gt; — значение берется из одноименного атрибута WSDL-описания внешнего сервиса.</seg>
       </tuv>
@@ -825,15 +829,19 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>It can take the following values: &lt;x3/&gt;utf-8&lt;x4/&gt;, and/or &lt;x5/&gt;windows-1251&lt;x6/&gt;.&lt;segment 0061&gt;
+      <note>Andrew:
+It can take the following values: &lt;x3/&gt;utf-8&lt;x4/&gt;, and/or &lt;x5/&gt;windows-1251&lt;x6/&gt;.&lt;segment 0061&gt;
 
 1. It can take the following values: &lt;x3/&gt;default&lt;x4/&gt;, and/or&lt;x5/&gt;experianEncoding&lt;x6/&gt;.
-&lt;50/60/70% &gt;</note>
+&lt;50/60/70% &gt;
+
+Marianna: 
+Done.</note>
       <tuv lang="RU">
         <seg>Может принимать значения: &lt;x3/&gt;utf-8&lt;x4/&gt;, &lt;x5/&gt;windows-1251&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200226T110544Z" creationid="Марианна" creationdate="20200226T110514Z">
-        <seg>It can take the following values: &lt;x3/&gt;utf-8&lt;x4/&gt;, &lt;x5/&gt;windows-1251&lt;x6/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T113326Z" creationid="Марианна" creationdate="20200226T110514Z">
+        <seg>It can take the following values: &lt;x3/&gt;utf-8&lt;x4/&gt;, and/or &lt;x5/&gt;windows-1251&lt;x6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
