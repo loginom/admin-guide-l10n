@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -919,8 +919,8 @@ From now on, I will only mention the sections of text that I require a tweak.
       <tuv lang="RU">
         <seg>Параметры общих настроек</seg>
       </tuv>
-      <tuv lang="EN" changeid="mayorov" changedate="20200406T062929Z" creationid="Марианна" creationdate="20200221T071943Z">
-        <seg>Parameters of the General  Settings </seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T095153Z" creationid="Марианна" creationdate="20200221T071943Z">
+        <seg>General Settings Parameters </seg>
       </tuv>
     </tu>
     <tu>
