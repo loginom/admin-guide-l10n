@@ -1276,9 +1276,13 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
     </tu>
     <tu>
-      <note>The &lt;x11/&gt;Certificates Operation&lt;x12/&gt; section).&lt;segment 0048&gt;
+      <note>Andrew: 
+The &lt;x11/&gt;Certificates Operation&lt;x12/&gt; section).&lt;segment 0048&gt;
 
-*capitalised "the"</note>
+*capitalised "the"
+
+Marianna: 
+No, it's continuation of the previous sentence. I have sent the link to github to you. It is more readable there. </note>
       <tuv lang="RU">
         <seg>также раздел &lt;x11/&gt;Работа с сертификатами&lt;x12/&gt;).</seg>
       </tuv>
