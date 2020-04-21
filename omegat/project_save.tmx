@@ -632,14 +632,18 @@ everything else okay</note>
       </tuv>
     </tu>
     <tu>
-      <note>If the client certificate has a private key, it is placed into one of the certificate stores - into the local machine store (&lt;x9/&gt;localMachine&lt;x10/&gt;), or the current user store (&lt;x11/&gt;currentUser&lt;x12/&gt;).&lt;segment 0043&gt;
+      <note>Andrew:
+If the client certificate has a private key, it is placed into one of the certificate stores - into the local machine store (&lt;x9/&gt;localMachine&lt;x10/&gt;), or the current user store (&lt;x11/&gt;currentUser&lt;x12/&gt;).&lt;segment 0043&gt;
 
-*comma after parentheses to separate clause</note>
+*comma after parentheses to separate clause
+
+Marianna: 
+Ok, done.</note>
       <tuv lang="RU">
         <seg>Если клиентский сертификат имеет закрытый ключ, то он помещается в одно из хранилищ сертификатов — в хранилище локальной машины (&lt;x9/&gt;localMachine&lt;x10/&gt;) или хранилище текущего пользователя (&lt;x11/&gt;currentUser&lt;x12/&gt;).</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200311T140753Z" creationid="Марианна" creationdate="20200225T132516Z">
-        <seg>If the client certificate has a private key, it is placed into one of the certificate stores - into the local machine store (&lt;x9/&gt;localMachine&lt;x10/&gt;) or the current user store (&lt;x11/&gt;currentUser&lt;x12/&gt;).</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T111534Z" creationid="Марианна" creationdate="20200225T132516Z">
+        <seg>If the client certificate has a private key, it is placed into one of the certificate stores - into the local machine store (&lt;x9/&gt;localMachine&lt;x10/&gt;), or the current user store (&lt;x11/&gt;currentUser&lt;x12/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
