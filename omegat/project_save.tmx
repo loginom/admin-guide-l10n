@@ -163,8 +163,8 @@ all else okay</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Имя метода в Loginom Adapter&lt;x2/&gt; — используется для формирования имен элементов в WSDL-описании веб-сервиса в случае совпадения значений параметра &lt;x3/&gt;Имя метода&lt;x4/&gt; для различных методов конфигурации &lt;x5/&gt;Адаптера&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200311T142556Z" creationid="Марианна" creationdate="20200227T161941Z">
-        <seg>&lt;x1/&gt;Method name in Loginom Adapter&lt;x2/&gt; is used to form the item names in WSDL description of the Web service in case of coincidence of values of the &lt;x3/&gt;Method name&lt;x4/&gt; parameter for different configuration methods of the &lt;x5/&gt;Adapter&lt;x6/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T110224Z" creationid="Марианна" creationdate="20200227T161941Z">
+        <seg>&lt;x1/&gt;Method name in Loginom Adapter&lt;x2/&gt; is used to form the item names in the WSDL description of the Web service in case of coincidence of values of the &lt;x3/&gt;Method name&lt;x4/&gt; parameter for different configuration methods of the &lt;x5/&gt;Adapter&lt;x6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -553,8 +553,8 @@ subheadings 1-3 okay</note>
       <tuv lang="RU">
         <seg>Данный параметр должен содержать наименование метода из wsdl-описания SOAP-сервиса.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200311T143249Z" creationid="Марианна" creationdate="20200304T070646Z">
-        <seg>This parameter must contain the method name taken from WSDL description of SOAP service.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T110410Z" creationid="Марианна" creationdate="20200304T070646Z">
+        <seg>This parameter must contain the method name taken from the WSDL description of SOAP service.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1127,8 +1127,8 @@ From now on, I will only mention the sections of text that I require a tweak.
       <tuv lang="RU">
         <seg>Схема описывает структуру XML-сообщений запросов и ответов веб-сервиса &lt;x3/&gt;Адаптера&lt;x4/&gt; и участвует в формировании WSDL-описания сервиса.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200311T113717Z" creationid="Марианна" creationdate="20200227T155723Z">
-        <seg>The schema describes the structure of XML messages of requests and responses of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service and participates in the generation of WSDL service description.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T110155Z" creationid="Марианна" creationdate="20200227T155723Z">
+        <seg>The schema describes the structure of XML messages of requests and responses of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service and participates in the generation of the WSDL service description.</seg>
       </tuv>
     </tu>
     <tu>
