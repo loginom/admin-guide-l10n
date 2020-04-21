@@ -171,8 +171,8 @@ all else okay</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Имя метода&lt;x2/&gt; — в случае если параметр &lt;x3/&gt;Имя метода в Loginom Adapter&lt;x4/&gt; не задан, значение параметра используется в качестве составной части имен(name) элементов и атрибутов WSDL-описания веб-сервиса &lt;x5/&gt;Адаптера&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200311T142128Z" creationid="Марианна" creationdate="20200227T161440Z">
-        <seg>&lt;x1/&gt;Method name&lt;x2/&gt; — if the &lt;x3/&gt;Method name in Loginom Adapter&lt;x4/&gt; parameter is not specified, the parameter value is used as a part of names (name) of items and attributes in WSDL description of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service. </seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T105043Z" creationid="Марианна" creationdate="20200227T161440Z">
+        <seg>&lt;x1/&gt;Method name&lt;x2/&gt; — if the &lt;x3/&gt;Method name in Loginom Adapter&lt;x4/&gt; parameter is not specified, the parameter value is used as a part of the names (name) of items and attributes in the WSDL description of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service. </seg>
       </tuv>
     </tu>
     <tu>
