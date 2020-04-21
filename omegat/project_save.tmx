@@ -463,7 +463,8 @@ all else okay</note>
       </tuv>
     </tu>
     <tu>
-      <note>In this regard, the parameter value is subject to the rules of naming of the XML elements under &lt;x5/&gt;W3C specification&lt;x6/&gt;.&lt;segment 0031&gt;
+      <note>Andrew: 
+In this regard, the parameter value is subject to the rules of naming of the XML elements under &lt;x5/&gt;W3C specification&lt;x6/&gt;.&lt;segment 0031&gt;
 
 1. In this regard, the parameter value is subject to the rules of naming of the XML elements under &lt;x7/&gt; W3C specification&lt;x8/&gt;.
 &lt;81/80/82% &gt;
@@ -471,12 +472,15 @@ all else okay</note>
 2. As the parameter is used as a part of the names (name) of items and attributes of the WSDL description, the parameter value is subject to the naming rules of the XML elements under &lt;x9/&gt;W3C specification&lt;x10/&gt;.
 &lt;42/48/52% &gt;
 
+Marianna: 
+Ok, the XML elements. Corrected everywhere.
+
 </note>
       <tuv lang="RU">
         <seg>В связи с этим значение параметра подчиняется правилам именования элементов XML в соответствии со &lt;x5/&gt;спецификацией W3C&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200311T113410Z" creationid="Марианна" creationdate="20200225T125303Z">
-        <seg>In this regard, the parameter value is subject to the rules of naming of XML elements under &lt;x5/&gt;W3C specification&lt;x6/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T110746Z" creationid="Марианна" creationdate="20200225T125303Z">
+        <seg>In this regard, the parameter value is subject to the rules of naming of the XML elements under &lt;x5/&gt;W3C specification&lt;x6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
