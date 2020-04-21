@@ -678,13 +678,17 @@ subheading text 1. okay</note>
       </tuv>
     </tu>
     <tu>
-      <note>The parameter value is used as a part of the names (name) of items and attributes in the WSDL description of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service.&lt;segment 0030&gt;
+      <note>Andrew: 
+The parameter value is used as a part of the names (name) of items and attributes in the WSDL description of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service.&lt;segment 0030&gt;
 
 1. &lt;x1/&gt;Method name&lt;x2/&gt; — if the &lt;x3/&gt;Method name in Loginom Adapter&lt;x4/&gt; parameter is not specified, the parameter value is used as a part of the names (name) of items and attributes in  the WSDL description of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service. 
 &lt;62/56/45% &gt;
 
 2. As the parameter is used as a part of the names (name) of items and attributes of the WSDL description, the parameter value is subject to the naming rules of XML elements under &lt;x9/&gt;W3C specification&lt;x10/&gt;.
-&lt;52/48/50% &gt;</note>
+&lt;52/48/50% &gt;
+
+Marianna: 
+OK, I have got it. The WSDL description everywhere. Corrected. </note>
       <tuv lang="RU">
         <seg>Значение параметра используется в качестве составной части имен (name) элементов и атрибутов WSDL-описания веб-сервиса &lt;x3/&gt;Адаптера&lt;x4/&gt;.</seg>
       </tuv>
