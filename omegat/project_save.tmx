@@ -5,22 +5,26 @@
   <body>
 <!-- Default translations -->
     <tu>
-      <note>// templates %inputFile% and %outputFile% are replaced with the parameters values while the command
+      <note>Andrew:
+// templates %inputFile% and %outputFile% are replaced with the parameters values while the command
 // "The request file source name" and "The resulting name of the request file", are executed correspondingly.&lt;segment 0102 ¶&gt;
 
 1. // templates %inputFile% and %outputFile% are replaced with the parameters values while the command
 // "The response file source name" and "The resulting name of the response file", are executed correspondingly.
-&lt;76/79/85% &gt;</note>
+&lt;76/79/85% &gt;
+
+Marianna:
+Ok, execution is removed</note>
       <tuv lang="RU">
         <seg>"C:\Program Files\7-Zip\7z" a -tzip "%outputFile%" "%inputFile%"
 
 // шаблоны %inputFile% и %outputFile% при выполнении команды заменяются на значения параметров
 // «Исходное имя файла запроса» и «Результирующее имя файла запроса» соответственно.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200309T124211Z" creationid="Марианна" creationdate="20200309T124211Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T115146Z" creationid="Марианна" creationdate="20200309T124211Z">
         <seg>"C:\Program Files\7-Zip\7z" a -tzip "%outputFile%" "%inputFile%"
 
-// templates %inputFile% and %outputFile% are replaced with the parameters values while the command execution
+// templates %inputFile% and %outputFile% are replaced with the parameters values while the command
 // "The request file source name" and "The resulting name of the request file", correspondingly.</seg>
       </tuv>
     </tu>
@@ -73,14 +77,18 @@
       </tuv>
     </tu>
     <tu>
-      <note>&lt;x1/&gt;Certificate signed XML message &lt;x2/&gt; — takes &lt;x3/&gt;true&lt;x4/&gt;, or &lt;x5/&gt;false&lt;x6/&gt; values.&lt;segment 0092 ¶&gt;
+      <note>Andrew:
+&lt;x1/&gt;Certificate signed XML message &lt;x2/&gt; — takes &lt;x3/&gt;true&lt;x4/&gt;, or &lt;x5/&gt;false&lt;x6/&gt; values.&lt;segment 0092 ¶&gt;
 
-*"or" added, consistent with its use already in Subheading 1. </note>
+*"or" added, consistent with its use already in Subheading 1. 
+
+Marianna:
+OK</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;XML-сообщение подписано сертификатом&lt;x2/&gt; — принимает значения &lt;x3/&gt;true&lt;x4/&gt;, &lt;x5/&gt;false&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200309T142920Z" creationid="Марианна" creationdate="20200304T070902Z">
-        <seg>&lt;x1/&gt;Certificate signed XML message &lt;x2/&gt; — takes &lt;x3/&gt;true&lt;x4/&gt;, &lt;x5/&gt;false&lt;x6/&gt; values.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T114816Z" creationid="Марианна" creationdate="20200304T070902Z">
+        <seg>&lt;x1/&gt;Certificate signed XML message &lt;x2/&gt; — takes &lt;x3/&gt;true&lt;x4/&gt;, or &lt;x5/&gt;false&lt;x6/&gt; values.</seg>
       </tuv>
     </tu>
     <tu>
@@ -333,14 +341,18 @@ Ok, thanks. Corrected in 2 segments. </note>
       </tuv>
     </tu>
     <tu>
-      <note>&lt;x1/&gt;Note&lt;x2/&gt;: the path to XSD schema is specified in the following parameter: &lt;x3/&gt;The schema to which the service description will refer&lt;x4/&gt;.&lt;segment 0097 ¶&gt;
+      <note>Andrew:
+&lt;x1/&gt;Note&lt;x2/&gt;: the path to XSD schema is specified in the following parameter: &lt;x3/&gt;The schema to which the service description will refer&lt;x4/&gt;.&lt;segment 0097 ¶&gt;
 
-*redundant "to" at the end of the sentence removed</note>
+*redundant "to" at the end of the sentence removed
+
+Marianna: 
+OK</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: путь к XSD-схеме указывается в параметре &lt;x3/&gt;Схема, на которую будет ссылаться описание сервиса&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200421T113708Z" creationid="Марианна" creationdate="20200304T072255Z">
-        <seg>&lt;x1/&gt;Note&lt;x2/&gt;: the path to the XSD schema is specified in the following parameter: &lt;x3/&gt;The schema to which the service description will refer to&lt;x4/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T114942Z" creationid="Марианна" creationdate="20200304T072255Z">
+        <seg>&lt;x1/&gt;Note&lt;x2/&gt;: the path to the XSD schema is specified in the following parameter: &lt;x3/&gt;The schema to which the service description will refer&lt;x4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1088,14 +1100,18 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
     </tu>
     <tu>
-      <note>In case of the &lt;x7/&gt;true&lt;x8/&gt; value, the algorithm of the response transformation of credit reference bureau: "UNITED CREDIT BUREAU", in which the certificate signature is removed from XML service response is applied.&lt;segment 0093&gt;
+      <note>Andrew:
+In case of the &lt;x7/&gt;true&lt;x8/&gt; value, the algorithm of the response transformation of credit reference bureau: "UNITED CREDIT BUREAU", in which the certificate signature is removed from XML service response is applied.&lt;segment 0093&gt;
 
-*colon and comma added</note>
+*colon and comma added
+
+Marianna: 
+Only comma added</note>
       <tuv lang="RU">
         <seg>При значении &lt;x7/&gt;true&lt;x8/&gt; задействуется алгоритм преобразования ответа БКИ «НБКИ», в котором из XML ответа сервиса удаляется подпись сертификатом.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200311T115654Z" creationid="Марианна" creationdate="20200304T071055Z">
-        <seg>In case of the &lt;x7/&gt;true&lt;x8/&gt; value, the algorithm of the response transformation of credit reference bureau "UNITED CREDIT BUREAU" in which the certificate signature is removed from XML service response is applied.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T114854Z" creationid="Марианна" creationdate="20200304T071055Z">
+        <seg>In case of the &lt;x7/&gt;true&lt;x8/&gt; value, the algorithm of the response transformation of credit reference bureau "UNITED CREDIT BUREAU", in which the certificate signature is removed from XML service response is applied.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1126,8 +1142,8 @@ From now on, I will only mention the sections of text that I require a tweak.
       <tuv lang="RU">
         <seg>Применяется только для SOAP-сервисов.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200226T110744Z" creationid="Марианна" creationdate="20200226T110744Z">
-        <seg>It is used only for SOAP services.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T114734Z" creationid="Марианна" creationdate="20200226T110744Z">
+        <seg>It is used only for the SOAP services.</seg>
       </tuv>
     </tu>
     <tu>
