@@ -248,11 +248,15 @@ all else okay</note>
       </tuv>
     </tu>
     <tu>
-      <note>&lt;x1/&gt;The special message format&lt;x2/&gt; is used for Web services with nonstandard message format, in particular, for credit reference bureau; "UNITED CREDIT BUREAU".&lt;segment 0055 ¶&gt;
+      <note>Andrew: 
+&lt;x1/&gt;The special message format&lt;x2/&gt; is used for Web services with nonstandard message format, in particular, for credit reference bureau; "UNITED CREDIT BUREAU".&lt;segment 0055 ¶&gt;
 
 1. It is used in the process of work with the credit reference bureau; "UNITED CREDIT BUREAU". &lt;25/31/35% &gt;
 
-*colons added</note>
+*colons added
+
+Marianna:
+No changes. It is a full name of the company. Like LLC "Loginom", for example. </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Особый формат сообщения&lt;x2/&gt; — используется для веб-сервисов с нестандартным форматом сообщений, в частности для БКИ «ОКБ».</seg>
       </tuv>
