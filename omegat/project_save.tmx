@@ -991,8 +991,8 @@ From now on, I will only mention the sections of text that I require a tweak.
       <tuv lang="RU">
         <seg>Поскольку параметр используется в качестве составной части имен (name) элементов и атрибутов WSDL-описания, значение параметра подчиняется правилам именования элементов XML в соответствии со &lt;x9/&gt;спецификацией W3C&lt;x10/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200421T105813Z" creationid="Марианна" creationdate="20200227T162435Z">
-        <seg>As the parameter is used as a part of the names (name) of items and attributes of the WSDL description, the parameter value is subject to the naming rules of XML elements under &lt;x9/&gt;W3C specification&lt;x10/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T111005Z" creationid="Марианна" creationdate="20200227T162435Z">
+        <seg>As the parameter is used as a part of the names (name) of items and attributes of the WSDL description, the parameter value is subject to the naming rules of the XML elements under &lt;x9/&gt;W3C specification&lt;x10/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
