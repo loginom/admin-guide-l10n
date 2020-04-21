@@ -692,8 +692,8 @@ OK, I have got it. The WSDL description everywhere. Corrected. </note>
       <tuv lang="RU">
         <seg>Значение параметра используется в качестве составной части имен (name) элементов и атрибутов WSDL-описания веб-сервиса &lt;x3/&gt;Адаптера&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200311T134418Z" creationid="Марианна" creationdate="20200225T124548Z">
-        <seg>The parameter value is used as a part of names (name) of items and attributes in WSDL description of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T104255Z" creationid="Марианна" creationdate="20200225T124548Z">
+        <seg>The parameter value is used as a part of names (name) of items and attributes in the WSDL description of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1162,8 +1162,8 @@ From now on, I will only mention the sections of text that I require a tweak.
       <tuv lang="RU">
         <seg>Эта информация выводится при запросе WSDL сервиса.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200225T123310Z" creationid="Марианна" creationdate="20200225T123310Z">
-        <seg>This information is shown while requesting WSDL service.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T104226Z" creationid="Марианна" creationdate="20200225T123310Z">
+        <seg>This information is shown while requesting the WSDL service.</seg>
       </tuv>
     </tu>
     <tu>
