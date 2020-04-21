@@ -21,15 +21,16 @@ Ok, execution is removed</note>
 // шаблоны %inputFile% и %outputFile% при выполнении команды заменяются на значения параметров
 // «Исходное имя файла запроса» и «Результирующее имя файла запроса» соответственно.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200421T115146Z" creationid="Марианна" creationdate="20200309T124211Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200421T120022Z" creationid="Марианна" creationdate="20200309T124211Z">
         <seg>"C:\Program Files\7-Zip\7z" a -tzip "%outputFile%" "%inputFile%"
 
-// templates %inputFile% and %outputFile% are replaced with the parameters values while the command
-// "The request file source name" and "The resulting name of the request file", correspondingly.</seg>
+// templates %inputFile% and %outputFile% are replaced with the parameters values 
+// "The request file source name" and "The resulting name of the request file", while the command is executed correspondingly.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>"C:\Program Files\7-Zip\7z" e "%inputFile%" -so &gt; "%outputFile%"
+      <note>Andrew:
+"C:\Program Files\7-Zip\7z" e "%inputFile%" -so &gt; "%outputFile%"
 
 // templates %inputFile% and %outputFile% are replaced with the parameters values while the command
 // "The response file source name" and "The resulting name of the response file", is executed correspondingly.&lt;segment 0106 ¶&gt;
@@ -38,7 +39,10 @@ Ok, execution is removed</note>
 
 // templates %inputFile% and %outputFile% are replaced with the parameters values while the command
 // "The request file source name" and "The resulting name of the request file", is executed correspondingly.
-&lt;76/79/85% </note>
+&lt;76/79/85% 
+
+Marianna: 
+OK</note>
       <tuv lang="RU">
         <seg>"C:\Program Files\7-Zip\7z" e "%inputFile%" -so &gt; "%outputFile%"
 
