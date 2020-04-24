@@ -642,6 +642,14 @@ Done</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Выполнение этого этапа определяется параметрами &lt;x1/&gt;Конфигуратора&lt;x2/&gt;: &lt;x3/&gt;Исходное имя файла запроса&lt;x4/&gt;, &lt;x5/&gt;Результирующее имя файла запроса&lt;x6/&gt;, &lt;x7/&gt;Команда обработки файла запроса&lt;x8/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200424T104424Z" creationid="Марианна" creationdate="20200424T104424Z">
+        <seg>Performance of this stage can be defined by the following parameters: &lt;x1/&gt;Configurator&lt;x2/&gt;: &lt;x3/&gt;Source name of the request file&lt;x4/&gt;, &lt;x5/&gt;Resulting name of the request file&lt;x6/&gt;, &lt;x7/&gt;Command of the request file processing&lt;x8/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Выполняя роль веб-сервиса, &lt;x3/&gt;Адаптер&lt;x4/&gt; предоставляет WSDL-описание в соответствии со стандартом SOAP.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T085156Z" creationid="Марианна" creationdate="20200424T084428Z">
