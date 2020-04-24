@@ -588,8 +588,8 @@ Done</note>
       <tuv lang="RU">
         <seg>Выполняя роль веб-сервиса, &lt;x3/&gt;Адаптер&lt;x4/&gt; предоставляет WSDL-описание в соответствии со стандартом SOAP.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200424T084428Z" creationid="Марианна" creationdate="20200424T084428Z">
-        <seg>Serving as a web service, the &lt;x3/&gt;Adapter&lt;x4/&gt; provides the WSDL description according to SOAP standard.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200424T085156Z" creationid="Марианна" creationdate="20200424T084428Z">
+        <seg>Serving as a web service, the &lt;x3/&gt;Adapter&lt;x4/&gt; provides the WSDL description according to the SOAP standard.</seg>
       </tuv>
     </tu>
     <tu>
