@@ -1164,6 +1164,14 @@ Only comma added</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Принципы работы и настройки</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200424T083112Z" creationid="Марианна" creationdate="20200424T083112Z">
+        <seg>Operation Principles and Settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Пустое значение параметра равносильно &lt;x9/&gt;false&lt;x10/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200304T071650Z" creationid="Марианна" creationdate="20200304T071650Z">
