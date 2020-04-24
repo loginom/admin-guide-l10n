@@ -1109,6 +1109,14 @@ From now on, I will only mention the sections of text that I require a tweak.
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Первым этапом преобразования XML запроса может быть XSLT трансформация.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200424T101638Z" creationid="Марианна" creationdate="20200424T101638Z">
+        <seg>The first stage of the XML request transformation can be the XSLT transformation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Перечень (содержание столбца &lt;x1/&gt;Key&lt;x2/&gt;) параметров одинаков для подключений ко всем сервисам, и включает в себя следующие параметры:</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200311T113219Z" creationid="Марианна" creationdate="20200225T124345Z">
