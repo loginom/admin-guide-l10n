@@ -559,6 +559,14 @@ Ok, corrected in 2 segments. </note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>В самом скрипте могут быть определены входные параметры, как это показано в следующем примере:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200424T102513Z" creationid="Марианна" creationdate="20200424T102513Z">
+        <seg>The input parameters can be specified in the workflow as such as it is represented by means of the following example:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Andrew: 
 In this regard, the parameter value is subject to the rules of naming of the XML elements under &lt;x5/&gt;W3C specification&lt;x6/&gt;.&lt;segment 0031&gt;
 
@@ -1075,6 +1083,14 @@ Marianna:
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200304T070444Z" creationid="Марианна" creationdate="20200304T070444Z">
         <seg>It defines the called method of the external SOAP service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Параметр &lt;x1/&gt;XSLT для трансформации входящего сообщения перед передачей&lt;x2/&gt; содержит путь к скрипту xslt.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200424T102234Z" creationid="Марианна" creationdate="20200424T102234Z">
+        <seg>&lt;x1/&gt;XSLT for transformation of the incoming message before transfer&lt;x2/&gt; parameter contains the path to the XSLT workflow.</seg>
       </tuv>
     </tu>
     <tu>
