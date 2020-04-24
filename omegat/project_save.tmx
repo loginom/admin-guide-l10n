@@ -1218,6 +1218,14 @@ Only comma added</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>С другой стороны, выполняя роль клиента, &lt;x5/&gt;Адаптер&lt;x6/&gt; обеспечивает трансформацию этих сообщений из формата SOAP в индивидуальные форматы внешних сервисов и обратно.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200424T095123Z" creationid="Марианна" creationdate="20200424T095123Z">
+        <seg>At the same time, serving as a client, the &lt;x5/&gt;Adapter&lt;x6/&gt; provides transformation of these messages from the SOAP format to the individual formats of the external services and backwards. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Сертификаты без закрытого ключа могут располагаться отдельным файлом по указанному в параметре &lt;x13/&gt;Путь к сертификату&lt;x14/&gt; месте файловой системы.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200324T061129Z" creationid="Марианна" creationdate="20200225T132849Z">
