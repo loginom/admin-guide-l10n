@@ -650,6 +650,14 @@ Done</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Данное преобразование специфично для работы с вышеуказанным БКИ и в других задачах не применяется.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200424T103749Z" creationid="Марианна" creationdate="20200424T103749Z">
+        <seg>This transformation is specific for the work with the CRB specified above and it is not applied for other tasks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Данному параметру можно задать значения &lt;x5/&gt;true&lt;x6/&gt; или &lt;x7/&gt;false&lt;x8/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200309T142011Z" creationid="Марианна" creationdate="20200221T075238Z">
@@ -753,6 +761,14 @@ Actually, it is better to read the github version where it is easy to find heade
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200324T070732Z" creationid="Марианна" creationdate="20200206T075207Z">
         <seg>Additional Files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Если значение параметра &lt;x1/&gt;XSLT для трансформации входящего сообщения перед передачей&lt;x2/&gt; не задано, то этап XSLT трансформации не выполняется.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200424T103406Z" creationid="Марианна" creationdate="20200424T103406Z">
+        <seg>If the value of &lt;x1/&gt;&gt;XSLT for transformation of the incoming message before transfer&lt;x2/&gt; parameter is not specified, the XSLT transformation stage is not performed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1350,6 +1366,14 @@ Only comma added</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200324T061129Z" creationid="Марианна" creationdate="20200225T132849Z">
         <seg>The certificates without a private key can be placed into a separate file in the file system location specified by the &lt;x13/&gt;certificate Path&lt;x14/&gt; parameter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Следующим этапом может быть преобразование в особый формат сообщения БКИ «ОКБ».</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200424T103519Z" creationid="Марианна" creationdate="20200424T103459Z">
+        <seg>The next stage can be transformation to the special message format of credit reference bureau "UNITED CREDIT BUREAU".</seg>
       </tuv>
     </tu>
     <tu>
