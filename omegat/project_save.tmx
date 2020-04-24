@@ -1312,6 +1312,14 @@ No changes. I guess the Russian meaning does not presuppose this comma. "Which" 
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Являясь промежуточным веб-сервисом, &lt;x1/&gt;Адаптер&lt;x2/&gt; одновременно выполняет роль клиента по отношению к внешнему сервису (например, к бюро кредитных историй – БКИ) и роль SOAP-веб-сервиса по отношению к сценарию Loginom (или любому другому стороннему потребителю информации).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200424T084130Z" creationid="Марианна" creationdate="20200424T084130Z">
+        <seg>Being an intermediate web service, the &lt;x1/&gt;Adapter&lt;x2/&gt; serves both as a client with regard to the external service (for example, with regard to the Bureau of Credit Histories – BCH) and SOAP web service with regard to Loginom workflow (or any other outside information user).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>в разделе &lt;x7/&gt;Настройка роли клиента внешних сервисов&lt;x8/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200324T062342Z" creationid="Марианна" creationdate="20200309T123521Z">
