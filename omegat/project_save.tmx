@@ -235,8 +235,8 @@ OK</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Логировать запрос&lt;x2/&gt; — флаг, указывающий, что в лог необходимо сохранять xml-запрос к &lt;x3/&gt;Адаптеру&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200309T142221Z" creationid="Марианна" creationdate="20200221T074943Z">
-        <seg>&lt;x1/&gt;Log request&lt;x2/&gt; — the flag that shows that it is required to save XML request to the &lt;x3/&gt;Adapter&lt;x4/&gt; in the log.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200424T100728Z" creationid="Марианна" creationdate="20200221T074943Z">
+        <seg>&lt;x1/&gt;Log request&lt;x2/&gt; — the flag that shows that it is required to save the XML request to the &lt;x3/&gt;Adapter&lt;x4/&gt; in the log.</seg>
       </tuv>
     </tu>
     <tu>
@@ -506,8 +506,8 @@ Ok, corrected in 2 segments. </note>
       <tuv lang="RU">
         <seg>WSDL-описание однозначно определяет параметры взаимодействия с веб-сервисом, в том числе и форматы XML-сообщений, посредством которых это взаимодействие осуществляется.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200424T085444Z" creationid="Марианна" creationdate="20200424T085444Z">
-        <seg>The WSDL description enables to provide a clear definition of parameters of interaction with the web service, including XML messages formats, by means of which such interatcion is performed.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200424T100849Z" creationid="Марианна" creationdate="20200424T085444Z">
+        <seg>The WSDL description enables to provide a clear definition of parameters of interaction with the web service, including the XML messages formats, by means of which such interatcion is performed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1182,8 +1182,8 @@ Only comma added</note>
       <tuv lang="RU">
         <seg>При значении &lt;x7/&gt;true&lt;x8/&gt; задействуется алгоритм преобразования ответа БКИ «НБКИ», в котором из XML ответа сервиса удаляется подпись сертификатом.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200421T114854Z" creationid="Марианна" creationdate="20200304T071055Z">
-        <seg>In case of the &lt;x7/&gt;true&lt;x8/&gt; value, the algorithm of the response transformation of credit reference bureau "UNITED CREDIT BUREAU", in which the certificate signature is removed from XML service response is applied.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200424T100839Z" creationid="Марианна" creationdate="20200304T071055Z">
+        <seg>In case of the &lt;x7/&gt;true&lt;x8/&gt; value, the algorithm of the response transformation of credit reference bureau "UNITED CREDIT BUREAU", in which the certificate signature is removed from the XML service response is applied.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1282,6 +1282,14 @@ Only comma added</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Согласно описанию SOAP-протокола, xml-запрос к веб-сервису содержится в теле узла &lt;x1/&gt;Body&lt;x2/&gt; SOAP-пакета.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200424T101052Z" creationid="Марианна" creationdate="20200424T101052Z">
+        <seg>According to the SOAP protocol description, the XML request to the web service is in the node body &lt;x1/&gt;Body&lt;x2/&gt; of the SOAP package.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Содержат параметры настроек, представленных в разделе &lt;x7/&gt;Параметры настроек методов взаимодействия с внешними сервисами&lt;x8/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200324T070027Z" creationid="Марианна" creationdate="20200206T065310Z">
@@ -1315,8 +1323,8 @@ Done</note>
       <tuv lang="RU">
         <seg>Схема описывает структуру XML-сообщений запросов и ответов веб-сервиса &lt;x3/&gt;Адаптера&lt;x4/&gt; и участвует в формировании WSDL-описания сервиса.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200421T113826Z" creationid="Марианна" creationdate="20200227T155723Z">
-        <seg>The schema describes the structure of XML messages of requests and responses of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service, and participates in the generation of the WSDL service description.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200424T100824Z" creationid="Марианна" creationdate="20200227T155723Z">
+        <seg>The schema describes the structure of the XML messages of requests and responses of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service, and participates in the generation of the WSDL service description.</seg>
       </tuv>
     </tu>
     <tu>
