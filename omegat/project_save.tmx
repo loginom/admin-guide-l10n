@@ -436,6 +436,14 @@ OK</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Рисунок 9.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200424T101929Z" creationid="Марианна" creationdate="20200424T101929Z">
+        <seg>&lt;x1/&gt;Figure 9.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Andrew:
 &lt;x1/&gt;The schema referenced by the service description &lt;x2/&gt; — it specifies the path to the XSD schema of the service description.&lt;segment 0065 ¶&gt;
 
@@ -1113,6 +1121,14 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200421T095153Z" creationid="Марианна" creationdate="20200221T071943Z">
         <seg>General Settings Parameters </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Параметры этапа XSLT трансформации запроса&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200424T102020Z" creationid="Марианна" creationdate="20200424T102020Z">
+        <seg>Parameters of the XSLT Request Transformation Stage&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
