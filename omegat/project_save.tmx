@@ -488,6 +488,14 @@ Ok, corrected in 2 segments. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>WSDL-описание однозначно определяет параметры взаимодействия с веб-сервисом, в том числе и форматы XML-сообщений, посредством которых это взаимодействие осуществляется.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200424T085444Z" creationid="Марианна" creationdate="20200424T085444Z">
+        <seg>The WSDL description enables to provide a clear definition of parameters of interaction with the web service, including XML messages formats, by means of which such interatcion is performed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>XSD-схема может содержать ссылки на связанные XSD-схемы.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200421T113623Z" creationid="Марианна" creationdate="20200227T155820Z">
