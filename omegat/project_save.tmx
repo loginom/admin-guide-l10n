@@ -420,6 +420,14 @@ OK</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Рисунок 7.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200424T095246Z" creationid="Марианна" creationdate="20200424T095246Z">
+        <seg>&lt;x1/&gt;Figure 7.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Andrew:
 &lt;x1/&gt;The schema referenced by the service description &lt;x2/&gt; — it specifies the path to the XSD schema of the service description.&lt;segment 0065 ¶&gt;
 
@@ -1290,8 +1298,8 @@ No changes. I guess the Russian meaning does not presuppose this comma. "Which" 
       <tuv lang="RU">
         <seg>Функциональная схема работы</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200424T083452Z" creationid="Марианна" creationdate="20200424T083452Z">
-        <seg>Functional Operation Scheme</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200424T095503Z" creationid="Марианна" creationdate="20200424T083452Z">
+        <seg>The Functional Operation Scheme</seg>
       </tuv>
     </tu>
     <tu>
@@ -1300,6 +1308,14 @@ No changes. I guess the Russian meaning does not presuppose this comma. "Which" 
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T095236Z" creationid="Марианна" creationdate="20200424T095236Z">
         <seg>The functional operation scheme of the &lt;x1/&gt;Adapter&lt;x2/&gt; is shown in Figure 7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Функциональная схема работы Адаптера&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200424T095457Z" creationid="Марианна" creationdate="20200424T095419Z">
+        <seg>The Functional Operation Scheme of the Adapter&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
