@@ -1006,6 +1006,14 @@ Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Настройка выполнения этого этапа осуществляется параметром &lt;x1/&gt;Особый формат сообщения&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200424T104049Z" creationid="Марианна" creationdate="20200424T104049Z">
+        <seg>This stage is configured by means of &lt;x1/&gt;Special message format&lt;x2/&gt; parameter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Настройка выполнения этого этапа производится с помощью параметров &lt;x1/&gt;Конфигуратора&lt;x2/&gt; &lt;x3/&gt;XSLT для трансформации входящего сообщения перед передачей&lt;x4/&gt; и &lt;x5/&gt;Параметры XSLT&lt;x6/&gt;, представленных на рисунке 9.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T101921Z" creationid="Марианна" creationdate="20200424T101921Z">
@@ -1374,6 +1382,14 @@ Only comma added</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T103519Z" creationid="Марианна" creationdate="20200424T103459Z">
         <seg>The next stage can be transformation to the special message format of credit reference bureau "UNITED CREDIT BUREAU".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Следующим этапом обработки может быть применение команды ОС (операционной системы).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200424T104144Z" creationid="Марианна" creationdate="20200424T104144Z">
+        <seg>The next processing stage can be application of the OS command.</seg>
       </tuv>
     </tu>
     <tu>
