@@ -796,6 +796,14 @@ OK</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Здесь в теле скрипта описаны параметры &lt;x1/&gt;MemberCode&lt;x2/&gt;, &lt;x3/&gt;UserID&lt;x4/&gt;, &lt;x5/&gt;Password&lt;x6/&gt;, принимающие значения, заданные в &lt;x7/&gt;Конфигураторе&lt;x8/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200424T103224Z" creationid="Марианна" creationdate="20200424T103224Z">
+        <seg>&lt;x1/&gt;MemberCode&lt;x2/&gt;, &lt;x3/&gt;UserID&lt;x4/&gt;, &lt;x5/&gt;Password&lt;x6/&gt; parameters taking the values specified in the &lt;x7/&gt;Configurator&lt;x8/&gt; are described in the workflow body.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Andrew: 
 The value of &lt;x9/&gt;plainXml&lt;x10/&gt; parameter enables assignment of mode of the external service operation, as with REST service.&lt;segment 0051&gt;
 
