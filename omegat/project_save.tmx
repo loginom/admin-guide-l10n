@@ -1264,6 +1264,14 @@ No changes. I guess the Russian meaning does not presuppose this comma. "Which" 
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Функциональная схема работы</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200424T083452Z" creationid="Марианна" creationdate="20200424T083452Z">
+        <seg>Functional Operation Scheme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Элементы второго уровня:</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200206T064639Z" creationid="Марианна" creationdate="20200206T064639Z">
