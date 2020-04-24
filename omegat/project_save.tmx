@@ -926,6 +926,14 @@ Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Настройка роли клиента внешних сервисов</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200424T095730Z" creationid="Марианна" creationdate="20200424T095730Z">
+        <seg>Configuration of the Client Role of the External Services</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Настройки Loginom Adapter хранятся в xml-файле &lt;x1/&gt;Web.config&lt;x2/&gt;, редактирование которого осуществляется программой &lt;x3/&gt;Loginom Adapter Configurator&lt;x4/&gt; (далее по тексту &lt;x5/&gt;Конфигуратор&lt;x6/&gt;).</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200309T142544Z" creationid="Марианна" creationdate="20200203T072657Z">
