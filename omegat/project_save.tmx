@@ -428,6 +428,14 @@ OK</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Рисунок 8.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200424T100027Z" creationid="Марианна" creationdate="20200424T100027Z">
+        <seg>&lt;x1/&gt;Figure 8.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Andrew:
 &lt;x1/&gt;The schema referenced by the service description &lt;x2/&gt; — it specifies the path to the XSD schema of the service description.&lt;segment 0065 ¶&gt;
 
@@ -508,6 +516,22 @@ Ok, corrected in 2 segments. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200421T113623Z" creationid="Марианна" creationdate="20200227T155820Z">
         <seg>The XSD schema can contain references to the associated XSD schemas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Алгоритм действий на этапе отправки запроса внешнему сервису представлен на рисунке 8.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200424T100009Z" creationid="Марианна" creationdate="20200424T100009Z">
+        <seg>Algorithm of actions at the stage of request sending to the external service is shown in Figure 8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Алгоритм действий на этапе отправки запроса внешнему сервису&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200424T100116Z" creationid="Марианна" creationdate="20200424T100116Z">
+        <seg>Algorithm of Actions at the Stage of the Request Sending to the External Service&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
