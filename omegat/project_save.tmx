@@ -522,8 +522,8 @@ Ok, corrected in 2 segments. </note>
       <tuv lang="RU">
         <seg>Алгоритм действий на этапе отправки запроса внешнему сервису представлен на рисунке 8.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200424T100009Z" creationid="Марианна" creationdate="20200424T100009Z">
-        <seg>Algorithm of actions at the stage of request sending to the external service is shown in Figure 8.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200424T100132Z" creationid="Марианна" creationdate="20200424T100009Z">
+        <seg>Algorithm of actions at the stage of the request sending to the external service is shown in Figure 8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -854,6 +854,14 @@ No changes.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200227T160213Z" creationid="Марианна" creationdate="20200227T160213Z">
         <seg>It is used in the process of work with credit reference bureau "UNITED CREDIT BUREAU". </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Как видно из рисунка 8, первым действием после получения SOAP-запроса из сценария Loginom является выделение текста xml-запроса из SOAP-пакета.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200424T100643Z" creationid="Марианна" creationdate="20200424T100643Z">
+        <seg>As it is shown by Figure 8, the first action after the SOAP request receipt from Loginom workflow is the XML request text selection from the SOAP package.</seg>
       </tuv>
     </tu>
     <tu>
