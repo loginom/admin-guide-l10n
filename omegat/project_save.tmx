@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1107,6 +1107,9 @@ I would change
 Marianna: 
 1) General Settings Parameters - Done 
 2) I didn't understand the case with the "Navigation Tree Settings". You mean Segment #3, I am afraid it's better to preserve the current version as it allows for better understanding of the Russian menu and its general meaning. So, I haven't introduced any changes for a while. 
+
+Andrew:
+2)  My apologies for the confusion. I was actually offering correction suggestions in the "Fuzzy Matches", which are other segments of the Markdown File with matching terminologies. I actually offered correction comments for all Fuzzy Matches, throughout this particular markdown file.
 
 
 </note>
