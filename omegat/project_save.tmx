@@ -74,6 +74,14 @@ OK</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;URL для отправки запроса&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T111152Z" creationid="Марианна" creationdate="20200426T111152Z">
+        <seg>&lt;x1/&gt;URL for request sending&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;URL для отправки запроса&lt;x2/&gt; — адрес веб-сервиса, куда будут отправляться запросы.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200225T130012Z" creationid="Марианна" creationdate="20200225T130012Z">
@@ -854,6 +862,30 @@ OK</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Заголовки (&lt;x1/&gt;Message Headers&lt;x2/&gt;)</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T111201Z" creationid="Марианна" creationdate="20200426T111201Z">
+        <seg>Headers (&lt;x1/&gt;Message Headers&lt;x2/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Заголовок &lt;x1/&gt;Content-Type&lt;x2/&gt; заполняется значением параметра &lt;x3/&gt;ContentType для передачи в заголовке&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T111320Z" creationid="Марианна" creationdate="20200426T111320Z">
+        <seg>In &lt;x1/&gt;Content-Type&lt;x2/&gt; header the value of &lt;x3/&gt;ContentType for transfer in the header&lt;x4/&gt; parameter is stated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Заголовок &lt;x5/&gt;SOAPAction&lt;x6/&gt; заполняется значением параметра &lt;x7/&gt;SOAPAction, который необходимо передавать в заголовке&lt;x8/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T111501Z" creationid="Марианна" creationdate="20200426T111501Z">
+        <seg>In &lt;x5/&gt;SOAPAction&lt;x6/&gt; header it is required to state the value of &lt;x7/&gt;SOAPAction that is required to transfer in the header&lt;x8/&gt; parameter. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Затем содержимое ответа передается на обработку командой ОС с использованием параметров &lt;x5/&gt;Исходное имя файла ответа&lt;x6/&gt;, &lt;x7/&gt;Результирующее имя файла ответа&lt;x8/&gt;, &lt;x9/&gt;Команда обработки файла ответа&lt;x10/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200426T101847Z" creationid="Марианна" creationdate="20200426T101447Z">
@@ -1578,6 +1610,14 @@ Only comma added</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200324T070216Z" creationid="Марианна" creationdate="20200205T060719Z">
         <seg>contains parameters of the general settings of the &lt;x3/&gt;Adapter&lt;x4/&gt; represented in the following section: &lt;x5/&gt;Parameters of the General Settings&lt;x6/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Строка запроса (&lt;x1/&gt;Request Line&lt;x2/&gt;)</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T111130Z" creationid="Марианна" creationdate="20200426T111130Z">
+        <seg>Request line (&lt;x1/&gt;Request Line&lt;x2/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
