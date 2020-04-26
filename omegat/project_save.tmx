@@ -588,6 +588,14 @@ Ok, the XML elements. Corrected everywhere.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>В случае, если значения параметров &lt;x1/&gt;Исходное имя файла запроса&lt;x2/&gt; и &lt;x3/&gt;Результирующее имя файла запроса&lt;x4/&gt; не заданы, то будут сформированы имена файлов на основе случайно сгенерированных GUID (Globally Unique Identifier) без расширения.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T095002Z" creationid="Марианна" creationdate="20200426T095002Z">
+        <seg>В случае, если значения параметров &lt;x1/&gt;The request file source name&lt;x2/&gt; и &lt;x3/&gt;Результирующее имя файла запроса&lt;x4/&gt; не заданы, то будут сформированы имена файлов на основе случайно сгенерированных GUID (Globally Unique Identifier) без расширения.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Andrew:
 This type of header can include additional information (e.g., user name, password, etc.).&lt;segment 0059&gt;
 
@@ -644,8 +652,8 @@ Done</note>
       <tuv lang="RU">
         <seg>Выполнение этого этапа определяется параметрами &lt;x1/&gt;Конфигуратора&lt;x2/&gt;: &lt;x3/&gt;Исходное имя файла запроса&lt;x4/&gt;, &lt;x5/&gt;Результирующее имя файла запроса&lt;x6/&gt;, &lt;x7/&gt;Команда обработки файла запроса&lt;x8/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200424T104424Z" creationid="Марианна" creationdate="20200424T104424Z">
-        <seg>Performance of this stage can be defined by the following parameters: &lt;x1/&gt;Configurator&lt;x2/&gt;: &lt;x3/&gt;Source name of the request file&lt;x4/&gt;, &lt;x5/&gt;Resulting name of the request file&lt;x6/&gt;, &lt;x7/&gt;Command of the request file processing&lt;x8/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T094923Z" creationid="Марианна" creationdate="20200424T104424Z">
+        <seg>Performance of this stage can be defined by the following parameters: &lt;x1/&gt;Configurator&lt;x2/&gt;: &lt;x3/&gt;The request file source name&lt;x4/&gt;, &lt;x5/&gt;Resulting name of the request file&lt;x6/&gt;, &lt;x7/&gt;Command of the request file processing&lt;x8/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1205,6 +1213,14 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T101638Z" creationid="Марианна" creationdate="20200424T101638Z">
         <seg>The first stage of the XML request transformation can be the XSLT transformation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Перед началом выполнения команды ОС результат предыдущих этапов преобразования представляется в виде файла с именем, указанным в параметре &lt;x1/&gt;Исходное имя файла запроса&lt;x2/&gt;, и записывается на диск.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T094939Z" creationid="Марианна" creationdate="20200426T094939Z">
+        <seg>Перед началом выполнения команды ОС результат предыдущих этапов преобразования представляется в виде файла с именем, указанным в параметре &lt;x1/&gt;The request file source name&lt;x2/&gt;, и записывается на диск.</seg>
       </tuv>
     </tu>
     <tu>
