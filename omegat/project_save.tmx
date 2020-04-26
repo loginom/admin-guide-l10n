@@ -413,6 +413,14 @@ OK</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Рисунок 10.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T125255Z" creationid="Марианна" creationdate="20200426T125255Z">
+        <seg>&lt;x1/&gt;Figure 10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Рисунок 3.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200203T075353Z" creationid="Марианна" creationdate="20200203T075353Z">
@@ -580,6 +588,22 @@ Ok, corrected in 2 segments. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T100116Z" creationid="Марианна" creationdate="20200424T100116Z">
         <seg>Algorithm of Actions at the Stage of the Request Sending to the External Service&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Алгоритм действий на этапе получения ответа от внешнего сервиса представлен на рисунке 10.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T125247Z" creationid="Марианна" creationdate="20200426T125247Z">
+        <seg>Algorithm of actions at the stage of the response receipt from the external service is shown in </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Алгоритм действий на этапе получения ответа от внешнего сервиса&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T125325Z" creationid="Марианна" creationdate="20200426T125325Z">
+        <seg>Algorithm of Actions at the Stage of the Response Receipt from the External Service&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1508,6 +1532,14 @@ Only comma added</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200426T095938Z" creationid="Марианна" creationdate="20200426T095938Z">
         <seg>The files will be placed into the folder with &lt;x9/&gt;Web.config&lt;x10/&gt; in case of the full path absence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>При получении ответа от внешнего сервиса последовательность этапов преобразования становится обратной.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T125547Z" creationid="Марианна" creationdate="20200426T125547Z">
+        <seg>In case of response receipt from the external service the succession of the transformation stages is reverse.</seg>
       </tuv>
     </tu>
     <tu>
