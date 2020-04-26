@@ -138,6 +138,14 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Заголовки (Message Headers):&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T112013Z" creationid="Марианна" creationdate="20200426T112013Z">
+        <seg>&lt;x1/&gt;Headers (Message Headers):&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Andrew: 
 &lt;x1/&gt;The incoming message header&lt;x2/&gt; is used for credit reference bureau: "UNITED CREDIT BUREAU".&lt;segment 0058 ¶&gt;
 
@@ -449,6 +457,14 @@ OK</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T101929Z" creationid="Марианна" creationdate="20200424T101929Z">
         <seg>&lt;x1/&gt;Figure 9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Строка запроса (Request Line):&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T111958Z" creationid="Марианна" creationdate="20200426T111958Z">
+        <seg>&lt;x1/&gt;Request line (Request Line):&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1417,6 +1433,14 @@ From now on, I will only mention the sections of text that I require a tweak.
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>При взаимодействии с внешними сервисами &lt;x1/&gt;Адаптер&lt;x2/&gt; использует только POST-запросы, GET-запросы не используются.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T111824Z" creationid="Марианна" creationdate="20200426T111824Z">
+        <seg>While interacting with the external services the &lt;x1/&gt;Adapter&lt;x2/&gt; uses only the POST requests, GET requests are not used.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>При выборе данного параметра нужно учитывать, что пользователь должен иметь право на чтение и запись в папку для лог-файлов.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200311T140302Z" creationid="Марианна" creationdate="20200221T074603Z">
@@ -1484,6 +1508,14 @@ Only comma added</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200421T114734Z" creationid="Марианна" creationdate="20200226T110744Z">
         <seg>It is used only for the SOAP services.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Пример HTTP/HTTPS пакета запроса к SOAP-сервису:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T111933Z" creationid="Марианна" creationdate="20200426T111933Z">
+        <seg>Example of the HTTP/HTTPS request package to the SOAP service:</seg>
       </tuv>
     </tu>
     <tu>
