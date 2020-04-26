@@ -926,6 +926,14 @@ Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Имена файлов так же можно задавать в виде шаблона с использованием конструкции &lt;x1/&gt;%guid%&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T100958Z" creationid="Марианна" creationdate="20200426T100958Z">
+        <seg>The files names can be also specified as a template with usage of &lt;x1/&gt;%guid%&lt;x2/&gt; construction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Интерфейс &lt;x1/&gt;Конфигуратора&lt;x2/&gt; состоит из двух панелей.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200203T074026Z" creationid="Марианна" creationdate="20200203T074026Z">
@@ -1043,6 +1051,14 @@ Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200311T113002Z" creationid="Марианна" creationdate="20200225T123451Z">
         <seg>At the configuration stage, it is recommended to enable the debug mode and logging of requests and responses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Например, на основе шаблона &lt;x3/&gt;"%guid%_reg.xml"&lt;x4/&gt; вместо &lt;x5/&gt;%guid%&lt;x6/&gt; в имя файла будет подставлен случайно сгенерированный GUID.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T101133Z" creationid="Марианна" creationdate="20200426T101133Z">
+        <seg>For example, on the basis of &lt;x3/&gt;"%guid%_reg.xml"&lt;x4/&gt; template randomly generated GUID will be placed into the file name instead of &lt;x5/&gt;%guid%&lt;x6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1568,6 +1584,14 @@ No changes. I guess the Russian meaning does not presuppose this comma. "Which" 
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200421T104226Z" creationid="Марианна" creationdate="20200225T123310Z">
         <seg>This information is shown while requesting the WSDL service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Эти временные файлы так же будут располагаться в папке с &lt;x5/&gt;Web.config&lt;x6/&gt;, а по окончании обработки удалятся.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T100830Z" creationid="Марианна" creationdate="20200426T100830Z">
+        <seg>These temporary files will be also placed into the folder with &lt;x5/&gt;Web.config&lt;x6/&gt;. They will be deletd after the processing.</seg>
       </tuv>
     </tu>
     <tu>
