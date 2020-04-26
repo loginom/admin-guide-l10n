@@ -1227,8 +1227,8 @@ From now on, I will only mention the sections of text that I require a tweak.
       <tuv lang="RU">
         <seg>Перед началом выполнения команды ОС результат предыдущих этапов преобразования представляется в виде файла с именем, указанным в параметре &lt;x1/&gt;Исходное имя файла запроса&lt;x2/&gt;, и записывается на диск.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T094939Z" creationid="Марианна" creationdate="20200426T094939Z">
-        <seg>Перед началом выполнения команды ОС результат предыдущих этапов преобразования представляется в виде файла с именем, указанным в параметре &lt;x1/&gt;The request file source name&lt;x2/&gt;, и записывается на диск.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T100247Z" creationid="Марианна" creationdate="20200426T094939Z">
+        <seg>Before the OS command execution  result of the previous transformation stages is represented as a file with the name specified in &lt;x1/&gt;The request file source name&lt;x2/&gt; parameter; then it is recorded to the disc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1316,6 +1316,14 @@ Only comma added</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T100839Z" creationid="Марианна" creationdate="20200304T071055Z">
         <seg>In case of the &lt;x7/&gt;true&lt;x8/&gt; value, the algorithm of the response transformation of credit reference bureau "UNITED CREDIT BUREAU", in which the certificate signature is removed from the XML service response is applied.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>При отсутствии полного пути файлы будут располагаться в папке с &lt;x9/&gt;Web.config&lt;x10/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T095938Z" creationid="Марианна" creationdate="20200426T095938Z">
+        <seg>The files will be placed into the folder with &lt;x9/&gt;Web.config&lt;x10/&gt; in case of the full path absence.</seg>
       </tuv>
     </tu>
     <tu>
