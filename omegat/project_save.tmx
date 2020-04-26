@@ -491,6 +491,14 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Тело сообщения (Entity Body):&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T112033Z" creationid="Марианна" creationdate="20200426T112033Z">
+        <seg>&lt;x1/&gt;Message body (Entity Body):&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Andrew:
 &lt;x1/&gt;Message format&lt;x2/&gt; can take one of three values: &lt;x3/&gt;plainXml&lt;x4/&gt;, &lt;x5/&gt;soap&lt;x6/&gt;, or &lt;x7/&gt;soap12&lt;x8/&gt;.&lt;segment 0049 ¶&gt;
 
