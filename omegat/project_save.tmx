@@ -674,6 +674,14 @@ Done</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Далее команда ОС применяется к этому файлу и формирует выходной файл.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T100351Z" creationid="Марианна" creationdate="20200426T100351Z">
+        <seg>Then the OS command is applied to this file and the output file is formed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Данное преобразование специфично для работы с вышеуказанным БКИ и в других задачах не применяется.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T103749Z" creationid="Марианна" creationdate="20200424T103749Z">
@@ -1450,6 +1458,14 @@ Only comma added</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T101052Z" creationid="Марианна" creationdate="20200424T101052Z">
         <seg>According to the SOAP protocol description, the XML request to the web service is in the node body &lt;x1/&gt;Body&lt;x2/&gt; of the SOAP package.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Содержание выходного файла передается на следующий этап обработки.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T100425Z" creationid="Марианна" creationdate="20200426T100425Z">
+        <seg>The output file content is transferred to the next processing stage.</seg>
       </tuv>
     </tu>
     <tu>
