@@ -1481,6 +1481,14 @@ From now on, I will only mention the sections of text that I require a tweak.
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>После получения ответного сообщения происходит его дешифрование (при HTTPS-соединении) и выделение содержимого ответа.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T125809Z" creationid="Марианна" creationdate="20200426T125809Z">
+        <seg>Upon receipt of the response message, it is decrypted (on basis of the HTTPS connection) and the response content is selected.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Последующие запросы к &lt;x7/&gt;Адаптеру&lt;x8/&gt; будут выполнены с учетом новых настроек.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200203T073947Z" creationid="Марианна" creationdate="20200203T073932Z">
