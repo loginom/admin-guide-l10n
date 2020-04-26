@@ -399,8 +399,8 @@ OK</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Работа с сертификатами&lt;x2/&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T124925Z" creationid="Марианна" creationdate="20200426T124925Z">
-        <seg>&lt;x1/&gt;Certificates Application&lt;x2/&gt;</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T125047Z" creationid="Марианна" creationdate="20200426T124925Z">
+        <seg>&lt;x1/&gt;Certificates Usage&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1608,8 +1608,8 @@ Only comma added</note>
       <tuv lang="RU">
         <seg>Работа с сертификатами</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T124906Z" creationid="Марианна" creationdate="20200426T124906Z">
-        <seg>Certificates Application</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T124957Z" creationid="Марианна" creationdate="20200426T124906Z">
+        <seg>Certificates Usage</seg>
       </tuv>
     </tu>
     <tu>
@@ -1846,8 +1846,8 @@ No changes. I guess the Russian meaning does not presuppose this comma. "Which" 
       <tuv lang="RU">
         <seg>раздел &lt;x1/&gt;Работа с сертификатами&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T124858Z" creationid="Марианна" creationdate="20200426T124752Z">
-        <seg>the &lt;x1/&gt;Certificates Application&lt;x2/&gt; section.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T125005Z" creationid="Марианна" creationdate="20200426T124752Z">
+        <seg>the &lt;x1/&gt;Certificates Usage&lt;x2/&gt; section.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1938,8 +1938,8 @@ No, it's continuation of the previous sentence. I have sent the link to github t
       <tuv lang="RU">
         <seg>также раздел &lt;x11/&gt;Работа с сертификатами&lt;x12/&gt;).</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T124834Z" creationid="Марианна" creationdate="20200226T104455Z">
-        <seg>the &lt;x11/&gt;Certificates Application&lt;x12/&gt; section).</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T124948Z" creationid="Марианна" creationdate="20200226T104455Z">
+        <seg>the &lt;x11/&gt;Certificates Usage&lt;x12/&gt; section).</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
