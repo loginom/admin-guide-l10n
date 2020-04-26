@@ -846,6 +846,14 @@ OK</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Затем содержимое ответа передается на обработку командой ОС с использованием параметров &lt;x5/&gt;Исходное имя файла ответа&lt;x6/&gt;, &lt;x7/&gt;Результирующее имя файла ответа&lt;x8/&gt;, &lt;x9/&gt;Команда обработки файла ответа&lt;x10/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T101447Z" creationid="Марианна" creationdate="20200426T101447Z">
+        <seg>Затем содержимое ответа передается на обработку командой ОС с использованием параметров &lt;x5/&gt;The response file source name&lt;x6/&gt;, &lt;x7/&gt;Результирующее имя файла ответа&lt;x8/&gt;, &lt;x9/&gt;Команда обработки файла ответа&lt;x10/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Здесь в теле скрипта описаны параметры &lt;x1/&gt;MemberCode&lt;x2/&gt;, &lt;x3/&gt;UserID&lt;x4/&gt;, &lt;x5/&gt;Password&lt;x6/&gt;, принимающие значения, заданные в &lt;x7/&gt;Конфигураторе&lt;x8/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T103224Z" creationid="Марианна" creationdate="20200424T103224Z">
@@ -1057,8 +1065,8 @@ Done.</note>
       <tuv lang="RU">
         <seg>Например, на основе шаблона &lt;x3/&gt;"%guid%_reg.xml"&lt;x4/&gt; вместо &lt;x5/&gt;%guid%&lt;x6/&gt; в имя файла будет подставлен случайно сгенерированный GUID.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T101133Z" creationid="Марианна" creationdate="20200426T101133Z">
-        <seg>For example, on the basis of &lt;x3/&gt;"%guid%_reg.xml"&lt;x4/&gt; template randomly generated GUID will be placed into the file name instead of &lt;x5/&gt;%guid%&lt;x6/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T101208Z" creationid="Марианна" creationdate="20200426T101133Z">
+        <seg>For example, on the basis of &lt;x3/&gt;"%guid%_reg.xml"&lt;x4/&gt; template randomly generated GUID will be inserted into the file name instead of &lt;x5/&gt;%guid%&lt;x6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1592,6 +1600,14 @@ No changes. I guess the Russian meaning does not presuppose this comma. "Which" 
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200426T100830Z" creationid="Марианна" creationdate="20200426T100830Z">
         <seg>These temporary files will be also placed into the folder with &lt;x5/&gt;Web.config&lt;x6/&gt;. They will be deletd after the processing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Эти правила выполнения этапа применяются и при преобразовании командой OC ответов сервиса с использованием параметров &lt;x1/&gt;Исходное имя файла ответа&lt;x2/&gt;, &lt;x3/&gt;Результирующее имя файла ответа&lt;x4/&gt;, &lt;x5/&gt;Команда обработки файла ответа&lt;x6/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T101433Z" creationid="Марианна" creationdate="20200426T101412Z">
+        <seg>These stage execution rules are also applied in case of transformation of the service responses by the OS command with application of the following parameters: &lt;x1/&gt;The response file source name&lt;x2/&gt;, &lt;x3/&gt;Результирующее имя файла ответа&lt;x4/&gt;, &lt;x5/&gt;Команда обработки файла ответа&lt;x6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
