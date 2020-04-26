@@ -219,8 +219,8 @@ OK</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Исходное имя файла ответа&lt;x2/&gt;, &lt;x3/&gt;Результирующее имя файла ответа&lt;x4/&gt;, &lt;x5/&gt;Команда обработки ответа&lt;x6/&gt; — данные параметры используются для задания команды ОС обработки текста ответа сервиса.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200421T115316Z" creationid="Марианна" creationdate="20200309T124504Z">
-        <seg>&lt;x1/&gt;The response file source name&lt;x2/&gt;, &lt;x3/&gt;the resulting name of the response file&lt;x4/&gt;, &lt;x5/&gt;the response processing command&lt;x6/&gt; — these parameters are used to assign the OS command of the service response text processing.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T101652Z" creationid="Марианна" creationdate="20200309T124504Z">
+        <seg>&lt;x1/&gt;The response file source name&lt;x2/&gt;, &lt;x3/&gt;The resulting name of the response file&lt;x4/&gt;, &lt;x5/&gt;The response processing command&lt;x6/&gt; — these parameters are used to assign the OS command of the service response text processing.</seg>
       </tuv>
     </tu>
     <tu>
@@ -660,8 +660,8 @@ Done</note>
       <tuv lang="RU">
         <seg>Выполнение этого этапа определяется параметрами &lt;x1/&gt;Конфигуратора&lt;x2/&gt;: &lt;x3/&gt;Исходное имя файла запроса&lt;x4/&gt;, &lt;x5/&gt;Результирующее имя файла запроса&lt;x6/&gt;, &lt;x7/&gt;Команда обработки файла запроса&lt;x8/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T095448Z" creationid="Марианна" creationdate="20200424T104424Z">
-        <seg>Performance of this stage can be defined by the following parameters: &lt;x1/&gt;Configurator&lt;x2/&gt;: &lt;x3/&gt;The request file source name&lt;x4/&gt;, &lt;x5/&gt;The resulting name of the request file&lt;x6/&gt;, &lt;x7/&gt;Command of the request file processing&lt;x8/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T101721Z" creationid="Марианна" creationdate="20200424T104424Z">
+        <seg>Performance of this stage can be defined by the following parameters: &lt;x1/&gt;Configurator&lt;x2/&gt;: &lt;x3/&gt;The request file source name&lt;x4/&gt;, &lt;x5/&gt;The resulting name of the request file&lt;x6/&gt;, &lt;x7/&gt;The request file processing command &lt;x8/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -848,8 +848,8 @@ OK</note>
       <tuv lang="RU">
         <seg>Затем содержимое ответа передается на обработку командой ОС с использованием параметров &lt;x5/&gt;Исходное имя файла ответа&lt;x6/&gt;, &lt;x7/&gt;Результирующее имя файла ответа&lt;x8/&gt;, &lt;x9/&gt;Команда обработки файла ответа&lt;x10/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T101447Z" creationid="Марианна" creationdate="20200426T101447Z">
-        <seg>Затем содержимое ответа передается на обработку командой ОС с использованием параметров &lt;x5/&gt;The response file source name&lt;x6/&gt;, &lt;x7/&gt;Результирующее имя файла ответа&lt;x8/&gt;, &lt;x9/&gt;Команда обработки файла ответа&lt;x10/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T101600Z" creationid="Марианна" creationdate="20200426T101447Z">
+        <seg>Затем содержимое ответа передается на обработку командой ОС с использованием параметров &lt;x5/&gt;The response file source name&lt;x6/&gt;, &lt;x7/&gt;The resulting name of the response file&lt;x8/&gt;, &lt;x9/&gt;Команда обработки файла ответа&lt;x10/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1606,8 +1606,8 @@ No changes. I guess the Russian meaning does not presuppose this comma. "Which" 
       <tuv lang="RU">
         <seg>Эти правила выполнения этапа применяются и при преобразовании командой OC ответов сервиса с использованием параметров &lt;x1/&gt;Исходное имя файла ответа&lt;x2/&gt;, &lt;x3/&gt;Результирующее имя файла ответа&lt;x4/&gt;, &lt;x5/&gt;Команда обработки файла ответа&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T101433Z" creationid="Марианна" creationdate="20200426T101412Z">
-        <seg>These stage execution rules are also applied in case of transformation of the service responses by the OS command with application of the following parameters: &lt;x1/&gt;The response file source name&lt;x2/&gt;, &lt;x3/&gt;Результирующее имя файла ответа&lt;x4/&gt;, &lt;x5/&gt;Команда обработки файла ответа&lt;x6/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T101746Z" creationid="Марианна" creationdate="20200426T101412Z">
+        <seg>These stage execution rules are also applied in case of transformation of the service responses by the OS command with application of the following parameters: &lt;x1/&gt;The response file source name&lt;x2/&gt;, &lt;x3/&gt;The resulting name of the response file&lt;x4/&gt;, &lt;x5/&gt;The response file processing command&lt;x6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
