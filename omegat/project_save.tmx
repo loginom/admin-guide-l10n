@@ -968,8 +968,8 @@ OK</note>
       <tuv lang="RU">
         <seg>Затем содержимое ответа передается на обработку командой ОС с использованием параметров &lt;x5/&gt;Исходное имя файла ответа&lt;x6/&gt;, &lt;x7/&gt;Результирующее имя файла ответа&lt;x8/&gt;, &lt;x9/&gt;Команда обработки файла ответа&lt;x10/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T101847Z" creationid="Марианна" creationdate="20200426T101447Z">
-        <seg>Затем содержимое ответа передается на обработку командой ОС с использованием параметров &lt;x5/&gt;The response file source name&lt;x6/&gt;, &lt;x7/&gt;The resulting name of the response file&lt;x8/&gt;, &lt;x9/&gt;The response file processing command&lt;x10/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T130312Z" creationid="Марианна" creationdate="20200426T101447Z">
+        <seg>Then the response content is transferred for processing by the OS command with application of the following parameters: &lt;x5/&gt;The response file source name&lt;x6/&gt;, &lt;x7/&gt;The resulting name of the response file&lt;x8/&gt;, &lt;x9/&gt;The response file processing command&lt;x10/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
