@@ -49,10 +49,10 @@ OK</note>
 // шаблоны %inputFile% и %outputFile% при выполнении команды заменяются на значения параметров
 // «Исходное имя файла ответа» и «Результирующее имя файла ответа» соответственно.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200421T115929Z" creationid="Марианна" creationdate="20200309T125009Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T095616Z" creationid="Марианна" creationdate="20200309T125009Z">
         <seg>"C:\Program Files\7-Zip\7z" e "%inputFile%" -so &gt; "%outputFile%"
 
-// templates %inputFile% and %outputFile% are replaced with the parameters values 
+// %inputFile% and %outputFile% templates are replaced with the parameters values 
 // "The response file source name" and "The resulting name of the response file", while the command is executed correspondingly.</seg>
       </tuv>
     </tu>
@@ -840,8 +840,8 @@ OK</note>
       <tuv lang="RU">
         <seg>Здесь шаблоны &lt;x1/&gt;%inputFile%&lt;x2/&gt; и &lt;x3/&gt;%outputFile%&lt;x4/&gt; при выполнении команды заменяются на значения параметров &lt;x5/&gt;Исходное имя файла запроса&lt;x6/&gt; и &lt;x7/&gt;Результирующее имя файла запроса&lt;x8/&gt; соответственно.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T094828Z" creationid="Марианна" creationdate="20200426T094828Z">
-        <seg>While command executing, &lt;x1/&gt;%inputFile%&lt;x2/&gt; and &lt;x3/&gt;%outputFile%&lt;x4/&gt; templates are replaced with the values of the follwoing parameters: &lt;x5/&gt;The request file source name&lt;x6/&gt; and &lt;x7/&gt;the resulting name of the request file&lt;x8/&gt; correspondingly.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T095718Z" creationid="Марианна" creationdate="20200426T094828Z">
+        <seg>While command executing, &lt;x1/&gt;%inputFile%&lt;x2/&gt; and &lt;x3/&gt;%outputFile%&lt;x4/&gt; templates are replaced with the values of the following parameters: &lt;x5/&gt;The request file source name&lt;x6/&gt; and &lt;x7/&gt;The resulting name of the request file&lt;x8/&gt;, correspondingly.</seg>
       </tuv>
     </tu>
     <tu>
