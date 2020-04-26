@@ -21,10 +21,10 @@ Ok, execution is removed</note>
 // шаблоны %inputFile% и %outputFile% при выполнении команды заменяются на значения параметров
 // «Исходное имя файла запроса» и «Результирующее имя файла запроса» соответственно.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200421T120022Z" creationid="Марианна" creationdate="20200309T124211Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T095404Z" creationid="Марианна" creationdate="20200309T124211Z">
         <seg>"C:\Program Files\7-Zip\7z" a -tzip "%outputFile%" "%inputFile%"
 
-// templates %inputFile% and %outputFile% are replaced with the parameters values 
+// %inputFile% and %outputFile% templates are replaced with the parameters values 
 // "The request file source name" and "The resulting name of the request file", while the command is executed correspondingly.</seg>
       </tuv>
     </tu>
@@ -199,8 +199,8 @@ all else okay</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Исходное имя файла запроса&lt;x2/&gt;, &lt;x3/&gt;Результирующее имя файла запроса&lt;x4/&gt;, &lt;x5/&gt;Команда обработки файла запроса&lt;x6/&gt; — данные параметры используются для задания команды ОС (операционной системы) предварительной обработки текста запроса перед его отправкой внешнему сервису.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200421T115340Z" creationid="Марианна" creationdate="20200309T123417Z">
-        <seg>&lt;x1/&gt;The request file source name&lt;x2/&gt;, &lt;x3/&gt;the resulting name of the request file&lt;x4/&gt;, &lt;x5/&gt;the request file processing command&lt;x6/&gt; — these parameters are used to assign the OS (operational system) command of the preliminary processing of the request text before its sending to the external service. </seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T095328Z" creationid="Марианна" creationdate="20200309T123417Z">
+        <seg>&lt;x1/&gt;The request file source name&lt;x2/&gt;, &lt;x3/&gt;The resulting name of the request file&lt;x4/&gt;, &lt;x5/&gt;The request file processing command&lt;x6/&gt; — these parameters are used to assign the OS (operational system) command of the preliminary processing of the request text before its sending to the external service. </seg>
       </tuv>
     </tu>
     <tu>
@@ -652,8 +652,8 @@ Done</note>
       <tuv lang="RU">
         <seg>Выполнение этого этапа определяется параметрами &lt;x1/&gt;Конфигуратора&lt;x2/&gt;: &lt;x3/&gt;Исходное имя файла запроса&lt;x4/&gt;, &lt;x5/&gt;Результирующее имя файла запроса&lt;x6/&gt;, &lt;x7/&gt;Команда обработки файла запроса&lt;x8/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T094923Z" creationid="Марианна" creationdate="20200424T104424Z">
-        <seg>Performance of this stage can be defined by the following parameters: &lt;x1/&gt;Configurator&lt;x2/&gt;: &lt;x3/&gt;The request file source name&lt;x4/&gt;, &lt;x5/&gt;Resulting name of the request file&lt;x6/&gt;, &lt;x7/&gt;Command of the request file processing&lt;x8/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T095448Z" creationid="Марианна" creationdate="20200424T104424Z">
+        <seg>Performance of this stage can be defined by the following parameters: &lt;x1/&gt;Configurator&lt;x2/&gt;: &lt;x3/&gt;The request file source name&lt;x4/&gt;, &lt;x5/&gt;The resulting name of the request file&lt;x6/&gt;, &lt;x7/&gt;Command of the request file processing&lt;x8/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
