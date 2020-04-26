@@ -591,8 +591,8 @@ Ok, the XML elements. Corrected everywhere.
       <tuv lang="RU">
         <seg>В случае, если значения параметров &lt;x1/&gt;Исходное имя файла запроса&lt;x2/&gt; и &lt;x3/&gt;Результирующее имя файла запроса&lt;x4/&gt; не заданы, то будут сформированы имена файлов на основе случайно сгенерированных GUID (Globally Unique Identifier) без расширения.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T095002Z" creationid="Марианна" creationdate="20200426T095002Z">
-        <seg>В случае, если значения параметров &lt;x1/&gt;The request file source name&lt;x2/&gt; и &lt;x3/&gt;Результирующее имя файла запроса&lt;x4/&gt; не заданы, то будут сформированы имена файлов на основе случайно сгенерированных GUID (Globally Unique Identifier) без расширения.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T100726Z" creationid="Марианна" creationdate="20200426T095002Z">
+        <seg>If the values of &lt;x1/&gt;The request file source name&lt;x2/&gt; and &lt;x3/&gt;The resulting name of the request fileа&lt;x4/&gt; parameters are not specified, the files names will be generated according to randomly generated GUID (Globally Unique Identifier) without extension.</seg>
       </tuv>
     </tu>
     <tu>
