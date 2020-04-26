@@ -838,6 +838,14 @@ OK</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Если параметр &lt;x7/&gt;Команда обработки файла запроса&lt;x8/&gt; не задан, то этап обработки &lt;x9/&gt;Команда OC&lt;x10/&gt; не выполняется.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T102021Z" creationid="Марианна" creationdate="20200426T101802Z">
+        <seg>If &lt;x7/&gt;The request file processing command&lt;x8/&gt; parameter is not specified, then &lt;x9/&gt;OS command&lt;x10/&gt; processing stage is not executed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Если параметр не задан, то логи не сохраняются.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200221T073732Z" creationid="Марианна" creationdate="20200221T073732Z">
@@ -848,8 +856,8 @@ OK</note>
       <tuv lang="RU">
         <seg>Затем содержимое ответа передается на обработку командой ОС с использованием параметров &lt;x5/&gt;Исходное имя файла ответа&lt;x6/&gt;, &lt;x7/&gt;Результирующее имя файла ответа&lt;x8/&gt;, &lt;x9/&gt;Команда обработки файла ответа&lt;x10/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T101600Z" creationid="Марианна" creationdate="20200426T101447Z">
-        <seg>Затем содержимое ответа передается на обработку командой ОС с использованием параметров &lt;x5/&gt;The response file source name&lt;x6/&gt;, &lt;x7/&gt;The resulting name of the response file&lt;x8/&gt;, &lt;x9/&gt;Команда обработки файла ответа&lt;x10/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T101847Z" creationid="Марианна" creationdate="20200426T101447Z">
+        <seg>Затем содержимое ответа передается на обработку командой ОС с использованием параметров &lt;x5/&gt;The response file source name&lt;x6/&gt;, &lt;x7/&gt;The resulting name of the response file&lt;x8/&gt;, &lt;x9/&gt;The response file processing command&lt;x10/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -975,6 +983,14 @@ No changes.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200206T081156Z" creationid="Марианна" creationdate="20200206T081156Z">
         <seg>As a rule, the additional files of such settings are placed into the following subdirectories: &lt;x13/&gt;Data&lt;x14/&gt; and &lt;x15/&gt;Certificates&lt;x16/&gt; of the installation directory (by default it is &lt;x17/&gt;C:\inetpub\wwwroot\LoginomAdapter\&lt;x18/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Конечным результатом этапов трансформации XML-запроса является формирование запроса в индивидуальном формате, заданном в описании внешнего сервиса, и может представлять собой XML, JSON, двоичные данные, текст и т.д.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T110202Z" creationid="Марианна" creationdate="20200426T110202Z">
+        <seg>The final result of the XML request transformation stages is formation of the request in the individual format specified in the external service description, and it can be XML, JSON, binary data, text, etc.  .</seg>
       </tuv>
     </tu>
     <tu>
