@@ -1071,6 +1071,14 @@ Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>На следующем этапе полученный в результате предыдущих преобразований запрос в случае формирования REST-запроса помещается в тело HTTP/HTTPS пакета (&lt;x11/&gt;Entity Body&lt;x12/&gt;), отправляемого внешнему сервису, в случае SOAP-запроса – помещается внутрь узла &lt;x13/&gt;Body&lt;x14/&gt; SOAP-пакета.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T110622Z" creationid="Марианна" creationdate="20200426T110622Z">
+        <seg>At the next stage the request received in the result of the previous transformations in case of REST request formation is placed into HTTP/HTTPS package body (&lt;x11/&gt;Entity Body&lt;x12/&gt;) sent to the external service, in case of the SOAP request, it is placed into &lt;x13/&gt;Body&lt;x14/&gt; node of SOAP package.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>На этапе настройки рекомендуется включить режим отладки и логирование запросов и ответов.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200311T113002Z" creationid="Марианна" creationdate="20200225T123451Z">
