@@ -886,6 +886,14 @@ OK</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Заполняется сформированным SOAP-пакетом или телом REST-сообщения в зависимости от значения параметра &lt;x1/&gt;Формат сообщения&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T111712Z" creationid="Марианна" creationdate="20200426T111712Z">
+        <seg>is filled in by the formed SOAP package or REST message body according to the value of &lt;x1/&gt;Message format&lt;x2/&gt; parameter/ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Затем содержимое ответа передается на обработку командой ОС с использованием параметров &lt;x5/&gt;Исходное имя файла ответа&lt;x6/&gt;, &lt;x7/&gt;Результирующее имя файла ответа&lt;x8/&gt;, &lt;x9/&gt;Команда обработки файла ответа&lt;x10/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200426T101847Z" creationid="Марианна" creationdate="20200426T101447Z">
@@ -1633,6 +1641,14 @@ Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T100824Z" creationid="Марианна" creationdate="20200227T155723Z">
         <seg>The schema describes the structure of the XML messages of requests and responses of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service, and participates in the generation of the WSDL service description.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Тело сообщения (&lt;x1/&gt;Entity Body&lt;x2/&gt;)</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T111518Z" creationid="Марианна" creationdate="20200426T111518Z">
+        <seg>Message body (&lt;x1/&gt;Entity Body&lt;x2/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
