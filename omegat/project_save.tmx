@@ -1175,6 +1175,14 @@ Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>На этапе отправки пакета при реализации HTTPS соединения применяется шифрование с использованием сертификата.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T124440Z" creationid="Марианна" creationdate="20200426T124440Z">
+        <seg>At the stage of the package sending during the HTTPS connection implementation encryption with the cerificate usage is applied.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Например, на основе шаблона &lt;x3/&gt;"%guid%_reg.xml"&lt;x4/&gt; вместо &lt;x5/&gt;%guid%&lt;x6/&gt; в имя файла будет подставлен случайно сгенерированный GUID.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200426T101208Z" creationid="Марианна" creationdate="20200426T101133Z">
