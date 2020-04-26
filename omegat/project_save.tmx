@@ -653,6 +653,22 @@ Ok, the XML elements. Corrected everywhere.
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>В случае с REST-сервисом содержимым ответа является тело сообщения (&lt;x1/&gt;Entity Body&lt;x2/&gt;) HTTP/HTTPS полученного пакета.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T125926Z" creationid="Марианна" creationdate="20200426T125926Z">
+        <seg>In case of the REST service the response content is the message body (&lt;x1/&gt;Entity Body&lt;x2/&gt;) HTTP/HTTPS of the received package.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>В случае с SOAP-сервисом выделяется содержание узла &lt;x3/&gt;Body&lt;x4/&gt; SOAP-пакета.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T130050Z" creationid="Марианна" creationdate="20200426T130050Z">
+        <seg>In case of the SOAP service content of &lt;x3/&gt;Body&lt;x4/&gt;node of the SOAP package is selected.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>В случае, если значения параметров &lt;x1/&gt;Исходное имя файла запроса&lt;x2/&gt; и &lt;x3/&gt;Результирующее имя файла запроса&lt;x4/&gt; не заданы, то будут сформированы имена файлов на основе случайно сгенерированных GUID (Globally Unique Identifier) без расширения.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200426T100726Z" creationid="Марианна" creationdate="20200426T095002Z">
