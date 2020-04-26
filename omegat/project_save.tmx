@@ -397,6 +397,14 @@ OK</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Работа с сертификатами&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T124925Z" creationid="Марианна" creationdate="20200426T124925Z">
+        <seg>&lt;x1/&gt;Certificates Application&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Режим отладки&lt;x2/&gt; — флаг, указывающий, что при ошибках в работе &lt;x3/&gt;Адаптера&lt;x4/&gt; следует выдавать отладочную информацию.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200225T123115Z" creationid="Марианна" creationdate="20200225T123115Z">
@@ -1598,6 +1606,14 @@ Only comma added</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Работа с сертификатами</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T124906Z" creationid="Марианна" creationdate="20200426T124906Z">
+        <seg>Certificates Application</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>С другой стороны, выполняя роль клиента, &lt;x5/&gt;Адаптер&lt;x6/&gt; обеспечивает трансформацию этих сообщений из формата SOAP в индивидуальные форматы внешних сервисов и обратно.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T095123Z" creationid="Марианна" creationdate="20200424T095123Z">
@@ -1830,8 +1846,8 @@ No changes. I guess the Russian meaning does not presuppose this comma. "Which" 
       <tuv lang="RU">
         <seg>раздел &lt;x1/&gt;Работа с сертификатами&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T124752Z" creationid="Марианна" creationdate="20200426T124752Z">
-        <seg>the following section: &lt;x1/&gt;Работа с сертификатами&lt;x2/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T124858Z" creationid="Марианна" creationdate="20200426T124752Z">
+        <seg>the &lt;x1/&gt;Certificates Application&lt;x2/&gt; section.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1922,8 +1938,8 @@ No, it's continuation of the previous sentence. I have sent the link to github t
       <tuv lang="RU">
         <seg>также раздел &lt;x11/&gt;Работа с сертификатами&lt;x12/&gt;).</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200324T062308Z" creationid="Марианна" creationdate="20200226T104455Z">
-        <seg>the &lt;x11/&gt;Certificates Operation&lt;x12/&gt; section).</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T124834Z" creationid="Марианна" creationdate="20200226T104455Z">
+        <seg>the &lt;x11/&gt;Certificates Application&lt;x12/&gt; section).</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
