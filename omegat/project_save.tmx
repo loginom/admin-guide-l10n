@@ -877,6 +877,14 @@ OK</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Значение &lt;x3/&gt;plainXml&lt;x4/&gt; параметра задает формат REST-сообщения.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T110746Z" creationid="Марианна" creationdate="20200426T110746Z">
+        <seg>The value of &lt;x3/&gt;plainXml&lt;x4/&gt; parameter is set according to the REST message format.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Andrew: 
 The value of &lt;x9/&gt;plainXml&lt;x10/&gt; parameter enables assignment of mode of the external service operation, as with REST service.&lt;segment 0051&gt;
 
@@ -1553,6 +1561,14 @@ Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T100824Z" creationid="Марианна" creationdate="20200227T155723Z">
         <seg>The schema describes the structure of the XML messages of requests and responses of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service, and participates in the generation of the WSDL service description.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Тип отправляемого запроса (REST или SOAP) определяется параметром &lt;x1/&gt;Формат сообщения&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T110705Z" creationid="Марианна" creationdate="20200426T110705Z">
+        <seg>Type of the sent request (REST or SOAP) is determined by &lt;x1/&gt;Message format&lt;x2/&gt; parameter.</seg>
       </tuv>
     </tu>
     <tu>
