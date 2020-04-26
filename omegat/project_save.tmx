@@ -950,6 +950,14 @@ Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Значения &lt;x5/&gt;soap&lt;x6/&gt; и &lt;x7/&gt;soap12&lt;x8/&gt; параметра задают формат SOAP-сообщения в спецификациях 1.1 и 1.2 соответственно.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T110847Z" creationid="Марианна" creationdate="20200426T110847Z">
+        <seg>The values of &lt;x5/&gt;soap&lt;x6/&gt; and &lt;x7/&gt;soap12&lt;x8/&gt; parameters are set according to the SOAP message format in Specifications 1.1 and 1.2 correspondingly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Имена файлов так же можно задавать в виде шаблона с использованием конструкции &lt;x1/&gt;%guid%&lt;x2/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200426T100958Z" creationid="Марианна" creationdate="20200426T100958Z">
@@ -962,6 +970,14 @@ Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200203T074026Z" creationid="Марианна" creationdate="20200203T074026Z">
         <seg>The &lt;x1/&gt;Configurator&lt;x2/&gt; interface consists of two panels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Используемые для заполнения параметры &lt;x1/&gt;Конфигуратора&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T111120Z" creationid="Марианна" creationdate="20200426T111120Z">
+        <seg>The parameters of the &lt;x1/&gt;Configurator&lt;x2/&gt; used for filling in</seg>
       </tuv>
     </tu>
     <tu>
@@ -1368,6 +1384,14 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>При заполнении секций HTTP/HTTPS пакета, отправляемого внешнему сервису, также используются следующие параметры &lt;x9/&gt;Конфигуратора&lt;x10/&gt;:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T111031Z" creationid="Марианна" creationdate="20200426T111031Z">
+        <seg>While filling in the HTTP/HTTPS package sections, sent to the external service, the following parameters of the &lt;x9/&gt;Configurator&lt;x10/&gt; are also used:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Andrew:
 In case of the &lt;x7/&gt;true&lt;x8/&gt; value, the algorithm of the response transformation of credit reference bureau: "UNITED CREDIT BUREAU", in which the certificate signature is removed from XML service response is applied.&lt;segment 0093&gt;
 
@@ -1482,6 +1506,14 @@ Only comma added</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T095123Z" creationid="Марианна" creationdate="20200424T095123Z">
         <seg>At the same time, serving as a client, the &lt;x5/&gt;Adapter&lt;x6/&gt; provides transformation of these messages from the SOAP format to the individual formats of the external services and backwards. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Секции HTTP/HTTPS пакета</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T111043Z" creationid="Марианна" creationdate="20200426T111043Z">
+        <seg>Sections of the HTTP/HTTPS Package</seg>
       </tuv>
     </tu>
     <tu>
