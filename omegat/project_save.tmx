@@ -1425,6 +1425,14 @@ From now on, I will only mention the sections of text that I require a tweak.
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Подробнее об установке и использовании сертификатов см.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T124619Z" creationid="Марианна" creationdate="20200426T124619Z">
+        <seg>To learn more on the certificates installation and usage refer to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Помимо предустановленных в процессе инсталляции папок и файлов, в процессе настройки &lt;x1/&gt;Адаптера&lt;x2/&gt; в каталоге установки могут быть размещены дополнительные файлы (сертификаты, XSD-схемы и т.п.), необходимые для работы с внешними сервисами.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200421T113727Z" creationid="Марианна" creationdate="20200206T075830Z">
@@ -1816,6 +1824,14 @@ No changes. I guess the Russian meaning does not presuppose this comma. "Which" 
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200324T062342Z" creationid="Марианна" creationdate="20200309T123521Z">
         <seg>the following section: &lt;x7/&gt;Configuration of the Client Role of the External Services&lt;x8/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>раздел &lt;x1/&gt;Работа с сертификатами&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200426T124752Z" creationid="Марианна" creationdate="20200426T124752Z">
+        <seg>the following section: &lt;x1/&gt;Работа с сертификатами&lt;x2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
