@@ -1481,6 +1481,14 @@ From now on, I will only mention the sections of text that I require a tweak.
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>По окончании времени ожидания при отсутствии ответа от внешнего сервиса формируется исключение.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200427T140003Z" creationid="Марианна" creationdate="20200427T140003Z">
+        <seg>On expiration of the timeout period and if there is no response from the external service the exception is formed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>По умолчанию используется &lt;x7/&gt;utf-8&lt;x8/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200226T110604Z" creationid="Марианна" creationdate="20200226T110604Z">
