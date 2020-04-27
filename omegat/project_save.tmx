@@ -375,8 +375,8 @@ OK</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: путь к XSD-схеме указывается в параметре &lt;x3/&gt;Схема, на которую будет ссылаться описание сервиса&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200421T114942Z" creationid="Марианна" creationdate="20200304T072255Z">
-        <seg>&lt;x1/&gt;Note&lt;x2/&gt;: the path to the XSD schema is specified in the following parameter: &lt;x3/&gt;The schema to which the service description will refer&lt;x4/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200427T115547Z" creationid="Марианна" creationdate="20200304T072255Z">
+        <seg>&lt;x1/&gt;Note&lt;x2/&gt;: the path to the XSD schema is specified in the following parameter: &lt;x3/&gt;The schema referenced by the service description&lt;x4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1666,8 +1666,8 @@ Only comma added</note>
       <tuv lang="RU">
         <seg>Путь к схеме задается в параметре &lt;x17/&gt;Схема, на которую будет ссылаться описание сервиса&lt;x18/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200427T115533Z" creationid="Марианна" creationdate="20200427T115533Z">
-        <seg>The path to the schema is specified in &lt;x17/&gt;The schema referred by the service description&lt;x18/&gt; parameter.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200427T115556Z" creationid="Марианна" creationdate="20200427T115533Z">
+        <seg>The path to the schema is specified in &lt;x17/&gt;The schema referenced by the service description&lt;x18/&gt; parameter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1801,6 +1801,22 @@ Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T100824Z" creationid="Марианна" creationdate="20200227T155723Z">
         <seg>The schema describes the structure of the XML messages of requests and responses of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service, and participates in the generation of the WSDL service description.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Схема, на которую будет ссылаться описание сервиса</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200427T115609Z" creationid="Марианна" creationdate="20200427T115609Z">
+        <seg>The schema referenced by the service description</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Также в формировании WSDL участвует обязательный компонент настроек – XSD-схема описания сервиса, путь к которой указывается в параметре &lt;x1/&gt;Схема, на которую будет ссылаться описание сервиса&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200427T115630Z" creationid="Марианна" creationdate="20200427T115630Z">
+        <seg>Также в формировании WSDL участвует обязательный компонент настроек – XSD-схема описания сервиса, путь к которой указывается в параметре &lt;x1/&gt;The schema referenced by the service description&lt;x2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
