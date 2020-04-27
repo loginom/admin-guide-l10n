@@ -770,6 +770,14 @@ Done</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Данная схема используется для формирования WSDL веб-сервиса и является обязательным компонентом настроек &lt;x15/&gt;Адаптера&lt;x16/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200427T114713Z" creationid="Марианна" creationdate="20200427T114616Z">
+        <seg>This schema is used for the WSDL web service formation and it is an obligatory component of the &lt;x15/&gt;Adapter&lt;x16/&gt; settings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Данное преобразование специфично для работы с вышеуказанным БКИ и в других задачах не применяется.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T103749Z" creationid="Марианна" creationdate="20200424T103749Z">
@@ -1652,6 +1660,14 @@ Only comma added</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200304T071650Z" creationid="Марианна" creationdate="20200304T071650Z">
         <seg>The parameter null value is equal to &lt;x9/&gt;false&lt;x10/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Путь к схеме задается в параметре &lt;x17/&gt;Схема, на которую будет ссылаться описание сервиса&lt;x18/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200427T115533Z" creationid="Марианна" creationdate="20200427T115533Z">
+        <seg>The path to the schema is specified in &lt;x17/&gt;The schema referred by the service description&lt;x18/&gt; parameter.</seg>
       </tuv>
     </tu>
     <tu>
