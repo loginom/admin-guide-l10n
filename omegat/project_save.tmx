@@ -139,6 +139,14 @@ Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Важно&lt;x2/&gt;: несоответствие результирующего XML-ответа его описанию в XSD-схеме приведет к ошибке в работе с веб-сервисом &lt;x3/&gt;Адаптера&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200427T135138Z" creationid="Марианна" creationdate="20200427T135138Z">
+        <seg>&lt;x1/&gt;Important&lt;x2/&gt;: incompliance of the resulting XML response with its description in the XSD schema will cause the &lt;x3/&gt;Adapter&lt;x4/&gt; web service operation error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Заголовки (Message Headers):&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200426T112013Z" creationid="Марианна" creationdate="20200426T112013Z">
