@@ -570,8 +570,8 @@ Ok, corrected in 2 segments. </note>
       <tuv lang="RU">
         <seg>WSDL сервиса формируется, исходя из следующих параметров:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200427T141353Z" creationid="Марианна" creationdate="20200427T141353Z">
-        <seg>The service WSDL is formed on basis of the folowing parameters:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200427T141418Z" creationid="Марианна" creationdate="20200427T141353Z">
+        <seg>The service WSDL is formed on the basis of the folowing parameters:</seg>
       </tuv>
     </tu>
     <tu>
@@ -774,6 +774,14 @@ Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T085156Z" creationid="Марианна" creationdate="20200424T084428Z">
         <seg>Serving as a web service, the &lt;x3/&gt;Adapter&lt;x4/&gt; provides the WSDL description according to the SOAP standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Группа параметров настройки роли Web-сервиса:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200427T141544Z" creationid="Марианна" creationdate="20200427T141544Z">
+        <seg>Group of the Parameters for the Web Service Role Configuration:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1118,6 +1126,14 @@ Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Имя веб-сервиса</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200427T141557Z" creationid="Марианна" creationdate="20200427T141557Z">
+        <seg>The Web Service Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Интерфейс &lt;x1/&gt;Конфигуратора&lt;x2/&gt; состоит из двух панелей.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200203T074026Z" creationid="Марианна" creationdate="20200203T074026Z">
@@ -1387,6 +1403,14 @@ Let's read the github version where it is easier to find the headers. I will int
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Описание веб-сервиса</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200427T141633Z" creationid="Марианна" creationdate="20200427T141633Z">
+        <seg>The Web Service Description</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Andrew: 
 I would change 
 1. to "General Settings Parameters"
@@ -1579,8 +1603,8 @@ From now on, I will only mention the sections of text that I require a tweak.
       <tuv lang="RU">
         <seg>После получения ответного сообщения происходит его дешифрование (при HTTPS-соединении) и выделение содержимого ответа.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T125809Z" creationid="Марианна" creationdate="20200426T125809Z">
-        <seg>Upon receipt of the response message, it is decrypted (on basis of the HTTPS connection) and the response content is selected.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200427T141407Z" creationid="Марианна" creationdate="20200426T125809Z">
+        <seg>Upon receipt of the response message, it is decrypted (on the basis of the HTTPS connection) and the response content is selected.</seg>
       </tuv>
     </tu>
     <tu>
