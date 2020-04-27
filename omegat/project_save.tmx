@@ -1134,6 +1134,22 @@ Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Имя метода</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200427T141736Z" creationid="Марианна" creationdate="20200427T141736Z">
+        <seg>Method Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Имя метода в Loginom Adapter</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200427T141747Z" creationid="Марианна" creationdate="20200427T141747Z">
+        <seg>Method Name in Loginom Adapter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Интерфейс &lt;x1/&gt;Конфигуратора&lt;x2/&gt; состоит из двух панелей.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200203T074026Z" creationid="Марианна" creationdate="20200203T074026Z">
@@ -1408,6 +1424,14 @@ Let's read the github version where it is easier to find the headers. I will int
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200427T141633Z" creationid="Марианна" creationdate="20200427T141633Z">
         <seg>The Web Service Description</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Описание метода</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200427T141808Z" creationid="Марианна" creationdate="20200427T141808Z">
+        <seg>Method Description</seg>
       </tuv>
     </tu>
     <tu>
@@ -1903,8 +1927,8 @@ Done</note>
       <tuv lang="RU">
         <seg>Схема, на которую будет ссылаться описание сервиса</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200427T115609Z" creationid="Марианна" creationdate="20200427T115609Z">
-        <seg>The schema referenced by the service description</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200427T141652Z" creationid="Марианна" creationdate="20200427T115609Z">
+        <seg>The Schema Referenced by the Service Description</seg>
       </tuv>
     </tu>
     <tu>
