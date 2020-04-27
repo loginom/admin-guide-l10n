@@ -1133,8 +1133,16 @@ No changes.</note>
       <tuv lang="RU">
         <seg>Конечным результатом этапов трансформации XML-запроса является формирование запроса в индивидуальном формате, заданном в описании внешнего сервиса, и может представлять собой XML, JSON, двоичные данные, текст и т.д.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T110202Z" creationid="Марианна" creationdate="20200426T110202Z">
-        <seg>The final result of the XML request transformation stages is formation of the request in the individual format specified in the external service description, and it can be XML, JSON, binary data, text, etc.  .</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200427T114350Z" creationid="Марианна" creationdate="20200426T110202Z">
+        <seg>The final result of the XML request transformation stages is formation of the request in the individual format specified in the external service description, and it can be XML, JSON, binary data, text, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Конечным результатом этапов трансформации должно стать формирование XML-ответа, структура которого соответствует XSD-схеме описания сервиса.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200427T114530Z" creationid="Марианна" creationdate="20200427T114355Z">
+        <seg>The final result of the transformation stages is formation of the XML response the structure of which complies with the XSD schema of the service description.</seg>
       </tuv>
     </tu>
     <tu>
