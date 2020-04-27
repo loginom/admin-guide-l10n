@@ -1195,6 +1195,14 @@ No changes.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Кроме отправки и получения сообщений, web-сервис &lt;x1/&gt;Адаптера&lt;x2/&gt; формирует WSDL-описание сервиса.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200427T140322Z" creationid="Марианна" creationdate="20200427T140322Z">
+        <seg>Apart from messages sending and receipt, the &lt;x1/&gt;Adapter&lt;x2/&gt; web service forms the WSDL service description.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Методы, по которым осуществляется взаимодействие с соответствующими внешними сервисами, представлены подчиненными элементами с наименованиями методов (на рисунке 3 это элементы: &lt;x1/&gt;Value&lt;x2/&gt;, &lt;x3/&gt;processingApplicationRequest&lt;x4/&gt;, &lt;x5/&gt;deleteApplicationRequest&lt;x6/&gt; и другие).</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200206T065032Z" creationid="Марианна" creationdate="20200206T065032Z">
@@ -1533,6 +1541,14 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200426T124619Z" creationid="Марианна" creationdate="20200426T124619Z">
         <seg>To learn more on the certificates installation and usage refer to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Получить WSDL-описание можно в браузере на компьютере с развернутым &lt;x3/&gt;Адаптером&lt;x4/&gt; по URL: &lt;x5/&gt;http://localhost/LoginomAdapter/Service.svc?wsdl&lt;x6/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200427T141016Z" creationid="Марианна" creationdate="20200427T141016Z">
+        <seg>It is possible to get the WSDL description using the computer browser with the deployed &lt;x3/&gt;Adapter&lt;x4/&gt; at the following URL: &lt;x5/&gt;http://localhost/LoginomAdapter/Service.svc?wsdl&lt;x6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
