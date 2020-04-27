@@ -738,6 +738,14 @@ Done</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Время ожидания задается в секундах в параметре &lt;x3/&gt;Таймаут&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200427T135742Z" creationid="Марианна" creationdate="20200427T135742Z">
+        <seg>The timeout period is expressed in seconds in the &lt;x3/&gt;Timeout&lt;x4/&gt; parameter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Выбрать путь можно нажатием на кнопку .</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200221T074318Z" creationid="Марианна" creationdate="20200221T074250Z">
@@ -1794,6 +1802,14 @@ Only comma added</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200426T111130Z" creationid="Марианна" creationdate="20200426T111130Z">
         <seg>Request line (&lt;x1/&gt;Request Line&lt;x2/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Существует время, в течение которого &lt;x1/&gt;Адаптер&lt;x2/&gt; ожидает ответа от внешнего сервиса.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200427T135319Z" creationid="Марианна" creationdate="20200427T135319Z">
+        <seg>There is a time period when the &lt;x1/&gt;Адаптер&lt;x2/&gt; is waiting for the response from the external service.</seg>
       </tuv>
     </tu>
     <tu>
