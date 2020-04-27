@@ -568,6 +568,14 @@ Ok, corrected in 2 segments. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>WSDL сервиса формируется, исходя из следующих параметров:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200427T141353Z" creationid="Марианна" creationdate="20200427T141353Z">
+        <seg>The service WSDL is formed on basis of the folowing parameters:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>WSDL-описание однозначно определяет параметры взаимодействия с веб-сервисом, в том числе и форматы XML-сообщений, посредством которых это взаимодействие осуществляется.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T100849Z" creationid="Марианна" creationdate="20200424T085444Z">
@@ -1620,6 +1628,14 @@ Only comma added</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T100839Z" creationid="Марианна" creationdate="20200304T071055Z">
         <seg>In case of the &lt;x7/&gt;true&lt;x8/&gt; value, the algorithm of the response transformation of credit reference bureau "UNITED CREDIT BUREAU", in which the certificate signature is removed from the XML service response is applied.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>При обращении к веб-сервису из сети можно использовать URL: &lt;x7/&gt;http://&lt;ip-адрес&gt;/LoginomAdapter/Service.svc?wsdl&lt;x8/&gt; , где &lt;x9/&gt;&lt;ip-адрес&gt;&lt;x10/&gt; - это ip-адрес компьютера с развернутым &lt;x11/&gt;Адаптером&lt;x12/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200427T141251Z" creationid="Марианна" creationdate="20200427T141251Z">
+        <seg>When referring to the web service from the network, it is possible to use the follwoing URL: &lt;x7/&gt;http://&lt;ip address&gt;/LoginomAdapter/Service.svc?wsdl&lt;x8/&gt; where &lt;x9/&gt;&lt;ip address&gt;&lt;x10/&gt; - is the computer IP address with the deployed &lt;x11/&gt;Adapter&lt;x12/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
