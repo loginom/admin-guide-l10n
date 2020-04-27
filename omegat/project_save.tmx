@@ -1295,6 +1295,14 @@ Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Настройка роли SOAP-сервиса</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200427T140109Z" creationid="Марианна" creationdate="20200427T140109Z">
+        <seg>Configuration of the SOAP Service Role</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Настройка роли клиента внешних сервисов</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T095730Z" creationid="Марианна" creationdate="20200424T095730Z">
