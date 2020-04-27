@@ -754,6 +754,14 @@ Done</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Далее выполняются операции обратные опциональным преобразованиям и XSLT трансформация с использованием параметров &lt;x11/&gt;XSLT для трансформации ответного сообщения&lt;x12/&gt; и &lt;x13/&gt;Параметры XSLT&lt;x14/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200427T114323Z" creationid="Марианна" creationdate="20200427T114323Z">
+        <seg>Then the operations reverse to the optional transformations and XSLT transformation with usage of &lt;x11/&gt;XSLT for transformation of the response message&lt;x12/&gt; and &lt;x13/&gt;XSLT parameters&lt;x14/&gt; parameters are performed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Далее команда ОС применяется к этому файлу и формирует выходной файл.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200426T100351Z" creationid="Марианна" creationdate="20200426T100351Z">
