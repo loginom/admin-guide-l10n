@@ -198,6 +198,14 @@ No changes. A full company name. </note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Имя корневого элемента SOAP ответа&lt;x2/&gt;;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200428T123648Z" creationid="Марианна" creationdate="20200428T123648Z">
+        <seg>&lt;x1/&gt;The root element name of the SOAP response&lt;x2/&gt;;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>1. If this parameter is left empty, to form the item names in WSDL, the &lt;x7/&gt;Method name&lt;x8/&gt; parameter is used.
 &lt;31/29/39% &gt;
 
