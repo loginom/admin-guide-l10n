@@ -177,8 +177,8 @@ No changes. A full company name. </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Имя веб-сервиса&lt;x2/&gt; — уникальное имя веб-сервиса.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200225T124427Z" creationid="Марианна" creationdate="20200225T124427Z">
-        <seg>&lt;x1/&gt;The Web service name&lt;x2/&gt; — the unique Web service name.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200428T104637Z" creationid="Марианна" creationdate="20200225T124427Z">
+        <seg>&lt;x1/&gt;The web service name&lt;x2/&gt; — the unique web service name.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1136,8 +1136,8 @@ Done.</note>
       <tuv lang="RU">
         <seg>Имя веб-сервиса</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200427T141557Z" creationid="Марианна" creationdate="20200427T141557Z">
-        <seg>The Web Service Name</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200428T104650Z" creationid="Марианна" creationdate="20200427T141557Z">
+        <seg>The web service name</seg>
       </tuv>
     </tu>
     <tu>
@@ -1335,6 +1335,14 @@ Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Например, значения параметров &lt;x7/&gt;Имя веб-сервиса&lt;x8/&gt; формируют уникальные имена элементов &lt;x9/&gt;&lt;wsdl:portType&gt;&lt;x10/&gt;, описывающих сервисы, предоставляемые веб-сервисом &lt;x11/&gt;Адаптера&lt;x12/&gt;, а значения параметров &lt;x13/&gt;Имя метода в Loginom Adapter&lt;x14/&gt; формируют уникальные имена элементов &lt;x15/&gt;&lt;wsdl:operation&gt;&lt;x16/&gt;, описывающих методы этих сервисов.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200428T104710Z" creationid="Марианна" creationdate="20200428T104710Z">
+        <seg>Например, значения параметров &lt;x7/&gt;The web service name&lt;x8/&gt; формируют уникальные имена элементов &lt;x9/&gt;&lt;wsdl:portType&gt;&lt;x10/&gt;, описывающих сервисы, предоставляемые веб-сервисом &lt;x11/&gt;Адаптера&lt;x12/&gt;, а значения параметров &lt;x13/&gt;Имя метода в Loginom Adapter&lt;x14/&gt; формируют уникальные имена элементов &lt;x15/&gt;&lt;wsdl:operation&gt;&lt;x16/&gt;, описывающих методы этих сервисов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Например, на основе шаблона &lt;x3/&gt;"%guid%_reg.xml"&lt;x4/&gt; вместо &lt;x5/&gt;%guid%&lt;x6/&gt; в имя файла будет подставлен случайно сгенерированный GUID.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200426T101208Z" creationid="Марианна" creationdate="20200426T101133Z">
@@ -1503,6 +1511,14 @@ Andrew:
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200311T115546Z" creationid="Марианна" creationdate="20200304T070801Z">
         <seg>The parameter is specified under the requirements to the corresponding web service settings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Параметры &lt;x1/&gt;Имя веб-сервиса&lt;x2/&gt;, &lt;x3/&gt;Имя метода&lt;x4/&gt;, &lt;x5/&gt;Имя метода в Loginom Adapter&lt;x6/&gt; участвуют в формировании имен элементов WSDL-описания сервиса.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200428T104658Z" creationid="Марианна" creationdate="20200428T104612Z">
+        <seg>&lt;x1/&gt;The web service name&lt;x2/&gt;, &lt;x3/&gt;Имя метода&lt;x4/&gt;, &lt;x5/&gt;Имя метода в Loginom Adapter&lt;x6/&gt; parameters участвуют в формировании имен элементов WSDL-описания сервиса.</seg>
       </tuv>
     </tu>
     <tu>
