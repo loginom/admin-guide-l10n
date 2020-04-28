@@ -66,6 +66,14 @@ OK</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Namespace корневого элемента SOAP запроса&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200428T123943Z" creationid="Марианна" creationdate="20200428T123943Z">
+        <seg>&lt;x1/&gt;Namespace of the root element of the SOAP request&lt;x2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Namespace корневого элемента SOAP ответа&lt;x2/&gt;;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200428T123840Z" creationid="Марианна" creationdate="20200428T123840Z">
@@ -1178,6 +1186,14 @@ Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200426T110847Z" creationid="Марианна" creationdate="20200426T110847Z">
         <seg>The values of &lt;x5/&gt;soap&lt;x6/&gt; and &lt;x7/&gt;soap12&lt;x8/&gt; parameters are set according to the SOAP message format in Specifications 1.1 and 1.2 correspondingly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Значения параметра &lt;x1/&gt;Описание веб-сервиса&lt;x2/&gt; задает содержание узлов WSDL &lt;x3/&gt;&lt;wsdl:documentation&gt;&lt;x4/&gt; и используется для произвольного описания сервисов.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200428T124400Z" creationid="Марианна" creationdate="20200428T124400Z">
+        <seg>Values of &lt;x1/&gt;The web service description&lt;x2/&gt; parameter are set by content of &lt;x3/&gt;&lt;wsdl:documentation&gt;&lt;x4/&gt; WSDL nodes, and they are used for the arbitrary description of the services.</seg>
       </tuv>
     </tu>
     <tu>
