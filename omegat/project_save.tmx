@@ -632,6 +632,14 @@ Ok, corrected in 2 segments. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Аналогично, для описания структуры исходящего сообщения (ответа) этого метода используется элемент схемы &lt;x15/&gt;ChequesResponse&lt;x16/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200428T122035Z" creationid="Марианна" creationdate="20200428T122035Z">
+        <seg>Similarly, to describe the incoming message (response) structure of this method &lt;x15/&gt;ChequesResponse&lt;x16/&gt; schema element is used.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>В данном примере по ссылке &lt;x1/&gt;/WebServiceProxy/Service.svc?xsd=xsd1&lt;x2/&gt; конструкцией &lt;x3/&gt;&lt;xsd:import … &gt;&lt;x4/&gt; импортируется XSD-схема описания сервиса.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200428T115227Z" creationid="Марианна" creationdate="20200428T115227Z">
@@ -2017,6 +2025,14 @@ Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200428T105938Z" creationid="Марианна" creationdate="20200427T115630Z">
         <seg>The compulsory configuration component also participates in the WSDL formation process – the XSD schema of the service description; a path to it is specified in &lt;x1/&gt;The schema referenced by the service description&lt;x2/&gt; parameter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Таким образом, XSD-схема описания сервиса должна содержать эти элементы и задавать их структуру (&lt;x1/&gt;tipe&lt;x2/&gt;), а из настроек &lt;x3/&gt;Адаптера&lt;x4/&gt; должно быть понятно, какое именно сообщение описывается определенным элементом импортируемой схемы.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200428T122438Z" creationid="Марианна" creationdate="20200428T122438Z">
+        <seg>Thus, the XSD schema of the service description must contain these elements and set their (&lt;x1/&gt;tipe&lt;x2/&gt;) structure; and the &lt;x3/&gt;Adapter&lt;x4/&gt; settings must be clear enough to understand what message is described by the particular element of the imported schema. </seg>
       </tuv>
     </tu>
     <tu>
