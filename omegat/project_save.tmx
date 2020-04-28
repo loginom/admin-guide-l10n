@@ -1467,6 +1467,14 @@ Andrew:
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Отправка сформированного пакета осуществляется по адресу, указанному в параметре &lt;x1/&gt;URL для отправки запроса&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200428T103834Z" creationid="Марианна" creationdate="20200428T103834Z">
+        <seg>The formed package is sent at the follwoing address specified at the following address: &lt;x1/&gt;URL для отправки запроса&lt;x2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Параметр &lt;x1/&gt;XSLT для трансформации входящего сообщения перед передачей&lt;x2/&gt; содержит путь к скрипту xslt.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T102234Z" creationid="Марианна" creationdate="20200424T102234Z">
