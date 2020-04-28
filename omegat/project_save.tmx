@@ -1134,6 +1134,14 @@ Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Имя корневого элемента SOAP ответа; Namespace корневого элемента SOAP ответа</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200428T104443Z" creationid="Марианна" creationdate="20200428T104443Z">
+        <seg>The root element name of the SOAP response; Namespace of the root element of the SOAP response</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Имя метода</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200427T141736Z" creationid="Марианна" creationdate="20200427T141736Z">
