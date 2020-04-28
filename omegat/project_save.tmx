@@ -1975,8 +1975,8 @@ Done</note>
       <tuv lang="RU">
         <seg>Также в формировании WSDL участвует обязательный компонент настроек – XSD-схема описания сервиса, путь к которой указывается в параметре &lt;x1/&gt;Схема, на которую будет ссылаться описание сервиса&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200427T115630Z" creationid="Марианна" creationdate="20200427T115630Z">
-        <seg>Также в формировании WSDL участвует обязательный компонент настроек – XSD-схема описания сервиса, путь к которой указывается в параметре &lt;x1/&gt;The schema referenced by the service description&lt;x2/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200428T105938Z" creationid="Марианна" creationdate="20200427T115630Z">
+        <seg>The compulsory configuration component also participates in the WSDL formation process – the XSD schema of the service description; a path to it is specified in &lt;x1/&gt;The schema referenced by the service description&lt;x2/&gt; parameter.</seg>
       </tuv>
     </tu>
     <tu>
