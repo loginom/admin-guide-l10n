@@ -66,6 +66,14 @@ OK</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Namespace корневого элемента SOAP ответа&lt;x2/&gt;;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200428T123840Z" creationid="Марианна" creationdate="20200428T123840Z">
+        <seg>&lt;x1/&gt;Namespace of the root element of the SOAP response&lt;x2/&gt;;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;SOAPAction для передачи в заголовке&lt;x2/&gt; — значение данного параметра передается в заголовке &lt;x3/&gt;SOAPAction&lt;x4/&gt; HTTP/HTTPS-пакета, передаваемого внешнему сервису.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200311T143102Z" creationid="Марианна" creationdate="20200304T070336Z">
@@ -187,6 +195,14 @@ No changes. A full company name. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T084922Z" creationid="Марианна" creationdate="20200304T071938Z">
         <seg>&lt;x1/&gt;The root element name of the SOAP request&lt;x2/&gt;, &lt;x3/&gt;Namespace of the root element of the SOAP request&lt;x4/&gt; — values of these parameters are taken from the XSD schema of the request description.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Имя корневого элемента SOAP запроса&lt;x2/&gt;;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200428T123924Z" creationid="Марианна" creationdate="20200428T123924Z">
+        <seg>&lt;x1/&gt;The root element name of the SOAP request&lt;x2/&gt;;</seg>
       </tuv>
     </tu>
     <tu>
