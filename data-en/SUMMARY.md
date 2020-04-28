@@ -17,7 +17,7 @@
    * [Конфигурация](./adapter/config/README.md)
       * [Описание параметров](./adapter/config/parameters.md)
       * [Настройка](./adapter/config/tuning-principles.md)
-      * [Работа с сертификатами](./adapter/config/work-with-certificates.md)
+      * [Certificates Usage](./adapter/config/work-with-certificates.md)
    * [Удаление](./adapter/remove.md)
 * [Loginom Integrator](./integrator/README.md)
    * [Установка](./integrator/setup.md)
