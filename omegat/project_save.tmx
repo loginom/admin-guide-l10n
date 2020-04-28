@@ -950,6 +950,14 @@ Actually, it is better to read the github version where it is easy to find heade
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Для этого для запроса и ответа каждого метода необходимо задать имя и пространство имен соответствующего элемента схемы.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200428T122802Z" creationid="Марианна" creationdate="20200428T122802Z">
+        <seg>For this purpose, it is required to set a name and namespace of the corresponding schema element for request and response of each method.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Дополнительные файлы</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200324T070732Z" creationid="Марианна" creationdate="20200206T075207Z">
