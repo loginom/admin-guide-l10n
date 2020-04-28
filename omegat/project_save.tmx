@@ -818,6 +818,14 @@ Done</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Данная схема определяет XML-структуру ответов и запросов всех методов каждого сервиса, описанного в файле конфигурации &lt;x3/&gt;web.config&lt;x4/&gt;, и импортируется в WSDL в разделе &lt;x5/&gt;&lt;wsdl:types&gt;&lt;x6/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200428T110205Z" creationid="Марианна" creationdate="20200428T110205Z">
+        <seg>This schema enables to define the XML structure of responses and requests of all methods of each service described in &lt;x3/&gt;web.config&lt;x4/&gt; configuration file; and it is imported to WSDL in &lt;x5/&gt;&lt;wsdl:types&gt;&lt;x6/&gt; section.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Данное преобразование специфично для работы с вышеуказанным БКИ и в других задачах не применяется.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T103749Z" creationid="Марианна" creationdate="20200424T103749Z">
@@ -1479,6 +1487,14 @@ Andrew:
       </tuv>
       <tuv lang="EN" changeid="mayorov" changedate="20200406T083548Z" creationid="Марианна" creationdate="20200201T112754Z">
         <seg>Description of the Configuration Parameters </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Определения всех сообщений запросов и ответов описываются отдельными элементами импортируемой схемы, и представлены узлами WSDL &lt;x7/&gt;&lt;wsdl:message&gt;&lt;x8/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200428T110450Z" creationid="Марианна" creationdate="20200428T110450Z">
+        <seg>Definitions of all requests and responses messages are provided by the separate elements of the imported schema; and they are represented by the WSDL nodes &lt;x7/&gt;&lt;wsdl:message&gt;&lt;x8/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
