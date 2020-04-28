@@ -2124,6 +2124,14 @@ No changes. I guess the Russian meaning does not presuppose this comma. "Which" 
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Эти атрибуты однозначно идентифицируют элементы в XSD-схеме и задаются следующими параметрами:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200428T123352Z" creationid="Марианна" creationdate="20200428T123352Z">
+        <seg>These attributes clearly identify the elements in the XSD schema; and they are set by the following parameters:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Эти временные файлы так же будут располагаться в папке с &lt;x5/&gt;Web.config&lt;x6/&gt;, а по окончании обработки удалятся.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200426T100830Z" creationid="Марианна" creationdate="20200426T100830Z">
