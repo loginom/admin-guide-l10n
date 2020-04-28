@@ -76,8 +76,8 @@ OK</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;URL для отправки запроса&lt;x2/&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T111152Z" creationid="Марианна" creationdate="20200426T111152Z">
-        <seg>&lt;x1/&gt;URL for request sending&lt;x2/&gt;</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200428T103859Z" creationid="Марианна" creationdate="20200426T111152Z">
+        <seg>&lt;x1/&gt;URL for the request sending&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1469,8 +1469,8 @@ Andrew:
       <tuv lang="RU">
         <seg>Отправка сформированного пакета осуществляется по адресу, указанному в параметре &lt;x1/&gt;URL для отправки запроса&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200428T103834Z" creationid="Марианна" creationdate="20200428T103834Z">
-        <seg>The formed package is sent at the follwoing address specified at the following address: &lt;x1/&gt;URL для отправки запроса&lt;x2/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200428T104051Z" creationid="Марианна" creationdate="20200428T103834Z">
+        <seg>The formed package is sent at the address specified in the &lt;x1/&gt;URL for the request sending&lt;x2/&gt; parameter.</seg>
       </tuv>
     </tu>
     <tu>
