@@ -568,6 +568,14 @@ Ok, corrected in 2 segments. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Namespace корневого элемента SOAP ответа; Namespace корневого элемента SOAP ответа</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200428T104524Z" creationid="Марианна" creationdate="20200428T104524Z">
+        <seg>Namespace of the root element of the SOAP response; Namespace of the root element of the SOAP response</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>WSDL сервиса формируется, исходя из следующих параметров:</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200427T141418Z" creationid="Марианна" creationdate="20200427T141353Z">
