@@ -2023,8 +2023,8 @@ Only comma added</note>
       <tuv lang="RU">
         <seg>Содержит параметры общих настроек &lt;x3/&gt;Адаптера&lt;x4/&gt;, представленных в разделе &lt;x5/&gt;Параметры общих настроек&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200324T070216Z" creationid="Марианна" creationdate="20200205T060719Z">
-        <seg>contains parameters of the general settings of the &lt;x3/&gt;Adapter&lt;x4/&gt; represented in the following section: &lt;x5/&gt;Parameters of the General Settings&lt;x6/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200429T115616Z" creationid="Марианна" creationdate="20200205T060719Z">
+        <seg>contains parameters of the general settings of the &lt;x3/&gt;Adapter&lt;x4/&gt; represented in the following section: &lt;x5/&gt;General Settings Parameters &lt;x6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
