@@ -948,12 +948,16 @@ Actually, it is better to read the github version where it is easy to find heade
       </tuv>
     </tu>
     <tu>
-      <note>To display the connections settings to the external service, it is required to select the corresponding item in the navigation tree (refer to &lt;segment 0024 ¶&gt;</note>
+      <note>A:
+To display the connections settings to the external service, it is required to select the corresponding item in the navigation tree (refer to &lt;segment 0024 ¶&gt;
+
+M:
+Done.</note>
       <tuv lang="RU">
         <seg>Для отображения настроек подключения к внешнему сервису необходимо выделить соответствующий ему элемент в дереве навигации (см.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200225T124124Z" creationid="Марианна" creationdate="20200225T124124Z">
-        <seg>To display the settings of connection to the external service, it is required to select the corresponding item in the navigation tree (refer to </seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200429T100335Z" creationid="Марианна" creationdate="20200225T124124Z">
+        <seg>To display the connections settings to the external service, it is required to select the corresponding item in the navigation tree (refer to </seg>
       </tuv>
     </tu>
     <tu>
