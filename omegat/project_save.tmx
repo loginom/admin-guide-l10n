@@ -100,8 +100,8 @@ OK</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;URL для отправки запроса&lt;x2/&gt; — адрес веб-сервиса, куда будут отправляться запросы.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200225T130012Z" creationid="Марианна" creationdate="20200225T130012Z">
-        <seg>&lt;x1/&gt;URL for the request sending&lt;x2/&gt; — the Web service address for requests sending.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200429T105218Z" creationid="Марианна" creationdate="20200225T130012Z">
+        <seg>&lt;x1/&gt;URL for the request sending&lt;x2/&gt; — the web service address for requests sending.</seg>
       </tuv>
     </tu>
     <tu>
@@ -239,16 +239,16 @@ all else okay</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Имя метода в Loginom Adapter&lt;x2/&gt; — используется для формирования имен элементов в WSDL-описании веб-сервиса в случае совпадения значений параметра &lt;x3/&gt;Имя метода&lt;x4/&gt; для различных методов конфигурации &lt;x5/&gt;Адаптера&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200421T110224Z" creationid="Марианна" creationdate="20200227T161941Z">
-        <seg>&lt;x1/&gt;Method name in Loginom Adapter&lt;x2/&gt; is used to form the item names in the WSDL description of the Web service in case of coincidence of values of the &lt;x3/&gt;Method name&lt;x4/&gt; parameter for different configuration methods of the &lt;x5/&gt;Adapter&lt;x6/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200429T105339Z" creationid="Марианна" creationdate="20200227T161941Z">
+        <seg>&lt;x1/&gt;Method name in Loginom Adapter&lt;x2/&gt; is used to form the item names in the WSDL description of the web service in case of coincidence of values of the &lt;x3/&gt;Method name&lt;x4/&gt; parameter for different configuration methods of the &lt;x5/&gt;Adapter&lt;x6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Имя метода&lt;x2/&gt; — в случае если параметр &lt;x3/&gt;Имя метода в Loginom Adapter&lt;x4/&gt; не задан, значение параметра используется в качестве составной части имен(name) элементов и атрибутов WSDL-описания веб-сервиса &lt;x5/&gt;Адаптера&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200421T105043Z" creationid="Марианна" creationdate="20200227T161440Z">
-        <seg>&lt;x1/&gt;Method name&lt;x2/&gt; — if the &lt;x3/&gt;Method name in Loginom Adapter&lt;x4/&gt; parameter is not specified, the parameter value is used as a part of the names (name) of items and attributes in the WSDL description of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service. </seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200429T105310Z" creationid="Марианна" creationdate="20200227T161440Z">
+        <seg>&lt;x1/&gt;Method name&lt;x2/&gt; — if the &lt;x3/&gt;Method name in Loginom Adapter&lt;x4/&gt; parameter is not specified, the parameter value is used as a part of the names (name) of items and attributes in the WSDL description of the &lt;x3/&gt;Adapter&lt;x4/&gt; web service. </seg>
       </tuv>
     </tu>
     <tu>
@@ -315,8 +315,8 @@ OK</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Описание веб-сервиса&lt;x2/&gt; — произвольное описание веб-сервиса.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200225T125514Z" creationid="Марианна" creationdate="20200225T125514Z">
-        <seg>&lt;x1/&gt;The Web service description&lt;x2/&gt; — an arbitrary description of the Web service.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200429T105203Z" creationid="Марианна" creationdate="20200225T125514Z">
+        <seg>&lt;x1/&gt;The web service description&lt;x2/&gt; — an arbitrary description of the web service.</seg>
       </tuv>
     </tu>
     <tu>
@@ -340,8 +340,8 @@ No changes. It is a full name of the company. Like LLC "Loginom", for example. <
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Особый формат сообщения&lt;x2/&gt; — используется для веб-сервисов с нестандартным форматом сообщений, в частности для БКИ «ОКБ».</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200311T141625Z" creationid="Марианна" creationdate="20200226T110200Z">
-        <seg>&lt;x1/&gt;The special message format&lt;x2/&gt; is used for the Web services with nonstandard message format, in particular, for credit reference bureau "UNITED CREDIT BUREAU".</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200429T105249Z" creationid="Марианна" creationdate="20200226T110200Z">
+        <seg>&lt;x1/&gt;The special message format&lt;x2/&gt; is used for the web services with nonstandard message format, in particular, for credit reference bureau "UNITED CREDIT BUREAU".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1146,8 +1146,8 @@ Ok, 2 segments corrected.
       <tuv lang="RU">
         <seg>Значение зависит от веб-сервиса, к которому осуществляется подключение.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200226T104813Z" creationid="Марианна" creationdate="20200226T104813Z">
-        <seg>The value depends on the Web service to which you are connecting.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200429T105225Z" creationid="Марианна" creationdate="20200226T104813Z">
+        <seg>The value depends on the web service to which you are connecting.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1165,8 +1165,8 @@ OK, I have got it. The WSDL description everywhere. And the names (name). Three 
       <tuv lang="RU">
         <seg>Значение параметра используется в качестве составной части имен (name) элементов и атрибутов WSDL-описания веб-сервиса &lt;x3/&gt;Адаптера&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200421T104833Z" creationid="Марианна" creationdate="20200225T124548Z">
-        <seg>The parameter value is used as a part of the names (name) of items and attributes in the WSDL description of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200429T105139Z" creationid="Марианна" creationdate="20200225T124548Z">
+        <seg>The parameter value is used as a part of the names (name) of items and attributes in the WSDL description of the &lt;x3/&gt;Adapter&lt;x4/&gt; web service.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2062,8 +2062,8 @@ Done</note>
       <tuv lang="RU">
         <seg>Схема описывает структуру XML-сообщений запросов и ответов веб-сервиса &lt;x3/&gt;Адаптера&lt;x4/&gt; и участвует в формировании WSDL-описания сервиса.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200424T100824Z" creationid="Марианна" creationdate="20200227T155723Z">
-        <seg>The schema describes the structure of the XML messages of requests and responses of the &lt;x3/&gt;Adapter&lt;x4/&gt; Web service, and participates in the generation of the WSDL service description.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200429T105303Z" creationid="Марианна" creationdate="20200227T155723Z">
+        <seg>The schema describes the structure of the XML messages of requests and responses of the &lt;x3/&gt;Adapter&lt;x4/&gt; web service, and participates in the generation of the WSDL service description.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2117,8 +2117,8 @@ No changes. I guess the Russian meaning does not presuppose this comma. "Which" 
       <tuv lang="RU">
         <seg>Флаг нужно указывать для веб-сервисов, в WSDL-описании которых задана политика &lt;x5/&gt;UsingAddressing&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200421T110006Z" creationid="Марианна" creationdate="20200226T105855Z">
-        <seg>It is required to place the flag for the Web services in the WSDL description of which &lt;x5/&gt;UsingAddressing&lt;x6/&gt; policy is specified.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200429T105237Z" creationid="Марианна" creationdate="20200226T105855Z">
+        <seg>It is required to place the flag for the web services in the WSDL description of which &lt;x5/&gt;UsingAddressing&lt;x6/&gt; policy is specified.</seg>
       </tuv>
     </tu>
     <tu>
