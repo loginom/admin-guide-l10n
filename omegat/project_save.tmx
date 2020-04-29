@@ -372,8 +372,8 @@ No changes. It is a full name of the company. Like LLC "Loginom", for example. <
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Передавать адрес в заголовке сообщения SOAP&lt;x2/&gt; — флаг, указывающий на необходимость передачи адреса в заголовке (секции &lt;x3/&gt;Header&lt;x4/&gt;) сообщения SOAP.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200424T084859Z" creationid="Марианна" creationdate="20200226T105538Z">
-        <seg>&lt;x1/&gt;To transfer the address in the SOAP message header &lt;x2/&gt; — the flag that shows that it is required to transfer the address in the header (the &lt;x3/&gt;Header&lt;x4/&gt; sections) of SOAP message.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200429T114328Z" creationid="Марианна" creationdate="20200226T105538Z">
+        <seg>&lt;x1/&gt;To transfer the address in the SOAP message header &lt;x2/&gt; — the flag that shows that it is required to transfer the address in the header (the &lt;x3/&gt;Header&lt;x4/&gt; sections) of the SOAP message.</seg>
       </tuv>
     </tu>
     <tu>
