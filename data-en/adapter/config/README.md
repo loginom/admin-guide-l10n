@@ -13,7 +13,7 @@ The *Configurator* interface consists of two panels. The navigation tree is on t
 The navigation tree is a two-level hierarchical structure that includes the following elements:
 
 * The elements of the first (root) level:
-   * The root element `Settings`. contains parameters of the general settings of the *Adapter* represented in the following section: [General Settings Parameters ](./parameters.md#parametry-obschikh-nastroek).
+   * The root element `Settings`. contains parameters of the general settings of the *Adapter* represented in the following section: [General Settings Parameters](./parameters.md#parametry-obschikh-nastroek).
    * The root elements denoting the external services interacted with (the configuration shown in Figure 3 includes three such elements: `DEMO`, `EquifaxFPS` , `NBCH`). contain parameters of the settings listed in the following section: [Setting Parameters of Connection to the External Services](./parameters.md#parametry-nastroek-podklyucheniya-k-vneshnim-servisam).
 * The elements of the second level:
    * Methods of interaction with the relevant external services are represented by subordinate elements with method names (there are the following elements in Figure 3: `Value`, `processingApplicationRequest`, `deleteApplicationRequest`, etc). They contain parameters of the settings listed in the following section [Setting Parameters of Methods of Interaction with the External Services](./parameters.md#parametry-nastroek-metodov-vzaimodeystviya-s-vneshnimi-servisami).
