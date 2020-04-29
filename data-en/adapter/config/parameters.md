@@ -81,6 +81,6 @@ These settings include the following parameters:
 // "The response file source name" and "The resulting name of the response file", while the command is executed correspondingly.
 ```
 
-* **XSLT for the incoming message transformation before its transfer** — the path to corresponding files of XSLT transformations is specified.
-* **XSLT for the response message transformation** — the path to corresponding files of XSLT transformations is specified.
-* **Parameters of XSLT transformation** are specified only if XSLT transformations accept the input parameters. The detailed information on the application and configuration of this parameter is provided in the following section: [Configuration of the Client Role of the External Services](./tuning-principles.md#nastroyka-roli-klienta-vneshnikh-servisov).
+* **XSLT for the incoming message transformation before its transfer** — the path to corresponding files of the XSLT transformations is specified.
+* **XSLT for the response message transformation** — the path to corresponding files of the XSLT transformations is specified.
+* **Parameters of the XSLT transformation** are specified only if the XSLT transformations accept the input parameters. The detailed information on the application and configuration of this parameter is provided in the following section: [Configuration of the Client Role of the External Services](./tuning-principles.md#nastroyka-roli-klienta-vneshnikh-servisov).
