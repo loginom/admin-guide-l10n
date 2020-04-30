@@ -273,7 +273,14 @@ all else okay</note>
 *removed "The" capitalisation after commas, and some syntax changes at the end of the text
 
 Marianna:
-OK</note>
+OK
+
+A: On second inspection, there seems to be a discrepancy in the text betweem what is written in Github and what is written in Omega:
+
+// "The response file source name" and "The resulting name of the response file", while the command is executed correspondingly (?)/the response processing command&lt;x6/&gt; — these parameters are used to assign the OS command of the service response text processing. &lt;segment  0103  ¶&gt;
+A: The latter, underlined part of the text, appears in the Omega file, while the former phrase “The resulting name of the response file", while the command is executed correspondingly” appears in the Github version, so I'm leaving both here, because I'm not sure which is the correct one.
+
+</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Исходное имя файла ответа&lt;x2/&gt;, &lt;x3/&gt;Результирующее имя файла ответа&lt;x4/&gt;, &lt;x5/&gt;Команда обработки ответа&lt;x6/&gt; — данные параметры используются для задания команды ОС обработки текста ответа сервиса.</seg>
       </tuv>
