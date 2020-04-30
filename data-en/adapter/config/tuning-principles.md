@@ -68,7 +68,7 @@ The *XSLT for transformation of the incoming message before transfer* parameter 
 
 If the value of the *>XSLT for transformation of the incoming message before transfer* parameter is not specified, the XSLT transformation stage is not performed.
 
-The next stage can be transformation to a special message format of credit reference bureau "UNITED CREDIT BUREAU". This transformation is specific for the work with the CRB specified above and it is not applied for other tasks. This stage is configured by means of *Special message format* parameter.
+The next stage can be transformation to the special message format of credit reference bureau "UNITED CREDIT BUREAU". This transformation is specific for the work with the CRB specified above and it is not applied for other tasks. This stage is configured by means of *Special message format* parameter.
 
 The next processing stage can be an application of the OS command. Performance of this stage can be defined by the following parameters: *Configurator*: *The request file source name*, *The resulting name of the request file*, *The request file processing command *. The command example:
 
