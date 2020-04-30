@@ -93,7 +93,7 @@ While filling in the HTTP/HTTPS package sections, sent to the external service, 
 |:--------- |:-------------|
 | Request line (*Request Line*) | *URL for the request sending* |
 | Headers (*Message Headers*) | In the `Content-Type` header, the value of the *ContentType for transfer in the header* parameter is stated. In the `SOAPAction` header it is required to state the value of the *SOAPAction that is required to transfer in the header* parameter.  |
-| Message body (*Entity Body*) | is filled in by the formed SOAP package or REST message body according to the value of *Message format* parameter/  |
+| Message body (*Entity Body*) | is filled in by the formed SOAP package or REST message body according to the value of the *Message format* parameter/  |
 
 While interacting with the external services the *Adapter* uses only the POST requests, GET requests are not used.
 
