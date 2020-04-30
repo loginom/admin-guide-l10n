@@ -1125,8 +1125,8 @@ A: Actually, I removed one of the commas. Now it flows better!</note>
       <tuv lang="RU">
         <seg>Здесь шаблоны &lt;x1/&gt;%inputFile%&lt;x2/&gt; и &lt;x3/&gt;%outputFile%&lt;x4/&gt; при выполнении команды заменяются на значения параметров &lt;x5/&gt;Исходное имя файла запроса&lt;x6/&gt; и &lt;x7/&gt;Результирующее имя файла запроса&lt;x8/&gt; соответственно.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T095718Z" creationid="Марианна" creationdate="20200426T094828Z">
-        <seg>While command executing, &lt;x1/&gt;%inputFile%&lt;x2/&gt; and &lt;x3/&gt;%outputFile%&lt;x4/&gt; templates are replaced with the values of the following parameters: &lt;x5/&gt;The request file source name&lt;x6/&gt; and &lt;x7/&gt;The resulting name of the request file&lt;x8/&gt;, correspondingly.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T225636Z" creationid="Марианна" creationdate="20200426T094828Z">
+        <seg>While command executing, &lt;x1/&gt;%inputFile%&lt;x2/&gt; and &lt;x3/&gt;%outputFile%&lt;x4/&gt; templates are replaced with the values of the following parameters: &lt;x5/&gt;The request file source name&lt;x6/&gt; and &lt;x7/&gt;The resulting name of the request file&lt;x8/&gt; correspondingly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1221,8 +1221,8 @@ Done.</note>
       <tuv lang="RU">
         <seg>Имена файлов так же можно задавать в виде шаблона с использованием конструкции &lt;x1/&gt;%guid%&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200430T223150Z" creationid="Марианна" creationdate="20200426T100958Z">
-        <seg>The files names can be also specified as a template with the usage of &lt;x1/&gt;%guid%&lt;x2/&gt; construction.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T225644Z" creationid="Марианна" creationdate="20200426T100958Z">
+        <seg>The files names can be also specified as a template with the usage of the &lt;x1/&gt;%guid%&lt;x2/&gt; construction.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1440,8 +1440,8 @@ Done.</note>
       <tuv lang="RU">
         <seg>Например, на основе шаблона &lt;x3/&gt;"%guid%_reg.xml"&lt;x4/&gt; вместо &lt;x5/&gt;%guid%&lt;x6/&gt; в имя файла будет подставлен случайно сгенерированный GUID.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200430T223201Z" creationid="Марианна" creationdate="20200426T101133Z">
-        <seg>For example, based on &lt;x3/&gt;"%guid%_reg.xml"&lt;x4/&gt; template randomly generated GUID will be inserted into the file name instead of &lt;x5/&gt;%guid%&lt;x6/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T225651Z" creationid="Марианна" creationdate="20200426T101133Z">
+        <seg>For example, based on the &lt;x3/&gt;"%guid%_reg.xml"&lt;x4/&gt; template randomly generated GUID will be inserted into the file name instead of &lt;x5/&gt;%guid%&lt;x6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
