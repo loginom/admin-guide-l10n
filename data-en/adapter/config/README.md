@@ -2,9 +2,9 @@
 
 ## Loginom Adapter Configurator
 
-Loginom Adapter settings are in [Web.config](https://ru.wikipedia.org/wiki/Web.config) XML file edited by **Loginom Adapter Configurator** (hereafter referred to as the *Configurator*). When installing by default, the *Configurator* is in the following folder: `C:\inetpub\wwwroot\LoginomAdapter\Configurator\`.
+Loginom Adapter settings are in the [Web.config](https://ru.wikipedia.org/wiki/Web.config) XML file edited by **Loginom Adapter Configurator** (hereafter referred to as the *Configurator*). When installing by default, the *Configurator* is in the following folder: `C:\inetpub\wwwroot\LoginomAdapter\Configurator\`.
 
-When saving the settings, the *Configurator* rewrites `Web.config` file. The requests previously received by the *Adapter* will be completed with the old settings. Subsequent requests to the *Adapter* will be executed taking into account the new settings.
+When saving the settings, the *Configurator* rewrites the `Web.config` file. Requests previously received by the *Adapter* will be completed with the old settings. Subsequent requests to the *Adapter* will be executed, taking into account the new settings.
 
 The *Configurator* interface consists of two panels. The navigation tree is on the left window panel of the *Configurator* (refer to  Figure 3). It reflects the settings structure. The settings as such are on the right panel.
 
@@ -13,10 +13,10 @@ The *Configurator* interface consists of two panels. The navigation tree is on t
 The navigation tree is a two-level hierarchical structure that includes the following elements:
 
 * The elements of the first (root) level:
-   * The root element `Settings`. contains parameters of the general settings of the *Adapter* represented in the following section: [General Settings Parameters](./parameters.md#parametry-obschikh-nastroek).
-   * The root elements denoting the external services interacted with (the configuration shown in Figure 3 includes three such elements: `DEMO`, `EquifaxFPS` , `NBCH`). contain parameters of the settings listed in the following section: [Setting Parameters of Connection to the External Services](./parameters.md#parametry-nastroek-podklyucheniya-k-vneshnim-servisam).
+   * The root element `Settings`. contains parameters of the general settings of the *Adapter* represented in the following section: [Parameters of the General Settings](./parameters.md#parametry-obschikh-nastroek).
+   * The root elements denoting the external services interacted with (the configuration shown in Figure 3 includes three such elements: `DEMO`, `EquifaxFPS`, `NBCH`). contain parameters of the settings listed in the following section: [Setting Parameters of Connection to the External Services](./parameters.md#parametry-nastroek-podklyucheniya-k-vneshnim-servisam).
 * The elements of the second level:
-   * Methods of interaction with the relevant external services are represented by subordinate elements with method names (there are the following elements in Figure 3: `Value`, `processingApplicationRequest`, `deleteApplicationRequest`, etc). They contain parameters of the settings listed in the following section [Setting Parameters of Methods of Interaction with the External Services](./parameters.md#parametry-nastroek-metodov-vzaimodeystviya-s-vneshnimi-servisami).
+   * Methods of interaction with the relevant external services are represented by the subordinate elements with method names (the following elements are shown in Figure 3: `Value`, `processingApplicationRequest`, `deleteApplicationRequest`, etc). They contain parameters of the settings listed in the following section [Setting Parameters of Methods of Interaction with the External Services](./parameters.md#parametry-nastroek-metodov-vzaimodeystviya-s-vneshnimi-servisami).
 
 Such structure enables the *Adapter* to work with several external services and several methods can be defined for each external service.
 

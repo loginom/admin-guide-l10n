@@ -1,6 +1,6 @@
 # Description of the Configuration Parameters
 
-## General Settings Parameters
+## Parameters of the General Settings
 
 To display the *Adapter* general settings it is required to select the `Settings` item in the navigation tree (refer to  Figure 4).
 
