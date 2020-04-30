@@ -46,7 +46,7 @@ The first stage of the XML request transformation can be the XSLT transformation
 
 ![Figure 9. Parameters of the XSLT Request Transformation Stage](./images/XSLT_transformation_phase.png)
 
-*XSLT for transformation of the incoming message before transfer* parameter contains the path to the XSLT workflow. The input parameters can be specified in the workflow as such as it is represented by means of the following example:
+The *XSLT for transformation of the incoming message before transfer* parameter contains the path to the XSLT workflow. The input parameters can be specified in the workflow as such as it is represented by means of the following example:
 
 ```XML
 <?xml version="1.0" encoding="UTF-8"?>
@@ -66,7 +66,7 @@ The first stage of the XML request transformation can be the XSLT transformation
 
 `MemberCode`, `UserID`, `Password` parameters taking the values specified in the *Configurator* are described in the workflow body.
 
-If the value of *>XSLT for transformation of the incoming message before transfer* parameter is not specified, the XSLT transformation stage is not performed.
+If the value of the *>XSLT for transformation of the incoming message before transfer* parameter is not specified, the XSLT transformation stage is not performed.
 
 The next stage can be transformation to a special message format of credit reference bureau "UNITED CREDIT BUREAU". This transformation is specific for the work with the CRB specified above and it is not applied for other tasks. This stage is configured by means of *Special message format* parameter.
 
