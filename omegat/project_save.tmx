@@ -1997,8 +1997,8 @@ Only comma added</note>
       <tuv lang="RU">
         <seg>Следующим этапом может быть преобразование в особый формат сообщения БКИ «ОКБ».</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200430T223028Z" creationid="Марианна" creationdate="20200424T103459Z">
-        <seg>The next stage can be transformation to a special message format of credit reference bureau "UNITED CREDIT BUREAU".</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T225207Z" creationid="Марианна" creationdate="20200424T103459Z">
+        <seg>The next stage can be transformation to the special message format of credit reference bureau "UNITED CREDIT BUREAU".</seg>
       </tuv>
     </tu>
     <tu>
