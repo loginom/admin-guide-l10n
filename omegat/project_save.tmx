@@ -2014,6 +2014,7 @@ Only comma added</note>
       </tuv>
     </tu>
     <tu>
+      <note>A: "The root elements denoting the external services interacted with (the configuration shown in Figure 3 includes three such elements: DEMO, EquifaxFPS , NBCH)"</note>
       <tuv lang="RU">
         <seg>Содержат параметры настроек, представленных в разделе &lt;x7/&gt;Параметры настроек подключения к внешним сервисам&lt;x8/&gt;.</seg>
       </tuv>
