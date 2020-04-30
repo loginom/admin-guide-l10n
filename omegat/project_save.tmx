@@ -987,8 +987,8 @@ A: Slight typo here. I had "connection" in the Plural.</note>
       <tuv lang="RU">
         <seg>Для приведенного примера из SOAP-пакета будет выделен узел &lt;x1/&gt;ded:Cheques&lt;x2/&gt;, и дальнейшая трансформация на следующих этапах будет производиться с текстом xml:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200424T101428Z" creationid="Марианна" creationdate="20200424T101428Z">
-        <seg>&lt;x1/&gt;ded:Cheques&lt;x2/&gt; node will be selected for the provided example from the SOAP package, and the further transformation at the next stages will be performed with the XML text:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T224918Z" creationid="Марианна" creationdate="20200424T101428Z">
+        <seg>The &lt;x1/&gt;ded:Cheques&lt;x2/&gt; node will be selected for the provided example from the SOAP package, and the further transformation at the next stages will be performed with the XML text:</seg>
       </tuv>
     </tu>
     <tu>
