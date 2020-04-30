@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -949,10 +949,12 @@ Actually, it is better to read the github version where it is easy to find heade
     </tu>
     <tu>
       <note>A:
-To display the connections settings to the external service, it is required to select the corresponding item in the navigation tree (refer to &lt;segment 0024 ¶&gt;
+To display the connection settings to the external service, it is required to select the corresponding item in the navigation tree (refer to &lt;segment 0024 ¶&gt;
 
 M:
-Done.</note>
+Done.
+
+A: Slight typo here. I had "connection" in the Plural.</note>
       <tuv lang="RU">
         <seg>Для отображения настроек подключения к внешнему сервису необходимо выделить соответствующий ему элемент в дереве навигации (см.</seg>
       </tuv>
