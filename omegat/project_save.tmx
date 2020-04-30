@@ -1703,8 +1703,8 @@ From now on, I will only mention the sections of text that I require a tweak.
       <tuv lang="RU">
         <seg>По окончании времени ожидания при отсутствии ответа от внешнего сервиса формируется исключение.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200427T140003Z" creationid="Марианна" creationdate="20200427T140003Z">
-        <seg>On expiration of the timeout period and if there is no response from the external service the exception is formed.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T224140Z" creationid="Марианна" creationdate="20200427T140003Z">
+        <seg>On the expiration of the timeout period and if there is no response from the external service the exception is formed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1831,8 +1831,8 @@ Only comma added</note>
       <tuv lang="RU">
         <seg>При обращении к веб-сервису из сети можно использовать URL: &lt;x7/&gt;http://&lt;ip-адрес&gt;/LoginomAdapter/Service.svc?wsdl&lt;x8/&gt; , где &lt;x9/&gt;&lt;ip-адрес&gt;&lt;x10/&gt; - это ip-адрес компьютера с развернутым &lt;x11/&gt;Адаптером&lt;x12/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200427T141251Z" creationid="Марианна" creationdate="20200427T141251Z">
-        <seg>When referring to the web service from the network, it is possible to use the follwoing URL: &lt;x7/&gt;http://&lt;ip address&gt;/LoginomAdapter/Service.svc?wsdl&lt;x8/&gt; where &lt;x9/&gt;&lt;ip address&gt;&lt;x10/&gt; - is the computer IP address with the deployed &lt;x11/&gt;Adapter&lt;x12/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T224159Z" creationid="Марианна" creationdate="20200427T141251Z">
+        <seg>When referring to the web service from the network, it is possible to use the following URL: &lt;x7/&gt;http://&lt;ip address&gt;/LoginomAdapter/Service.svc?wsdl&lt;x8/&gt; where &lt;x9/&gt;&lt;ip address&gt;&lt;x10/&gt; - is the computer IP address with the deployed &lt;x11/&gt;Adapter&lt;x12/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2069,8 +2069,8 @@ Only comma added</note>
       <tuv lang="RU">
         <seg>Существует время, в течение которого &lt;x1/&gt;Адаптер&lt;x2/&gt; ожидает ответа от внешнего сервиса.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200427T135319Z" creationid="Марианна" creationdate="20200427T135319Z">
-        <seg>There is a time period when the &lt;x1/&gt;Адаптер&lt;x2/&gt; is waiting for the response from the external service.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T224122Z" creationid="Марианна" creationdate="20200427T135319Z">
+        <seg>There is a period when the &lt;x1/&gt;Адаптер&lt;x2/&gt; is waiting for the response from the external service.</seg>
       </tuv>
     </tu>
     <tu>
