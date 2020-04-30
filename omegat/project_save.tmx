@@ -433,8 +433,8 @@ OK</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: рекомендуется помещать дополнительные файлы в папку, в которой установлен &lt;x3/&gt;Адаптер&lt;x4/&gt;, а в файле конфигурации &lt;x5/&gt;Web.config&lt;x6/&gt; указывать к ним относительные пути.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200430T221653Z" creationid="Марианна" creationdate="20200206T082050Z">
-        <seg>&lt;x1/&gt;Note&lt;x2/&gt;: it is recommended to place the additional files into the folder in which the &lt;x3/&gt;Adapter&lt;x4/&gt; has been installed and to specify the relative paths to them in the &lt;x5/&gt;Web.config&lt;x6/&gt; configuration file.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T221855Z" creationid="Марианна" creationdate="20200206T082050Z">
+        <seg>&lt;x1/&gt;Note&lt;x2/&gt;: It is recommended to place the additional files into the folder in which the &lt;x3/&gt;Adapter&lt;x4/&gt; has been installed, and to specify the relative paths to them in the &lt;x5/&gt;Web.config&lt;x6/&gt; configuration file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2230,8 +2230,8 @@ A: Okay, I see that now</note>
       <tuv lang="RU">
         <seg>Это позволяет переносить &lt;x7/&gt;Адаптер&lt;x8/&gt; с одного компьютера на другой простым копированием папки с минимальным количеством перенастроек.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200324T071549Z" creationid="Марианна" creationdate="20200206T082306Z">
-        <seg>It enables to transfer the &lt;x7/&gt;Adapter&lt;x8/&gt; from one computer to another just copying the folder with the minimum reconfiguration number.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T221937Z" creationid="Марианна" creationdate="20200206T082306Z">
+        <seg>It enables the transfer of the &lt;x7/&gt;Adapter&lt;x8/&gt; from one computer to another just copying the folder with the minimum reconfiguration number.</seg>
       </tuv>
     </tu>
     <tu>
