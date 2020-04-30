@@ -1,6 +1,6 @@
 # Operation Principles and Settings
 
-## The Functional Operation Scheme
+## Functional Operation Scheme
 
 Being an intermediate web service, the *Adapter* serves both as a client concerning the external service (for example, concerning the Credit Reference Bureau – CRB) and the SOAP web service with regard to Loginom workflow (or any other outside information user). Serving as a web service, the *Adapter* provides the WSDL description according to the SOAP standard. The WSDL description enables to provide a clear definition of parameters of interaction with the web service, including the XML messages formats, by means of which such interaction is performed. At the same time, serving as a client, the *Adapter* provides transformation of these messages from the SOAP format to the individual formats of the external services and backwards.
 
