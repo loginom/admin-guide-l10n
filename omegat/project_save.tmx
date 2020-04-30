@@ -1432,8 +1432,8 @@ Done.</note>
       <tuv lang="RU">
         <seg>Например, значения параметров &lt;x7/&gt;Имя веб-сервиса&lt;x8/&gt; формируют уникальные имена элементов &lt;x9/&gt;&lt;wsdl:portType&gt;&lt;x10/&gt;, описывающих сервисы, предоставляемые веб-сервисом &lt;x11/&gt;Адаптера&lt;x12/&gt;, а значения параметров &lt;x13/&gt;Имя метода в Loginom Adapter&lt;x14/&gt; формируют уникальные имена элементов &lt;x15/&gt;&lt;wsdl:operation&gt;&lt;x16/&gt;, описывающих методы этих сервисов.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200430T224323Z" creationid="Марианна" creationdate="20200428T104710Z">
-        <seg>For example, values of &lt;x7/&gt;The web service name&lt;x8/&gt; parameter form the unique names of &lt;x9/&gt;&lt;wsdl:portType&gt;&lt;x10/&gt; elements describing the services represented by the &lt;x11/&gt;Adapter&lt;x12/&gt; web service and values of &lt;x13/&gt;Method name in Loginom Adapter&lt;x14/&gt; parameter form the unique names of &lt;x15/&gt;&lt;wsdl:operation&gt;&lt;x16/&gt; elements describing methods of these services.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T231206Z" creationid="Марианна" creationdate="20200428T104710Z">
+        <seg>For example, values of &lt;x7/&gt;The web service name&lt;x8/&gt; parameter form the unique names of the &lt;x9/&gt;&lt;wsdl:portType&gt;&lt;x10/&gt; elements describing the services represented by the &lt;x11/&gt;Adapter&lt;x12/&gt; web service and values of the &lt;x13/&gt;Method name in Loginom Adapter&lt;x14/&gt; parameter form the unique names of &lt;x15/&gt;&lt;wsdl:operation&gt;&lt;x16/&gt; elements describing methods of these services.</seg>
       </tuv>
     </tu>
     <tu>
