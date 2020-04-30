@@ -692,8 +692,8 @@ Ok, corrected in 2 segments. </note>
       <tuv lang="RU">
         <seg>В последнем случае путь задается относительно папки, в которой расположен файл &lt;x3/&gt;Web.config&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200311T113634Z" creationid="Марианна" creationdate="20200225T131514Z">
-        <seg>In the latter case, the path is specified to the folder in which &lt;x3/&gt;Web.config&lt;x4/&gt; file is located.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T221437Z" creationid="Марианна" creationdate="20200225T131514Z">
+        <seg>In the latter case, the path is specified to the folder in which the &lt;x3/&gt;Web.config&lt;x4/&gt; file is located.</seg>
       </tuv>
     </tu>
     <tu>
@@ -775,8 +775,8 @@ Done</note>
       <tuv lang="RU">
         <seg>В файле &lt;x1/&gt;Web.config&lt;x2/&gt; допустимо использование как абсолютных путей на дополнительные файлы (с указанием буквы диска), так и относительных, которые задаются относительно расположения &lt;x3/&gt;Web.config&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200421T111151Z" creationid="Марианна" creationdate="20200206T081818Z">
-        <seg>It is allowed to use both absolute paths to the additional files (stating the drive letter), and the relative paths specified according to the location of &lt;x3/&gt;Web.config&lt;x4/&gt; in &lt;x1/&gt;Web.config&lt;x2/&gt; file.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T221424Z" creationid="Марианна" creationdate="20200206T081818Z">
+        <seg>Use of both absolute paths to additional files (stating the drive letter), and the relative paths specified according to the location of Web.config in the Web.config file is permitted.</seg>
       </tuv>
     </tu>
     <tu>
