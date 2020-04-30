@@ -831,8 +831,8 @@ Done</note>
       <tuv lang="RU">
         <seg>Выполнение этого этапа определяется параметрами &lt;x1/&gt;Конфигуратора&lt;x2/&gt;: &lt;x3/&gt;Исходное имя файла запроса&lt;x4/&gt;, &lt;x5/&gt;Результирующее имя файла запроса&lt;x6/&gt;, &lt;x7/&gt;Команда обработки файла запроса&lt;x8/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T101721Z" creationid="Марианна" creationdate="20200424T104424Z">
-        <seg>Performance of this stage can be defined by the following parameters: &lt;x1/&gt;Configurator&lt;x2/&gt;: &lt;x3/&gt;The request file source name&lt;x4/&gt;, &lt;x5/&gt;The resulting name of the request file&lt;x6/&gt;, &lt;x7/&gt;The request file processing command &lt;x8/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T225407Z" creationid="Марианна" creationdate="20200424T104424Z">
+        <seg>Performance of this stage can be defined by the following parameters: the &lt;x1/&gt;Configurator&lt;x2/&gt;: &lt;x3/&gt;The request file source name&lt;x4/&gt;, &lt;x5/&gt;The resulting name of the request file&lt;x6/&gt;, &lt;x7/&gt;The request file processing command &lt;x8/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
