@@ -166,7 +166,7 @@ The service WSDL is formed on the basis of the following parameters:
 
 The compulsory configuration component also participates in the WSDL formation process – the XSD schema of the service description; a path to it is specified in *The schema to which the service description will refer* parameter. This schema enables to define the XML structure of responses and requests of all methods of each service described in the `web.config` configuration file, and it is imported to WSDL in the `<wsdl:types>` section. Definitions of all requests and responses messages are provided by the separate elements of the imported schema, and they are represented by the WSDL nodes `<wsdl:message>`.
 
-The example of the XSD schema import of the service description in `<wsdl:types>` WSDL section and descriptions of the message formats based on the imported schema in `<wsdl:message>` nodes:
+The example of the XSD schema import of the service description in the `<wsdl:types>` WSDL section and descriptions of the message formats based on the imported schema in `<wsdl:message>` nodes:
 
 ```XML
 <wsdl:definitions .... >
