@@ -16,7 +16,7 @@ The general settings are represented by the following parameters:
 
 ## Setting Parameters of Connection to the External Services
 
-To display the connections settings to the external service, it is required to select the corresponding item in the navigation tree (refer to  Figure 5).
+To display the connection settings to the external service, it is required to select the corresponding item in the navigation tree (refer to  Figure 5).
 
 ![Figure 5. Settings of connection to one of the external services](./images/connection_settings.png)
 
@@ -31,7 +31,7 @@ The list of (content of the *Key* column) parameters is the same for connections
 > **Note**: specifying the certificate path, it is allowed to use both absolute (including the drive letter) and relative paths. In the latter case, the path is specified to the folder in which `Web.config` file is located.
 
 * **The certificate password** — a password is required for operations with some certificates.
-* **The certificate store** — one of three values can be taken: `none`, `currentUser`, or `localMachine`. If the client certificate has a private key, it is placed into one of the certificate stores - into the local machine store (*localMachine*), or the current user store (*currentUser*). The certificates without a private key can be placed into a separate file in the file system location specified by the *certificate Path* parameter. `none` value is specified for such certificates in the *Certificate store* parameter.
+* **The certificate store** — one of three values can be taken: `none`, `currentUser`, or `localMachine`. If the client certificate has a private key, it is placed into one of the certificate stores - into the local machine store (*localMachine*), or the current user store (*currentUser*) The certificates without a private key can be placed into a separate file in the file system location specified by the *certificate Path* parameter. `none` value is specified for such certificates in the *Certificate store* parameter.
 
 > **Note**: when the client certificate is in the store, DER-encoded `X.509` export from the store to `.CER` file and specification of path to such file in the *Certificate path* parameter are obligatory. Otherwise, the *Adapter* will not be able to refer to the client certificate located in the store (also refer to  the [Certificates Usage](./work-with-certificates.md) section).
 
