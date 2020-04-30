@@ -424,8 +424,8 @@ OK</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: путь к XSD-схеме указывается в параметре &lt;x3/&gt;Схема, на которую будет ссылаться описание сервиса&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200427T115547Z" creationid="Марианна" creationdate="20200304T072255Z">
-        <seg>&lt;x1/&gt;Note&lt;x2/&gt;: the path to the XSD schema is specified in the following parameter: &lt;x3/&gt;The schema referenced by the service description&lt;x4/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T214904Z" creationid="Марианна" creationdate="20200304T072255Z">
+        <seg>&lt;x1/&gt;Note&lt;x2/&gt;: the path to the XSD schema is specified in the following parameter: &lt;x3/&gt;The schema to which the service description will refer&lt;x4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -544,8 +544,8 @@ Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Схема, на которую будет ссылаться описание сервиса&lt;x2/&gt; — задает путь к XSD-схеме описания сервиса.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200421T113614Z" creationid="Марианна" creationdate="20200227T155422Z">
-        <seg>&lt;x1/&gt;The schema referenced by the service description &lt;x2/&gt; — it specifies the path to the XSD schema of the service description.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T214852Z" creationid="Марианна" creationdate="20200227T155422Z">
+        <seg>&lt;x1/&gt;The schema to which the service description will refer&lt;x2/&gt; — it specifies the path to the XSD schema of the service description.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1935,8 +1935,8 @@ Only comma added</note>
       <tuv lang="RU">
         <seg>Путь к схеме задается в параметре &lt;x17/&gt;Схема, на которую будет ссылаться описание сервиса&lt;x18/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200427T115556Z" creationid="Марианна" creationdate="20200427T115533Z">
-        <seg>The path to the schema is specified in &lt;x17/&gt;The schema referenced by the service description&lt;x18/&gt; parameter.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T214912Z" creationid="Марианна" creationdate="20200427T115533Z">
+        <seg>The path to the schema is specified in &lt;x17/&gt;The schema to which the service description will refer&lt;x18/&gt; parameter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2092,16 +2092,16 @@ Done</note>
       <tuv lang="RU">
         <seg>Схема, на которую будет ссылаться описание сервиса</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200427T141652Z" creationid="Марианна" creationdate="20200427T115609Z">
-        <seg>The Schema Referenced by the Service Description</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T214934Z" creationid="Марианна" creationdate="20200427T115609Z">
+        <seg>The Schema to Which the Service Description will Refer</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>Также в формировании WSDL участвует обязательный компонент настроек – XSD-схема описания сервиса, путь к которой указывается в параметре &lt;x1/&gt;Схема, на которую будет ссылаться описание сервиса&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200428T105938Z" creationid="Марианна" creationdate="20200427T115630Z">
-        <seg>The compulsory configuration component also participates in the WSDL formation process – the XSD schema of the service description; a path to it is specified in &lt;x1/&gt;The schema referenced by the service description&lt;x2/&gt; parameter.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T214955Z" creationid="Марианна" creationdate="20200427T115630Z">
+        <seg>The compulsory configuration component also participates in the WSDL formation process – the XSD schema of the service description; a path to it is specified in &lt;x1/&gt;The schema to which the service description will refer&lt;x2/&gt; parameter.</seg>
       </tuv>
     </tu>
     <tu>
