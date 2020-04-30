@@ -76,13 +76,13 @@ The next processing stage can be an application of the OS command. Performance o
 "C:\Program Files\7-Zip\7z" a -tzip "%outputFile%" "%inputFile%"
 ```
 
-While command executing, `%inputFile%` and `%outputFile%` templates are replaced with the values of the following parameters: *The request file source name* and *The resulting name of the request file*, correspondingly. Full paths to the files or only the files names can be stated in these parameters. The files will be placed into the folder with `Web.config` in case of the full path absence.
+While command executing, `%inputFile%` and `%outputFile%` templates are replaced with the values of the following parameters: *The request file source name* and *The resulting name of the request file* correspondingly. Full paths to the files or only the files names can be stated in these parameters. The files will be placed into the folder with `Web.config` in case of the full path absence.
 
 Before the OS command execution  result of the previous transformation stages is represented as a file with the name specified in *The request file source name* parameter; then it is recorded to the disc. Then the OS command is applied to this file and the output file is formed. The output file content is transferred to the next processing stage.
 
 If the values of *The request file source name* and *The resulting name of the request fileа* parameters are not specified, the files names will be generated according to randomly generated GUID (Globally Unique Identifier) without extension. These temporary files will be also placed into the folder with `Web.config`. They will be deleted after the processing.
 
-The files names can be also specified as a template with the usage of `%guid%` construction. For example, based on `"%guid%_reg.xml"` template randomly generated GUID will be inserted into the file name instead of `%guid%`.
+The files names can be also specified as a template with the usage of the `%guid%` construction. For example, based on the `"%guid%_reg.xml"` template randomly generated GUID will be inserted into the file name instead of `%guid%`.
 
 These stage execution rules are also applied in case of transformation of the service responses by the OS command with an application of the following parameters: *The response file source name*, *The resulting name of the response file*, *The response file processing command*. If *The request file processing command* parameter is not specified, then *OS command* processing stage is not executed. The final result of the XML request transformation stages is the formation of the request in the individual format specified in the external service description, and it can be XML, JSON, binary data, text, etc. At the next stage, the request received in the result of the previous transformations in case of REST request formation is placed into the HTTP/HTTPS package body (*Entity Body*) sent to the external service, in case of the SOAP request, it is placed into `Body` node of the SOAP package.
 
