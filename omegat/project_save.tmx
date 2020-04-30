@@ -1019,8 +1019,8 @@ A: Slight typo here. I had "connection" in the Plural.</note>
       <tuv lang="RU">
         <seg>Если значение параметра &lt;x1/&gt;XSLT для трансформации входящего сообщения перед передачей&lt;x2/&gt; не задано, то этап XSLT трансформации не выполняется.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200424T103406Z" creationid="Марианна" creationdate="20200424T103406Z">
-        <seg>If the value of &lt;x1/&gt;&gt;XSLT for transformation of the incoming message before transfer&lt;x2/&gt; parameter is not specified, the XSLT transformation stage is not performed.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T225045Z" creationid="Марианна" creationdate="20200424T103406Z">
+        <seg>If the value of the &lt;x1/&gt;&gt;XSLT for transformation of the incoming message before transfer&lt;x2/&gt; parameter is not specified, the XSLT transformation stage is not performed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1609,8 +1609,8 @@ Settled in correspondence)
       <tuv lang="RU">
         <seg>Параметр &lt;x1/&gt;XSLT для трансформации входящего сообщения перед передачей&lt;x2/&gt; содержит путь к скрипту xslt.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200424T102234Z" creationid="Марианна" creationdate="20200424T102234Z">
-        <seg>&lt;x1/&gt;XSLT for transformation of the incoming message before transfer&lt;x2/&gt; parameter contains the path to the XSLT workflow.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T225038Z" creationid="Марианна" creationdate="20200424T102234Z">
+        <seg>The &lt;x1/&gt;XSLT for transformation of the incoming message before transfer&lt;x2/&gt; parameter contains the path to the XSLT workflow.</seg>
       </tuv>
     </tu>
     <tu>
