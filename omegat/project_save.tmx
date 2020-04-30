@@ -42,7 +42,9 @@ Ok, execution is removed</note>
 &lt;76/79/85% 
 
 Marianna: 
-OK</note>
+OK
+
+A: "while the command" is placed in a different part of the segment in Github, and reads: " "The response file source name" and "The resulting name of the response file", while the command is executed correspondingly."</note>
       <tuv lang="RU">
         <seg>"C:\Program Files\7-Zip\7z" e "%inputFile%" -so &gt; "%outputFile%"
 
