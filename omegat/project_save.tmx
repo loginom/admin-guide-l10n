@@ -1792,8 +1792,8 @@ From now on, I will only mention the sections of text that I require a tweak.
       <tuv lang="RU">
         <seg>При взаимодействии с внешними сервисами &lt;x1/&gt;Адаптер&lt;x2/&gt; использует только POST-запросы, GET-запросы не используются.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T111824Z" creationid="Марианна" creationdate="20200426T111824Z">
-        <seg>While interacting with the external services the &lt;x1/&gt;Adapter&lt;x2/&gt; uses only the POST requests, GET requests are not used.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T230339Z" creationid="Марианна" creationdate="20200426T111824Z">
+        <seg>While interacting with the external services the &lt;x1/&gt;Adapter&lt;x2/&gt; uses only the POST requests, the GET requests are not used.</seg>
       </tuv>
     </tu>
     <tu>
