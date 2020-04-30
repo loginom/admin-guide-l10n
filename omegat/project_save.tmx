@@ -1408,8 +1408,8 @@ Done.</note>
       <tuv lang="RU">
         <seg>На следующем этапе полученный в результате предыдущих преобразований запрос в случае формирования REST-запроса помещается в тело HTTP/HTTPS пакета (&lt;x11/&gt;Entity Body&lt;x12/&gt;), отправляемого внешнему сервису, в случае SOAP-запроса – помещается внутрь узла &lt;x13/&gt;Body&lt;x14/&gt; SOAP-пакета.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200430T225809Z" creationid="Марианна" creationdate="20200426T110622Z">
-        <seg>At the next stage, the request received in the result of the previous transformations in case of the REST request formation is placed into the HTTP/HTTPS package body (&lt;x11/&gt;Entity Body&lt;x12/&gt;) sent to the external service, in case of the SOAP request, it is placed into &lt;x13/&gt;Body&lt;x14/&gt; node of the SOAP package.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T225857Z" creationid="Марианна" creationdate="20200426T110622Z">
+        <seg>At the next stage, the request received in the result of the previous transformations in case of the REST request formation is placed into the HTTP/HTTPS package body (&lt;x11/&gt;Entity Body&lt;x12/&gt;) sent to the external service, in case of the SOAP request, it is placed into the  &lt;x13/&gt;Body&lt;x14/&gt; node of the SOAP package.</seg>
       </tuv>
     </tu>
     <tu>
