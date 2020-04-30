@@ -143,7 +143,7 @@ In case of response receipt from the external service, the succession of the tra
 
 > **Important**: incompliance of the resulting XML response with its description in the XSD schema will cause the *Adapter* web service operation error.
 
-There is a period when the *Адаптер* is waiting for the response from the external service. The timeout period is expressed in seconds in the *Timeout* parameter. On the expiration of the timeout period and if there is no response from the external service the exception is formed.
+There is a period when the *Adapter* is waiting for the response from the external service. The timeout period is expressed in seconds in the *Timeout* parameter. On the expiration of the timeout period and if there is no response from the external service the exception is formed.
 
 ## Configuration of the SOAP Service Role
 
@@ -154,11 +154,11 @@ The service WSDL is formed on the basis of the following parameters:
 | Group of the Parameters for the Web Service Role Configuration: |
 |:--------- |
 | The web service name |
-| The Web Service Description |
-| The Schema to Which the Service Description will Refer |
-| Method Name |
+| The web service description |
+| The schema to which the service description will refer |
+| Method name |
 | Method name in Loginom Adapter |
-| Method Description |
+| Method description |
 | The root element name of the SOAP response; Namespace of the root element of the SOAP response |
 | Namespace of the root element of the SOAP response; Namespace of the root element of the SOAP response |
 
