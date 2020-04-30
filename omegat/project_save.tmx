@@ -1340,8 +1340,8 @@ A: I understand. Company name</note>
       <tuv lang="RU">
         <seg>Корневые элементы, обозначающие внешние сервисы, с которыми осуществляется взаимодействие (в конфигурации, представленной на рисунке 3, присутствуют три таких элемента: &lt;x1/&gt;DEMO&lt;x2/&gt;, &lt;x3/&gt;EquifaxFPS&lt;x4/&gt; , &lt;x5/&gt;NBCH&lt;x6/&gt;).</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200206T063856Z" creationid="Марианна" creationdate="20200205T061021Z">
-        <seg>The root elements denoting the external services interacted with (the configuration shown in Figure 3 includes three such elements: &lt;x1/&gt;DEMO&lt;x2/&gt;, &lt;x3/&gt;EquifaxFPS&lt;x4/&gt; , &lt;x5/&gt;NBCH&lt;x6/&gt;).</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T220720Z" creationid="Марианна" creationdate="20200205T061021Z">
+        <seg>The root elements denoting the external services interacted with (the configuration shown in Figure 3 includes three such elements: &lt;x1/&gt;DEMO&lt;x2/&gt;, &lt;x3/&gt;EquifaxFPS&lt;x4/&gt;, &lt;x5/&gt;NBCH&lt;x6/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1663,8 +1663,8 @@ From now on, I will only mention the sections of text that I require a tweak.
       <tuv lang="RU">
         <seg>Параметры общих настроек</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200421T095153Z" creationid="Марианна" creationdate="20200221T071943Z">
-        <seg>General Settings Parameters </seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T220458Z" creationid="Марианна" creationdate="20200221T071943Z">
+        <seg>Parameters of the General Settings </seg>
       </tuv>
     </tu>
     <tu>
@@ -2045,8 +2045,8 @@ Only comma added</note>
       <tuv lang="RU">
         <seg>Содержит параметры общих настроек &lt;x3/&gt;Адаптера&lt;x4/&gt;, представленных в разделе &lt;x5/&gt;Параметры общих настроек&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200429T115753Z" creationid="Марианна" creationdate="20200205T060719Z">
-        <seg>contains parameters of the general settings of the &lt;x3/&gt;Adapter&lt;x4/&gt; represented in the following section: &lt;x5/&gt;General Settings Parameters&lt;x6/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T220606Z" creationid="Марианна" creationdate="20200205T060719Z">
+        <seg>contains parameters of the general settings of the &lt;x3/&gt;Adapter&lt;x4/&gt; represented in the following section: &lt;x5/&gt;Parameters of the General Settings&lt;x6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
