@@ -761,6 +761,7 @@ Done</note>
       </tuv>
     </tu>
     <tu>
+      <note>A: "Use of both absolute paths to additional files (stating the drive letter), and the relative paths specified according to the location of Web.config in Web.config file is permitted."</note>
       <tuv lang="RU">
         <seg>В файле &lt;x1/&gt;Web.config&lt;x2/&gt; допустимо использование как абсолютных путей на дополнительные файлы (с указанием буквы диска), так и относительных, которые задаются относительно расположения &lt;x3/&gt;Web.config&lt;x4/&gt;.</seg>
       </tuv>
