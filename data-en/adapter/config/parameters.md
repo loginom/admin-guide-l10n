@@ -28,7 +28,7 @@ The list of (content of the *Key* column) parameters is the same for connections
 * **URL for the request sending** — the web service address for requests sending.
 * **The certificate path** — when using encryption, it is required to specify the path to the client certificate.
 
-> **Note**: specifying the certificate path, it is allowed to use both absolute (including the drive letter) and relative paths. In the latter case, the path is specified to the folder in which `Web.config` file is located.
+> **Note**: specifying the certificate path, it is allowed to use both absolute (including the drive letter) and relative paths. In the latter case, the path is specified to the folder in which the `Web.config` file is located.
 
 * **The certificate password** — a password is required for operations with some certificates.
 * **The certificate store** — one of three values can be taken: `none`, `currentUser`, or `localMachine`. If the client certificate has a private key, it is placed into one of the certificate stores - into the local machine store (*localMachine*), or the current user store (*currentUser*) The certificates without a private key can be placed into a separate file in the file system location specified by the *certificate Path* parameter. `none` value is specified for such certificates in the *Certificate store* parameter.
