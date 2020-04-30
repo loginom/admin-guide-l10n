@@ -166,7 +166,7 @@ The service WSDL is formed on the basis of the following parameters:
 
 The compulsory configuration component also participates in the WSDL formation process – the XSD schema of the service description; a path to it is specified in *The schema to which the service description will refer* parameter. This schema enables to define the XML structure of responses and requests of all methods of each service described in the `web.config` configuration file, and it is imported to WSDL in the `<wsdl:types>` section. Definitions of all requests and responses messages are provided by the separate elements of the imported schema, and they are represented by the WSDL nodes `<wsdl:message>`.
 
-The example of the XSD schema import of the service description in the `<wsdl:types>` WSDL section and descriptions of the message formats based on the imported schema in `<wsdl:message>` nodes:
+The example of the XSD schema import of the service description in the `<wsdl:types>` WSDL section and descriptions of the message formats based on the imported schema in the `<wsdl:message>` nodes:
 
 ```XML
 <wsdl:definitions .... >
@@ -185,7 +185,7 @@ The example of the XSD schema import of the service description in the `<wsdl:ty
 </wsdl:definitions>
 ```
 
-According to this example by the following reference: `/WebServiceProxy/Service.svc?xsd=xsd1`  `<xsd:import … >` construction enables to import the XSD schema of the service description. (*tipe*) structure of the incoming message (request) of `Cheques` method of `DIS_stend-sup-29` service in `<wsdl:message name="DIS_stend-sup-29_Cheques_InputMessage">` node is set by `Cheques` element defined in this schema. Similarly, to describe the incoming message (response) structure of this method `ChequesResponse` schema element is used.
+According to this example by the following reference: `/WebServiceProxy/Service.svc?xsd=xsd1`  `<xsd:import … >` construction enables to import the XSD schema of the service description. (*tipe*) structure of the incoming message (request) of `Cheques` method of `DIS_stend-sup-29` service in the `<wsdl:message name="DIS_stend-sup-29_Cheques_InputMessage">` node is set by the `Cheques` element defined in this schema. Similarly, to describe the incoming message (response) structure of this method `ChequesResponse` schema element is used.
 
 Thus, the XSD schema of the service description must contain these elements and set their (*tipe*) structure; and the *Adapter* settings must be clear enough to understand what message is described by the particular element of the imported schema.  For this purpose, it is required to set a name and namespace of the corresponding schema element for request and response of each method. These attributes clearly identify the elements in the XSD schema, and they are set by the following parameters:
 
