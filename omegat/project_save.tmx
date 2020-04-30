@@ -420,6 +420,7 @@ OK</note>
       </tuv>
     </tu>
     <tu>
+      <note>A:Note: It is recommended to place the additional files into the folder in which the Adapter has been installed, and to specify the relative paths to them in the Web.config configuration file. </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: рекомендуется помещать дополнительные файлы в папку, в которой установлен &lt;x3/&gt;Адаптер&lt;x4/&gt;, а в файле конфигурации &lt;x5/&gt;Web.config&lt;x6/&gt; указывать к ним относительные пути.</seg>
       </tuv>
@@ -2207,6 +2208,7 @@ No changes. I guess the Russian meaning does not presuppose this comma. "Which" 
       </tuv>
     </tu>
     <tu>
+      <note>A: It enables the transfer of the Adapter from one computer to another just copying the folder with the minimum reconfiguration number.</note>
       <tuv lang="RU">
         <seg>Это позволяет переносить &lt;x7/&gt;Адаптер&lt;x8/&gt; с одного компьютера на другой простым копированием папки с минимальным количеством перенастроек.</seg>
       </tuv>
