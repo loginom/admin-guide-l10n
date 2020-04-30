@@ -676,8 +676,8 @@ Ok, corrected in 2 segments. </note>
       <tuv lang="RU">
         <seg>Аналогично, для описания структуры исходящего сообщения (ответа) этого метода используется элемент схемы &lt;x15/&gt;ChequesResponse&lt;x16/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200428T122035Z" creationid="Марианна" creationdate="20200428T122035Z">
-        <seg>Similarly, to describe the incoming message (response) structure of this method &lt;x15/&gt;ChequesResponse&lt;x16/&gt; schema element is used.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T231928Z" creationid="Марианна" creationdate="20200428T122035Z">
+        <seg>Similarly, to describe the incoming message (response) structure of this method the &lt;x15/&gt;ChequesResponse&lt;x16/&gt; schema element is used.</seg>
       </tuv>
     </tu>
     <tu>
