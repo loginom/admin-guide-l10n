@@ -1085,16 +1085,16 @@ A: Actually, I removed one of the commas. Now it flows better!</note>
       <tuv lang="RU">
         <seg>Заголовок &lt;x1/&gt;Content-Type&lt;x2/&gt; заполняется значением параметра &lt;x3/&gt;ContentType для передачи в заголовке&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200430T223748Z" creationid="Марианна" creationdate="20200426T111320Z">
-        <seg>In &lt;x1/&gt;Content-Type&lt;x2/&gt; header, the value of &lt;x3/&gt;ContentType for transfer in the header&lt;x4/&gt; parameter is stated.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T230107Z" creationid="Марианна" creationdate="20200426T111320Z">
+        <seg>In the &lt;x1/&gt;Content-Type&lt;x2/&gt; header, the value of the &lt;x3/&gt;ContentType for transfer in the header&lt;x4/&gt; parameter is stated.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>Заголовок &lt;x5/&gt;SOAPAction&lt;x6/&gt; заполняется значением параметра &lt;x7/&gt;SOAPAction, который необходимо передавать в заголовке&lt;x8/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T111501Z" creationid="Марианна" creationdate="20200426T111501Z">
-        <seg>In &lt;x5/&gt;SOAPAction&lt;x6/&gt; header it is required to state the value of &lt;x7/&gt;SOAPAction that is required to transfer in the header&lt;x8/&gt; parameter. </seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T230117Z" creationid="Марианна" creationdate="20200426T111501Z">
+        <seg>In the &lt;x5/&gt;SOAPAction&lt;x6/&gt; header it is required to state the value of the &lt;x7/&gt;SOAPAction that is required to transfer in the header&lt;x8/&gt; parameter. </seg>
       </tuv>
     </tu>
     <tu>
