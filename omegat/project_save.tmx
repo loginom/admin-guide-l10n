@@ -1133,8 +1133,8 @@ A: Actually, I removed one of the commas. Now it flows better!</note>
       <tuv lang="RU">
         <seg>Значение &lt;x3/&gt;plainXml&lt;x4/&gt; параметра задает формат REST-сообщения.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T110746Z" creationid="Марианна" creationdate="20200426T110746Z">
-        <seg>The value of &lt;x3/&gt;plainXml&lt;x4/&gt; parameter is set according to the REST message format.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T225945Z" creationid="Марианна" creationdate="20200426T110746Z">
+        <seg>The value of the &lt;x3/&gt;plainXml&lt;x4/&gt; parameter is set according to the REST message format.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1205,8 +1205,8 @@ Done.</note>
       <tuv lang="RU">
         <seg>Значения &lt;x5/&gt;soap&lt;x6/&gt; и &lt;x7/&gt;soap12&lt;x8/&gt; параметра задают формат SOAP-сообщения в спецификациях 1.1 и 1.2 соответственно.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T110847Z" creationid="Марианна" creationdate="20200426T110847Z">
-        <seg>The values of &lt;x5/&gt;soap&lt;x6/&gt; and &lt;x7/&gt;soap12&lt;x8/&gt; parameters are set according to the SOAP message format in Specifications 1.1 and 1.2 correspondingly.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T225955Z" creationid="Марианна" creationdate="20200426T110847Z">
+        <seg>The values of the &lt;x5/&gt;soap&lt;x6/&gt; and &lt;x7/&gt;soap12&lt;x8/&gt; parameters are set according to the SOAP message format in Specifications 1.1 and 1.2 correspondingly.</seg>
       </tuv>
     </tu>
     <tu>
