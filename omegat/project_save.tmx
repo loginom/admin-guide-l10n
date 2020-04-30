@@ -433,8 +433,8 @@ OK</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: рекомендуется помещать дополнительные файлы в папку, в которой установлен &lt;x3/&gt;Адаптер&lt;x4/&gt;, а в файле конфигурации &lt;x5/&gt;Web.config&lt;x6/&gt; указывать к ним относительные пути.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200324T071453Z" creationid="Марианна" creationdate="20200206T082050Z">
-        <seg>&lt;x1/&gt;Note&lt;x2/&gt;: it is recommended to place the additional files into the folder in which the &lt;x3/&gt;Adapter&lt;x4/&gt; has been installed and to specify the relative paths to them in &lt;x5/&gt;Web.config&lt;x6/&gt; configuration file.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T221653Z" creationid="Марианна" creationdate="20200206T082050Z">
+        <seg>&lt;x1/&gt;Note&lt;x2/&gt;: it is recommended to place the additional files into the folder in which the &lt;x3/&gt;Adapter&lt;x4/&gt; has been installed and to specify the relative paths to them in the &lt;x5/&gt;Web.config&lt;x6/&gt; configuration file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -783,8 +783,8 @@ Done</note>
       <tuv lang="RU">
         <seg>В файле &lt;x19/&gt;Web.config&lt;x20/&gt; при этом будут содержаться ссылки на эти файлы.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200206T081300Z" creationid="Марианна" creationdate="20200206T081300Z">
-        <seg>&lt;x19/&gt;Web.config&lt;x20/&gt; file will include references to such files.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T221611Z" creationid="Марианна" creationdate="20200206T081300Z">
+        <seg>The &lt;x19/&gt;Web.config&lt;x20/&gt; file will include references to such files.</seg>
       </tuv>
     </tu>
     <tu>
@@ -879,8 +879,8 @@ Done</note>
       <tuv lang="RU">
         <seg>Данная схема определяет XML-структуру ответов и запросов всех методов каждого сервиса, описанного в файле конфигурации &lt;x3/&gt;web.config&lt;x4/&gt;, и импортируется в WSDL в разделе &lt;x5/&gt;&lt;wsdl:types&gt;&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200428T110205Z" creationid="Марианна" creationdate="20200428T110205Z">
-        <seg>This schema enables to define the XML structure of responses and requests of all methods of each service described in &lt;x3/&gt;web.config&lt;x4/&gt; configuration file; and it is imported to WSDL in &lt;x5/&gt;&lt;wsdl:types&gt;&lt;x6/&gt; section.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T221731Z" creationid="Марианна" creationdate="20200428T110205Z">
+        <seg>This schema enables to define the XML structure of responses and requests of all methods of each service described in the &lt;x3/&gt;web.config&lt;x4/&gt; configuration file; and it is imported to WSDL in &lt;x5/&gt;&lt;wsdl:types&gt;&lt;x6/&gt; section.</seg>
       </tuv>
     </tu>
     <tu>
