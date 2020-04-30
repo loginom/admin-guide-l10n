@@ -1356,8 +1356,8 @@ A: I understand. Company name</note>
       <tuv lang="RU">
         <seg>Методы, по которым осуществляется взаимодействие с соответствующими внешними сервисами, представлены подчиненными элементами с наименованиями методов (на рисунке 3 это элементы: &lt;x1/&gt;Value&lt;x2/&gt;, &lt;x3/&gt;processingApplicationRequest&lt;x4/&gt;, &lt;x5/&gt;deleteApplicationRequest&lt;x6/&gt; и другие).</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200206T065032Z" creationid="Марианна" creationdate="20200206T065032Z">
-        <seg>Methods of interaction with the relevant external services are represented by subordinate elements with method names (there are the following elements in Figure 3: &lt;x1/&gt;Value&lt;x2/&gt;, &lt;x3/&gt;processingApplicationRequest&lt;x4/&gt;, &lt;x5/&gt;deleteApplicationRequest&lt;x6/&gt;, etc).</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T220818Z" creationid="Марианна" creationdate="20200206T065032Z">
+        <seg>Methods of interaction with the relevant external services are represented by the subordinate elements with method names (the following elements are shown in Figure 3: &lt;x1/&gt;Value&lt;x2/&gt;, &lt;x3/&gt;processingApplicationRequest&lt;x4/&gt;, &lt;x5/&gt;deleteApplicationRequest&lt;x6/&gt;, etc).</seg>
       </tuv>
     </tu>
     <tu>
