@@ -185,7 +185,7 @@ The example of the XSD schema import of the service description in the `<wsdl:ty
 </wsdl:definitions>
 ```
 
-According to this example by the following reference: `/WebServiceProxy/Service.svc?xsd=xsd1`  `<xsd:import … >` construction enables to import the XSD schema of the service description. (*tipe*) structure of the incoming message (request) of `Cheques` method of `DIS_stend-sup-29` service in the `<wsdl:message name="DIS_stend-sup-29_Cheques_InputMessage">` node is set by the `Cheques` element defined in this schema. Similarly, to describe the incoming message (response) structure of this method `ChequesResponse` schema element is used.
+According to this example by the following reference: `/WebServiceProxy/Service.svc?xsd=xsd1`  `<xsd:import … >` construction enables to import the XSD schema of the service description. (*tipe*) structure of the incoming message (request) of `Cheques` method of `DIS_stend-sup-29` service in the `<wsdl:message name="DIS_stend-sup-29_Cheques_InputMessage">` node is set by the `Cheques` element defined in this schema. Similarly, to describe the incoming message (response) structure of this method the `ChequesResponse` schema element is used.
 
 Thus, the XSD schema of the service description must contain these elements and set their (*tipe*) structure; and the *Adapter* settings must be clear enough to understand what message is described by the particular element of the imported schema.  For this purpose, it is required to set a name and namespace of the corresponding schema element for request and response of each method. These attributes clearly identify the elements in the XSD schema, and they are set by the following parameters:
 
