@@ -1035,14 +1035,16 @@ Ok, done.</note>
     </tu>
     <tu>
       <note>Andrew:
-If this parameter is left empty, to form the item names in WSDL, the &lt;x7/&gt;Method name&lt;x8/&gt; parameter is used.&lt;segment 0081&gt;
+If this parameter is left empty to form the item names in WSDL, the &lt;x7/&gt;Method name&lt;x8/&gt; parameter is used.&lt;segment 0081&gt;
 
 *added comma to divide sentence clause
 
 subheading text 1. okay
 
 Marianna: 
-OK</note>
+OK
+
+A: Actually, I removed one of the commas. Now it flows better!</note>
       <tuv lang="RU">
         <seg>Если оставить данный параметр пустым, то для формирования имен элементов в WSDL используется параметр &lt;x7/&gt;Имя метода&lt;x8/&gt;.</seg>
       </tuv>
@@ -1482,7 +1484,9 @@ Done.</note>
 No capitalisation for 2., but 5. has capitalisation " Connection to the External Services"?
 
 Marianna:
-Let's read the github version where it is easier to find the headers. I will introduce capitalised letters if it's a header.</note>
+Let's read the github version where it is easier to find the headers. I will introduce capitalised letters if it's a header.
+
+A: Okay</note>
       <tuv lang="RU">
         <seg>Настройки метода взаимодействия с внешним сервисом&lt;x2/&gt;</seg>
       </tuv>
