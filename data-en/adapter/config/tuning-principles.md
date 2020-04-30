@@ -194,4 +194,4 @@ Thus, the XSD schema of the service description must contain these elements and 
 * *The root element name of the SOAP request*;
 * *Namespace of the root element of the SOAP request*.
 
-Values of *The web service description* parameter are set by content of `<wsdl:documentation>` WSDL nodes, and they are used for the arbitrary description of the services.
+Values of *The web service description* parameter are set by content of the `<wsdl:documentation>` WSDL nodes, and they are used for the arbitrary description of the services.
