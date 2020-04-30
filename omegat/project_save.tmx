@@ -1784,8 +1784,8 @@ From now on, I will only mention the sections of text that I require a tweak.
       <tuv lang="RU">
         <seg>Последующие запросы к &lt;x7/&gt;Адаптеру&lt;x8/&gt; будут выполнены с учетом новых настроек.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200203T073947Z" creationid="Марианна" creationdate="20200203T073932Z">
-        <seg>Subsequent requests to the &lt;x7/&gt;Adapter&lt;x8/&gt; will be executed taking into account the new settings.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T220031Z" creationid="Марианна" creationdate="20200203T073932Z">
+        <seg>Subsequent requests to the &lt;x7/&gt;Adapter&lt;x8/&gt; will be executed, taking into account the new settings.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1855,8 +1855,8 @@ Only comma added</note>
       <tuv lang="RU">
         <seg>При сохранении настроек &lt;x1/&gt;Конфигуратор&lt;x2/&gt; перезаписывает файл &lt;x3/&gt;Web.config&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200324T065345Z" creationid="Марианна" creationdate="20200203T073326Z">
-        <seg>When saving the settings, the &lt;x1/&gt;Configurator&lt;x2/&gt; rewrites &lt;x3/&gt;Web.config&lt;x4/&gt; file.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T215850Z" creationid="Марианна" creationdate="20200203T073326Z">
+        <seg>When saving the settings, the &lt;x1/&gt;Configurator&lt;x2/&gt; rewrites the &lt;x3/&gt;Web.config&lt;x4/&gt; file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1871,8 +1871,8 @@ Only comma added</note>
       <tuv lang="RU">
         <seg>При этом запросы, полученные &lt;x5/&gt;Адаптером&lt;x6/&gt; до этого, будут завершены со старыми настройками.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200203T073751Z" creationid="Марианна" creationdate="20200203T073751Z">
-        <seg>The requests previously received by the &lt;x5/&gt;Adapter&lt;x6/&gt; will be completed with the old settings.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T215934Z" creationid="Марианна" creationdate="20200203T073751Z">
+        <seg>Requests previously received by the &lt;x5/&gt;Adapter&lt;x6/&gt; will be completed with the old settings.</seg>
       </tuv>
     </tu>
     <tu>
