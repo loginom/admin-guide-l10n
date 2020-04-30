@@ -1101,8 +1101,8 @@ A: Actually, I removed one of the commas. Now it flows better!</note>
       <tuv lang="RU">
         <seg>Заполняется сформированным SOAP-пакетом или телом REST-сообщения в зависимости от значения параметра &lt;x1/&gt;Формат сообщения&lt;x2/&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T111712Z" creationid="Марианна" creationdate="20200426T111712Z">
-        <seg>is filled in by the formed SOAP package or REST message body according to the value of &lt;x1/&gt;Message format&lt;x2/&gt; parameter/ </seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T230254Z" creationid="Марианна" creationdate="20200426T111712Z">
+        <seg>is filled in by the formed SOAP package or REST message body according to the value of the &lt;x1/&gt;Message format&lt;x2/&gt; parameter/ </seg>
       </tuv>
     </tu>
     <tu>
