@@ -31,7 +31,7 @@ xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer">
 </soapenv:Envelope>
 ```
 
-`ded:Cheques` node will be selected for the provided example from the SOAP package, and the further transformation at the next stages will be performed with the XML text:
+The `ded:Cheques` node will be selected for the provided example from the SOAP package, and the further transformation at the next stages will be performed with the XML text:
 
 ```XML
 <ded:Cheques>
