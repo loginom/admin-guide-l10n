@@ -2,7 +2,7 @@
 
 ## The Functional Operation Scheme
 
-Being an intermediate web service, the *Adapter* serves both as a client with regard to the external service (for example, with regard to the Credit Reference Bureau – CRB) and the SOAP web service with regard to Loginom workflow (or any other outside information user). Serving as a web service, the *Adapter* provides the WSDL description according to the SOAP standard. The WSDL description enables to provide a clear definition of parameters of interaction with the web service, including the XML messages formats, by means of which such interatcion is performed. At the same time, serving as a client, the *Adapter* provides transformation of these messages from the SOAP format to the individual formats of the external services and backwards.
+Being an intermediate web service, the *Adapter* serves both as a client concerning the external service (for example, concerning the Credit Reference Bureau – CRB) and the SOAP web service with regard to Loginom workflow (or any other outside information user). Serving as a web service, the *Adapter* provides the WSDL description according to the SOAP standard. The WSDL description enables to provide a clear definition of parameters of interaction with the web service, including the XML messages formats, by means of which such interaction is performed. At the same time, serving as a client, the *Adapter* provides transformation of these messages from the SOAP format to the individual formats of the external services and backwards.
 
 The functional operation scheme of the *Adapter* is shown in Figure 7.
 
@@ -68,9 +68,9 @@ The first stage of the XML request transformation can be the XSLT transformation
 
 If the value of *>XSLT for transformation of the incoming message before transfer* parameter is not specified, the XSLT transformation stage is not performed.
 
-The next stage can be transformation to the special message format of credit reference bureau "UNITED CREDIT BUREAU". This transformation is specific for the work with the CRB specified above and it is not applied for other tasks. This stage is configured by means of *Special message format* parameter.
+The next stage can be transformation to a special message format of credit reference bureau "UNITED CREDIT BUREAU". This transformation is specific for the work with the CRB specified above and it is not applied for other tasks. This stage is configured by means of *Special message format* parameter.
 
-The next processing stage can be application of the OS command. Performance of this stage can be defined by the following parameters: *Configurator*: *The request file source name*, *The resulting name of the request file*, *The request file processing command *. The command example:
+The next processing stage can be an application of the OS command. Performance of this stage can be defined by the following parameters: *Configurator*: *The request file source name*, *The resulting name of the request file*, *The request file processing command *. The command example:
 
 ```
 "C:\Program Files\7-Zip\7z" a -tzip "%outputFile%" "%inputFile%"
@@ -80,19 +80,19 @@ While command executing, `%inputFile%` and `%outputFile%` templates are replaced
 
 Before the OS command execution  result of the previous transformation stages is represented as a file with the name specified in *The request file source name* parameter; then it is recorded to the disc. Then the OS command is applied to this file and the output file is formed. The output file content is transferred to the next processing stage.
 
-If the values of *The request file source name* and *The resulting name of the request fileа* parameters are not specified, the files names will be generated according to randomly generated GUID (Globally Unique Identifier) without extension. These temporary files will be also placed into the folder with `Web.config`. They will be deletd after the processing.
+If the values of *The request file source name* and *The resulting name of the request fileа* parameters are not specified, the files names will be generated according to randomly generated GUID (Globally Unique Identifier) without extension. These temporary files will be also placed into the folder with `Web.config`. They will be deleted after the processing.
 
-The files names can be also specified as a template with usage of `%guid%` construction. For example, on the basis of `"%guid%_reg.xml"` template randomly generated GUID will be inserted into the file name instead of `%guid%`.
+The files names can be also specified as a template with the usage of `%guid%` construction. For example, based on `"%guid%_reg.xml"` template randomly generated GUID will be inserted into the file name instead of `%guid%`.
 
-These stage execution rules are also applied in case of transformation of the service responses by the OS command with application of the following parameters: *The response file source name*, *The resulting name of the response file*, *The response file processing command*. If *The request file processing command* parameter is not specified, then *OS command* processing stage is not executed. The final result of the XML request transformation stages is formation of the request in the individual format specified in the external service description, and it can be XML, JSON, binary data, text, etc. At the next stage the request received in the result of the previous transformations in case of REST request formation is placed into the HTTP/HTTPS package body (*Entity Body*) sent to the external service, in case of the SOAP request, it is placed into `Body` node of the SOAP package.
+These stage execution rules are also applied in case of transformation of the service responses by the OS command with an application of the following parameters: *The response file source name*, *The resulting name of the response file*, *The response file processing command*. If *The request file processing command* parameter is not specified, then *OS command* processing stage is not executed. The final result of the XML request transformation stages is the formation of the request in the individual format specified in the external service description, and it can be XML, JSON, binary data, text, etc. At the next stage, the request received in the result of the previous transformations in case of REST request formation is placed into the HTTP/HTTPS package body (*Entity Body*) sent to the external service, in case of the SOAP request, it is placed into `Body` node of the SOAP package.
 
-Type of the sent request (REST or SOAP) is determined by *Message format* parameter. The value of `plainXml` parameter is set according to the REST message format. The values of `soap` and `soap12` parameters are set according to the SOAP message format in Specifications 1.1 and 1.2 correspondingly.
+Type of the sent request (REST or SOAP) is determined by the *Message format* parameter. The value of `plainXml` parameter is set according to the REST message format. The values of `soap` and `soap12` parameters are set according to the SOAP message format in Specifications 1.1 and 1.2 correspondingly.
 While filling in the HTTP/HTTPS package sections, sent to the external service, the following parameters of the *Configurator* are also used:
 
 | Sections of the HTTP/HTTPS Package | The parameters of the *Configurator* used for filling in |
 |:--------- |:-------------|
 | Request line (*Request Line*) | *URL for the request sending* |
-| Headers (*Message Headers*) | In `Content-Type` header the value of *ContentType for transfer in the header* parameter is stated. In `SOAPAction` header it is required to state the value of *SOAPAction that is required to transfer in the header* parameter.  |
+| Headers (*Message Headers*) | In `Content-Type` header, the value of *ContentType for transfer in the header* parameter is stated. In `SOAPAction` header it is required to state the value of *SOAPAction that is required to transfer in the header* parameter.  |
 | Message body (*Entity Body*) | is filled in by the formed SOAP package or REST message body according to the value of *Message format* parameter/  |
 
 While interacting with the external services the *Adapter* uses only the POST requests, GET requests are not used.
@@ -139,17 +139,17 @@ Algorithm of actions at the stage of the response receipt from the external serv
 
 ![Figure 10. Algorithm of Actions at the Stage of the Response Receipt from the External Service](./images/algorithm_receiving_response.png)
 
-In case of response receipt from the external service the succession of the transformation stages is reverse. Upon receipt of the response message, it is decrypted (on the basis of the HTTPS connection) and the response content is selected. In case of the REST service the response content is the message body (*Entity Body*) HTTP/HTTPS of the received package. In case of the SOAP service content of `Body`node of the SOAP package is selected. Then the response content is transferred for processing by the OS command with application of the following parameters: *The response file source name*, *The resulting name of the response file*, *The response file processing command*. Then the operations reverse to the optional transformations and XSLT transformation with usage of *XSLT for transformation of the response message* and *XSLT parameters* parameters are performed. The final result of the transformation stages is formation of the XML response the structure of which complies with the XSD schema of the service description. This schema is used for the WSDL web service formation and it is an obligatory component of the *Adapter* settings. The path to the schema is specified in *The schema to which the service description will refer* parameter.
+In case of response receipt from the external service, the succession of the transformation stages is reverse. Upon receipt of the response message, it is decrypted (based on the HTTPS connection) and the response content is selected. In case of the REST service, the response content is the message body (*Entity Body*) HTTP/HTTPS of the received package. In case of the SOAP service content of `Body`node of the SOAP package is selected. Then the response content is transferred for processing by the OS command with an application of the following parameters: *The response file source name*, *The resulting name of the response file*, *The response file processing command*. Then the operations reverse to the optional transformations and XSLT transformation with usage of *XSLT for transformation of the response message* and *XSLT parameters* parameters are performed. The final result of the transformation stages is the formation of the XML response the structure of which complies with the XSD schema of the service description. This schema is used for the WSDL web service formation and it is an obligatory component of the *Adapter* settings. The path to the schema is specified in *The schema to which the service description will refer* parameter.
 
 > **Important**: incompliance of the resulting XML response with its description in the XSD schema will cause the *Adapter* web service operation error.
 
-There is a time period when the *Адаптер* is waiting for the response from the external service. The timeout period is expressed in seconds in the *Timeout* parameter. On expiration of the timeout period and if there is no response from the external service the exception is formed.
+There is a period when the *Адаптер* is waiting for the response from the external service. The timeout period is expressed in seconds in the *Timeout* parameter. On the expiration of the timeout period and if there is no response from the external service the exception is formed.
 
 ## Configuration of the SOAP Service Role
 
-Apart from messages sending and receipt, the *Adapter* web service forms the WSDL service description. It is possible to get the WSDL description using the computer browser with the deployed *Adapter* at the following URL: `http://localhost/LoginomAdapter/Service.svc?wsdl`. When referring to the web service from the network, it is possible to use the follwoing URL: `http://<ip address>/LoginomAdapter/Service.svc?wsdl` where `<ip address>` - is the computer IP address with the deployed *Adapter*.
+Apart from messages sending and receipt, the *Adapter* web service forms the WSDL service description. It is possible to get the WSDL description using the computer browser with the deployed *Adapter* at the following URL: `http://localhost/LoginomAdapter/Service.svc?wsdl`. When referring to the web service from the network, it is possible to use the following URL: `http://<ip address>/LoginomAdapter/Service.svc?wsdl` where `<ip address>` - is the computer IP address with the deployed *Adapter*.
 
-The service WSDL is formed on the basis of the folowing parameters:
+The service WSDL is formed on the basis of the following parameters:
 
 | Group of the Parameters for the Web Service Role Configuration: |
 |:--------- |
@@ -162,9 +162,9 @@ The service WSDL is formed on the basis of the folowing parameters:
 | The root element name of the SOAP response; Namespace of the root element of the SOAP response |
 | Namespace of the root element of the SOAP response; Namespace of the root element of the SOAP response |
 
-*The web service name*, *Method name*, *Method name in Loginom Adapter* parameters participate in the formation of the elements name of the service WSDL description.  For example, values of *The web service name* parameter form the unique names of `<wsdl:portType>` elements describing the services represented by the *Adapter* web service and values of *Method name in Loginom Adapter* parameter form the uniqie names of `<wsdl:operation>` elements describing methods of these services.
+*The web service name*, *Method name*, *Method name in Loginom Adapter* parameters participate in the formation of the elements name of the service WSDL description.  For example, values of *The web service name* parameter form the unique names of `<wsdl:portType>` elements describing the services represented by the *Adapter* web service and values of *Method name in Loginom Adapter* parameter form the unique names of `<wsdl:operation>` elements describing methods of these services.
 
-The compulsory configuration component also participates in the WSDL formation process – the XSD schema of the service description; a path to it is specified in *The schema to which the service description will refer* parameter. This schema enables to define the XML structure of responses and requests of all methods of each service described in the `web.config` configuration file; and it is imported to WSDL in `<wsdl:types>` section. Definitions of all requests and responses messages are provided by the separate elements of the imported schema; and they are represented by the WSDL nodes `<wsdl:message>`.
+The compulsory configuration component also participates in the WSDL formation process – the XSD schema of the service description; a path to it is specified in *The schema to which the service description will refer* parameter. This schema enables to define the XML structure of responses and requests of all methods of each service described in the `web.config` configuration file, and it is imported to WSDL in `<wsdl:types>` section. Definitions of all requests and responses messages are provided by the separate elements of the imported schema, and they are represented by the WSDL nodes `<wsdl:message>`.
 
 The example of the XSD schema import of the service description in `<wsdl:types>` WSDL section and descriptions of the message formats based on the imported schema in `<wsdl:message>` nodes:
 
@@ -187,7 +187,7 @@ The example of the XSD schema import of the service description in `<wsdl:types>
 
 According to this example by the following reference: `/WebServiceProxy/Service.svc?xsd=xsd1`  `<xsd:import … >` construction enables to import the XSD schema of the service description. (*tipe*) structure of the incoming message (request) of `Cheques` method of `DIS_stend-sup-29` service in `<wsdl:message name="DIS_stend-sup-29_Cheques_InputMessage">` node is set by `Cheques` element defined in this schema. Similarly, to describe the incoming message (response) structure of this method `ChequesResponse` schema element is used.
 
-Thus, the XSD schema of the service description must contain these elements and set their (*tipe*) structure; and the *Adapter* settings must be clear enough to understand what message is described by the particular element of the imported schema.  For this purpose, it is required to set a name and namespace of the corresponding schema element for request and response of each method. These attributes clearly identify the elements in the XSD schema; and they are set by the following parameters:
+Thus, the XSD schema of the service description must contain these elements and set their (*tipe*) structure; and the *Adapter* settings must be clear enough to understand what message is described by the particular element of the imported schema.  For this purpose, it is required to set a name and namespace of the corresponding schema element for request and response of each method. These attributes clearly identify the elements in the XSD schema, and they are set by the following parameters:
 
 * *The root element name of the SOAP response*;
 * *Namespace of the root element of the SOAP response*;
