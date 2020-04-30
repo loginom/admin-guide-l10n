@@ -628,8 +628,8 @@ Ok, corrected in 2 segments. </note>
       <tuv lang="RU">
         <seg>WSDL-описание однозначно определяет параметры взаимодействия с веб-сервисом, в том числе и форматы XML-сообщений, посредством которых это взаимодействие осуществляется.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200424T100849Z" creationid="Марианна" creationdate="20200424T085444Z">
-        <seg>The WSDL description enables to provide a clear definition of parameters of interaction with the web service, including the XML messages formats, by means of which such interatcion is performed.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T222959Z" creationid="Марианна" creationdate="20200424T085444Z">
+        <seg>The WSDL description enables to provide a clear definition of parameters of interaction with the web service, including the XML messages formats, by means of which such interaction is performed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2238,8 +2238,8 @@ A: Okay, I see that now</note>
       <tuv lang="RU">
         <seg>Являясь промежуточным веб-сервисом, &lt;x1/&gt;Адаптер&lt;x2/&gt; одновременно выполняет роль клиента по отношению к внешнему сервису (например, к бюро кредитных историй – БКИ) и роль SOAP-веб-сервиса по отношению к сценарию Loginom (или любому другому стороннему потребителю информации).</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200424T103935Z" creationid="Марианна" creationdate="20200424T084130Z">
-        <seg>Being an intermediate web service, the &lt;x1/&gt;Adapter&lt;x2/&gt; serves both as a client with regard to the external service (for example, with regard to the Credit Reference Bureau – CRB) and the SOAP web service with regard to Loginom workflow (or any other outside information user).</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T222731Z" creationid="Марианна" creationdate="20200424T084130Z">
+        <seg>Being an intermediate web service, the &lt;x1/&gt;Adapter&lt;x2/&gt; serves both as a client concerning the external service (for example, concerning the Credit Reference Bureau – CRB) and the SOAP web service with regard to Loginom workflow (or any other outside information user).</seg>
       </tuv>
     </tu>
     <tu>
