@@ -945,7 +945,9 @@ OK</note>
 everything else okay
 
 Marianna: 
-Actually, it is better to read the github version where it is easy to find headers. </note>
+Actually, it is better to read the github version where it is easy to find headers. 
+
+A: Roger Wilco</note>
       <tuv lang="RU">
         <seg>Для отображения настроек методов взаимодействия с внешним сервисом необходимо выделить соответствующий ему элемент в дереве настроек (см.</seg>
       </tuv>
@@ -1269,7 +1271,8 @@ Done.</note>
 It is used in the process of work with credit reference bureau: "UNITED CREDIT BUREAU". &lt;segment 0070&gt;
 
 Marianna:
-No changes.</note>
+No changes.
+A: I understand. Company name</note>
       <tuv lang="RU">
         <seg>Используется для работы с БКИ «ОКБ».</seg>
       </tuv>
