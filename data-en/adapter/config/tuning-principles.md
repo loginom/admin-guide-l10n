@@ -139,7 +139,7 @@ Algorithm of actions at the stage of the response receipt from the external serv
 
 ![Figure 10. Algorithm of Actions at the Stage of the Response Receipt from the External Service](./images/algorithm_receiving_response.png)
 
-In case of response receipt from the external service the succession of the transformation stages is reverse. Upon receipt of the response message, it is decrypted (on the basis of the HTTPS connection) and the response content is selected. In case of the REST service the response content is the message body (*Entity Body*) HTTP/HTTPS of the received package. In case of the SOAP service content of `Body`node of the SOAP package is selected. Then the response content is transferred for processing by the OS command with application of the following parameters: *The response file source name*, *The resulting name of the response file*, *The response file processing command*. Then the operations reverse to the optional transformations and XSLT transformation with usage of *XSLT for transformation of the response message* and *XSLT parameters* parameters are performed. The final result of the transformation stages is formation of the XML response the structure of which complies with the XSD schema of the service description. This schema is used for the WSDL web service formation and it is an obligatory component of the *Adapter* settings. The path to the schema is specified in *The schema referenced by the service description* parameter.
+In case of response receipt from the external service the succession of the transformation stages is reverse. Upon receipt of the response message, it is decrypted (on the basis of the HTTPS connection) and the response content is selected. In case of the REST service the response content is the message body (*Entity Body*) HTTP/HTTPS of the received package. In case of the SOAP service content of `Body`node of the SOAP package is selected. Then the response content is transferred for processing by the OS command with application of the following parameters: *The response file source name*, *The resulting name of the response file*, *The response file processing command*. Then the operations reverse to the optional transformations and XSLT transformation with usage of *XSLT for transformation of the response message* and *XSLT parameters* parameters are performed. The final result of the transformation stages is formation of the XML response the structure of which complies with the XSD schema of the service description. This schema is used for the WSDL web service formation and it is an obligatory component of the *Adapter* settings. The path to the schema is specified in *The schema to which the service description will refer* parameter.
 
 > **Important**: incompliance of the resulting XML response with its description in the XSD schema will cause the *Adapter* web service operation error.
 
@@ -155,7 +155,7 @@ The service WSDL is formed on the basis of the folowing parameters:
 |:--------- |
 | The web service name |
 | The Web Service Description |
-| The Schema Referenced by the Service Description |
+| The Schema to Which the Service Description will Refer |
 | Method Name |
 | Method name in Loginom Adapter |
 | Method Description |
@@ -164,7 +164,7 @@ The service WSDL is formed on the basis of the folowing parameters:
 
 *The web service name*, *Method name*, *Method name in Loginom Adapter* parameters participate in the formation of the elements name of the service WSDL description.  For example, values of *The web service name* parameter form the unique names of `<wsdl:portType>` elements describing the services represented by the *Adapter* web service and values of *Method name in Loginom Adapter* parameter form the uniqie names of `<wsdl:operation>` elements describing methods of these services.
 
-The compulsory configuration component also participates in the WSDL formation process – the XSD schema of the service description; a path to it is specified in *The schema referenced by the service description* parameter. This schema enables to define the XML structure of responses and requests of all methods of each service described in `web.config` configuration file; and it is imported to WSDL in `<wsdl:types>` section. Definitions of all requests and responses messages are provided by the separate elements of the imported schema; and they are represented by the WSDL nodes `<wsdl:message>`.
+The compulsory configuration component also participates in the WSDL formation process – the XSD schema of the service description; a path to it is specified in *The schema to which the service description will refer* parameter. This schema enables to define the XML structure of responses and requests of all methods of each service described in `web.config` configuration file; and it is imported to WSDL in `<wsdl:types>` section. Definitions of all requests and responses messages are provided by the separate elements of the imported schema; and they are represented by the WSDL nodes `<wsdl:message>`.
 
 The example of the XSD schema import of the service description in `<wsdl:types>` WSDL section and descriptions of the message formats based on the imported schema in `<wsdl:message>` nodes:
 

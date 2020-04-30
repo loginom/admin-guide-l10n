@@ -41,7 +41,7 @@ The list of (content of the *Key* column) parameters is the same for connections
 * **The incoming message header** is used for credit reference bureau "UNITED CREDIT BUREAU". This type of header can include additional information (e.g., user name, password, etc.).
 * **Message encoding** — the message encoding applied by the external service is specified. It can take the following values: `utf-8`, and/or `windows-1251`.  `utf-8` is used by default.
 * **targetNamespace in WSDL** — the value is taken from the similarly-named attribute of the WSDL description of the external service. It is used only for the SOAP services.
-* **The schema referenced by the service description ** — it specifies the path to the XSD schema of the service description. The schema describes the structure of the XML messages of requests and responses of the *Adapter* web service, and participates in the generation of the WSDL service description. The XSD schema can contain references to the associated XSD schemas. The required parameter.
+* **The schema to which the service description will refer** — it specifies the path to the XSD schema of the service description. The schema describes the structure of the XML messages of requests and responses of the *Adapter* web service, and participates in the generation of the WSDL service description. The XSD schema can contain references to the associated XSD schemas. The required parameter.
 * **ContentType for transfer in the header** — the value of this parameter is transferred in the `Content-Type` header of the message package to the external service. It is used in the process of work with credit reference bureau "UNITED CREDIT BUREAU".
 
 ## Setting Parameters of Methods of Interaction with the External Services
@@ -61,7 +61,7 @@ These settings include the following parameters:
 * **The root element name of the SOAP request**, **Namespace of the root element of the SOAP request** — values of these parameters are taken from the XSD schema of the request description.
 * **The root element name of the SOAP response**, **Namespace of the root element of the SOAP response** — values of these parameters are taken from the XSD schema of the request description.
 
-> **Note**: the path to the XSD schema is specified in the following parameter: *The schema referenced by the service description*.
+> **Note**: the path to the XSD schema is specified in the following parameter: *The schema to which the service description will refer*.
 
 * **The request file source name**, **The resulting name of the request file**, **The request file processing command** — these parameters are used to assign the OS (operational system) command of the preliminary processing of the request text before its sending to the external service.  The detailed information on the application of the parameters is provided in the following section: [Configuration of the Client Role of the External Services](./tuning-principles.md#nastroyka-roli-klienta-vneshnikh-servisov). The command example:
 
