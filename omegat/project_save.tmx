@@ -1760,8 +1760,8 @@ From now on, I will only mention the sections of text that I require a tweak.
       <tuv lang="RU">
         <seg>Помимо предустановленных в процессе инсталляции папок и файлов, в процессе настройки &lt;x1/&gt;Адаптера&lt;x2/&gt; в каталоге установки могут быть размещены дополнительные файлы (сертификаты, XSD-схемы и т.п.), необходимые для работы с внешними сервисами.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200421T113727Z" creationid="Марианна" creationdate="20200206T075830Z">
-        <seg>Apart from the folders and files pre-installed in the installation process, when configuring the &lt;x1/&gt;Adapter&lt;x2/&gt;, additional files (certificates, the XSD schemas, etc.) required for the work with the external services can be placed into the installation directory.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T221108Z" creationid="Марианна" creationdate="20200206T075830Z">
+        <seg>Apart from the folders and files pre-installed in the installation process when configuring the &lt;x1/&gt;Adapter&lt;x2/&gt;, additional files (certificates, the XSD schemas, etc.), required for work with external services, can be placed into the installation directory.</seg>
       </tuv>
     </tu>
     <tu>
