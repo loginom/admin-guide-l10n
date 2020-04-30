@@ -1053,8 +1053,8 @@ A: Actually, I removed one of the commas. Now it flows better!</note>
       <tuv lang="RU">
         <seg>Если оставить данный параметр пустым, то для формирования имен элементов в WSDL используется параметр &lt;x7/&gt;Имя метода&lt;x8/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200421T114604Z" creationid="Марианна" creationdate="20200227T162048Z">
-        <seg>If this parameter is left empty, to form the item names in WSDL, the &lt;x7/&gt;Method name&lt;x8/&gt; parameter is used.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T214450Z" creationid="Марианна" creationdate="20200227T162048Z">
+        <seg>If this parameter is left empty to form the item names in WSDL, the &lt;x7/&gt;Method name&lt;x8/&gt; parameter is used.</seg>
       </tuv>
     </tu>
     <tu>
