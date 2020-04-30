@@ -2119,7 +2119,9 @@ It is required to place the flag for the Web services in WSDL description, of wh
 *Comma added
 
 Marianna: 
-No changes. I guess the Russian meaning does not presuppose this comma. "Which" relates to to "description".</note>
+No changes. I guess the Russian meaning does not presuppose this comma. "Which" relates to to "description".
+
+A: Okay, I see that now</note>
       <tuv lang="RU">
         <seg>Флаг нужно указывать для веб-сервисов, в WSDL-описании которых задана политика &lt;x5/&gt;UsingAddressing&lt;x6/&gt;.</seg>
       </tuv>
