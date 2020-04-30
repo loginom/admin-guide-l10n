@@ -1109,8 +1109,8 @@ A: Actually, I removed one of the commas. Now it flows better!</note>
       <tuv lang="RU">
         <seg>Затем содержимое ответа передается на обработку командой ОС с использованием параметров &lt;x5/&gt;Исходное имя файла ответа&lt;x6/&gt;, &lt;x7/&gt;Результирующее имя файла ответа&lt;x8/&gt;, &lt;x9/&gt;Команда обработки файла ответа&lt;x10/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T130312Z" creationid="Марианна" creationdate="20200426T101447Z">
-        <seg>Then the response content is transferred for processing by the OS command with application of the following parameters: &lt;x5/&gt;The response file source name&lt;x6/&gt;, &lt;x7/&gt;The resulting name of the response file&lt;x8/&gt;, &lt;x9/&gt;The response file processing command&lt;x10/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T223340Z" creationid="Марианна" creationdate="20200426T101447Z">
+        <seg>Then the response content is transferred for processing by the OS command with an application of the following parameters: &lt;x5/&gt;The response file source name&lt;x6/&gt;, &lt;x7/&gt;The resulting name of the response file&lt;x8/&gt;, &lt;x9/&gt;The response file processing command&lt;x10/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1307,16 +1307,16 @@ A: I understand. Company name</note>
       <tuv lang="RU">
         <seg>Конечным результатом этапов трансформации XML-запроса является формирование запроса в индивидуальном формате, заданном в описании внешнего сервиса, и может представлять собой XML, JSON, двоичные данные, текст и т.д.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200427T114350Z" creationid="Марианна" creationdate="20200426T110202Z">
-        <seg>The final result of the XML request transformation stages is formation of the request in the individual format specified in the external service description, and it can be XML, JSON, binary data, text, etc.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T223346Z" creationid="Марианна" creationdate="20200426T110202Z">
+        <seg>The final result of the XML request transformation stages is the formation of the request in the individual format specified in the external service description, and it can be XML, JSON, binary data, text, etc.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>Конечным результатом этапов трансформации должно стать формирование XML-ответа, структура которого соответствует XSD-схеме описания сервиса.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200427T114530Z" creationid="Марианна" creationdate="20200427T114355Z">
-        <seg>The final result of the transformation stages is formation of the XML response the structure of which complies with the XSD schema of the service description.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T223405Z" creationid="Марианна" creationdate="20200427T114355Z">
+        <seg>The final result of the transformation stages is the formation of the XML response the structure of which complies with the XSD schema of the service description.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1408,8 +1408,8 @@ Done.</note>
       <tuv lang="RU">
         <seg>На следующем этапе полученный в результате предыдущих преобразований запрос в случае формирования REST-запроса помещается в тело HTTP/HTTPS пакета (&lt;x11/&gt;Entity Body&lt;x12/&gt;), отправляемого внешнему сервису, в случае SOAP-запроса – помещается внутрь узла &lt;x13/&gt;Body&lt;x14/&gt; SOAP-пакета.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200429T114920Z" creationid="Марианна" creationdate="20200426T110622Z">
-        <seg>At the next stage the request received in the result of the previous transformations in case of REST request formation is placed into the HTTP/HTTPS package body (&lt;x11/&gt;Entity Body&lt;x12/&gt;) sent to the external service, in case of the SOAP request, it is placed into &lt;x13/&gt;Body&lt;x14/&gt; node of the SOAP package.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T223519Z" creationid="Марианна" creationdate="20200426T110622Z">
+        <seg>At the next stage, the request received in the result of the previous transformations in case of REST request formation is placed into the HTTP/HTTPS package body (&lt;x11/&gt;Entity Body&lt;x12/&gt;) sent to the external service, in case of the SOAP request, it is placed into &lt;x13/&gt;Body&lt;x14/&gt; node of the SOAP package.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2124,8 +2124,8 @@ Done</note>
       <tuv lang="RU">
         <seg>Тип отправляемого запроса (REST или SOAP) определяется параметром &lt;x1/&gt;Формат сообщения&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T110705Z" creationid="Марианна" creationdate="20200426T110705Z">
-        <seg>Type of the sent request (REST or SOAP) is determined by &lt;x1/&gt;Message format&lt;x2/&gt; parameter.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T223607Z" creationid="Марианна" creationdate="20200426T110705Z">
+        <seg>Type of the sent request (REST or SOAP) is determined by the &lt;x1/&gt;Message format&lt;x2/&gt; parameter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2213,8 +2213,8 @@ A: Okay, I see that now</note>
       <tuv lang="RU">
         <seg>Эти правила выполнения этапа применяются и при преобразовании командой OC ответов сервиса с использованием параметров &lt;x1/&gt;Исходное имя файла ответа&lt;x2/&gt;, &lt;x3/&gt;Результирующее имя файла ответа&lt;x4/&gt;, &lt;x5/&gt;Команда обработки файла ответа&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T101746Z" creationid="Марианна" creationdate="20200426T101412Z">
-        <seg>These stage execution rules are also applied in case of transformation of the service responses by the OS command with application of the following parameters: &lt;x1/&gt;The response file source name&lt;x2/&gt;, &lt;x3/&gt;The resulting name of the response file&lt;x4/&gt;, &lt;x5/&gt;The response file processing command&lt;x6/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T223314Z" creationid="Марианна" creationdate="20200426T101412Z">
+        <seg>These stage execution rules are also applied in case of transformation of the service responses by the OS command with an application of the following parameters: &lt;x1/&gt;The response file source name&lt;x2/&gt;, &lt;x3/&gt;The resulting name of the response file&lt;x4/&gt;, &lt;x5/&gt;The response file processing command&lt;x6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
