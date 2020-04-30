@@ -275,10 +275,6 @@ all else okay</note>
 Marianna:
 OK
 
-A: On second inspection, there seems to be a discrepancy in the text betweem what is written in Github and what is written in Omega:
-
-// "The response file source name" and "The resulting name of the response file", while the command is executed correspondingly (?)/the response processing command&lt;x6/&gt; — these parameters are used to assign the OS command of the service response text processing. &lt;segment  0103  ¶&gt;
-A: The latter, underlined part of the text, appears in the Omega file, while the former phrase “The resulting name of the response file", while the command is executed correspondingly” appears in the Github version, so I'm leaving both here, because I'm not sure which is the correct one.
 
 </note>
       <tuv lang="RU">
