@@ -1448,8 +1448,8 @@ Done.</note>
       <tuv lang="RU">
         <seg>Настройка выполнения этого этапа осуществляется параметром &lt;x1/&gt;Особый формат сообщения&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200424T104049Z" creationid="Марианна" creationdate="20200424T104049Z">
-        <seg>This stage is configured by means of &lt;x1/&gt;Special message format&lt;x2/&gt; parameter.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200430T225305Z" creationid="Марианна" creationdate="20200424T104049Z">
+        <seg>This stage is configured by means of the &lt;x1/&gt;Special message format&lt;x2/&gt; parameter.</seg>
       </tuv>
     </tu>
     <tu>
