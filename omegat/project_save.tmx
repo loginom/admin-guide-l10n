@@ -986,6 +986,7 @@ A: Slight typo here. I had "connection" in the Plural.</note>
       </tuv>
     </tu>
     <tu>
+      <note>A: The ded:Cheques node will be selected for the provided example from the SOAP package, and further transformation in the following stages will be performed with the XML text:</note>
       <tuv lang="RU">
         <seg>Для приведенного примера из SOAP-пакета будет выделен узел &lt;x1/&gt;ded:Cheques&lt;x2/&gt;, и дальнейшая трансформация на следующих этапах будет производиться с текстом xml:</seg>
       </tuv>
