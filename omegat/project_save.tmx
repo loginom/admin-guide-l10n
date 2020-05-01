@@ -1971,6 +1971,7 @@ Only comma added</note>
       </tuv>
     </tu>
     <tu>
+      <note>A: At the same time, serving as a client, the Adapter provides transformation of these messages from the SOAP format to the individual formats of the external services, and backwards. </note>
       <tuv lang="RU">
         <seg>С другой стороны, выполняя роль клиента, &lt;x5/&gt;Адаптер&lt;x6/&gt; обеспечивает трансформацию этих сообщений из формата SOAP в индивидуальные форматы внешних сервисов и обратно.</seg>
       </tuv>
