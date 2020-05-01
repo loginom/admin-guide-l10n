@@ -2214,8 +2214,8 @@ A: Okay, I see that now</note>
       <tuv lang="RU">
         <seg>Эти временные файлы так же будут располагаться в папке с &lt;x5/&gt;Web.config&lt;x6/&gt;, а по окончании обработки удалятся.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200430T223129Z" creationid="Марианна" creationdate="20200426T100830Z">
-        <seg>These temporary files will be also placed into the folder with &lt;x5/&gt;Web.config&lt;x6/&gt;. They will be deleted after the processing.</seg>
+      <tuv lang="EN" changeid="dell" changedate="20200501T180057Z" creationid="Марианна" creationdate="20200426T100830Z">
+        <seg>These temporary files will be also placed into the folder with &lt;x5/&gt;Web.config&lt;x6/&gt;. They will be deleted after the processing.c</seg>
       </tuv>
     </tu>
     <tu>
