@@ -650,6 +650,7 @@ Ok, corrected in 2 segments. </note>
       </tuv>
     </tu>
     <tu>
+      <note>A: The Algorithm of actions at the stage of the request sending to the external service is shown in Figure 8. </note>
       <tuv lang="RU">
         <seg>Алгоритм действий на этапе отправки запроса внешнему сервису&lt;x2/&gt;</seg>
       </tuv>
@@ -1289,6 +1290,7 @@ A: I understand. Company name</note>
       </tuv>
     </tu>
     <tu>
+      <note>A:As is shown in Figure 8, the first action after the SOAP request receipt from Loginom workflow is the XML request text selection from the SOAP package.</note>
       <tuv lang="RU">
         <seg>Как видно из рисунка 8, первым действием после получения SOAP-запроса из сценария Loginom является выделение текста xml-запроса из SOAP-пакета.</seg>
       </tuv>
