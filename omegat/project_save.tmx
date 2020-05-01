@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -625,6 +625,7 @@ Ok, corrected in 2 segments. </note>
       </tuv>
     </tu>
     <tu>
+      <note>A: The WSDL description enables a clear definition of parameters of interaction to be provided with the web service, by means of which such interaction is performed including the XML message formats. </note>
       <tuv lang="RU">
         <seg>WSDL-описание однозначно определяет параметры взаимодействия с веб-сервисом, в том числе и форматы XML-сообщений, посредством которых это взаимодействие осуществляется.</seg>
       </tuv>
@@ -2235,6 +2236,7 @@ A: Okay, I see that now</note>
       </tuv>
     </tu>
     <tu>
+      <note>A: Being an intermediate web service, the Adapter serves both as a client concerning the external service (for example, concerning the Credit Reference Bureau – CRB), and the SOAP web service, with regard to Loginom workflow (or any other outside information user). </note>
       <tuv lang="RU">
         <seg>Являясь промежуточным веб-сервисом, &lt;x1/&gt;Адаптер&lt;x2/&gt; одновременно выполняет роль клиента по отношению к внешнему сервису (например, к бюро кредитных историй – БКИ) и роль SOAP-веб-сервиса по отношению к сценарию Loginom (или любому другому стороннему потребителю информации).</seg>
       </tuv>
