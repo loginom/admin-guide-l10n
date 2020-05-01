@@ -1457,6 +1457,7 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>A: This stage is configured by means of parameters of the XSLT Configurator for transformation of the incoming message before transfer and XSLT Parameters, as shown in Figure 9. </note>
       <tuv lang="RU">
         <seg>Настройка выполнения этого этапа производится с помощью параметров &lt;x1/&gt;Конфигуратора&lt;x2/&gt; &lt;x3/&gt;XSLT для трансформации входящего сообщения перед передачей&lt;x4/&gt; и &lt;x5/&gt;Параметры XSLT&lt;x6/&gt;, представленных на рисунке 9.</seg>
       </tuv>
