@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1928,6 +1928,14 @@ Only comma added</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T083112Z" creationid="Марианна" creationdate="20200424T083112Z">
         <seg>Operation Principles and Settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Процедура получения сертификата и порядок его использования для каждого из внешних веб-сервисов (например - БКИ) описывается в документации, предоставляемой поставщиком услуг соответствующего веб-сервиса.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T060630Z" creationid="Марианна" creationdate="20200502T060630Z">
+        <seg>Procedure of the certificate receipt and usage for each external web service (for example, CRB) is described in the documents provided by the service provider of the corresponding web service. </seg>
       </tuv>
     </tu>
     <tu>
