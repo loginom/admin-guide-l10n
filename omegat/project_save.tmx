@@ -157,6 +157,7 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>A; Important: in compliance with the resulting XML response with its description in the XSD schema will cause the Adapter web service operation error. </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Важно&lt;x2/&gt;: несоответствие результирующего XML-ответа его описанию в XSD-схеме приведет к ошибке в работе с веб-сервисом &lt;x3/&gt;Адаптера&lt;x4/&gt;.</seg>
       </tuv>
@@ -876,6 +877,7 @@ Done</note>
       </tuv>
     </tu>
     <tu>
+      <note>A: Then the operations reverse to the optional transformations and XSLT transformation with usage of the XSLT for transformation of the response message, and XSLT parameters parameters are performed. </note>
       <tuv lang="RU">
         <seg>Далее выполняются операции обратные опциональным преобразованиям и XSLT трансформация с использованием параметров &lt;x11/&gt;XSLT для трансформации ответного сообщения&lt;x12/&gt; и &lt;x13/&gt;Параметры XSLT&lt;x14/&gt;.</seg>
       </tuv>
@@ -892,6 +894,7 @@ Done</note>
       </tuv>
     </tu>
     <tu>
+      <note>A: This schema is used for the WSDL web service formation, and it is an obligatory component of the Adapter settings. </note>
       <tuv lang="RU">
         <seg>Данная схема используется для формирования WSDL веб-сервиса и является обязательным компонентом настроек &lt;x15/&gt;Адаптера&lt;x16/&gt;.</seg>
       </tuv>
@@ -1134,6 +1137,7 @@ A: Actually, I removed one of the commas. Now it flows better!</note>
       </tuv>
     </tu>
     <tu>
+      <note>A: Then the response content is transferred for processing by the OS command with by applying the following parameters: The response file source name, The resulting name of the response file, The response file processing command. </note>
       <tuv lang="RU">
         <seg>Затем содержимое ответа передается на обработку командой ОС с использованием параметров &lt;x5/&gt;Исходное имя файла ответа&lt;x6/&gt;, &lt;x7/&gt;Результирующее имя файла ответа&lt;x8/&gt;, &lt;x9/&gt;Команда обработки файла ответа&lt;x10/&gt;.</seg>
       </tuv>
@@ -1352,6 +1356,7 @@ A: I understand. Company name</note>
       </tuv>
     </tu>
     <tu>
+      <note>A: The final result of the transformation stages is the formation of the XML response, the structure of which complies with the XSD schema of the service description.</note>
       <tuv lang="RU">
         <seg>Конечным результатом этапов трансформации должно стать формирование XML-ответа, структура которого соответствует XSD-схеме описания сервиса.</seg>
       </tuv>
@@ -1745,6 +1750,7 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
     </tu>
     <tu>
+      <note>A: On the expiration of the timeout period, and if there is no response from the external service the exception is formed. </note>
       <tuv lang="RU">
         <seg>По окончании времени ожидания при отсутствии ответа от внешнего сервиса формируется исключение.</seg>
       </tuv>
@@ -2006,6 +2012,7 @@ Only comma added</note>
       </tuv>
     </tu>
     <tu>
+      <note>A; The path to the schema is specified in The schema to which the service description will refer the parameter. </note>
       <tuv lang="RU">
         <seg>Путь к схеме задается в параметре &lt;x17/&gt;Схема, на которую будет ссылаться описание сервиса&lt;x18/&gt;.</seg>
       </tuv>
@@ -2143,6 +2150,7 @@ Only comma added</note>
       </tuv>
     </tu>
     <tu>
+      <note>A: There is a period when the Adapter is waits for the response from the external service.</note>
       <tuv lang="RU">
         <seg>Существует время, в течение которого &lt;x1/&gt;Адаптер&lt;x2/&gt; ожидает ответа от внешнего сервиса.</seg>
       </tuv>
