@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1049,6 +1049,22 @@ A: Slight typo here. I had "connection" in the Plural.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Его редактирование доступно в оснастке &lt;x11/&gt;Сертификаты – текущий пользователь&lt;x12/&gt; и вызывается командой &lt;x13/&gt;mmc certmgr.msc&lt;x14/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T064501Z" creationid="Марианна" creationdate="20200502T064501Z">
+        <seg>It can be edited in the following snap-in: &lt;x11/&gt;Certificates – the current user&lt;x12/&gt;, and it can be activated using the &lt;x13/&gt;mmc certmgr.msc&lt;x14/&gt; command.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Его редактирование доступно в оснастке &lt;x5/&gt;Сертификаты – локальный компьютер&lt;x6/&gt; и вызывается командой &lt;x7/&gt;mmc certlm.msc&lt;x8/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T064328Z" creationid="Марианна" creationdate="20200502T064328Z">
+        <seg>It can be edited in the following snap-in: &lt;x5/&gt;Certificates - the local computer&lt;x6/&gt;, and it can be activated using the &lt;x7/&gt;mmc certlm.msc&lt;x8/&gt; command.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Если значение параметра &lt;x1/&gt;XSLT для трансформации входящего сообщения перед передачей&lt;x2/&gt; не задано, то этап XSLT трансформации не выполняется.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T225045Z" creationid="Марианна" creationdate="20200424T103406Z">
@@ -2078,6 +2094,14 @@ Only comma added</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Сертификат из хранилища необходимо экспортировать в файл &lt;x1/&gt;.CER&lt;x2/&gt; в DER-кодировке &lt;x3/&gt;X.509&lt;x4/&gt; без закрытого ключа,  а в параметре настроек &lt;x5/&gt;Адаптера&lt;x6/&gt; – &lt;x7/&gt;Путь к сертификату&lt;x8/&gt; указывается путь к данному файлу.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T064747Z" creationid="Марианна" creationdate="20200502T064747Z">
+        <seg>It is required to export the certificate from the store to the &lt;x1/&gt;.CER&lt;x2/&gt; file in the DER coding &lt;x3/&gt;X.509&lt;x4/&gt; without the private key, but in the &lt;x5/&gt;Adapter&lt;x6/&gt; settings parameter – the &lt;x7/&gt;Certificate path&lt;x8/&gt; - a path to this file is specified. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Сертификаты без закрытого ключа могут располагаться отдельным файлом по указанному в параметре &lt;x13/&gt;Путь к сертификату&lt;x14/&gt; месте файловой системы.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T060956Z" creationid="Марианна" creationdate="20200225T132849Z">
@@ -2271,6 +2295,14 @@ A: Okay, I see that now</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T095457Z" creationid="Марианна" creationdate="20200424T095419Z">
         <seg>The Functional Operation Scheme of the Adapter&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Хранилище &lt;x9/&gt;пользователя&lt;x10/&gt; доступно только для определенного пользователя.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T064419Z" creationid="Марианна" creationdate="20200502T064419Z">
+        <seg>The &lt;x9/&gt;user&lt;x10/&gt; store is available only for a particular user.</seg>
       </tuv>
     </tu>
     <tu>
