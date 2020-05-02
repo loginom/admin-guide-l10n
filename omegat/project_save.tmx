@@ -1922,8 +1922,8 @@ A: Okay</note>
       <tuv lang="RU">
         <seg>Обязательное программное обеспечение</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T195159Z" creationid="Марианна" creationdate="20200502T195159Z">
-        <seg>Compulsory software</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T202100Z" creationid="Марианна" creationdate="20200502T195159Z">
+        <seg>Compulsory Software</seg>
       </tuv>
     </tu>
     <tu>
@@ -2013,8 +2013,8 @@ Settled in correspondence)
       <tuv lang="RU">
         <seg>Опциональное программное обеспечение</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T195931Z" creationid="Марианна" creationdate="20200502T195931Z">
-        <seg>Optional software</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T202119Z" creationid="Марианна" creationdate="20200502T195931Z">
+        <seg>Optional Software</seg>
       </tuv>
     </tu>
     <tu>
