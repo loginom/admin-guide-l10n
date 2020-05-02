@@ -1211,6 +1211,14 @@ A: Slight typo here. I had "connection" in the Plural.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Для работы &lt;x1/&gt;Адаптера&lt;x2/&gt; требуется наличие ряда компонентов IIS и .Net Framework.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T195826Z" creationid="Марианна" creationdate="20200502T195826Z">
+        <seg>Availability of some IIS and .Net Framework components is required for the  &lt;x1/&gt;Adapter&lt;x2/&gt; operation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Для решения этой задачи предназначен Loginom Adapter (далее, &lt;x3/&gt;Адаптер&lt;x4/&gt;).</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T193340Z" creationid="Марианна" creationdate="20200502T193340Z">
@@ -2101,6 +2109,14 @@ From now on, I will only mention the sections of text that I require a tweak.
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Подробное описание см.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T195852Z" creationid="Марианна" creationdate="20200502T195852Z">
+        <seg>The detailed description is provided in</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Получает ответ внешнего веб-сервиса;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T194159Z" creationid="Марианна" creationdate="20200502T194159Z">
@@ -2146,6 +2162,14 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T220031Z" creationid="Марианна" creationdate="20200203T073932Z">
         <seg>Subsequent requests to the &lt;x7/&gt;Adapter&lt;x8/&gt; will be executed, taking into account the new settings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Практика использования программы показывает, что возможна совместимость с .Net Framework версии 4.5.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T195704Z" creationid="Марианна" creationdate="20200502T195704Z">
+        <seg>The evidence from application usage practice shows that compatibility with.Net Framework, version 4.5 is possible.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2735,6 +2759,14 @@ A: Okay, I see that now</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T222731Z" creationid="Марианна" creationdate="20200424T084130Z">
         <seg>Being an intermediate web service, the &lt;x1/&gt;Adapter&lt;x2/&gt; serves both as a client concerning the external service (for example, concerning the Credit Reference Bureau – CRB) and the SOAP web service with regard to Loginom workflow (or any other outside information user).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>в разделе &lt;x3/&gt;Установка&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T195908Z" creationid="Марианна" creationdate="20200502T195908Z">
+        <seg>the &lt;x3/&gt;Installation&lt;x4/&gt; section.</seg>
       </tuv>
     </tu>
     <tu>
