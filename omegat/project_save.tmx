@@ -91,6 +91,7 @@ A: "while the command" is placed in a different part of the segment in Github, a
       </tuv>
     </tu>
     <tu>
+      <note>A: URL for request sending</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;URL для отправки запроса&lt;x2/&gt;</seg>
       </tuv>
@@ -1113,6 +1114,7 @@ A: Actually, I removed one of the commas. Now it flows better!</note>
       </tuv>
     </tu>
     <tu>
+      <note>A: In the SOAPAction header, it is required to state the value of the SOAPAction that is required to transfer in the header parameter.</note>
       <tuv lang="RU">
         <seg>Заголовок &lt;x5/&gt;SOAPAction&lt;x6/&gt; заполняется значением параметра &lt;x7/&gt;SOAPAction, который необходимо передавать в заголовке&lt;x8/&gt;.</seg>
       </tuv>
@@ -1457,6 +1459,7 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>A At the stage of the package sending during the HTTPS connection implementation, encryption with the cerificate usage is applied. </note>
       <tuv lang="RU">
         <seg>На этапе отправки пакета при реализации HTTPS соединения применяется шифрование с использованием сертификата.</seg>
       </tuv>
@@ -1787,6 +1790,7 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
     </tu>
     <tu>
+      <note>A: To learn more about certificates installation and usage refer to </note>
       <tuv lang="RU">
         <seg>Подробнее об установке и использовании сертификатов см.</seg>
       </tuv>
@@ -1836,6 +1840,7 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
     </tu>
     <tu>
+      <note>A: While interacting with the external services the Adapter uses only the POST requests. The GET requests are not used.</note>
       <tuv lang="RU">
         <seg>При взаимодействии с внешними сервисами &lt;x1/&gt;Адаптер&lt;x2/&gt; использует только POST-запросы, GET-запросы не используются.</seg>
       </tuv>
@@ -1852,6 +1857,7 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
     </tu>
     <tu>
+      <note>A: While filling in the HTTP/HTTPS package sections sent to the external service, the following parameters of the Configurator are also used: </note>
       <tuv lang="RU">
         <seg>При заполнении секций HTTP/HTTPS пакета, отправляемого внешнему сервису, также используются следующие параметры &lt;x9/&gt;Конфигуратора&lt;x10/&gt;:</seg>
       </tuv>
