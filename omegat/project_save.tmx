@@ -1059,8 +1059,8 @@ Done</note>
       <tuv lang="RU">
         <seg>Выбор криптопровайдера и его версии диктуется требованиями поддержки в нем необходимых для взаимодействия с конкретным веб-сервисом алгоритмов шифрования.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T200544Z" creationid="Марианна" creationdate="20200502T200544Z">
-        <seg>Selection of cryptography service provider and its version is stipulated by support of the definite encryption algorithms required for interaction with the particular web services.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T201450Z" creationid="Марианна" creationdate="20200502T200544Z">
+        <seg>Selection of cryptography service provider and its version is stipulated by the support of the definite encryption algorithms required for interaction with the particular web services.</seg>
       </tuv>
     </tu>
     <tu>
