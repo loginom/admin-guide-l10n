@@ -1549,6 +1549,14 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Направляет преобразованный запрос во внешний веб-сервис;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T194106Z" creationid="Марианна" creationdate="20200502T194106Z">
+        <seg>Sends the transformed request to the external web service;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A: For example, values of The web service name parameter forms the unique names of the &lt;wsdl:portType&gt; elements describing the services represented by the Adapter web service, and values of the Method name in the Loginom Adapter parameter form the unique names of the &lt;wsdl:operation&gt; elements describing methods of these services.</note>
       <tuv lang="RU">
         <seg>Например, значения параметров &lt;x7/&gt;Имя веб-сервиса&lt;x8/&gt; формируют уникальные имена элементов &lt;x9/&gt;&lt;wsdl:portType&gt;&lt;x10/&gt;, описывающих сервисы, предоставляемые веб-сервисом &lt;x11/&gt;Адаптера&lt;x12/&gt;, а значения параметров &lt;x13/&gt;Имя метода в Loginom Adapter&lt;x14/&gt; формируют уникальные имена элементов &lt;x15/&gt;&lt;wsdl:operation&gt;&lt;x16/&gt;, описывающих методы этих сервисов.</seg>
