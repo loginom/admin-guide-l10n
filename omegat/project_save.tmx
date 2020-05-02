@@ -2034,8 +2034,8 @@ Only comma added</note>
       <tuv lang="RU">
         <seg>Процедура получения сертификата и порядок его использования для каждого из внешних веб-сервисов (например - БКИ) описывается в документации, предоставляемой поставщиком услуг соответствующего веб-сервиса.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T060630Z" creationid="Марианна" creationdate="20200502T060630Z">
-        <seg>Procedure of the certificate receipt and usage for each external web service (for example, CRB) is described in the documents provided by the service provider of the corresponding web service. </seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T065817Z" creationid="Марианна" creationdate="20200502T060630Z">
+        <seg>The procedure of the certificate receipt and usage for each external web service (for example, CRB) is described in the documents provided by the service provider of the corresponding web service. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2246,8 +2246,8 @@ Done</note>
       <tuv lang="RU">
         <seg>Такой способ рекоммендуется использовать для сертификатов, не содержащих закрытый ключ.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T061151Z" creationid="Марианна" creationdate="20200502T061151Z">
-        <seg>It is recommended to use such method for the certificates that do not contain the private key.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T065851Z" creationid="Марианна" creationdate="20200502T061151Z">
+        <seg>It is recommended to use such a method for the certificates that do not contain the private key.</seg>
       </tuv>
     </tu>
     <tu>
