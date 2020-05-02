@@ -1800,8 +1800,8 @@ Done.</note>
       <tuv lang="RU">
         <seg>Направляет преобразованный запрос во внешний веб-сервис;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T194106Z" creationid="Марианна" creationdate="20200502T194106Z">
-        <seg>Sends the transformed request to the external web service;</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T201712Z" creationid="Марианна" creationdate="20200502T194106Z">
+        <seg>Sends the transformed request to the external web service</seg>
       </tuv>
     </tu>
     <tu>
@@ -2191,8 +2191,8 @@ From now on, I will only mention the sections of text that I require a tweak.
       <tuv lang="RU">
         <seg>Получает ответ внешнего веб-сервиса;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T194159Z" creationid="Марианна" creationdate="20200502T194159Z">
-        <seg>Receives the response of the external web service;</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T201718Z" creationid="Марианна" creationdate="20200502T194159Z">
+        <seg>Receives the response of the external web service</seg>
       </tuv>
     </tu>
     <tu>
@@ -2248,16 +2248,16 @@ From now on, I will only mention the sections of text that I require a tweak.
       <tuv lang="RU">
         <seg>Преобразует полученный из сценария Loginom SOAP-запрос к формату запроса внешнего веб-сервиса;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T194020Z" creationid="Марианна" creationdate="20200502T194020Z">
-        <seg>Transforms the SOAP request received from the Loginom workflow to the request format of the external web service;</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T201707Z" creationid="Марианна" creationdate="20200502T194020Z">
+        <seg>Transforms the SOAP request received from the Loginom workflow to the request format of the external web service</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>Преобразует полученный ответ и в формате SOAP возвращает его сценарию Loginom.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T201416Z" creationid="Марианна" creationdate="20200502T194251Z">
-        <seg>Transforms the received response and returns it to the Loginom workflow in the SOAP format.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T201723Z" creationid="Марианна" creationdate="20200502T194251Z">
+        <seg>Transforms the received response and returns it to the Loginom workflow in the SOAP format</seg>
       </tuv>
     </tu>
     <tu>
