@@ -1,13 +1,13 @@
-# Удаление Loginom Adapter
+# Loginom Adapter Deinstallation
 
-Деинсталлировать Loginom Adapter можно несколькими способами:
+It is possible to deinstall Loginom Adapter in several ways:
 
-* Удалить приложение из окна "Программы и компоненты" в Windows;
-* Запустить инсталлятор продукта, нажать кнопку **"Удалить"**.
-* Выполнить в командной строке от имени администратора:
+* To deinstall the application from the "Applications and components" window in Windows
+* To launch the product installer having pressed the **"Deinstall"** button
+* To execute the following command in the command line as the administrator:
 
    ```cmd
    msiexec /x LoginomAdapter.msi /qn
    ```
 
-После этого в *диспетчере служб IIS* необходимо удалить размещенный ранее сайт *Loginom Adapter*, который по умолчанию расположен в группе `сайты` -> `Default Web Site`. Также следует удалить созданный специально для *Адаптера* пул приложения.
+Then it is required to delete in *IIS service manager* the earlier located *Loginom Adapter* site that is located by default in the `sites` -> `Default Web Site` group. It is also required to delete the application pool created specially for the *Adapter*.

@@ -7,7 +7,7 @@
 
 ![](../images/server_msi_remove.png)
 
-* Выполнить в командной строке от имени администратора:
+* To execute the following command in the command line as the administrator:
 
 ```cmd
 msiexec /x Loginom<Редакця>_6.x.x.msi /qn
