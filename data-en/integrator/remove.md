@@ -2,7 +2,7 @@
 
 Деинсталлировать Loginom Integrator можно несколькими способами:
 
-* To deinstall the application from the "Applications and components" window in Windows
+* To deinstall the application from the "Applications and Components" window in Windows
 * Запустить инсталлятор продукта, нажать кнопку **"Удалить"**
 
 ![](../images/integrator_msi_remove.png)
