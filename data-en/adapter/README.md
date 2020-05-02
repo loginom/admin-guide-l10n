@@ -30,7 +30,7 @@ The *Adapter* is an intermediate web service between the workflow executed in Lo
 | Microsoft IIS | Version 5.1 or higher | Version 7.5 and higher |
 | .Net Framework | Version 3.5 | &nbsp; |
 
-> **Note**: Loginom Adapter uses .Net Framework, version 3.5 in the process of work. The evidence from application usage practice shows that compatibility with.Net Framework, version 4.5 is possible.
+> **Note**: Loginom Adapter uses .Net Framework, version 3.5 in the process of work. The evidence from the application usage practice shows that compatibility with.Net Framework, version 4.5 is possible.
 
 Availability of some IIS and .Net Framework components is required for the  *Adapter* operation. The detailed description is provided in the [Installation](.\setup\README.md) section.
 
