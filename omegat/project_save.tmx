@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -687,6 +687,7 @@ Ok, corrected in 2 segments. </note>
       </tuv>
     </tu>
     <tu>
+      <note>A: Similarly, to describe the incoming message (response) structure of this method, the ChequesResponse schema element is used.</note>
       <tuv lang="RU">
         <seg>Аналогично, для описания структуры исходящего сообщения (ответа) этого метода используется элемент схемы &lt;x15/&gt;ChequesResponse&lt;x16/&gt;.</seg>
       </tuv>
@@ -695,6 +696,7 @@ Ok, corrected in 2 segments. </note>
       </tuv>
     </tu>
     <tu>
+      <note>A: According to this example by the following reference: /WebServiceProxy/Service.svc?xsd=xsd1 &lt;xsd:import … &gt;, construction enables the importing of the XSD schema of the service description.</note>
       <tuv lang="RU">
         <seg>В данном примере по ссылке &lt;x1/&gt;/WebServiceProxy/Service.svc?xsd=xsd1&lt;x2/&gt; конструкцией &lt;x3/&gt;&lt;xsd:import … &gt;&lt;x4/&gt; импортируется XSD-схема описания сервиса.</seg>
       </tuv>
@@ -2175,6 +2177,7 @@ Only comma added</note>
       </tuv>
     </tu>
     <tu>
+      <note>A: (tipe) structure of the incoming message (request) of Cheques method of DIS_stend-sup-29 service in the &lt;wsdl:message name="DIS_stend-sup-29_Cheques_InputMessage"&gt; node is set by the Cheques element defined in this schema.</note>
       <tuv lang="RU">
         <seg>Структура (&lt;x5/&gt;tipe&lt;x6/&gt;) входящего сообщения (запроса) метода &lt;x7/&gt;Cheques&lt;x8/&gt; сервиса &lt;x9/&gt;DIS_stend-sup-29&lt;x10/&gt; в узле &lt;x11/&gt;&lt;wsdl:message name="DIS_stend-sup-29_Cheques_InputMessage"&gt;&lt;x12/&gt; задается определяемым в этой схеме элементом &lt;x13/&gt;Cheques&lt;x14/&gt;.</seg>
       </tuv>
