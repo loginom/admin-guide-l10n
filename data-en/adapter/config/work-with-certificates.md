@@ -1,4 +1,4 @@
-# The work with certificates
+# Work with Certificates
 
 Procedure of the certificate receipt and usage for each external web service (for example, CRB) is described in the documents provided by the service provider of the corresponding web service.
 
