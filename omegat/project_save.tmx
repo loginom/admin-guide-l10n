@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -523,6 +523,14 @@ OK</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T101929Z" creationid="Марианна" creationdate="20200424T101929Z">
         <seg>&lt;x1/&gt;Figure 9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Справочно&lt;x2/&gt;: хранилище сертификатов &lt;x3/&gt;локального компьютера&lt;x4/&gt; доступно для всех пользователей.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T061657Z" creationid="Марианна" creationdate="20200502T061657Z">
+        <seg>&lt;x1/&gt;For reference&lt;x2/&gt;: the certificate store of the &lt;x3/&gt;local computer&lt;x4/&gt; is available for all users.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1860,6 +1868,14 @@ Only comma added</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>При использовании хранилища необходимо выполнение следующих условий:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T061354Z" creationid="Марианна" creationdate="20200502T061354Z">
+        <seg>When using the store, it is required to meet the following conditions:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>При обращении к веб-сервису из сети можно использовать URL: &lt;x7/&gt;http://&lt;ip-адрес&gt;/LoginomAdapter/Service.svc?wsdl&lt;x8/&gt; , где &lt;x9/&gt;&lt;ip-адрес&gt;&lt;x10/&gt; - это ip-адрес компьютера с развернутым &lt;x11/&gt;Адаптером&lt;x12/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T224159Z" creationid="Марианна" creationdate="20200427T141251Z">
@@ -2216,6 +2232,14 @@ A: Okay, I see that now</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T095457Z" creationid="Марианна" creationdate="20200424T095419Z">
         <seg>The Functional Operation Scheme of the Adapter&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Хранилище сертификатов должно быть доступно для пользователя, из-под которого работает пул приложений &lt;x1/&gt;Адаптера&lt;x2/&gt; в IIS.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T061604Z" creationid="Марианна" creationdate="20200502T061604Z">
+        <seg>The certificate store must be available for the user who operates the &lt;x1/&gt;Adapter&lt;x2/&gt; application pool in IIS.</seg>
       </tuv>
     </tu>
     <tu>
