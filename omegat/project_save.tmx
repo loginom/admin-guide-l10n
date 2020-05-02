@@ -1183,6 +1183,14 @@ OK</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Деинсталлировать Loginom Adapter можно несколькими способами:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T202546Z" creationid="Марианна" creationdate="20200502T202546Z">
+        <seg>It is possible to deinstall Loginom Adapter in several ways:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Дерево навигации настроек&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200205T060104Z" creationid="Марианна" creationdate="20200203T075418Z">
@@ -1428,6 +1436,14 @@ A: Actually, I removed one of the commas. Now it flows better!</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T230254Z" creationid="Марианна" creationdate="20200426T111712Z">
         <seg>is filled in by the formed SOAP package or REST message body according to the value of the &lt;x1/&gt;Message format&lt;x2/&gt; parameter/ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Запустить инсталлятор продукта, нажать кнопку &lt;x1/&gt;"Удалить"&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T202746Z" creationid="Марианна" creationdate="20200502T202746Z">
+        <seg>To launch the product installer having pressed the &lt;x1/&gt;"Deinstall"&lt;x2/&gt; button.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2683,6 +2699,22 @@ Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T194423Z" creationid="Марианна" creationdate="20200502T194423Z">
         <seg>Typical scheme of interaction of the system components using the Adapter&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Удаление Loginom Adapter</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T202513Z" creationid="Марианна" creationdate="20200502T202513Z">
+        <seg>Loginom Adapter Deinstallation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Удалить приложение из окна "Программы и компоненты" в Windows;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T202647Z" creationid="Марианна" creationdate="20200502T202647Z">
+        <seg>To deinstall the application from the "Applications and components" window in Windows</seg>
       </tuv>
     </tu>
     <tu>
