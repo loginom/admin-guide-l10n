@@ -60,6 +60,14 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>1 Гб</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T194743Z" creationid="Марианна" creationdate="20200502T194743Z">
+        <seg>1 GB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;ContentType для передачи в заголовке&lt;x2/&gt; — значение данного параметра передается в заголовке &lt;x3/&gt;Content-Type&lt;x4/&gt; пакета сообщения к внешнему сервису.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200227T160055Z" creationid="Марианна" creationdate="20200227T160055Z">
@@ -628,6 +636,22 @@ Ok, corrected in 2 segments. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Intel Core 2 Duo</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T194609Z" creationid="Марианна" creationdate="20200502T194609Z">
+        <seg>Intel Core 2 Duo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Intel Xeon</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T194615Z" creationid="Марианна" creationdate="20200502T194615Z">
+        <seg>Intel Xeon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Loginom Adapter</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T193849Z" creationid="Марианна" creationdate="20200502T193849Z">
@@ -717,6 +741,14 @@ Ok, corrected in 2 segments. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T231928Z" creationid="Марианна" creationdate="20200428T122035Z">
         <seg>Similarly, to describe the incoming message (response) structure of this method the &lt;x15/&gt;ChequesResponse&lt;x16/&gt; schema element is used.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аппаратное обеспечение</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T194456Z" creationid="Марианна" creationdate="20200502T194456Z">
+        <seg>Hardware</seg>
       </tuv>
     </tu>
     <tu>
@@ -1429,6 +1461,14 @@ A: I understand. Company name</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Компонент</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T194507Z" creationid="Марианна" creationdate="20200502T194507Z">
+        <seg>Component</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Конечным результатом этапов трансформации XML-запроса является формирование запроса в индивидуальном формате, заданном в описании внешнего сервиса, и может представлять собой XML, JSON, двоичные данные, текст и т.д.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T223346Z" creationid="Марианна" creationdate="20200426T110202Z">
@@ -1484,6 +1524,14 @@ A: I understand. Company name</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T220818Z" creationid="Марианна" creationdate="20200206T065032Z">
         <seg>Methods of interaction with the relevant external services are represented by the subordinate elements with method names (the following elements are shown in Figure 3: &lt;x1/&gt;Value&lt;x2/&gt;, &lt;x3/&gt;processingApplicationRequest&lt;x4/&gt;, &lt;x5/&gt;deleteApplicationRequest&lt;x6/&gt;, etc).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Минимальные</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T194524Z" creationid="Марианна" creationdate="20200502T194524Z">
+        <seg>Minimum</seg>
       </tuv>
     </tu>
     <tu>
@@ -1684,6 +1732,14 @@ A: Okay</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200225T125544Z" creationid="Марианна" creationdate="20200225T125351Z">
         <seg>The required parameter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Оперативная память</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T194712Z" creationid="Марианна" creationdate="20200502T194712Z">
+        <seg>Immediate-access store</seg>
       </tuv>
     </tu>
     <tu>
@@ -2138,6 +2194,14 @@ Only comma added</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Процессор</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T194604Z" creationid="Марианна" creationdate="20200502T194604Z">
+        <seg>Processor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Пустое значение параметра равносильно &lt;x9/&gt;false&lt;x10/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200304T071650Z" creationid="Марианна" creationdate="20200304T071650Z">
@@ -2184,6 +2248,14 @@ Only comma added</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Рекомендуемые</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T194543Z" creationid="Марианна" creationdate="20200502T194543Z">
+        <seg>Recommended</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A: At the same time, serving as a client, the Adapter provides transformation of these messages from the SOAP format to the individual formats of the external services, and backwards. </note>
       <tuv lang="RU">
         <seg>С другой стороны, выполняя роль клиента, &lt;x5/&gt;Адаптер&lt;x6/&gt; обеспечивает трансформацию этих сообщений из формата SOAP в индивидуальные форматы внешних сервисов и обратно.</seg>
@@ -2214,6 +2286,14 @@ Only comma added</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T060956Z" creationid="Марианна" creationdate="20200225T132849Z">
         <seg>The certificates without a private key can be placed into a separate file in the file system location specified by the &lt;x13/&gt;Certificate path&lt;x14/&gt; parameter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Системные требования</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T194442Z" creationid="Марианна" creationdate="20200502T194442Z">
+        <seg>System Requirements</seg>
       </tuv>
     </tu>
     <tu>
