@@ -1856,6 +1856,14 @@ Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Настройка IIS</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T204111Z" creationid="Марианна" creationdate="20200502T204111Z">
+        <seg>Configure IIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Настройка выполнения этого этапа осуществляется параметром &lt;x1/&gt;Особый формат сообщения&lt;x2/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T225305Z" creationid="Марианна" creationdate="20200424T104049Z">
