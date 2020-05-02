@@ -798,6 +798,14 @@ Ok, corrected in 2 segments. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>msiexec /x LoginomAdapter.msi /qn</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T202920Z" creationid="Марианна" creationdate="20200502T202920Z">
+        <seg>msiexec /x LoginomAdapter.msi /qn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Алгоритм действий на этапе отправки запроса внешнему сервису представлен на рисунке 8.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T100132Z" creationid="Марианна" creationdate="20200424T100009Z">
@@ -1077,6 +1085,14 @@ Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T225407Z" creationid="Марианна" creationdate="20200424T104424Z">
         <seg>Performance of this stage can be defined by the following parameters: the &lt;x1/&gt;Configurator&lt;x2/&gt;: &lt;x3/&gt;The request file source name&lt;x4/&gt;, &lt;x5/&gt;The resulting name of the request file&lt;x6/&gt;, &lt;x7/&gt;The request file processing command &lt;x8/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Выполнить в командной строке от имени администратора:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T202916Z" creationid="Марианна" creationdate="20200502T202916Z">
+        <seg>To execute the following command in the command line as the administrator:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2242,6 +2258,14 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T223209Z" creationid="Марианна" creationdate="20200426T125809Z">
         <seg>Upon receipt of the response message, it is decrypted (based on the HTTPS connection) and the response content is selected.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>После этого в &lt;x1/&gt;диспетчере служб IIS&lt;x2/&gt; необходимо удалить размещенный ранее сайт &lt;x3/&gt;Loginom Adapter&lt;x4/&gt;, который по умолчанию расположен в группе &lt;x5/&gt;сайты&lt;x6/&gt; -&gt; &lt;x7/&gt;Default Web Site&lt;x8/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T203426Z" creationid="Марианна" creationdate="20200502T203426Z">
+        <seg>Then it is required to delete in &lt;x1/&gt;IIS service manager&lt;x2/&gt; the earlier located &lt;x3/&gt;Loginom Adapter&lt;x4/&gt; site that is located by default in the &lt;x5/&gt;sites&lt;x6/&gt; -&gt; &lt;x7/&gt;Default Web Site&lt;x8/&gt; group.</seg>
       </tuv>
     </tu>
     <tu>
