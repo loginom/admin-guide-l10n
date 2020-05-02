@@ -708,6 +708,22 @@ Ok, corrected in 2 segments. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Java Runtime Environment (JRE)</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T200656Z" creationid="Марианна" creationdate="20200502T200656Z">
+        <seg>Java Runtime Environment (JRE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Java Runtime Environment (JRE) версии не ниже 6 — обязательное требование для подключения к сервисам &lt;x1/&gt;Национальный Хантер&lt;x2/&gt; и &lt;x3/&gt;Equifax FPS&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T200814Z" creationid="Марианна" creationdate="20200502T200814Z">
+        <seg>Java Runtime Environment (JRE) version 6 or higher is a mandatory requirement for connection to the &lt;x1/&gt;National Hunter&lt;x2/&gt; and &lt;x3/&gt;Equifax FPS&lt;x4/&gt; services.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Loginom Adapter</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T193849Z" creationid="Марианна" creationdate="20200502T193849Z">
@@ -1247,6 +1263,14 @@ A: Slight typo here. I had "connection" in the Plural.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T200142Z" creationid="Марианна" creationdate="20200502T200041Z">
         <seg>The external cryptography service providers (Cryptography Service Provider, CSP) and Java Runtime Environment (JRE) can be used for the work with some web services.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Для работы с тем или иным веб-сервисом с применением шифрования потребуются соответствующие сертификаты.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T200652Z" creationid="Марианна" creationdate="20200502T200652Z">
+        <seg>Corresponding certificates will be required for usage of these or that web service with encryption.</seg>
       </tuv>
     </tu>
     <tu>
