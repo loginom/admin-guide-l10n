@@ -627,6 +627,7 @@ Ok, corrected in 2 segments. </note>
       </tuv>
     </tu>
     <tu>
+      <note>A: The WSDL service is formed on the basis of the following parameters: </note>
       <tuv lang="RU">
         <seg>WSDL сервиса формируется, исходя из следующих параметров:</seg>
       </tuv>
@@ -869,6 +870,7 @@ Done</note>
       </tuv>
     </tu>
     <tu>
+      <note>A: The Group of Parameters for the Web Service Role Configuration: </note>
       <tuv lang="RU">
         <seg>Группа параметров настройки роли Web-сервиса:</seg>
       </tuv>
@@ -1285,6 +1287,7 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>A: Method name in the Loginom Adapter </note>
       <tuv lang="RU">
         <seg>Имя метода в Loginom Adapter</seg>
       </tuv>
@@ -1390,6 +1393,7 @@ A: I understand. Company name</note>
       </tuv>
     </tu>
     <tu>
+      <note>A: Apart from the sending and receipt of messages, the Adapter web service forms the WSDL service description.</note>
       <tuv lang="RU">
         <seg>Кроме отправки и получения сообщений, web-сервис &lt;x1/&gt;Адаптера&lt;x2/&gt; формирует WSDL-описание сервиса.</seg>
       </tuv>
@@ -1671,6 +1675,7 @@ Settled in correspondence)
       </tuv>
     </tu>
     <tu>
+      <note>A: The web service name, Method name, Method name in the Loginom Adapter parameters participate in the formation of the elements' name of the service WSDL description.  </note>
       <tuv lang="RU">
         <seg>Параметры &lt;x1/&gt;Имя веб-сервиса&lt;x2/&gt;, &lt;x3/&gt;Имя метода&lt;x4/&gt;, &lt;x5/&gt;Имя метода в Loginom Adapter&lt;x6/&gt; участвуют в формировании имен элементов WSDL-описания сервиса.</seg>
       </tuv>
