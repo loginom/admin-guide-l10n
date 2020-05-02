@@ -2240,8 +2240,8 @@ From now on, I will only mention the sections of text that I require a tweak.
       <tuv lang="RU">
         <seg>Практика использования программы показывает, что возможна совместимость с .Net Framework версии 4.5.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T195704Z" creationid="Марианна" creationdate="20200502T195704Z">
-        <seg>The evidence from application usage practice shows that compatibility with.Net Framework, version 4.5 is possible.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T201931Z" creationid="Марианна" creationdate="20200502T195704Z">
+        <seg>The evidence from the application usage practice shows that compatibility with.Net Framework, version 4.5 is possible.</seg>
       </tuv>
     </tu>
     <tu>
