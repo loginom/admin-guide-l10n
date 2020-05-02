@@ -2380,6 +2380,14 @@ A: Okay, I see that now</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Этот файл выполняет роль ссылки для &lt;x9/&gt;Адаптера&lt;x10/&gt; на сертификат в хранилище.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T064849Z" creationid="Марианна" creationdate="20200502T064849Z">
+        <seg>This file serves as a reference to the store certificate for the &lt;x9/&gt;Adapter&lt;x10/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A: Being an intermediate web service, the Adapter serves both as a client concerning the external service (for example, concerning the Credit Reference Bureau – CRB), and the SOAP web service, with regard to Loginom workflow (or any other outside information user). </note>
       <tuv lang="RU">
         <seg>Являясь промежуточным веб-сервисом, &lt;x1/&gt;Адаптер&lt;x2/&gt; одновременно выполняет роль клиента по отношению к внешнему сервису (например, к бюро кредитных историй – БКИ) и роль SOAP-веб-сервиса по отношению к сценарию Loginom (или любому другому стороннему потребителю информации).</seg>
