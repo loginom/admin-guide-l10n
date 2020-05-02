@@ -760,11 +760,12 @@ Ok, the XML elements. Corrected everywhere.
       </tuv>
     </tu>
     <tu>
+      <note>A: If the values of The request file source name and The resulting name of the request file parameters are not specified, the files names will be generated according to randomly generated GUID (Globally Unique Identifier), without extension.</note>
       <tuv lang="RU">
         <seg>В случае, если значения параметров &lt;x1/&gt;Исходное имя файла запроса&lt;x2/&gt; и &lt;x3/&gt;Результирующее имя файла запроса&lt;x4/&gt; не заданы, то будут сформированы имена файлов на основе случайно сгенерированных GUID (Globally Unique Identifier) без расширения.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T100726Z" creationid="Марианна" creationdate="20200426T095002Z">
-        <seg>If the values of &lt;x1/&gt;The request file source name&lt;x2/&gt; and &lt;x3/&gt;The resulting name of the request fileа&lt;x4/&gt; parameters are not specified, the files names will be generated according to randomly generated GUID (Globally Unique Identifier) without extension.</seg>
+      <tuv lang="EN" changeid="dell" changedate="20200502T062651Z" creationid="Марианна" creationdate="20200426T095002Z">
+        <seg>If the values of &lt;x1/&gt;The request file source name&lt;x2/&gt; and &lt;x3/&gt;The resulting name of the request fileа&lt;x4/&gt; parameters are not specified, the files names will be generated according to randomly generated GUID (Globally Unique Identifier) without extension. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1240,6 +1241,7 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>A: The files names can be also specified as a template with usage of the %guid% construction. </note>
       <tuv lang="RU">
         <seg>Имена файлов так же можно задавать в виде шаблона с использованием конструкции &lt;x1/&gt;%guid%&lt;x2/&gt;.</seg>
       </tuv>
@@ -2279,6 +2281,7 @@ A: Okay, I see that now</note>
       </tuv>
     </tu>
     <tu>
+      <note>A: These temporary files will be also placed into the folder with Web.config. They will be deleted after processing. </note>
       <tuv lang="RU">
         <seg>Эти временные файлы так же будут располагаться в папке с &lt;x5/&gt;Web.config&lt;x6/&gt;, а по окончании обработки удалятся.</seg>
       </tuv>
