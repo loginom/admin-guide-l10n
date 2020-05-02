@@ -7,7 +7,7 @@ The *Adapter* is an intermediate web service between the workflow executed in Lo
 - Transforms the SOAP request received from the Loginom workflow to the request format of the external web service;
 - Sends the transformed request to the external web service;
 - Receives the response of the external web service;
-- Transfroms the received response and returns it to the Loginom workflow in the SOAP format.
+- Transforms the received response and returns it to the Loginom workflow in the SOAP format.
 
 ![Figure 1. Typical scheme of interaction of the system components using the Adapter](component_interaction_scheme.png)
 
@@ -36,11 +36,11 @@ Availability of some IIS and .Net Framework components is required for the  *Ada
 
 ### Optional software
 
-The external cryptography service providers (Cryptography Service Provider, CSP) and Java Runtime Environment (JRE) can be used for the work with some web services. In such cases these components must be installed with the *Adapter*.
+The external cryptography service providers (Cryptography Service Provider, CSP) and Java Runtime Environment (JRE) can be used for the work with some web services. In such cases, these components must be installed with the *Adapter*.
 
 #### Cryptography Service Provider (CSP)
 
-Such cryptography service providers as Signal-COM CSP or CryptoPro CSP are used for data encryption in case of integration with the external web services. Selection of cryptography service provider and its version is stipulated by support of the definite encryption algorithms required for interaction with the particular web services.
+Such cryptography service providers as Signal-COM CSP or CryptoPro CSP are used for data encryption in case of integration with the external web services. Selection of cryptography service provider and its version is stipulated by the support of the definite encryption algorithms required for interaction with the particular web services.
 
 Corresponding certificates will be required for usage of these or that web service with encryption.
 
