@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1034,6 +1034,7 @@ A: Slight typo here. I had "connection" in the Plural.</note>
       </tuv>
     </tu>
     <tu>
+      <note>A: For this purpose, it is required to set a name and namespace of the corresponding schema element for the request and response of each method.</note>
       <tuv lang="RU">
         <seg>Для этого для запроса и ответа каждого метода необходимо задать имя и пространство имен соответствующего элемента схемы.</seg>
       </tuv>
@@ -1265,6 +1266,7 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>A: Values of The web service description parameter are set by content of the &lt;wsdl:documentation&gt; WSDL nodes, and they are used for arbitrary description of the services.</note>
       <tuv lang="RU">
         <seg>Значения параметра &lt;x1/&gt;Описание веб-сервиса&lt;x2/&gt; задает содержание узлов WSDL &lt;x3/&gt;&lt;wsdl:documentation&gt;&lt;x4/&gt; и используется для произвольного описания сервисов.</seg>
       </tuv>
