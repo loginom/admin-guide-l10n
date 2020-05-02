@@ -80,7 +80,7 @@ While command executing, `%inputFile%` and `%outputFile%` templates are replaced
 
 Before the OS command execution  result of the previous transformation stages is represented as a file with the name specified in *The request file source name* parameter; then it is recorded to the disc. Then the OS command is applied to this file and the output file is formed. The output file content is transferred to the next processing stage.
 
-If the values of *The request file source name* and *The resulting name of the request fileа* parameters are not specified, the files names will be generated according to randomly generated GUID (Globally Unique Identifier) without extension. These temporary files will be also placed into the folder with `Web.config`. They will be deleted after the processing.
+If the values of *The request file source name* and *The resulting name of the request fileа* parameters are not specified, the files names will be generated according to randomly generated GUID (Globally Unique Identifier) without extension.  These temporary files will be also placed into the folder with `Web.config`. They will be deleted after the processing.c
 
 The files names can be also specified as a template with the usage of the `%guid%` construction. For example, based on the `"%guid%_reg.xml"` template randomly generated GUID will be inserted into the file name instead of `%guid%`.
 
@@ -131,7 +131,7 @@ xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer">
 </soapenv:Envelope>
 ```
 
-At the stage of the package sending during the HTTPS connection implementation encryption with the cerificate usage is applied. To learn more on the certificates installation and usage refer to the [Certificates Usage](./work-with-certificates.md) section.
+At the stage of the package sending during the HTTPS connection implementation encryption with the cerificate usage is applied. To learn more on the certificates installation and usage refer to the [Work with certificates](./work-with-certificates.md) section.
 
 The formed package is sent at the address specified in the *URL for the request sending* parameter.
 
@@ -185,7 +185,7 @@ The example of the XSD schema import of the service description in the `<wsdl:ty
 </wsdl:definitions>
 ```
 
-According to this example by the following reference: `/WebServiceProxy/Service.svc?xsd=xsd1`  `<xsd:import … >` construction enables to import the XSD schema of the service description. (*tipe*) structure of the incoming message (request) of `Cheques` method of `DIS_stend-sup-29` service in the `<wsdl:message name="DIS_stend-sup-29_Cheques_InputMessage">` node is set by the `Cheques` element defined in this schema. Similarly, to describe the incoming message (response) structure of this method the `ChequesResponse` schema element is used.
+According to this example by the following reference: `/WebServiceProxy/Service.svc?xsd=xsd1`  `<xsd:import … >` construction enables to import the XSD schema of the service description. (*tipe*) structure of the incoming message (request) of `Cheques` method of `DIS_stend-sup-29` service in the `<wsdl:message name="DIS_stend-sup-29_Cheques_InputMessage">` node is set by the `Cheques` element defined in this schema.  Similarly, to describe the incoming message (response) structure of this method the `ChequesResponse` schema element is used.
 
 Thus, the XSD schema of the service description must contain these elements and set their (*tipe*) structure; and the *Adapter* settings must be clear enough to understand what message is described by the particular element of the imported schema.  For this purpose, it is required to set a name and namespace of the corresponding schema element for request and response of each method. These attributes clearly identify the elements in the XSD schema, and they are set by the following parameters:
 

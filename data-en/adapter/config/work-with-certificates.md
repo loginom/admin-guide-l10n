@@ -1,16 +1,16 @@
-# Certificates Usage
+# The work with certificates
 
-Процедура получения сертификата и порядок его использования для каждого из внешних веб-сервисов (например - БКИ) описывается в документации, предоставляемой поставщиком услуг соответствующего веб-сервиса.
+Procedure of the certificate receipt and usage for each external web service (for example, CRB) is described in the documents provided by the service provider of the corresponding web service.
 
-Используемые в работе *Адаптера* сертификаты могут хранится:
+The certificates used for the *Adapter* operation can be kept using the following path:
 
-- По пути в файловой системе, указанному в параметре *Путь к сертификату*. Такой способ рекоммендуется использовать для сертификатов, не содержащих закрытый ключ.
-- В хранилище сертификатов.
+- path in the file system specified to the *Certificate path* parameter. It is recommended to use such method for the certificates that do not contain the private key.
+- In the certificate store.
 
-При использовании хранилища необходимо выполнение следующих условий:
+When using the store, it is required to meet the following conditions:
 
-- Хранилище сертификатов должно быть доступно для пользователя, из-под которого работает пул приложений *Адаптера* в IIS.
+- The certificate store must be available for the user who operates the *Adapter* application pool in IIS.
 
-> **Справочно**: хранилище сертификатов *локального компьютера* доступно для всех пользователей. Его редактирование доступно в оснастке `Сертификаты – локальный компьютер` и вызывается командой `mmc certlm.msc`. Хранилище *пользователя* доступно только для определенного пользователя. Его редактирование доступно в оснастке `Сертификаты – текущий пользователь` и вызывается командой `mmc certmgr.msc`.
+> **For reference**: the certificate store of the *local computer* is available for all users. It can be edited in the following snap-in: `Certificates - the local computer`, and it can be activated using the `mmc certlm.msc` command. The *user* store is available only for a particular user. It can be edited in the following snap-in: `Certificates – the current user`, and it can be activated using the `mmc certmgr.msc` command.
 
-- Сертификат из хранилища необходимо экспортировать в файл `.CER` в DER-кодировке `X.509` без закрытого ключа,  а в параметре настроек *Адаптера* – *Путь к сертификату* указывается путь к данному файлу. Этот файл выполняет роль ссылки для *Адаптера* на сертификат в хранилище. При обновлении сертификата в хранилище необходимо заново экспортировать новый сертификат из хранилища и обновить путь в параметре *Путь к сертификату*.
+- It is required to export the certificate from the store to the `.CER` file in the DER coding `X.509` without the private key, but in the *Adapter* settings parameter – the *Certificate path* - a path to this file is specified.  This file serves as a reference to the store certificate for the *Adapter*. While updating the store certificate, it is required to export the new certificate from the store once again and to update the path in the *Certificate path* parameter.
