@@ -874,6 +874,14 @@ Ok, corrected in 2 segments. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>В диспетчере служб IIS необходимо создать новый пул приложений, в котором будет работать &lt;x1/&gt;Loginom Adapter&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T204312Z" creationid="Марианна" creationdate="20200502T204312Z">
+        <seg>It is required to create the new application pool in the IIS service manager that will work with &lt;x1/&gt;Loginom Adapter&lt;x2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>В последнем случае путь задается относительно папки, в которой расположен файл &lt;x3/&gt;Web.config&lt;x4/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T221437Z" creationid="Марианна" creationdate="20200225T131514Z">
@@ -1452,6 +1460,14 @@ A: Actually, I removed one of the commas. Now it flows better!</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T230254Z" creationid="Марианна" creationdate="20200426T111712Z">
         <seg>is filled in by the formed SOAP package or REST message body according to the value of the &lt;x1/&gt;Message format&lt;x2/&gt; parameter/ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Запустить диспетчер служб IIS можно командой &lt;x3/&gt;inetmgr&lt;x4/&gt; через меню &lt;x5/&gt;Выполнить&lt;x6/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T204447Z" creationid="Марианна" creationdate="20200502T204447Z">
+        <seg>It is possible to launch the IIS service manager by the &lt;x3/&gt;inetmgr&lt;x4/&gt; command using the &lt;x5/&gt;Run&lt;x6/&gt; menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2478,6 +2494,14 @@ Only comma added</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T194604Z" creationid="Марианна" creationdate="20200502T194604Z">
         <seg>Processor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Пулы приложений</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T204131Z" creationid="Марианна" creationdate="20200502T204131Z">
+        <seg>Application Pools</seg>
       </tuv>
     </tu>
     <tu>
