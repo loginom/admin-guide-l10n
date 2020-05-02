@@ -441,8 +441,8 @@ OK</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Путь к сертификату&lt;x2/&gt; — при использовании шифрования указывается путь к клиентскому сертификату.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200225T131141Z" creationid="Марианна" creationdate="20200225T131141Z">
-        <seg>&lt;x1/&gt;The certificate path&lt;x2/&gt; — when using encryption, it is required to specify the path to the client certificate.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T061017Z" creationid="Марианна" creationdate="20200225T131141Z">
+        <seg>The &lt;x1/&gt;Certificate path&lt;x2/&gt; — when using encryption, it is required to specify the path to the client certificate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -787,6 +787,14 @@ Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T221611Z" creationid="Марианна" creationdate="20200206T081300Z">
         <seg>The &lt;x19/&gt;Web.config&lt;x20/&gt; file will include references to such files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>В хранилище сертификатов.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T061312Z" creationid="Марианна" creationdate="20200502T061312Z">
+        <seg>In the certificate store.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1726,8 +1734,8 @@ From now on, I will only mention the sections of text that I require a tweak.
       <tuv lang="RU">
         <seg>По пути в файловой системе, указанному в параметре &lt;x1/&gt;Путь к сертификату&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T060903Z" creationid="Марианна" creationdate="20200502T060903Z">
-        <seg>path to the file system specified to the &lt;x1/&gt;Путь к сертификату&lt;x2/&gt; parameter.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T061055Z" creationid="Марианна" creationdate="20200502T060903Z">
+        <seg>path in the file system specified to the &lt;x1/&gt;Certificate path&lt;x2/&gt; parameter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2021,8 +2029,8 @@ Only comma added</note>
       <tuv lang="RU">
         <seg>Сертификаты без закрытого ключа могут располагаться отдельным файлом по указанному в параметре &lt;x13/&gt;Путь к сертификату&lt;x14/&gt; месте файловой системы.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200324T061129Z" creationid="Марианна" creationdate="20200225T132849Z">
-        <seg>The certificates without a private key can be placed into a separate file in the file system location specified by the &lt;x13/&gt;certificate Path&lt;x14/&gt; parameter.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T060956Z" creationid="Марианна" creationdate="20200225T132849Z">
+        <seg>The certificates without a private key can be placed into a separate file in the file system location specified by the &lt;x13/&gt;Certificate path&lt;x14/&gt; parameter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2143,6 +2151,14 @@ Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200428T122438Z" creationid="Марианна" creationdate="20200428T122438Z">
         <seg>Thus, the XSD schema of the service description must contain these elements and set their (&lt;x1/&gt;tipe&lt;x2/&gt;) structure; and the &lt;x3/&gt;Adapter&lt;x4/&gt; settings must be clear enough to understand what message is described by the particular element of the imported schema. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Такой способ рекоммендуется использовать для сертификатов, не содержащих закрытый ключ.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T061151Z" creationid="Марианна" creationdate="20200502T061151Z">
+        <seg>It is recommended to use such method for the certificates that do not contain the private key.</seg>
       </tuv>
     </tu>
     <tu>
