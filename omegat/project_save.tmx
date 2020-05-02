@@ -68,6 +68,14 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>.Net Framework</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T195436Z" creationid="Марианна" creationdate="20200502T195436Z">
+        <seg>.Net Framework</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>1 Гб</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T194743Z" creationid="Марианна" creationdate="20200502T194743Z">
@@ -433,6 +441,14 @@ A: Okay</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200429T114328Z" creationid="Марианна" creationdate="20200226T105538Z">
         <seg>&lt;x1/&gt;To transfer the address in the SOAP message header &lt;x2/&gt; — the flag that shows that it is required to transfer the address in the header (the &lt;x3/&gt;Header&lt;x4/&gt; sections) of the SOAP message.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: Loginom Adapter использует в работе .Net Framework версии 3.5.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T195538Z" creationid="Марианна" creationdate="20200502T195538Z">
+        <seg>&lt;x1/&gt;Note&lt;x2/&gt;: Loginom Adapter uses .Net Framework, version 3.5 in the process of work.</seg>
       </tuv>
     </tu>
     <tu>
@@ -957,6 +973,30 @@ Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200421T110951Z" creationid="Марианна" creationdate="20200227T161543Z">
         <seg>In this regard, the parameter value is subject to the rules of naming of the XML elements under &lt;x7/&gt; W3C specification&lt;x8/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Версия 3.5</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T195446Z" creationid="Марианна" creationdate="20200502T195446Z">
+        <seg>Version 3.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Версия 7.5 и выше</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T195432Z" creationid="Марианна" creationdate="20200502T195432Z">
+        <seg>Версия 7.5 and higher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Версия не ниже 5.1</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T195414Z" creationid="Марианна" creationdate="20200502T195414Z">
+        <seg>Version 5.1 or higher</seg>
       </tuv>
     </tu>
     <tu>
