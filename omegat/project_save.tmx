@@ -60,6 +60,14 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&amp;nbsp;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T195138Z" creationid="Марианна" creationdate="20200502T195138Z">
+        <seg>&amp;nbsp;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>1 Гб</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T194743Z" creationid="Марианна" creationdate="20200502T194743Z">
@@ -692,6 +700,14 @@ Ok, corrected in 2 segments. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Microsoft IIS</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T195326Z" creationid="Марианна" creationdate="20200502T195326Z">
+        <seg>Microsoft IIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Namespace корневого элемента SOAP ответа; Namespace корневого элемента SOAP ответа</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200428T104524Z" creationid="Марианна" creationdate="20200428T104524Z">
@@ -714,6 +730,22 @@ Ok, corrected in 2 segments. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T222959Z" creationid="Марианна" creationdate="20200424T085444Z">
         <seg>The WSDL description enables to provide a clear definition of parameters of interaction with the web service, including the XML messages formats, by means of which such interaction is performed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Windows 7</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T195225Z" creationid="Марианна" creationdate="20200502T195225Z">
+        <seg>Windows 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Windows Server 2008 и выше</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T195322Z" creationid="Марианна" creationdate="20200502T195322Z">
+        <seg>Windows Server 2008 and higher</seg>
       </tuv>
     </tu>
     <tu>
@@ -1501,6 +1533,14 @@ A: I understand. Company name</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Клавиатура, мышь</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T195132Z" creationid="Марианна" creationdate="20200502T195132Z">
+        <seg>Keyboard, mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Компонент</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T194507Z" creationid="Марианна" creationdate="20200502T194507Z">
@@ -1768,6 +1808,14 @@ A: Okay</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Обязательное программное обеспечение</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T195159Z" creationid="Марианна" creationdate="20200502T195159Z">
+        <seg>Compulsory software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Обязательный параметр.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200225T125544Z" creationid="Марианна" creationdate="20200225T125351Z">
@@ -1780,6 +1828,14 @@ A: Okay</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T194712Z" creationid="Марианна" creationdate="20200502T194712Z">
         <seg>Immediate-access store</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Операционная система</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T195219Z" creationid="Марианна" creationdate="20200502T195219Z">
+        <seg>Operating system</seg>
       </tuv>
     </tu>
     <tu>
