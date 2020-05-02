@@ -668,6 +668,7 @@ Ok, corrected in 2 segments. </note>
       </tuv>
     </tu>
     <tu>
+      <note>A: The algorithm of actions at the stage of the response receipt from the external service is shown in </note>
       <tuv lang="RU">
         <seg>Алгоритм действий на этапе получения ответа от внешнего сервиса представлен на рисунке 10.</seg>
       </tuv>
@@ -745,6 +746,7 @@ Ok, the XML elements. Corrected everywhere.
       </tuv>
     </tu>
     <tu>
+      <note>A: In the case of the REST service, the response content is the message body (Entity Body) HTTP/HTTPS of the received package. </note>
       <tuv lang="RU">
         <seg>В случае с REST-сервисом содержимым ответа является тело сообщения (&lt;x1/&gt;Entity Body&lt;x2/&gt;) HTTP/HTTPS полученного пакета.</seg>
       </tuv>
@@ -753,6 +755,7 @@ Ok, the XML elements. Corrected everywhere.
       </tuv>
     </tu>
     <tu>
+      <note>A: In case of the SOAP service content, of the Bodynode of the SOAP package is selected.</note>
       <tuv lang="RU">
         <seg>В случае с SOAP-сервисом выделяется содержание узла &lt;x3/&gt;Body&lt;x4/&gt; SOAP-пакета.</seg>
       </tuv>
@@ -1906,6 +1909,7 @@ Only comma added</note>
       </tuv>
     </tu>
     <tu>
+      <note>A: In case of a response receipt from the external service, the succession of the transformation stages is reversed. </note>
       <tuv lang="RU">
         <seg>При получении ответа от внешнего сервиса последовательность этапов преобразования становится обратной.</seg>
       </tuv>
