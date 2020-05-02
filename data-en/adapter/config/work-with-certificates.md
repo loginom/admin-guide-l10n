@@ -4,7 +4,7 @@ Procedure of the certificate receipt and usage for each external web service (fo
 
 The certificates used for the *Adapter* operation can be kept using the following path:
 
-- path in the file system specified to the *Certificate path* parameter. It is recommended to use such method for the certificates that do not contain the private key.
+- path in the file system specified in the *Certificate path* parameter. It is recommended to use such method for the certificates that do not contain the private key.
 - In the certificate store.
 
 When using the store, it is required to meet the following conditions:
