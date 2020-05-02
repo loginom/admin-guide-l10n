@@ -748,6 +748,14 @@ Ok, corrected in 2 segments. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>NET&lt;x10/&gt;, установить &lt;x11/&gt;режим управляемого конвейера&lt;x12/&gt; — встроенный.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T205107Z" creationid="Марианна" creationdate="20200502T205107Z">
+        <seg>NET&lt;x10/&gt;, to set the &lt;x11/&gt;controlled conveyer mode&lt;x12/&gt; — embedded.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Namespace корневого элемента SOAP ответа; Namespace корневого элемента SOAP ответа</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200428T104524Z" creationid="Марианна" creationdate="20200428T104524Z">
@@ -886,6 +894,14 @@ Ok, corrected in 2 segments. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T221437Z" creationid="Марианна" creationdate="20200225T131514Z">
         <seg>In the latter case, the path is specified to the folder in which the &lt;x3/&gt;Web.config&lt;x4/&gt; file is located.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>В появившемся окне &lt;x1/&gt;Добавление пула приложений&lt;x2/&gt; необходимо задать значения параметров: &lt;x3/&gt;имя&lt;x4/&gt; пула для &lt;x5/&gt;Адаптера&lt;x6/&gt;, например, &lt;x7/&gt;LoginomAdapterAppPool&lt;x8/&gt;, указать &lt;x9/&gt;версию среды CLR.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T204952Z" creationid="Марианна" creationdate="20200502T204952Z">
+        <seg>In the appeared &lt;x1/&gt;Application Pool Addition&lt;x2/&gt; window it is required to set the values of the following parameters: the pool &lt;x3/&gt;name&lt;x4/&gt; for the &lt;x5/&gt;Adapter&lt;x6/&gt;, for example, &lt;x7/&gt;LoginomAdapterAppPool&lt;x8/&gt;, to specify &lt;x9/&gt;CLR environment version.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2296,8 +2312,8 @@ From now on, I will only mention the sections of text that I require a tweak.
       <tuv lang="RU">
         <seg>После этого появится окно &lt;x1/&gt;Диспетчера служб IIS&lt;x2/&gt;, в котором необходимо создать новый пул приложений.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T204539Z" creationid="Марианна" creationdate="20200502T204539Z">
-        <seg>Then the &lt;x1/&gt; IIS service manager &lt;x2/&gt; window will appaer, it is required to creat a new application pool in it.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T204800Z" creationid="Марианна" creationdate="20200502T204539Z">
+        <seg>Then the &lt;x1/&gt; IIS service manager &lt;x2/&gt; window will appear, it is required to creat a new application pool in it.</seg>
       </tuv>
     </tu>
     <tu>
