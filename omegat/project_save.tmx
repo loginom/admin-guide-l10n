@@ -2294,6 +2294,14 @@ From now on, I will only mention the sections of text that I require a tweak.
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>После этого появится окно &lt;x1/&gt;Диспетчера служб IIS&lt;x2/&gt;, в котором необходимо создать новый пул приложений.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T204539Z" creationid="Марианна" creationdate="20200502T204539Z">
+        <seg>Then the &lt;x1/&gt; IIS service manager &lt;x2/&gt; window will appaer, it is required to creat a new application pool in it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Последующие запросы к &lt;x7/&gt;Адаптеру&lt;x8/&gt; будут выполнены с учетом новых настроек.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T220031Z" creationid="Марианна" creationdate="20200203T073932Z">
@@ -2893,6 +2901,14 @@ A: Okay, I see that now</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T223314Z" creationid="Марианна" creationdate="20200426T101412Z">
         <seg>These stage execution rules are also applied in case of transformation of the service responses by the OS command with an application of the following parameters: &lt;x1/&gt;The response file source name&lt;x2/&gt;, &lt;x3/&gt;The resulting name of the response file&lt;x4/&gt;, &lt;x5/&gt;The response file processing command&lt;x6/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Это можно сделать через пункт &lt;x3/&gt;Добавить пул приложений…&lt;x4/&gt; (&lt;x5/&gt;Add Application Pool…&lt;x6/&gt;) в контекстном меню элемента &lt;x7/&gt;Пулы приложений&lt;x8/&gt; (&lt;x9/&gt;Application Pools&lt;x10/&gt;).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T204723Z" creationid="Марианна" creationdate="20200502T204723Z">
+        <seg>It is possible to do using the &lt;x3/&gt;Add Application Pool…&lt;x4/&gt; (&lt;x5/&gt;Add Application Pool…&lt;x6/&gt;) item in the context menu of the &lt;x7/&gt;Application Pools&lt;x8/&gt; (&lt;x9/&gt;Application Pools&lt;x10/&gt;) element.</seg>
       </tuv>
     </tu>
     <tu>
