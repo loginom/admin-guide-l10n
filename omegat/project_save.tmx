@@ -1458,8 +1458,8 @@ A: Actually, I removed one of the commas. Now it flows better!</note>
       <tuv lang="RU">
         <seg>Запустить инсталлятор продукта, нажать кнопку &lt;x1/&gt;"Удалить"&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T202746Z" creationid="Марианна" creationdate="20200502T202746Z">
-        <seg>To launch the product installer having pressed the &lt;x1/&gt;"Deinstall"&lt;x2/&gt; button.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T203610Z" creationid="Марианна" creationdate="20200502T202746Z">
+        <seg>To launch the product installer having pressed the &lt;x1/&gt;"Deinstall"&lt;x2/&gt; button</seg>
       </tuv>
     </tu>
     <tu>
