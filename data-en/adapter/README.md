@@ -22,7 +22,7 @@ The *Adapter* is an intermediate web service between the workflow executed in Lo
 | Hard disk drive | 10 GB | 500 GB |
 | Management | Keyboard, mouse | &nbsp; |
 
-### Compulsory software
+### Compulsory Software
 
 | Component | Minimum | Recommended |
 |:--- |:---|:--- |
@@ -34,7 +34,7 @@ The *Adapter* is an intermediate web service between the workflow executed in Lo
 
 Availability of some IIS and .Net Framework components is required for the  *Adapter* operation. The detailed description is provided in the [Installation](.\setup\README.md) section.
 
-### Optional software
+### Optional Software
 
 The external cryptography service providers (Cryptography Service Provider, CSP) and Java Runtime Environment (JRE) can be used for the work with some web services. In such cases, these components must be installed with the *Adapter*.
 
