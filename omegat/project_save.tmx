@@ -1885,6 +1885,7 @@ Only comma added</note>
       </tuv>
     </tu>
     <tu>
+      <note>A: The files will be placed into the folder with Web.config in case of full path absence.</note>
       <tuv lang="RU">
         <seg>При отсутствии полного пути файлы будут располагаться в папке с &lt;x9/&gt;Web.config&lt;x10/&gt;.</seg>
       </tuv>
@@ -2077,6 +2078,7 @@ Only comma added</note>
       </tuv>
     </tu>
     <tu>
+      <note>A: The output file content is then transferred to the next processing stage.</note>
       <tuv lang="RU">
         <seg>Содержание выходного файла передается на следующий этап обработки.</seg>
       </tuv>
