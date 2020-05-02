@@ -1080,6 +1080,7 @@ A: Actually, I removed one of the commas. Now it flows better!</note>
       </tuv>
     </tu>
     <tu>
+      <note>A: If The request file processing command parameter is not specified, then the OS command processing stage is not executed.</note>
       <tuv lang="RU">
         <seg>Если параметр &lt;x7/&gt;Команда обработки файла запроса&lt;x8/&gt; не задан, то этап обработки &lt;x9/&gt;Команда OC&lt;x10/&gt; не выполняется.</seg>
       </tuv>
@@ -1225,6 +1226,7 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>A: The value of the soap and soap12 parameters are set according to the SOAP message format in Specifications 1.1 and 1.2 correspondingly. </note>
       <tuv lang="RU">
         <seg>Значения &lt;x5/&gt;soap&lt;x6/&gt; и &lt;x7/&gt;soap12&lt;x8/&gt; параметра задают формат SOAP-сообщения в спецификациях 1.1 и 1.2 соответственно.</seg>
       </tuv>
@@ -1438,6 +1440,7 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>A: At the next stage, the request received in the result of the previous transformations in case of the REST request formation is placed into the HTTP/HTTPS package body (Entity Body) sent to the external service. In case of the SOAP request, it is placed into the Body node of the SOAP package.</note>
       <tuv lang="RU">
         <seg>На следующем этапе полученный в результате предыдущих преобразований запрос в случае формирования REST-запроса помещается в тело HTTP/HTTPS пакета (&lt;x11/&gt;Entity Body&lt;x12/&gt;), отправляемого внешнему сервису, в случае SOAP-запроса – помещается внутрь узла &lt;x13/&gt;Body&lt;x14/&gt; SOAP-пакета.</seg>
       </tuv>
@@ -1470,6 +1473,7 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>A: For example, based on the "%guid%_reg.xml" template a randomly generated GUID will be inserted into the file name instead of %guid%.</note>
       <tuv lang="RU">
         <seg>Например, на основе шаблона &lt;x3/&gt;"%guid%_reg.xml"&lt;x4/&gt; вместо &lt;x5/&gt;%guid%&lt;x6/&gt; в имя файла будет подставлен случайно сгенерированный GUID.</seg>
       </tuv>
@@ -2192,6 +2196,7 @@ Done</note>
       </tuv>
     </tu>
     <tu>
+      <note>A: Type of sent request (REST or SOAP) is determined by the Message format parameter.</note>
       <tuv lang="RU">
         <seg>Тип отправляемого запроса (REST или SOAP) определяется параметром &lt;x1/&gt;Формат сообщения&lt;x2/&gt;.</seg>
       </tuv>
