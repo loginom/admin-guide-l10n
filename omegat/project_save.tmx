@@ -948,8 +948,8 @@ Ok, the XML elements. Corrected everywhere.
       <tuv lang="RU">
         <seg>В таких случаях эти компоненты должны быть установлены на ПК вместе с &lt;x1/&gt;Адаптером&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T200132Z" creationid="Марианна" creationdate="20200502T200132Z">
-        <seg>In such cases these components must be installed with the &lt;x1/&gt;Adapter&lt;x2/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T201422Z" creationid="Марианна" creationdate="20200502T200132Z">
+        <seg>In such cases, these components must be installed with the &lt;x1/&gt;Adapter&lt;x2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2256,8 +2256,8 @@ From now on, I will only mention the sections of text that I require a tweak.
       <tuv lang="RU">
         <seg>Преобразует полученный ответ и в формате SOAP возвращает его сценарию Loginom.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T194251Z" creationid="Марианна" creationdate="20200502T194251Z">
-        <seg>Transfroms the received response and returns it to the Loginom workflow in the SOAP format.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T201416Z" creationid="Марианна" creationdate="20200502T194251Z">
+        <seg>Transforms the received response and returns it to the Loginom workflow in the SOAP format.</seg>
       </tuv>
     </tu>
     <tu>
