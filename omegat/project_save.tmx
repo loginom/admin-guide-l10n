@@ -1788,8 +1788,8 @@ From now on, I will only mention the sections of text that I require a tweak.
       <tuv lang="RU">
         <seg>По пути в файловой системе, указанному в параметре &lt;x1/&gt;Путь к сертификату&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T065421Z" creationid="Марианна" creationdate="20200502T060903Z">
-        <seg>path in the file system specified in the &lt;x1/&gt;Certificate path&lt;x2/&gt; parameter.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T070001Z" creationid="Марианна" creationdate="20200502T060903Z">
+        <seg>the path in the file system specified in the &lt;x1/&gt;Certificate path&lt;x2/&gt; parameter.</seg>
       </tuv>
     </tu>
     <tu>
