@@ -620,6 +620,14 @@ Ok, corrected in 2 segments. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Loginom Adapter</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T193849Z" creationid="Марианна" creationdate="20200502T193849Z">
+        <seg>Loginom Adapter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Loginom Adapter Configurator</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200203T072328Z" creationid="Марианна" creationdate="20200203T072328Z">
@@ -1922,6 +1930,14 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T220031Z" creationid="Марианна" creationdate="20200203T073932Z">
         <seg>Subsequent requests to the &lt;x7/&gt;Adapter&lt;x8/&gt; will be executed, taking into account the new settings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Преобразует полученный из сценария Loginom SOAP-запрос к формату запроса внешнего веб-сервиса;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T194020Z" creationid="Марианна" creationdate="20200502T194020Z">
+        <seg>Transforms the SOAP request received from the Loginom workflow to the request format of the external web service;</seg>
       </tuv>
     </tu>
     <tu>
