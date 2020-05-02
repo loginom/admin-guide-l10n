@@ -1271,6 +1271,14 @@ Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Используемые в работе &lt;x1/&gt;Адаптера&lt;x2/&gt; сертификаты могут хранится:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T060833Z" creationid="Марианна" creationdate="20200502T060833Z">
+        <seg>The certificates used for the &lt;x1/&gt;Adapter&lt;x2/&gt; operation can be kept using the following path:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Используемые для заполнения параметры &lt;x1/&gt;Конфигуратора&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200426T111120Z" creationid="Марианна" creationdate="20200426T111120Z">
@@ -1712,6 +1720,14 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T224140Z" creationid="Марианна" creationdate="20200427T140003Z">
         <seg>On the expiration of the timeout period and if there is no response from the external service the exception is formed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>По пути в файловой системе, указанному в параметре &lt;x1/&gt;Путь к сертификату&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T060903Z" creationid="Марианна" creationdate="20200502T060903Z">
+        <seg>path to the file system specified to the &lt;x1/&gt;Путь к сертификату&lt;x2/&gt; parameter.</seg>
       </tuv>
     </tu>
     <tu>
