@@ -684,6 +684,14 @@ Ok, corrected in 2 segments. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Cryptography Service Provider (CSP)</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T200146Z" creationid="Марианна" creationdate="20200502T200146Z">
+        <seg>Cryptography Service Provider (CSP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Intel Core 2 Duo</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T194609Z" creationid="Марианна" creationdate="20200502T194609Z">
@@ -918,6 +926,14 @@ Ok, the XML elements. Corrected everywhere.
       </tuv>
       <tuv lang="EN" changeid="dell" changedate="20200502T062651Z" creationid="Марианна" creationdate="20200426T095002Z">
         <seg>If the values of &lt;x1/&gt;The request file source name&lt;x2/&gt; and &lt;x3/&gt;The resulting name of the request fileа&lt;x4/&gt; parameters are not specified, the files names will be generated according to randomly generated GUID (Globally Unique Identifier) without extension. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>В таких случаях эти компоненты должны быть установлены на ПК вместе с &lt;x1/&gt;Адаптером&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T200132Z" creationid="Марианна" creationdate="20200502T200132Z">
+        <seg>In such cases these components must be installed with the &lt;x1/&gt;Adapter&lt;x2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1219,6 +1235,14 @@ A: Slight typo here. I had "connection" in the Plural.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Для работы с некоторыми веб-сервисами могут использоваться сторонние криптопровайдеры (Cryptography Service Provider, CSP) и Java Runtime Environment (JRE).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T200142Z" creationid="Марианна" creationdate="20200502T200041Z">
+        <seg>The external cryptography service providers (Cryptography Service Provider, CSP) and Java Runtime Environment (JRE) can be used for the work with some web services.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Для решения этой задачи предназначен Loginom Adapter (далее, &lt;x3/&gt;Адаптер&lt;x4/&gt;).</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T193340Z" creationid="Марианна" creationdate="20200502T193340Z">
@@ -1231,6 +1255,14 @@ A: Slight typo here. I had "connection" in the Plural.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200311T140505Z" creationid="Марианна" creationdate="20200226T102609Z">
         <seg>&lt;x17/&gt;none&lt;x18/&gt; value is specified for such certificates in the &lt;x15/&gt;Certificate store&lt;x16/&gt; parameter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Для шифровании данных при интеграции с внешними веб-сервисами используются криптопровайдеры, например, Signal-COM CSP или CryptoPro CSP.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T200308Z" creationid="Марианна" creationdate="20200502T200308Z">
+        <seg>Such cryptography service providers as Signal-COM CSP or CryptoPro CSP are used for data encryption in case of integration with the external web services.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1943,6 +1975,14 @@ Settled in correspondence)
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200304T070444Z" creationid="Марианна" creationdate="20200304T070444Z">
         <seg>It defines the called method of the external SOAP service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Опциональное программное обеспечение</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T195931Z" creationid="Марианна" creationdate="20200502T195931Z">
+        <seg>Optional software</seg>
       </tuv>
     </tu>
     <tu>
