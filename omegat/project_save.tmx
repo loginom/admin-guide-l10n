@@ -898,6 +898,14 @@ Ok, corrected in 2 segments. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>В открывшемся окне для параметра &lt;x5/&gt;Удостоверение&lt;x6/&gt; (&lt;x7/&gt;Identity&lt;x8/&gt;) задаем предварительно созданную особую учетную запись пула приложений, обладающую &lt;x9/&gt;необходимыми правами&lt;x10/&gt; для работы &lt;x11/&gt;Адаптера&lt;x12/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T205933Z" creationid="Марианна" creationdate="20200502T205933Z">
+        <seg>In the opened window for the &lt;x5/&gt;Identity&lt;x6/&gt; (&lt;x7/&gt;Identity&lt;x8/&gt;) parameter it is required to set the pre-created special login account of the application pool with the &lt;x9/&gt;required rights&lt;x10/&gt; essentioal for the &lt;x11/&gt;Adapter&lt;x12/&gt; operation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>В последнем случае путь задается относительно папки, в которой расположен файл &lt;x3/&gt;Web.config&lt;x4/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T221437Z" creationid="Марианна" creationdate="20200225T131514Z">
