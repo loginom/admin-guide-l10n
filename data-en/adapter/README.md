@@ -1,49 +1,49 @@
 # Loginom Adapter
 
-В аналитической платформе Loginom имеются [компоненты интеграции с SOAP и REST сервисами](https://help.loginom.ru/userguide/integration/web-services/), которые реализуют наиболее распространенные варианты взаимодействия с веб-сервисами. Но некоторые веб-сервисы, например, БКИ используют индивидуальные протоколы и шифрование данных, при которых взаимодействовать с ними стандартными средствами Loginom невозможно. Для решения этой задачи предназначен Loginom Adapter (далее, *Адаптер*).
+There are [components of integration with the SOAP and REST services](https://help.loginom.ru/userguide/integration/web-services/) in the analytical Loginom platform that implement the most wide-spread variants of interaction with the web services. But some web services, for example, CRB, use the individual protocols and data encryption which preclude from interaction using the standard Loginom means. Loginom Adapter enables to solve this problem (hereafter referred to as the *Adapter*).
 
-*Адаптер* представляет собой промежуточный веб-сервис между реализованным в Loginom сценарием и внешними веб-сервисами. Взаимодействие с *Адаптером* из сценария Loginom происходит по стандартному SOAP-протоколу при помощи узла [Вызов веб-сервиса](https://help.loginom.ru/userguide/processors/integration/calling-web-service.html). В свою очередь *Адаптер*:
+The *Adapter* is an intermediate web service between the workflow executed in Loginom and the external web services. Interaction with the *Adapter* from the Loginom workflow is performed according to the standard SOAP protocol using the [Web service invocation](https://help.loginom.ru/userguide/processors/integration/calling-web-service.html) node. In return the *Adapter performs the following tasks:*:
 
-- Преобразует полученный из сценария Loginom SOAP-запрос к формату запроса внешнего веб-сервиса;
-- Направляет преобразованный запрос во внешний веб-сервис;
-- Получает ответ внешнего веб-сервиса;
-- Преобразует полученный ответ и в формате SOAP возвращает его сценарию Loginom.
+- Transforms the SOAP request received from the Loginom workflow to the request format of the external web service;
+- Sends the transformed request to the external web service;
+- Receives the response of the external web service;
+- Transfroms the received response and returns it to the Loginom workflow in the SOAP format.
 
-![Рисунок 1. Типичная схема взаимодействия компонентов системы с использованием Адаптера](component_interaction_scheme.png)
+![Figure 1. Typical scheme of interaction of the system components using the Adapter](component_interaction_scheme.png)
 
-## Системные требования
+## System Requirements
 
-### Аппаратное обеспечение
+### Hardware
 
-| Компонент | Минимальные | Рекомендуемые |
+| Component | Minimum | Recommended |
 |:--- |:---|:--- |
-| Процессор | Intel Core 2 Duo | Intel Xeon |
-| Оперативная память | 1 Гб | 8 Гб |
-| Жесткий диск | 10 Гб | 500 Гб |
-| Управление | Клавиатура, мышь | &nbsp; |
+| Processor | Intel Core 2 Duo | Intel Xeon |
+| Immediate-access store | 1 GB | 8 GB |
+| Hard disk drive | 10 GB | 500 GB |
+| Management | Keyboard, mouse | &nbsp; |
 
-### Обязательное программное обеспечение
+### Compulsory software
 
-| Компонент | Минимальные | Рекомендуемые |
+| Component | Minimum | Recommended |
 |:--- |:---|:--- |
-| Операционная система | Windows 7 | Windows Server 2008 и выше |
-| Microsoft IIS | Версия не ниже 5.1 | Версия 7.5 и выше |
-| .Net Framework | Версия 3.5 | &nbsp; |
+| Operating system | Windows 7 | Windows Server 2008 and higher |
+| Microsoft IIS | Version 5.1 or higher | Версия 7.5 and higher |
+| .Net Framework | Version 3.5 | &nbsp; |
 
-> **Примечание**: Loginom Adapter использует в работе .Net Framework версии 3.5. Практика использования программы показывает, что возможна совместимость с .Net Framework версии 4.5.
+> **Note**: Loginom Adapter uses .Net Framework, version 3.5 in the process of work. The evidence from application usage practice shows that compatibility with.Net Framework, version 4.5 is possible.
 
-Для работы *Адаптера* требуется наличие ряда компонентов IIS и .Net Framework. Подробное описание см. в разделе [Установка](.\setup\README.md).
+Availability of some IIS and .Net Framework components is required for the  *Adapter* operation. The detailed description is provided in the [Installation](.\setup\README.md) section.
 
-### Опциональное программное обеспечение
+### Optional software
 
-Для работы с некоторыми веб-сервисами могут использоваться сторонние криптопровайдеры (Cryptography Service Provider, CSP) и Java Runtime Environment (JRE). В таких случаях эти компоненты должны быть установлены на ПК вместе с *Адаптером*.
+The external cryptography service providers (Cryptography Service Provider, CSP) and Java Runtime Environment (JRE) can be used for the work with some web services. In such cases these components must be installed with the *Adapter*.
 
 #### Cryptography Service Provider (CSP)
 
-Для шифровании данных при интеграции с внешними веб-сервисами используются криптопровайдеры, например, Signal-COM CSP или CryptoPro CSP. Выбор криптопровайдера и его версии диктуется требованиями поддержки в нем необходимых для взаимодействия с конкретным веб-сервисом алгоритмов шифрования.
+Such cryptography service providers as Signal-COM CSP or CryptoPro CSP are used for data encryption in case of integration with the external web services. Selection of cryptography service provider and its version is stipulated by support of the definite encryption algorithms required for interaction with the particular web services.
 
-Для работы с тем или иным веб-сервисом с применением шифрования потребуются соответствующие сертификаты.
+Corresponding certificates will be required for usage of these or that web service with encryption.
 
 #### Java Runtime Environment (JRE)
 
-Java Runtime Environment (JRE) версии не ниже 6 — обязательное требование для подключения к сервисам [Национальный Хантер](https://bki-okb.ru/corp/services/national-hunter) и [Equifax FPS](https://www.equifax.ru).
+Java Runtime Environment (JRE) version 6 or higher is a mandatory requirement for connection to the [National Hunter](https://bki-okb.ru/corp/services/national-hunter) and [Equifax FPS](https://www.equifax.ru) services.

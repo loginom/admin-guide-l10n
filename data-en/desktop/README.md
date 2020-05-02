@@ -6,11 +6,11 @@
 
 Компонент Desktop входит в редакцию редакцию платформы Loginom Personal.
 
-## Системные требования
+## System Requirements
 
 ### Personal x86
 
-| Компонент | Минимальные | Рекомендуемые |
+| Component | Minimum | Recommended |
 |:--------- |:-------------|:------------- |
 | OS | Windows 7 и выше | |
 | CPU x86 | 1 core | 4 core |
@@ -22,7 +22,7 @@
 
 ### Personal x64
 
-| Компонент | Минимальные | Рекомендуемые |
+| Component | Minimum | Recommended |
 |:--------- |:-------------|:------------- |
 | OS | Windows 7 и выше | |
 | CPU x64 | 2 core | 4 core |
