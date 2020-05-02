@@ -2745,8 +2745,8 @@ Done</note>
       <tuv lang="RU">
         <seg>Удалить приложение из окна "Программы и компоненты" в Windows;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T202647Z" creationid="Марианна" creationdate="20200502T202647Z">
-        <seg>To deinstall the application from the "Applications and components" window in Windows</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T203748Z" creationid="Марианна" creationdate="20200502T202647Z">
+        <seg>To deinstall the application from the "Applications and Components" window in Windows</seg>
       </tuv>
     </tu>
     <tu>
