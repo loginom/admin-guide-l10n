@@ -453,6 +453,14 @@ A: Okay</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: в случае, когда &lt;x3/&gt;Loginom Integrator&lt;x4/&gt; и &lt;x5/&gt;Loginom Adapter&lt;x6/&gt; используются на одном сервере IIS, у них должны быть заданы разные пулы приложений.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T205214Z" creationid="Марианна" creationdate="20200502T205214Z">
+        <seg>&lt;x1/&gt;Note&lt;x2/&gt;: when &lt;x3/&gt;Loginom Integrator&lt;x4/&gt; and &lt;x5/&gt;Loginom Adapter&lt;x6/&gt; are used on one IIS server, different application pools must be set for them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: в случае, когда клиентский сертификат находится в хранилище, обязательна процедура экспорта из хранилища в файл &lt;x3/&gt;.CER&lt;x4/&gt; в DER-кодировке &lt;x5/&gt;X.509&lt;x6/&gt; и указания пути к этому файлу в параметре &lt;x7/&gt;Путь к сертификату&lt;x8/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200311T140940Z" creationid="Марианна" creationdate="20200226T103403Z">
@@ -1295,6 +1303,14 @@ A: Slight typo here. I had "connection" in the Plural.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T224918Z" creationid="Марианна" creationdate="20200424T101428Z">
         <seg>The &lt;x1/&gt;ded:Cheques&lt;x2/&gt; node will be selected for the provided example from the SOAP package, and the further transformation at the next stages will be performed with the XML text:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Для просмотра/изменения списка приложений нужно выбрать &lt;x1/&gt;Посмотреть приложения&lt;x2/&gt; из контекстного меню выбранного пула.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T205352Z" creationid="Марианна" creationdate="20200502T205352Z">
+        <seg>To view/change the application list it is required to select &lt;x1/&gt;View applications&lt;x2/&gt; in the context menu of the selected pool.</seg>
       </tuv>
     </tu>
     <tu>
