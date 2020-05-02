@@ -2686,6 +2686,14 @@ Done</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Также следует удалить созданный специально для &lt;x9/&gt;Адаптера&lt;x10/&gt; пул приложения.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T203553Z" creationid="Марианна" creationdate="20200502T203553Z">
+        <seg>It is also required to delete the application pool created specially for the &lt;x9/&gt;Adapter&lt;x10/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Таким образом, XSD-схема описания сервиса должна содержать эти элементы и задавать их структуру (&lt;x1/&gt;tipe&lt;x2/&gt;), а из настроек &lt;x3/&gt;Адаптера&lt;x4/&gt; должно быть понятно, какое именно сообщение описывается определенным элементом импортируемой схемы.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200428T122438Z" creationid="Марианна" creationdate="20200428T122438Z">
