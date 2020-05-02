@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2102,8 +2102,8 @@ Only comma added</note>
       <tuv lang="RU">
         <seg>Структура (&lt;x5/&gt;tipe&lt;x6/&gt;) входящего сообщения (запроса) метода &lt;x7/&gt;Cheques&lt;x8/&gt; сервиса &lt;x9/&gt;DIS_stend-sup-29&lt;x10/&gt; в узле &lt;x11/&gt;&lt;wsdl:message name="DIS_stend-sup-29_Cheques_InputMessage"&gt;&lt;x12/&gt; задается определяемым в этой схеме элементом &lt;x13/&gt;Cheques&lt;x14/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200430T231819Z" creationid="Марианна" creationdate="20200428T121815Z">
-        <seg>(&lt;x5/&gt;tipe&lt;x6/&gt;) structure of the incoming message (request) of &lt;x7/&gt;Cheques&lt;x8/&gt; method of &lt;x9/&gt;DIS_stend-sup-29&lt;x10/&gt; service in the &lt;x11/&gt;&lt;wsdl:message name="DIS_stend-sup-29_Cheques_InputMessage"&gt;&lt;x12/&gt; node is set by the &lt;x13/&gt;Cheques&lt;x14/&gt; element defined in this schema.</seg>
+      <tuv lang="EN" changeid="dell" changedate="20200502T061308Z" creationid="Марианна" creationdate="20200428T121815Z">
+        <seg>(&lt;x5/&gt;tipe&lt;x6/&gt;) structure of the incoming message (request) of &lt;x7/&gt;Cheques&lt;x8/&gt; method of &lt;x9/&gt;DIS_stend-sup-29&lt;x10/&gt; service in the &lt;x11/&gt;&lt;wsdl:message name="DIS_stend-sup-29_Cheques_InputMessage"&gt;&lt;x12/&gt; node is set by the &lt;x13/&gt;Cheques&lt;x14/&gt; element defined in this schema. </seg>
       </tuv>
     </tu>
     <tu>
