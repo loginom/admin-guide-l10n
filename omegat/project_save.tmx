@@ -905,6 +905,7 @@ Done</note>
       </tuv>
     </tu>
     <tu>
+      <note>A: This schema enables the defining of the XML structure of responses and the requests of all methods of each service described in the web.config configuration file, and it is imported to WSDL in the &lt;wsdl:types&gt; section.</note>
       <tuv lang="RU">
         <seg>Данная схема определяет XML-структуру ответов и запросов всех методов каждого сервиса, описанного в файле конфигурации &lt;x3/&gt;web.config&lt;x4/&gt;, и импортируется в WSDL в разделе &lt;x5/&gt;&lt;wsdl:types&gt;&lt;x6/&gt;.</seg>
       </tuv>
@@ -1480,6 +1481,7 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>A: For example, values of The web service name parameter forms the unique names of the &lt;wsdl:portType&gt; elements describing the services represented by the Adapter web service, and values of the Method name in the Loginom Adapter parameter form the unique names of the &lt;wsdl:operation&gt; elements describing methods of these services.</note>
       <tuv lang="RU">
         <seg>Например, значения параметров &lt;x7/&gt;Имя веб-сервиса&lt;x8/&gt; формируют уникальные имена элементов &lt;x9/&gt;&lt;wsdl:portType&gt;&lt;x10/&gt;, описывающих сервисы, предоставляемые веб-сервисом &lt;x11/&gt;Адаптера&lt;x12/&gt;, а значения параметров &lt;x13/&gt;Имя метода в Loginom Adapter&lt;x14/&gt; формируют уникальные имена элементов &lt;x15/&gt;&lt;wsdl:operation&gt;&lt;x16/&gt;, описывающих методы этих сервисов.</seg>
       </tuv>
@@ -1635,6 +1637,7 @@ Settled in correspondence)
       </tuv>
     </tu>
     <tu>
+      <note>A: Definitions of all requests and response messages are provided by the separate elements of the imported schema, and they are represented by the WSDL nodes &lt;wsdl:message&gt;.</note>
       <tuv lang="RU">
         <seg>Определения всех сообщений запросов и ответов описываются отдельными элементами импортируемой схемы, и представлены узлами WSDL &lt;x7/&gt;&lt;wsdl:message&gt;&lt;x8/&gt;.</seg>
       </tuv>
@@ -1977,6 +1980,7 @@ Only comma added</note>
       </tuv>
     </tu>
     <tu>
+      <note>A: Here is an example of the XSD schema import of the service description in the &lt;wsdl:types&gt; WSDL section and descriptions of the message formats based on the imported schema in the &lt;wsdl:message&gt; nodes: </note>
       <tuv lang="RU">
         <seg>Пример импорта XSD-схемы описания сервиса в разделе WSDL &lt;x1/&gt;&lt;wsdl:types&gt;&lt;x2/&gt; и описания форматов сообщений на основе импортированной схемы в узлах &lt;x3/&gt;&lt;wsdl:message&gt;&lt;x4/&gt;:</seg>
       </tuv>
@@ -2187,6 +2191,7 @@ Done</note>
       </tuv>
     </tu>
     <tu>
+      <note>A: The compulsory configuration component also participates in the WSDL formation process – the XSD schema of the service description; a path to it is specified in The schema to which the service description will refer the parameter. </note>
       <tuv lang="RU">
         <seg>Также в формировании WSDL участвует обязательный компонент настроек – XSD-схема описания сервиса, путь к которой указывается в параметре &lt;x1/&gt;Схема, на которую будет ссылаться описание сервиса&lt;x2/&gt;.</seg>
       </tuv>
