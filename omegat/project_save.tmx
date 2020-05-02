@@ -68,6 +68,30 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>10</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T194958Z" creationid="Марианна" creationdate="20200502T194958Z">
+        <seg>10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>500</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T194950Z" creationid="Марианна" creationdate="20200502T194950Z">
+        <seg>500</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>8 Гб</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T194901Z" creationid="Марианна" creationdate="20200502T194901Z">
+        <seg>8 GB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;ContentType для передачи в заголовке&lt;x2/&gt; — значение данного параметра передается в заголовке &lt;x3/&gt;Content-Type&lt;x4/&gt; пакета сообщения к внешнему сервису.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200227T160055Z" creationid="Марианна" creationdate="20200227T160055Z">
@@ -952,6 +976,14 @@ Done</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Гб</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T194943Z" creationid="Марианна" creationdate="20200502T194943Z">
+        <seg>GB</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A: The Group of Parameters for the Web Service Role Configuration: </note>
       <tuv lang="RU">
         <seg>Группа параметров настройки роли Web-сервиса:</seg>
@@ -1211,6 +1243,14 @@ A: Actually, I removed one of the commas. Now it flows better!</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200221T073732Z" creationid="Марианна" creationdate="20200221T073732Z">
         <seg>If a parameter is not set, the logs are not saved.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Жесткий диск</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T194932Z" creationid="Марианна" creationdate="20200502T194932Z">
+        <seg>Hard disk drive</seg>
       </tuv>
     </tu>
     <tu>
@@ -2451,6 +2491,14 @@ Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T194423Z" creationid="Марианна" creationdate="20200502T194423Z">
         <seg>Typical scheme of interaction of the system components using the Adapter&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Управление</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T195106Z" creationid="Марианна" creationdate="20200502T195106Z">
+        <seg>Management</seg>
       </tuv>
     </tu>
     <tu>
