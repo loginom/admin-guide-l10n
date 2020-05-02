@@ -986,6 +986,14 @@ Ok, the XML elements. Corrected everywhere.
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>В созданном пуле приложений необходимо настроить дополнительные параметры (например, через пункт меню &lt;x1/&gt;Определить значения по умолчанию для пула приложений…&lt;x2/&gt; (&lt;x3/&gt;Set Application Pool Defaults…&lt;x4/&gt;).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T205625Z" creationid="Марианна" creationdate="20200502T205625Z">
+        <seg>It is required to configure the additional parameters (for example, using the following menu item: &lt;x1/&gt;Set Application Pool Defaults…&lt;x2/&gt; (&lt;x3/&gt;Set Application Pool Defaults…&lt;x4/&gt;) in the created application pool.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>В таких случаях эти компоненты должны быть установлены на ПК вместе с &lt;x1/&gt;Адаптером&lt;x2/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T201422Z" creationid="Марианна" creationdate="20200502T200132Z">
@@ -2103,6 +2111,14 @@ Settled in correspondence)
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T202119Z" creationid="Марианна" creationdate="20200502T195931Z">
         <seg>Optional Software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Особая учетная запись</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200502T205424Z" creationid="Марианна" creationdate="20200502T205424Z">
+        <seg>Special Login Account</seg>
       </tuv>
     </tu>
     <tu>
