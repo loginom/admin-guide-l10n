@@ -2439,6 +2439,7 @@ Only comma added</note>
       </tuv>
     </tu>
     <tu>
+      <note>While updating the store certificate, it is required to export the new certificate from the store once again, and to update the path in the Certificate path parameter.</note>
       <tuv lang="RU">
         <seg>При обновлении сертификата в хранилище необходимо заново экспортировать новый сертификат из хранилища и обновить путь в параметре &lt;x11/&gt;Путь к сертификату&lt;x12/&gt;.</seg>
       </tuv>
