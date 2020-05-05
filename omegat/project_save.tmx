@@ -444,6 +444,7 @@ A: Okay</note>
       </tuv>
     </tu>
     <tu>
+      <note>Note: Loginom Adapter uses .Net Framework, version 3.5 in the work process.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: Loginom Adapter использует в работе .Net Framework версии 3.5.</seg>
       </tuv>
