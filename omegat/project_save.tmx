@@ -1331,6 +1331,7 @@ A: Slight typo here. I had "connection" in the Plural.</note>
       </tuv>
     </tu>
     <tu>
+      <note>The availability of some IIS and .Net Framework components is required for the Adapter operation. </note>
       <tuv lang="RU">
         <seg>Для работы &lt;x1/&gt;Адаптера&lt;x2/&gt; требуется наличие ряда компонентов IIS и .Net Framework.</seg>
       </tuv>
