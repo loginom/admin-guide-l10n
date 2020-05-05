@@ -1248,6 +1248,7 @@ OK</note>
       </tuv>
     </tu>
     <tu>
+      <note>It is possible to uninstall Loginom Adapter in several ways: </note>
       <tuv lang="RU">
         <seg>Деинсталлировать Loginom Adapter можно несколькими способами:</seg>
       </tuv>
@@ -1527,6 +1528,7 @@ A: Actually, I removed one of the commas. Now it flows better!</note>
       </tuv>
     </tu>
     <tu>
+      <note>To launch the product installer having pressed the "Uninstall" button</note>
       <tuv lang="RU">
         <seg>Запустить инсталлятор продукта, нажать кнопку &lt;x1/&gt;"Удалить"&lt;x2/&gt;.</seg>
       </tuv>
@@ -2844,6 +2846,7 @@ Done</note>
       </tuv>
     </tu>
     <tu>
+      <note>Uninstalling Loginom Adapter </note>
       <tuv lang="RU">
         <seg>Удаление Loginom Adapter</seg>
       </tuv>
@@ -2852,6 +2855,7 @@ Done</note>
       </tuv>
     </tu>
     <tu>
+      <note>To uninstall the application from the "Applications and Components" window in Windows </note>
       <tuv lang="RU">
         <seg>Удалить приложение из окна "Программы и компоненты" в Windows;</seg>
       </tuv>
