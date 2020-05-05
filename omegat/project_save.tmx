@@ -1354,6 +1354,7 @@ A: Slight typo here. I had "connection" in the Plural.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Loginom Adapter provides a solution to this problem (hereafter referred to as the Adapter). </note>
       <tuv lang="RU">
         <seg>Для решения этой задачи предназначен Loginom Adapter (далее, &lt;x3/&gt;Адаптер&lt;x4/&gt;).</seg>
       </tuv>
@@ -2000,6 +2001,7 @@ A: Okay</note>
       </tuv>
     </tu>
     <tu>
+      <note>But some web services, for example, CRB, use the individual protocols and data encryption which preclude interaction using the standard Loginom means. </note>
       <tuv lang="RU">
         <seg>Но некоторые веб-сервисы, например, БКИ используют индивидуальные протоколы и шифрование данных, при которых взаимодействовать с ними стандартными средствами Loginom невозможно.</seg>
       </tuv>
