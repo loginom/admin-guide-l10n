@@ -1350,6 +1350,7 @@ A: Slight typo here. I had "connection" in the Plural.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Corresponding certificates will be required for use of a particular web service with encryption. </note>
       <tuv lang="RU">
         <seg>Для работы с тем или иным веб-сервисом с применением шифрования потребуются соответствующие сертификаты.</seg>
       </tuv>
