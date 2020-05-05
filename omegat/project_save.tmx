@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1403,6 +1403,7 @@ A: Slight typo here. I had "connection" in the Plural.</note>
       </tuv>
     </tu>
     <tu>
+      <note>It can be edited in the following snap-in: Certificates - the local computer, and can be activated using the mmc certlm.msc command.</note>
       <tuv lang="RU">
         <seg>Его редактирование доступно в оснастке &lt;x5/&gt;Сертификаты – локальный компьютер&lt;x6/&gt; и вызывается командой &lt;x7/&gt;mmc certlm.msc&lt;x8/&gt;.</seg>
       </tuv>
@@ -2797,6 +2798,7 @@ Done</note>
       </tuv>
     </tu>
     <tu>
+      <note>It is recommended to use this method for certificates that do not contain a private key.</note>
       <tuv lang="RU">
         <seg>Такой способ рекоммендуется использовать для сертификатов, не содержащих закрытый ключ.</seg>
       </tuv>
@@ -2903,6 +2905,7 @@ A: Okay, I see that now</note>
       </tuv>
     </tu>
     <tu>
+      <note>The certificate store must be available for a user who operates the Adapter application pool in IIS. </note>
       <tuv lang="RU">
         <seg>Хранилище сертификатов должно быть доступно для пользователя, из-под которого работает пул приложений &lt;x1/&gt;Адаптера&lt;x2/&gt; в IIS.</seg>
       </tuv>
