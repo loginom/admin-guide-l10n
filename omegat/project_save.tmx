@@ -890,11 +890,12 @@ Ok, corrected in 2 segments. </note>
       </tuv>
     </tu>
     <tu>
+      <note>It is required to create a new application pool in the IIS service manager that will work with the Loginom Adapter.</note>
       <tuv lang="RU">
         <seg>В диспетчере служб IIS необходимо создать новый пул приложений, в котором будет работать &lt;x1/&gt;Loginom Adapter&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T204312Z" creationid="Марианна" creationdate="20200502T204312Z">
-        <seg>It is required to create the new application pool in the IIS service manager that will work with &lt;x1/&gt;Loginom Adapter&lt;x2/&gt;.</seg>
+      <tuv lang="EN" changeid="dell" changedate="20200505T060612Z" creationid="Марианна" creationdate="20200502T204312Z">
+        <seg>It is required to create the new application pool in the IIS service manager that will work with &lt;x1/&gt;Loginom Adapter&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
