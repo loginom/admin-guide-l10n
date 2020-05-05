@@ -453,6 +453,7 @@ A: Okay</note>
       </tuv>
     </tu>
     <tu>
+      <note>Note: when Loginom Integrator and Loginom Adapter are used on the one IIS server, different application pools must be set for them. </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: в случае, когда &lt;x3/&gt;Loginom Integrator&lt;x4/&gt; и &lt;x5/&gt;Loginom Adapter&lt;x6/&gt; используются на одном сервере IIS, у них должны быть заданы разные пулы приложений.</seg>
       </tuv>
@@ -915,6 +916,7 @@ Ok, corrected in 2 segments. </note>
       </tuv>
     </tu>
     <tu>
+      <note>In the Application Pool Addition window that appears, it is required to set the values of the following parameters: the pool name for the Adapter, for example, LoginomAdapterAppPool, to specify CLR environment version. </note>
       <tuv lang="RU">
         <seg>В появившемся окне &lt;x1/&gt;Добавление пула приложений&lt;x2/&gt; необходимо задать значения параметров: &lt;x3/&gt;имя&lt;x4/&gt; пула для &lt;x5/&gt;Адаптера&lt;x6/&gt;, например, &lt;x7/&gt;LoginomAdapterAppPool&lt;x8/&gt;, указать &lt;x9/&gt;версию среды CLR.</seg>
       </tuv>
@@ -1326,6 +1328,7 @@ A: Slight typo here. I had "connection" in the Plural.</note>
       </tuv>
     </tu>
     <tu>
+      <note>To view/change the application list, it is required to select View applications in the context menu of the selected pool. </note>
       <tuv lang="RU">
         <seg>Для просмотра/изменения списка приложений нужно выбрать &lt;x1/&gt;Посмотреть приложения&lt;x2/&gt; из контекстного меню выбранного пула.</seg>
       </tuv>
