@@ -2354,6 +2354,7 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
     </tu>
     <tu>
+      <note>Then it is required to delete in IIS service manager; the earlier located Loginom Adapter site that is located by default in the sites -&gt; Default Web Site group.</note>
       <tuv lang="RU">
         <seg>После этого в &lt;x1/&gt;диспетчере служб IIS&lt;x2/&gt; необходимо удалить размещенный ранее сайт &lt;x3/&gt;Loginom Adapter&lt;x4/&gt;, который по умолчанию расположен в группе &lt;x5/&gt;сайты&lt;x6/&gt; -&gt; &lt;x7/&gt;Default Web Site&lt;x8/&gt;.</seg>
       </tuv>
