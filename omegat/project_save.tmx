@@ -1113,6 +1113,7 @@ Done</note>
       </tuv>
     </tu>
     <tu>
+      <note>Selection of cryptography service provider and its version is stipulated by support of the definite encryption algorithms required for interaction with the particular web services.</note>
       <tuv lang="RU">
         <seg>Выбор криптопровайдера и его версии диктуется требованиями поддержки в нем необходимых для взаимодействия с конкретным веб-сервисом алгоритмов шифрования.</seg>
       </tuv>
@@ -1340,6 +1341,7 @@ A: Slight typo here. I had "connection" in the Plural.</note>
       </tuv>
     </tu>
     <tu>
+      <note>The external cryptography service providers (Cryptography Service Provider, CSP) and Java Runtime Environment (JRE) can be used for work with some web services.</note>
       <tuv lang="RU">
         <seg>Для работы с некоторыми веб-сервисами могут использоваться сторонние криптопровайдеры (Cryptography Service Provider, CSP) и Java Runtime Environment (JRE).</seg>
       </tuv>
@@ -1373,6 +1375,7 @@ A: Slight typo here. I had "connection" in the Plural.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Cryptography service providers such as Signal-COM CSP or CryptoPro CSP are used for data encryption in the case of integration with the external web services.</note>
       <tuv lang="RU">
         <seg>Для шифровании данных при интеграции с внешними веб-сервисами используются криптопровайдеры, например, Signal-COM CSP или CryptoPro CSP.</seg>
       </tuv>
@@ -2298,6 +2301,7 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
     </tu>
     <tu>
+      <note>A detailed description is provided in </note>
       <tuv lang="RU">
         <seg>Подробное описание см.</seg>
       </tuv>
