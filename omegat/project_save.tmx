@@ -2364,6 +2364,7 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
     </tu>
     <tu>
+      <note>Then the ** IIS service manager ** window will appear. A new application pool needs to be created in the ** IIS service manager **.</note>
       <tuv lang="RU">
         <seg>После этого появится окно &lt;x1/&gt;Диспетчера служб IIS&lt;x2/&gt;, в котором необходимо создать новый пул приложений.</seg>
       </tuv>
@@ -2981,6 +2982,7 @@ A: Okay, I see that now</note>
       </tuv>
     </tu>
     <tu>
+      <note>This task is possible by using the Add Application Pool… (Add Application Pool…) item in the context menu of the Application Pools (Application Pools) element. </note>
       <tuv lang="RU">
         <seg>Это можно сделать через пункт &lt;x3/&gt;Добавить пул приложений…&lt;x4/&gt; (&lt;x5/&gt;Add Application Pool…&lt;x6/&gt;) в контекстном меню элемента &lt;x7/&gt;Пулы приложений&lt;x8/&gt; (&lt;x9/&gt;Application Pools&lt;x10/&gt;).</seg>
       </tuv>
