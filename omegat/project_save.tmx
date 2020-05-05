@@ -2370,6 +2370,7 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
     </tu>
     <tu>
+      <note>The evidence from application usage practice shows that compatibility with.Net Framework, version 4.5 is possible. </note>
       <tuv lang="RU">
         <seg>Практика использования программы показывает, что возможна совместимость с .Net Framework версии 4.5.</seg>
       </tuv>
