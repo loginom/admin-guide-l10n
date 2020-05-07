@@ -1551,7 +1551,7 @@ A: Actually, I removed one of the commas. Now it flows better!</note>
     </tu>
     <tu>
       <note>A: MemberCode, UserID, Password parameters, taking the values specified in the Configurator,are described in the workflow body. 
-Василий: судя по глоссарию надо писать script, а не workflow</note>
+Vasiliy: судя по глоссарию надо писать script, а не workflow</note>
       <tuv lang="RU">
         <seg>Здесь в теле скрипта описаны параметры &lt;x1/&gt;MemberCode&lt;x2/&gt;, &lt;x3/&gt;UserID&lt;x4/&gt;, &lt;x5/&gt;Password&lt;x6/&gt;, принимающие значения, заданные в &lt;x7/&gt;Конфигураторе&lt;x8/&gt;.</seg>
       </tuv>
