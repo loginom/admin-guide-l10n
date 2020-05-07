@@ -3021,7 +3021,8 @@ A: Okay, I see that now</note>
       </tuv>
     </tu>
     <tu>
-      <note>A: Being an intermediate web service, the Adapter serves both as a client concerning the external service (for example, concerning the Credit Reference Bureau – CRB), and the SOAP web service, with regard to Loginom workflow (or any other outside information user). </note>
+      <note>A: Being an intermediate web service, the Adapter serves both as a client concerning the external service (for example, concerning the Credit Reference Bureau – CRB), and the SOAP web service, with regard to Loginom workflow (or any other outside information user). 
+Vasiliy: Судя по английской википедии, нужно писать просто Credit bureau, но могу ошибаться</note>
       <tuv lang="RU">
         <seg>Являясь промежуточным веб-сервисом, &lt;x1/&gt;Адаптер&lt;x2/&gt; одновременно выполняет роль клиента по отношению к внешнему сервису (например, к бюро кредитных историй – БКИ) и роль SOAP-веб-сервиса по отношению к сценарию Loginom (или любому другому стороннему потребителю информации).</seg>
       </tuv>
