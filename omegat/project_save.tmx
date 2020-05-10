@@ -891,12 +891,16 @@ Ok, corrected in 2 segments. </note>
       </tuv>
     </tu>
     <tu>
-      <note>It is required to create a new application pool in the IIS service manager that will work with the Loginom Adapter.</note>
+      <note>A:
+It is required to create a new application pool in the IIS service manager that will work with the Loginom Adapter.
+
+M:
+Done.</note>
       <tuv lang="RU">
         <seg>В диспетчере служб IIS необходимо создать новый пул приложений, в котором будет работать &lt;x1/&gt;Loginom Adapter&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dell" changedate="20200505T060612Z" creationid="Марианна" creationdate="20200502T204312Z">
-        <seg>It is required to create the new application pool in the IIS service manager that will work with &lt;x1/&gt;Loginom Adapter&lt;x2/&gt;</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200510T211502Z" creationid="Марианна" creationdate="20200502T204312Z">
+        <seg>It is required to create a new application pool in the IIS service manager that will work with the &lt;x1/&gt;Loginom Adapter&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2372,12 +2376,16 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
     </tu>
     <tu>
-      <note>Then the ** IIS service manager ** window will appear. A new application pool needs to be created in the ** IIS service manager **.</note>
+      <note>A:
+Then the ** IIS service manager ** window will appear. A new application pool needs to be created in the ** IIS service manager **.
+
+M:
+Done.</note>
       <tuv lang="RU">
         <seg>После этого появится окно &lt;x1/&gt;Диспетчера служб IIS&lt;x2/&gt;, в котором необходимо создать новый пул приложений.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T210241Z" creationid="Марианна" creationdate="20200502T204539Z">
-        <seg>Then the &lt;x1/&gt; IIS service manager &lt;x2/&gt; window will appear, it is required to create a new application pool in it.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200510T211630Z" creationid="Марианна" creationdate="20200502T204539Z">
+        <seg>Then the &lt;x1/&gt; IIS service manager &lt;x2/&gt; window will appear. A new application pool needs to be created in the &lt;x1/&gt;IIS service manager&lt;x2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
