@@ -1132,12 +1132,15 @@ Done</note>
       </tuv>
     </tu>
     <tu>
-      <note>Selection of cryptography service provider and its version is stipulated by support of the definite encryption algorithms required for interaction with the particular web services.</note>
+      <note>A:
+Selection of cryptography service provider and its version is stipulated by support of the definite encryption algorithms required for interaction with the particular web services.
+
+M: Done.</note>
       <tuv lang="RU">
         <seg>Выбор криптопровайдера и его версии диктуется требованиями поддержки в нем необходимых для взаимодействия с конкретным веб-сервисом алгоритмов шифрования.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T201450Z" creationid="Марианна" creationdate="20200502T200544Z">
-        <seg>Selection of cryptography service provider and its version is stipulated by the support of the definite encryption algorithms required for interaction with the particular web services.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200510T213619Z" creationid="Марианна" creationdate="20200502T200544Z">
+        <seg>Selection of cryptography service provider and its version is stipulated by support of the definite encryption algorithms required for interaction with the particular web services.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1383,12 +1386,16 @@ Done. </note>
       </tuv>
     </tu>
     <tu>
-      <note>Corresponding certificates will be required for use of a particular web service with encryption. </note>
+      <note>A: 
+Corresponding certificates will be required for use of a particular web service with encryption. 
+
+M: 
+Done.</note>
       <tuv lang="RU">
         <seg>Для работы с тем или иным веб-сервисом с применением шифрования потребуются соответствующие сертификаты.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T200652Z" creationid="Марианна" creationdate="20200502T200652Z">
-        <seg>Corresponding certificates will be required for usage of these or that web service with encryption.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200510T213722Z" creationid="Марианна" creationdate="20200502T200652Z">
+        <seg>Corresponding certificates will be required for use of a particular web service with encryption.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2014,8 +2021,8 @@ Done.</note>
       <tuv lang="RU">
         <seg>Настройки Loginom Adapter хранятся в xml-файле &lt;x1/&gt;Web.config&lt;x2/&gt;, редактирование которого осуществляется программой &lt;x3/&gt;Loginom Adapter Configurator&lt;x4/&gt; (далее по тексту &lt;x5/&gt;Конфигуратор&lt;x6/&gt;).</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200430T215817Z" creationid="Марианна" creationdate="20200203T072657Z">
-        <seg>Loginom Adapter settings are in the &lt;x1/&gt;Web.config&lt;x2/&gt; XML file edited by &lt;x3/&gt;Loginom Adapter Configurator&lt;x4/&gt; (hereafter referred to as the &lt;x5/&gt;Configurator&lt;x6/&gt;).</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200510T213837Z" creationid="Марианна" creationdate="20200203T072657Z">
+        <seg>Loginom Adapter settings are in the &lt;x1/&gt;Web.config&lt;x2/&gt; XML file, edited by the &lt;x3/&gt;Loginom Adapter Configurator&lt;x4/&gt; (hereafter referred to as the &lt;x5/&gt;Configurator&lt;x6/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
