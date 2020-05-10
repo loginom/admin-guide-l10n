@@ -920,12 +920,16 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>In the Application Pool Addition window that appears, it is required to set the values of the following parameters: the pool name for the Adapter, for example, LoginomAdapterAppPool, to specify CLR environment version. </note>
+      <note>A:
+In the Application Pool Addition window that appears, it is required to set the values of the following parameters: the pool name for the Adapter, for example, LoginomAdapterAppPool, to specify CLR environment version. 
+
+M:
+Done. </note>
       <tuv lang="RU">
         <seg>В появившемся окне &lt;x1/&gt;Добавление пула приложений&lt;x2/&gt; необходимо задать значения параметров: &lt;x3/&gt;имя&lt;x4/&gt; пула для &lt;x5/&gt;Адаптера&lt;x6/&gt;, например, &lt;x7/&gt;LoginomAdapterAppPool&lt;x8/&gt;, указать &lt;x9/&gt;версию среды CLR.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T204952Z" creationid="Марианна" creationdate="20200502T204952Z">
-        <seg>In the appeared &lt;x1/&gt;Application Pool Addition&lt;x2/&gt; window it is required to set the values of the following parameters: the pool &lt;x3/&gt;name&lt;x4/&gt; for the &lt;x5/&gt;Adapter&lt;x6/&gt;, for example, &lt;x7/&gt;LoginomAdapterAppPool&lt;x8/&gt;, to specify &lt;x9/&gt;CLR environment version.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200510T211943Z" creationid="Марианна" creationdate="20200502T204952Z">
+        <seg>In the &lt;x1/&gt;Application Pool Addition&lt;x2/&gt; window that appears, it is required to set the values of the following parameters: the pool &lt;x3/&gt;name&lt;x4/&gt; for the &lt;x5/&gt;Adapter&lt;x6/&gt;, for example, &lt;x7/&gt;LoginomAdapterAppPool&lt;x8/&gt;, to specify &lt;x9/&gt;CLR environment version.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3011,12 +3015,16 @@ Done</note>
       </tuv>
     </tu>
     <tu>
-      <note>This task is possible by using the Add Application Pool… (Add Application Pool…) item in the context menu of the Application Pools (Application Pools) element. </note>
+      <note>A:
+This task is possible by using the Add Application Pool… (Add Application Pool…) item in the context menu of the Application Pools (Application Pools) element. 
+
+M: 
+Done.</note>
       <tuv lang="RU">
         <seg>Это можно сделать через пункт &lt;x3/&gt;Добавить пул приложений…&lt;x4/&gt; (&lt;x5/&gt;Add Application Pool…&lt;x6/&gt;) в контекстном меню элемента &lt;x7/&gt;Пулы приложений&lt;x8/&gt; (&lt;x9/&gt;Application Pools&lt;x10/&gt;).</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T204723Z" creationid="Марианна" creationdate="20200502T204723Z">
-        <seg>It is possible to do using the &lt;x3/&gt;Add Application Pool…&lt;x4/&gt; (&lt;x5/&gt;Add Application Pool…&lt;x6/&gt;) item in the context menu of the &lt;x7/&gt;Application Pools&lt;x8/&gt; (&lt;x9/&gt;Application Pools&lt;x10/&gt;) element.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200510T211837Z" creationid="Марианна" creationdate="20200502T204723Z">
+        <seg>This task is possible by using the &lt;x3/&gt;Add Application Pool…&lt;x4/&gt; (&lt;x5/&gt;Add Application Pool…&lt;x6/&gt;) item in the context menu of the &lt;x7/&gt;Application Pools&lt;x8/&gt; (&lt;x9/&gt;Application Pools&lt;x10/&gt;) element.</seg>
       </tuv>
     </tu>
     <tu>
