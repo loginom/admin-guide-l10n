@@ -1415,12 +1415,16 @@ A: Slight typo here. I had "connection" in the Plural.</note>
       </tuv>
     </tu>
     <tu>
-      <note>It can be edited in the following snap-in: Certificates - the local computer, and can be activated using the mmc certlm.msc command.</note>
+      <note>A:
+It can be edited in the following snap-in: Certificates - the local computer, and can be activated using the mmc certlm.msc command.
+
+M:
+Done.</note>
       <tuv lang="RU">
         <seg>Его редактирование доступно в оснастке &lt;x5/&gt;Сертификаты – локальный компьютер&lt;x6/&gt; и вызывается командой &lt;x7/&gt;mmc certlm.msc&lt;x8/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T064328Z" creationid="Марианна" creationdate="20200502T064328Z">
-        <seg>It can be edited in the following snap-in: &lt;x5/&gt;Certificates - the local computer&lt;x6/&gt;, and it can be activated using the &lt;x7/&gt;mmc certlm.msc&lt;x8/&gt; command.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200510T210600Z" creationid="Марианна" creationdate="20200502T064328Z">
+        <seg>It can be edited in the following snap-in: &lt;x5/&gt;Certificates - the local computer&lt;x6/&gt;, and can be activated using the &lt;x7/&gt;mmc certlm.msc&lt;x8/&gt; command.</seg>
       </tuv>
     </tu>
     <tu>
