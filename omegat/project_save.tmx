@@ -444,12 +444,16 @@ A: Okay</note>
       </tuv>
     </tu>
     <tu>
-      <note>Note: Loginom Adapter uses .Net Framework, version 3.5 in the work process.</note>
+      <note>A:
+Note: Loginom Adapter uses .Net Framework, version 3.5 in the work process.
+
+M:
+Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: Loginom Adapter использует в работе .Net Framework версии 3.5.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T195538Z" creationid="Марианна" creationdate="20200502T195538Z">
-        <seg>&lt;x1/&gt;Note&lt;x2/&gt;: Loginom Adapter uses .Net Framework, version 3.5 in the process of work.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200510T212756Z" creationid="Марианна" creationdate="20200502T195538Z">
+        <seg>&lt;x1/&gt;Note&lt;x2/&gt;: Loginom Adapter uses .Net Framework, version 3.5 in the work process.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1353,12 +1357,16 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>The availability of some IIS and .Net Framework components is required for the Adapter operation. </note>
+      <note>A:
+The availability of some IIS and .Net Framework components is required for the Adapter operation. 
+
+M:
+Done.</note>
       <tuv lang="RU">
         <seg>Для работы &lt;x1/&gt;Адаптера&lt;x2/&gt; требуется наличие ряда компонентов IIS и .Net Framework.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T195826Z" creationid="Марианна" creationdate="20200502T195826Z">
-        <seg>Availability of some IIS and .Net Framework components is required for the  &lt;x1/&gt;Adapter&lt;x2/&gt; operation.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200510T212922Z" creationid="Марианна" creationdate="20200502T195826Z">
+        <seg>The availability of some IIS and .Net Framework components is required for the  &lt;x1/&gt;Adapter&lt;x2/&gt; operation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2063,12 +2071,16 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Required Software</note>
+      <note>A:
+Required Software
+
+M:
+Done.</note>
       <tuv lang="RU">
         <seg>Обязательное программное обеспечение</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T202100Z" creationid="Марианна" creationdate="20200502T195159Z">
-        <seg>Compulsory Software</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200510T212712Z" creationid="Марианна" creationdate="20200502T195159Z">
+        <seg>Required Software</seg>
       </tuv>
     </tu>
     <tu>
@@ -2333,12 +2345,16 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
     </tu>
     <tu>
-      <note>A detailed description is provided in </note>
+      <note>A:
+A detailed description is provided in 
+
+M:
+Done.</note>
       <tuv lang="RU">
         <seg>Подробное описание см.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T195852Z" creationid="Марианна" creationdate="20200502T195852Z">
-        <seg>The detailed description is provided in</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200510T213013Z" creationid="Марианна" creationdate="20200502T195852Z">
+        <seg>A detailed description is provided in</seg>
       </tuv>
     </tu>
     <tu>
@@ -2413,12 +2429,16 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>The evidence from application usage practice shows that compatibility with.Net Framework, version 4.5 is possible. </note>
+      <note>A:
+The evidence from application usage practice shows that compatibility with.Net Framework, version 4.5 is possible. 
+
+M:
+Done.</note>
       <tuv lang="RU">
         <seg>Практика использования программы показывает, что возможна совместимость с .Net Framework версии 4.5.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T201931Z" creationid="Марианна" creationdate="20200502T195704Z">
-        <seg>The evidence from the application usage practice shows that compatibility with.Net Framework, version 4.5 is possible.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200510T212848Z" creationid="Марианна" creationdate="20200502T195704Z">
+        <seg>The evidence from application usage practice shows that compatibility with.Net Framework, version 4.5 is possible.</seg>
       </tuv>
     </tu>
     <tu>
