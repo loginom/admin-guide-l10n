@@ -1277,12 +1277,16 @@ OK</note>
       </tuv>
     </tu>
     <tu>
-      <note>It is possible to uninstall Loginom Adapter in several ways: </note>
+      <note>A:
+It is possible to uninstall Loginom Adapter in several ways: 
+
+M:
+Done.</note>
       <tuv lang="RU">
         <seg>Деинсталлировать Loginom Adapter можно несколькими способами:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T202546Z" creationid="Марианна" creationdate="20200502T202546Z">
-        <seg>It is possible to deinstall Loginom Adapter in several ways:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200510T214453Z" creationid="Марианна" creationdate="20200502T202546Z">
+        <seg>It is possible to uninstall Loginom Adapter in several ways:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1586,8 +1590,8 @@ A: Actually, I removed one of the commas. Now it flows better!</note>
       <tuv lang="RU">
         <seg>Запустить инсталлятор продукта, нажать кнопку &lt;x1/&gt;"Удалить"&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T203610Z" creationid="Марианна" creationdate="20200502T202746Z">
-        <seg>To launch the product installer having pressed the &lt;x1/&gt;"Deinstall"&lt;x2/&gt; button</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200510T214634Z" creationid="Марианна" creationdate="20200502T202746Z">
+        <seg>To launch the product installer having pressed the &lt;x1/&gt;"Uninstall"&lt;x2/&gt; button</seg>
       </tuv>
     </tu>
     <tu>
@@ -2425,12 +2429,16 @@ Done. </note>
       </tuv>
     </tu>
     <tu>
-      <note>Then it is required to delete in IIS service manager; the earlier located Loginom Adapter site that is located by default in the sites -&gt; Default Web Site group.</note>
+      <note>A:
+Then it is required to delete in IIS service manager; the earlier located Loginom Adapter site that is located by default in the sites -&gt; Default Web Site group.
+
+M:
+Done.</note>
       <tuv lang="RU">
         <seg>После этого в &lt;x1/&gt;диспетчере служб IIS&lt;x2/&gt; необходимо удалить размещенный ранее сайт &lt;x3/&gt;Loginom Adapter&lt;x4/&gt;, который по умолчанию расположен в группе &lt;x5/&gt;сайты&lt;x6/&gt; -&gt; &lt;x7/&gt;Default Web Site&lt;x8/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T203426Z" creationid="Марианна" creationdate="20200502T203426Z">
-        <seg>Then it is required to delete in &lt;x1/&gt;IIS service manager&lt;x2/&gt; the earlier located &lt;x3/&gt;Loginom Adapter&lt;x4/&gt; site that is located by default in the &lt;x5/&gt;sites&lt;x6/&gt; -&gt; &lt;x7/&gt;Default Web Site&lt;x8/&gt; group.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200510T214728Z" creationid="Марианна" creationdate="20200502T203426Z">
+        <seg>Then it is required to delete in &lt;x1/&gt;IIS service manager&lt;x2/&gt;; the earlier located &lt;x3/&gt;Loginom Adapter&lt;x4/&gt; site that is located by default in the &lt;x5/&gt;sites&lt;x6/&gt; -&gt; &lt;x7/&gt;Default Web Site&lt;x8/&gt; group.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2936,21 +2944,29 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Uninstalling Loginom Adapter </note>
+      <note>A:
+Uninstalling Loginom Adapter 
+
+M: 
+Done</note>
       <tuv lang="RU">
         <seg>Удаление Loginom Adapter</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T202513Z" creationid="Марианна" creationdate="20200502T202513Z">
-        <seg>Loginom Adapter Deinstallation</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200510T214434Z" creationid="Марианна" creationdate="20200502T202513Z">
+        <seg>Uninstalling Loginom Adapter</seg>
       </tuv>
     </tu>
     <tu>
-      <note>To uninstall the application from the "Applications and Components" window in Windows </note>
+      <note>A:
+To uninstall the application from the "Applications and Components" window in Windows 
+
+M:
+Done. </note>
       <tuv lang="RU">
         <seg>Удалить приложение из окна "Программы и компоненты" в Windows;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T203748Z" creationid="Марианна" creationdate="20200502T202647Z">
-        <seg>To deinstall the application from the "Applications and Components" window in Windows</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200510T214522Z" creationid="Марианна" creationdate="20200502T202647Z">
+        <seg>To uninstall the application from the "Applications and Components" window in Windows</seg>
       </tuv>
     </tu>
     <tu>
