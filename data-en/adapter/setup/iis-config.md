@@ -2,15 +2,15 @@
 
 ## Application Pools
 
-It is required to create the new application pool in the IIS service manager that will work with *Loginom Adapter*. It is possible to launch the IIS service manager by the `inetmgr` command using the **Run** menu.
+It is required to create a new application pool in the IIS service manager that will work with the *Loginom Adapter* It is possible to launch the IIS service manager by the `inetmgr` command using the **Run** menu.
 
-Then the ** IIS service manager ** window will appear, it is required to create a new application pool in it. It is possible to do using the **Add Application Pool…** (*Add Application Pool…*) item in the context menu of the **Application Pools** (*Application Pools*) element.
+Then the ** IIS service manager ** window will appear. A new application pool needs to be created in the **IIS service manager**. This task is possible by using the **Add Application Pool…** (*Add Application Pool…*) item in the context menu of the **Application Pools** (*Application Pools*) element.
 
-In the appeared **Application Pool Addition** window it is required to set the values of the following parameters: the pool **name** for the *Adapter*, for example, `LoginomAdapterAppPool`, to specify **CLR environment version. NET**, to set the **controlled conveyer mode** — embedded.
+In the **Application Pool Addition** window that appears, it is required to set the values of the following parameters: the pool **name** for the *Adapter*, for example, `LoginomAdapterAppPool`, to specify **CLR environment version. NET**, to set the **controlled conveyer mode** — embedded.
 
-> **Note**: when *Loginom Integrator* and *Loginom Adapter* are used on one IIS server, different application pools must be set for them.
+> **Note**: when the *Loginom Integrator* and *Loginom Adapter* are used on the one IIS server, different application pools must be set for them.
 
-To view/change the application list it is required to select **View applications** in the context menu of the selected pool.
+To view/change the application list, it is required to select **View applications** in the context menu of the selected pool.
 
 ## Special Login Account
 

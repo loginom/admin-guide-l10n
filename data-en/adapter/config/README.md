@@ -2,7 +2,7 @@
 
 ## Loginom Adapter Configurator
 
-Loginom Adapter settings are in the [Web.config](https://ru.wikipedia.org/wiki/Web.config) XML file edited by **Loginom Adapter Configurator** (hereafter referred to as the *Configurator*). When installing by default, the *Configurator* is in the following folder: `C:\inetpub\wwwroot\LoginomAdapter\Configurator\`.
+Loginom Adapter settings are in the [Web.config](https://ru.wikipedia.org/wiki/Web.config) XML file, edited by the **Loginom Adapter Configurator** (hereafter referred to as the *Configurator*). When installing by default, the *Configurator* is in the following folder: `C:\inetpub\wwwroot\LoginomAdapter\Configurator\`.
 
 When saving the settings, the *Configurator* rewrites the `Web.config` file. Requests previously received by the *Adapter* will be completed with the old settings. Subsequent requests to the *Adapter* will be executed, taking into account the new settings.
 
@@ -22,7 +22,7 @@ Such structure enables the *Adapter* to work with several external services and 
 
 ## Additional Files
 
-Apart from the folders and files pre-installed in the installation process when configuring the *Adapter*, additional files (certificates, the XSD schemas, etc.), required for work with external services, can be placed into the installation directory.
+Apart from the folders and files pre-installed in the installation process when configuring the *Adapter*, additional files, (certificates, the XSD schemas, etc.) required for work with the external services, can be placed into the installation directory.
 
 Connection settings (connectors) for such external services as, for example, [EquifaxFPS](https://www.equifax.ru), *NationalHunter*, [National Bureau of Credit Histories](https://www.nbki.ru/) (NBCH), [Bureau of Credit Histories — Associated Credit Bureau](https://bki-okb.ru) (BCH— ACB), [QiwiScoring](https://corp.qiwi.com/business/banks/scoring.action), etc. can be provided with the *Adapter*. As a rule, the additional files of such settings are placed into the following subdirectories: *Data* and *Certificates* of the installation directory (by default it is `C:\inetpub\wwwroot\LoginomAdapter\`). The `Web.config` file will include references to such files.
 

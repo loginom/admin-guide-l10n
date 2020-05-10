@@ -1,6 +1,6 @@
 # Loginom Adapter
 
-There are [components of integration with the SOAP and REST services](https://help.loginom.ru/userguide/integration/web-services/) in the analytical Loginom platform that implement the most wide-spread variants of interaction with the web services. But some web services, for example, CRB, use the individual protocols and data encryption which preclude from interaction using the standard Loginom means. Loginom Adapter enables to solve this problem (hereafter referred to as the *Adapter*).
+There are [components of integration with the SOAP and REST services](https://help.loginom.ru/userguide/integration/web-services/) in the analytical Loginom platform that implement the most wide-spread variants of interaction with the web services. But some web services, for example, CRB, use the individual protocols and data encryption which preclude interaction using the standard Loginom means. Loginom Adapter provides a solution to this problem (hereafter referred to as the *Adapter*).
 
 The *Adapter* is an intermediate web service between the workflow executed in Loginom and the external web services. Interaction with the *Adapter* from the Loginom workflow is performed according to the standard SOAP protocol using the [Web service invocation](https://help.loginom.ru/userguide/processors/integration/calling-web-service.html) node. In return the *Adapter performs the following tasks:*:
 
@@ -22,7 +22,7 @@ The *Adapter* is an intermediate web service between the workflow executed in Lo
 | Hard disk drive | 10 GB | 500 GB |
 | Management | Keyboard, mouse | &nbsp; |
 
-### Compulsory Software
+### Required Software
 
 | Component | Minimum | Recommended |
 |:--- |:---|:--- |
@@ -30,19 +30,19 @@ The *Adapter* is an intermediate web service between the workflow executed in Lo
 | Microsoft IIS | Version 5.1 or higher | Version 7.5 and higher |
 | .Net Framework | Version 3.5 | &nbsp; |
 
-> **Note**: Loginom Adapter uses .Net Framework, version 3.5 in the process of work. The evidence from the application usage practice shows that compatibility with.Net Framework, version 4.5 is possible.
+> **Note**: Loginom Adapter uses .Net Framework, version 3.5 in the work process. The evidence from application usage practice shows that compatibility with.Net Framework, version 4.5 is possible.
 
-Availability of some IIS and .Net Framework components is required for the  *Adapter* operation. The detailed description is provided in the [Installation](.\setup\README.md) section.
+The availability of some IIS and .Net Framework components is required for the  *Adapter* operation. A detailed description is provided in the [Installation](.\setup\README.md) section.
 
 ### Optional Software
 
-The external cryptography service providers (Cryptography Service Provider, CSP) and Java Runtime Environment (JRE) can be used for the work with some web services. In such cases, these components must be installed with the *Adapter*.
+The external cryptography service providers (Cryptography Service Provider, CSP) and Java Runtime Environment (JRE) can be used for work with some web services. In such cases, these components must be installed with the *Adapter*.
 
 #### Cryptography Service Provider (CSP)
 
-Such cryptography service providers as Signal-COM CSP or CryptoPro CSP are used for data encryption in case of integration with the external web services. Selection of cryptography service provider and its version is stipulated by the support of the definite encryption algorithms required for interaction with the particular web services.
+Cryptography service providers as Signal-COM CSP or CryptoPro CSP are used for data encryption in the case of integration with the external web services. Selection of cryptography service provider and its version is stipulated by support of the definite encryption algorithms required for interaction with the particular web services.
 
-Corresponding certificates will be required for usage of these or that web service with encryption.
+Corresponding certificates will be required for use of a particular web service with encryption.
 
 #### Java Runtime Environment (JRE)
 
