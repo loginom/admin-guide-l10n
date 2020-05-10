@@ -301,8 +301,8 @@ all else okay</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Имя метода в Loginom Adapter&lt;x2/&gt; — используется для формирования имен элементов в WSDL-описании веб-сервиса в случае совпадения значений параметра &lt;x3/&gt;Имя метода&lt;x4/&gt; для различных методов конфигурации &lt;x5/&gt;Адаптера&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200429T105339Z" creationid="Марианна" creationdate="20200227T161941Z">
-        <seg>&lt;x1/&gt;Method name in Loginom Adapter&lt;x2/&gt; is used to form the item names in the WSDL description of the web service in case of coincidence of values of the &lt;x3/&gt;Method name&lt;x4/&gt; parameter for different configuration methods of the &lt;x5/&gt;Adapter&lt;x6/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200510T213225Z" creationid="Марианна" creationdate="20200227T161941Z">
+        <seg>&lt;x1/&gt;Method name in Loginom Adapter&lt;x2/&gt; is used to form the item names in the WSDL description of the web service in the case of coincidence of values of the &lt;x3/&gt;Method name&lt;x4/&gt; parameter for different configuration methods of the &lt;x5/&gt;Adapter&lt;x6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -541,8 +541,8 @@ OK</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Режим отладки&lt;x2/&gt; — флаг, указывающий, что при ошибках в работе &lt;x3/&gt;Адаптера&lt;x4/&gt; следует выдавать отладочную информацию.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200225T123115Z" creationid="Марианна" creationdate="20200225T123115Z">
-        <seg>&lt;x1/&gt;Debug mode&lt;x2/&gt; — the flag that shows that it is required to show the debugging information in case of errors during the &lt;x3/&gt;Adapter&lt;x4/&gt; usage.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200510T213215Z" creationid="Марианна" creationdate="20200225T123115Z">
+        <seg>&lt;x1/&gt;Debug mode&lt;x2/&gt; — the flag that shows that it is required to show the debugging information in the case of errors during the &lt;x3/&gt;Adapter&lt;x4/&gt; usage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1370,12 +1370,16 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>The external cryptography service providers (Cryptography Service Provider, CSP) and Java Runtime Environment (JRE) can be used for work with some web services.</note>
+      <note>A:
+The external cryptography service providers (Cryptography Service Provider, CSP) and Java Runtime Environment (JRE) can be used for work with some web services.
+
+M:
+Done. </note>
       <tuv lang="RU">
         <seg>Для работы с некоторыми веб-сервисами могут использоваться сторонние криптопровайдеры (Cryptography Service Provider, CSP) и Java Runtime Environment (JRE).</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T200142Z" creationid="Марианна" creationdate="20200502T200041Z">
-        <seg>The external cryptography service providers (Cryptography Service Provider, CSP) and Java Runtime Environment (JRE) can be used for the work with some web services.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200510T213056Z" creationid="Марианна" creationdate="20200502T200041Z">
+        <seg>The external cryptography service providers (Cryptography Service Provider, CSP) and Java Runtime Environment (JRE) can be used for work with some web services.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1405,12 +1409,16 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Cryptography service providers such as Signal-COM CSP or CryptoPro CSP are used for data encryption in the case of integration with the external web services.</note>
+      <note>A:
+Cryptography service providers such as Signal-COM CSP or CryptoPro CSP are used for data encryption in the case of integration with the external web services.
+
+M:
+Done. </note>
       <tuv lang="RU">
         <seg>Для шифровании данных при интеграции с внешними веб-сервисами используются криптопровайдеры, например, Signal-COM CSP или CryptoPro CSP.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T200308Z" creationid="Марианна" creationdate="20200502T200308Z">
-        <seg>Such cryptography service providers as Signal-COM CSP or CryptoPro CSP are used for data encryption in case of integration with the external web services.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200510T213206Z" creationid="Марианна" creationdate="20200502T200308Z">
+        <seg>Cryptography service providers as Signal-COM CSP or CryptoPro CSP are used for data encryption in the case of integration with the external web services.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2494,8 +2502,8 @@ Only comma added</note>
       <tuv lang="RU">
         <seg>При значении &lt;x7/&gt;true&lt;x8/&gt; задействуется алгоритм преобразования ответа БКИ «НБКИ», в котором из XML ответа сервиса удаляется подпись сертификатом.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200424T100839Z" creationid="Марианна" creationdate="20200304T071055Z">
-        <seg>In case of the &lt;x7/&gt;true&lt;x8/&gt; value, the algorithm of the response transformation of credit reference bureau "UNITED CREDIT BUREAU", in which the certificate signature is removed from the XML service response is applied.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200510T213314Z" creationid="Марианна" creationdate="20200304T071055Z">
+        <seg>In the case of the &lt;x7/&gt;true&lt;x8/&gt; value, the algorithm of the response transformation of credit reference bureau "UNITED CREDIT BUREAU", in which the certificate signature is removed from the XML service response is applied.</seg>
       </tuv>
     </tu>
     <tu>
