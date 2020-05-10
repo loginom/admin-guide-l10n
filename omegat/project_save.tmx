@@ -2034,12 +2034,16 @@ A: Okay</note>
       </tuv>
     </tu>
     <tu>
-      <note>But some web services, for example, CRB, use the individual protocols and data encryption which preclude interaction using the standard Loginom means. </note>
+      <note>A:
+But some web services, for example, CRB, use the individual protocols and data encryption which preclude interaction using the standard Loginom means. 
+
+M:
+Done.</note>
       <tuv lang="RU">
         <seg>Но некоторые веб-сервисы, например, БКИ используют индивидуальные протоколы и шифрование данных, при которых взаимодействовать с ними стандартными средствами Loginom невозможно.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T193256Z" creationid="Марианна" creationdate="20200502T193256Z">
-        <seg>But some web services, for example, CRB, use the individual protocols and data encryption which preclude from interaction using the standard Loginom means.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200510T212547Z" creationid="Марианна" creationdate="20200502T193256Z">
+        <seg>But some web services, for example, CRB, use the individual protocols and data encryption which preclude interaction using the standard Loginom means.</seg>
       </tuv>
     </tu>
     <tu>
