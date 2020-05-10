@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2820,12 +2820,16 @@ Done</note>
       </tuv>
     </tu>
     <tu>
-      <note>It is recommended to use this method for certificates that do not contain a private key.</note>
+      <note>A:
+It is recommended to use this method for certificates that do not contain a private key.
+
+M:
+Done.</note>
       <tuv lang="RU">
         <seg>Такой способ рекоммендуется использовать для сертификатов, не содержащих закрытый ключ.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T065851Z" creationid="Марианна" creationdate="20200502T061151Z">
-        <seg>It is recommended to use such a method for the certificates that do not contain the private key.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200510T210403Z" creationid="Марианна" creationdate="20200502T061151Z">
+        <seg>It is recommended to use this method for certificates that do not contain a private key.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2929,12 +2933,16 @@ A: Okay, I see that now</note>
       </tuv>
     </tu>
     <tu>
-      <note>The certificate store must be available for a user who operates the Adapter application pool in IIS. </note>
+      <note>A:
+The certificate store must be available for a user who operates the Adapter application pool in IIS. 
+
+M:
+Done</note>
       <tuv lang="RU">
         <seg>Хранилище сертификатов должно быть доступно для пользователя, из-под которого работает пул приложений &lt;x1/&gt;Адаптера&lt;x2/&gt; в IIS.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T061604Z" creationid="Марианна" creationdate="20200502T061604Z">
-        <seg>The certificate store must be available for the user who operates the &lt;x1/&gt;Adapter&lt;x2/&gt; application pool in IIS.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200510T210502Z" creationid="Марианна" creationdate="20200502T061604Z">
+        <seg>The certificate store must be available for a user who operates the &lt;x1/&gt;Adapter&lt;x2/&gt; application pool in IIS.</seg>
       </tuv>
     </tu>
     <tu>
