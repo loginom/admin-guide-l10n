@@ -990,8 +990,8 @@ Ok, the XML elements. Corrected everywhere.
       <tuv lang="RU">
         <seg>В случае с REST-сервисом содержимым ответа является тело сообщения (&lt;x1/&gt;Entity Body&lt;x2/&gt;) HTTP/HTTPS полученного пакета.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200430T223934Z" creationid="Марианна" creationdate="20200426T125926Z">
-        <seg>In case of the REST service, the response content is the message body (&lt;x1/&gt;Entity Body&lt;x2/&gt;) HTTP/HTTPS of the received package.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200510T213419Z" creationid="Марианна" creationdate="20200426T125926Z">
+        <seg>In the case of the REST service, the response content is the message body (&lt;x1/&gt;Entity Body&lt;x2/&gt;) HTTP/HTTPS of the received package.</seg>
       </tuv>
     </tu>
     <tu>
@@ -999,8 +999,8 @@ Ok, the XML elements. Corrected everywhere.
       <tuv lang="RU">
         <seg>В случае с SOAP-сервисом выделяется содержание узла &lt;x3/&gt;Body&lt;x4/&gt; SOAP-пакета.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200430T230618Z" creationid="Марианна" creationdate="20200426T130050Z">
-        <seg>In case of the SOAP service content of the &lt;x3/&gt;Body&lt;x4/&gt;node of the SOAP package is selected.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200510T213426Z" creationid="Марианна" creationdate="20200426T130050Z">
+        <seg>In the case of the SOAP service content of the &lt;x3/&gt;Body&lt;x4/&gt;node of the SOAP package is selected.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1922,8 +1922,8 @@ Done.</note>
       <tuv lang="RU">
         <seg>На следующем этапе полученный в результате предыдущих преобразований запрос в случае формирования REST-запроса помещается в тело HTTP/HTTPS пакета (&lt;x11/&gt;Entity Body&lt;x12/&gt;), отправляемого внешнему сервису, в случае SOAP-запроса – помещается внутрь узла &lt;x13/&gt;Body&lt;x14/&gt; SOAP-пакета.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200430T225857Z" creationid="Марианна" creationdate="20200426T110622Z">
-        <seg>At the next stage, the request received in the result of the previous transformations in case of the REST request formation is placed into the HTTP/HTTPS package body (&lt;x11/&gt;Entity Body&lt;x12/&gt;) sent to the external service, in case of the SOAP request, it is placed into the  &lt;x13/&gt;Body&lt;x14/&gt; node of the SOAP package.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200510T213517Z" creationid="Марианна" creationdate="20200426T110622Z">
+        <seg>At the next stage, the request received in the result of the previous transformations in the case of the REST request formation is placed into the HTTP/HTTPS package body (&lt;x11/&gt;Entity Body&lt;x12/&gt;) sent to the external service, in the case of the SOAP request, it is placed into the  &lt;x13/&gt;Body&lt;x14/&gt; node of the SOAP package.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2540,8 +2540,8 @@ Done.</note>
       <tuv lang="RU">
         <seg>При отсутствии полного пути файлы будут располагаться в папке с &lt;x9/&gt;Web.config&lt;x10/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T095938Z" creationid="Марианна" creationdate="20200426T095938Z">
-        <seg>The files will be placed into the folder with &lt;x9/&gt;Web.config&lt;x10/&gt; in case of the full path absence.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200510T213327Z" creationid="Марианна" creationdate="20200426T095938Z">
+        <seg>The files will be placed into the folder with &lt;x9/&gt;Web.config&lt;x10/&gt; in the case of the full path absence.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2549,8 +2549,8 @@ Done.</note>
       <tuv lang="RU">
         <seg>При получении ответа от внешнего сервиса последовательность этапов преобразования становится обратной.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200430T223836Z" creationid="Марианна" creationdate="20200426T125547Z">
-        <seg>In case of response receipt from the external service, the succession of the transformation stages is reverse.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200510T213412Z" creationid="Марианна" creationdate="20200426T125547Z">
+        <seg>In the case of response receipt from the external service, the succession of the transformation stages is reverse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3050,8 +3050,8 @@ Done</note>
       <tuv lang="RU">
         <seg>Эти правила выполнения этапа применяются и при преобразовании командой OC ответов сервиса с использованием параметров &lt;x1/&gt;Исходное имя файла ответа&lt;x2/&gt;, &lt;x3/&gt;Результирующее имя файла ответа&lt;x4/&gt;, &lt;x5/&gt;Команда обработки файла ответа&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200430T223314Z" creationid="Марианна" creationdate="20200426T101412Z">
-        <seg>These stage execution rules are also applied in case of transformation of the service responses by the OS command with an application of the following parameters: &lt;x1/&gt;The response file source name&lt;x2/&gt;, &lt;x3/&gt;The resulting name of the response file&lt;x4/&gt;, &lt;x5/&gt;The response file processing command&lt;x6/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200510T213336Z" creationid="Марианна" creationdate="20200426T101412Z">
+        <seg>These stage execution rules are also applied in the case of transformation of the service responses by the OS command with an application of the following parameters: &lt;x1/&gt;The response file source name&lt;x2/&gt;, &lt;x3/&gt;The resulting name of the response file&lt;x4/&gt;, &lt;x5/&gt;The response file processing command&lt;x6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
