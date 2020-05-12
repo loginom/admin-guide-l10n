@@ -537,8 +537,8 @@ M:Done. </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Работа с сертификатами&lt;x2/&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T065327Z" creationid="Марианна" creationdate="20200426T124925Z">
-        <seg>The &lt;x1/&gt;Work with certificates&lt;x2/&gt;</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T095639Z" creationid="Марианна" creationdate="20200426T124925Z">
+        <seg>The &lt;x1/&gt;Certificates Usage&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2743,8 +2743,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Работа с сертификатами</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T065518Z" creationid="Марианна" creationdate="20200426T124906Z">
-        <seg>Work with Certificates</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T095631Z" creationid="Марианна" creationdate="20200426T124906Z">
+        <seg>Certificates Usage</seg>
       </tuv>
     </tu>
     <tu>
@@ -3189,8 +3189,8 @@ M: Done. Вася, посмотрю еще раз в сети, все помен
       <tuv lang="RU">
         <seg>раздел &lt;x1/&gt;Работа с сертификатами&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T065255Z" creationid="Марианна" creationdate="20200426T124752Z">
-        <seg>the &lt;x1/&gt;Work with certificates&lt;x2/&gt; section.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T095623Z" creationid="Марианна" creationdate="20200426T124752Z">
+        <seg>the &lt;x1/&gt;Certificates Usage&lt;x2/&gt; section.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3285,8 +3285,8 @@ A: I get it now. At the time I made the recommendation, I was not reading it in 
       <tuv lang="RU">
         <seg>также раздел &lt;x11/&gt;Работа с сертификатами&lt;x12/&gt;).</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T065246Z" creationid="Марианна" creationdate="20200226T104455Z">
-        <seg>the &lt;x11/&gt;Work with certificates&lt;x12/&gt; section).</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T095613Z" creationid="Марианна" creationdate="20200226T104455Z">
+        <seg>the &lt;x11/&gt;Certificates Usage&lt;x12/&gt; section).</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
