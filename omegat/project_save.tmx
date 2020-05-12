@@ -854,20 +854,21 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>A: The algorithm of actions at the stage of the response receipt from the external service is shown in </note>
+      <note>A: The algorithm of actions at the stage of the response receipt from the external service is shown in 
+M: Done. </note>
       <tuv lang="RU">
         <seg>Алгоритм действий на этапе получения ответа от внешнего сервиса представлен на рисунке 10.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T125247Z" creationid="Марианна" creationdate="20200426T125247Z">
-        <seg>Algorithm of actions at the stage of the response receipt from the external service is shown in </seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T095739Z" creationid="Марианна" creationdate="20200426T125247Z">
+        <seg>The algorithm of actions at the stage of the response receipt from the external service is shown in </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>Алгоритм действий на этапе получения ответа от внешнего сервиса&lt;x2/&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T125325Z" creationid="Марианна" creationdate="20200426T125325Z">
-        <seg>Algorithm of Actions at the Stage of the Response Receipt from the External Service&lt;x2/&gt;</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T095804Z" creationid="Марианна" creationdate="20200426T125325Z">
+        <seg>The algorithm of Actions at the Stage of the Response Receipt from the External Service&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -993,7 +994,8 @@ Ok, the XML elements. Corrected everywhere.
       </tuv>
     </tu>
     <tu>
-      <note>A: In the case of the REST service, the response content is the message body (Entity Body) HTTP/HTTPS of the received package. </note>
+      <note>A: In the case of the REST service, the response content is the message body (Entity Body) HTTP/HTTPS of the received package. 
+M: Done. </note>
       <tuv lang="RU">
         <seg>В случае с REST-сервисом содержимым ответа является тело сообщения (&lt;x1/&gt;Entity Body&lt;x2/&gt;) HTTP/HTTPS полученного пакета.</seg>
       </tuv>
@@ -1002,12 +1004,13 @@ Ok, the XML elements. Corrected everywhere.
       </tuv>
     </tu>
     <tu>
-      <note>A: In case of the SOAP service content, of the Bodynode of the SOAP package is selected.</note>
+      <note>A: In case of the SOAP service content, of the Bodynode of the SOAP package is selected.
+M: Not done. I guess it's irrelevant in this case. Put a comma after the word "Service". </note>
       <tuv lang="RU">
         <seg>В случае с SOAP-сервисом выделяется содержание узла &lt;x3/&gt;Body&lt;x4/&gt; SOAP-пакета.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200510T213426Z" creationid="Марианна" creationdate="20200426T130050Z">
-        <seg>In the case of the SOAP service content of the &lt;x3/&gt;Body&lt;x4/&gt;node of the SOAP package is selected.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T100039Z" creationid="Марианна" creationdate="20200426T130050Z">
+        <seg>In the case of the SOAP service, content of the &lt;x3/&gt;Body&lt;x4/&gt;node of the SOAP package is selected.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2594,12 +2597,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>A: In case of a response receipt from the external service, the succession of the transformation stages is reversed. </note>
+      <note>A: In case of a response receipt from the external service, the succession of the transformation stages is reversed. 
+M: Done. </note>
       <tuv lang="RU">
         <seg>При получении ответа от внешнего сервиса последовательность этапов преобразования становится обратной.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200510T213412Z" creationid="Марианна" creationdate="20200426T125547Z">
-        <seg>In the case of response receipt from the external service, the succession of the transformation stages is reverse.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T095837Z" creationid="Марианна" creationdate="20200426T125547Z">
+        <seg>In the case of a response receipt from the external service, the succession of the transformation stages is reverse.</seg>
       </tuv>
     </tu>
     <tu>
