@@ -1240,12 +1240,13 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
-      <note>A: This schema enables the defining of the XML structure of responses and the requests of all methods of each service described in the web.config configuration file, and it is imported to WSDL in the &lt;wsdl:types&gt; section.</note>
+      <note>A: This schema enables the defining of the XML structure of responses and the requests of all methods of each service described in the web.config configuration file, and it is imported to WSDL in the &lt;wsdl:types&gt; section.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Данная схема определяет XML-структуру ответов и запросов всех методов каждого сервиса, описанного в файле конфигурации &lt;x3/&gt;web.config&lt;x4/&gt;, и импортируется в WSDL в разделе &lt;x5/&gt;&lt;wsdl:types&gt;&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200430T231534Z" creationid="Марианна" creationdate="20200428T110205Z">
-        <seg>This schema enables to define the XML structure of responses and requests of all methods of each service described in the &lt;x3/&gt;web.config&lt;x4/&gt; configuration file, and it is imported to WSDL in the &lt;x5/&gt;&lt;wsdl:types&gt;&lt;x6/&gt; section.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T101239Z" creationid="Марианна" creationdate="20200428T110205Z">
+        <seg>This schema enables the defining of the XML structure of responses and the requests of all methods of each service described in the &lt;x3/&gt;web.config&lt;x4/&gt; configuration file, and it is imported to WSDL in the &lt;x5/&gt;&lt;wsdl:types&gt;&lt;x6/&gt; section.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2927,12 +2928,13 @@ Done</note>
       </tuv>
     </tu>
     <tu>
-      <note>A: The compulsory configuration component also participates in the WSDL formation process – the XSD schema of the service description; a path to it is specified in The schema to which the service description will refer the parameter. </note>
+      <note>A: The compulsory configuration component also participates in the WSDL formation process – the XSD schema of the service description; a path to it is specified in The schema to which the service description will refer the parameter. 
+M:Done. </note>
       <tuv lang="RU">
         <seg>Также в формировании WSDL участвует обязательный компонент настроек – XSD-схема описания сервиса, путь к которой указывается в параметре &lt;x1/&gt;Схема, на которую будет ссылаться описание сервиса&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200430T214955Z" creationid="Марианна" creationdate="20200427T115630Z">
-        <seg>The compulsory configuration component also participates in the WSDL formation process – the XSD schema of the service description; a path to it is specified in &lt;x1/&gt;The schema to which the service description will refer&lt;x2/&gt; parameter.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T101131Z" creationid="Марианна" creationdate="20200427T115630Z">
+        <seg>The compulsory configuration component also participates in the WSDL formation process – the XSD schema of the service description; a path to it is specified in &lt;x1/&gt;The schema to which the service description will refer&lt;x2/&gt; the parameter.</seg>
       </tuv>
     </tu>
     <tu>
