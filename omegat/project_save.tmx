@@ -1351,12 +1351,13 @@ A: Slight typo here. I had "connection" in the Plural.</note>
       </tuv>
     </tu>
     <tu>
-      <note>A: The ded:Cheques node will be selected for the provided example from the SOAP package, and further transformation in the following stages will be performed with the XML text:</note>
+      <note>A: The ded:Cheques node will be selected for the provided example from the SOAP package, and further transformation in the following stages will be performed with the XML text:
+M: Done. </note>
       <tuv lang="RU">
         <seg>Для приведенного примера из SOAP-пакета будет выделен узел &lt;x1/&gt;ded:Cheques&lt;x2/&gt;, и дальнейшая трансформация на следующих этапах будет производиться с текстом xml:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200430T224918Z" creationid="Марианна" creationdate="20200424T101428Z">
-        <seg>The &lt;x1/&gt;ded:Cheques&lt;x2/&gt; node will be selected for the provided example from the SOAP package, and the further transformation at the next stages will be performed with the XML text:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T092829Z" creationid="Марианна" creationdate="20200424T101428Z">
+        <seg>The &lt;x1/&gt;ded:Cheques&lt;x2/&gt; node will be selected for the provided example from the SOAP package, and further transformation in the following stages will be performed with the XML text:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2007,12 +2008,13 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>A: This stage is configured by means of parameters of the XSLT Configurator for transformation of the incoming message before transfer and XSLT Parameters, as shown in Figure 9. </note>
+      <note>A: This stage is configured by means of parameters of the XSLT Configurator for transformation of the incoming message before transfer and XSLT Parameters, as shown in Figure 9. 
+M: Done.</note>
       <tuv lang="RU">
         <seg>Настройка выполнения этого этапа производится с помощью параметров &lt;x1/&gt;Конфигуратора&lt;x2/&gt; &lt;x3/&gt;XSLT для трансформации входящего сообщения перед передачей&lt;x4/&gt; и &lt;x5/&gt;Параметры XSLT&lt;x6/&gt;, представленных на рисунке 9.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200424T101921Z" creationid="Марианна" creationdate="20200424T101921Z">
-        <seg>This stage is configured by means of parameters of the XSLT &lt;x1/&gt;Configurator&lt;x2/&gt; &lt;x3/&gt;for transformation of the incoming message before transfer&lt;x4/&gt; and &lt;x5/&gt;XSLT Parameters&lt;x6/&gt;, shown in Figure 9.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T092923Z" creationid="Марианна" creationdate="20200424T101921Z">
+        <seg>This stage is configured by means of parameters of the XSLT &lt;x1/&gt;Configurator&lt;x2/&gt; &lt;x3/&gt;for transformation of the incoming message before transfer&lt;x4/&gt; and &lt;x5/&gt;XSLT Parameters&lt;x6/&gt;, as shown in Figure 9.</seg>
       </tuv>
     </tu>
     <tu>
