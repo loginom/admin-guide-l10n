@@ -874,12 +874,13 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
-      <note>A: Similarly, to describe the incoming message (response) structure of this method, the ChequesResponse schema element is used.</note>
+      <note>A: Similarly, to describe the incoming message (response) structure of this method, the ChequesResponse schema element is used.
+M: Done. </note>
       <tuv lang="RU">
         <seg>Аналогично, для описания структуры исходящего сообщения (ответа) этого метода используется элемент схемы &lt;x15/&gt;ChequesResponse&lt;x16/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200430T231928Z" creationid="Марианна" creationdate="20200428T122035Z">
-        <seg>Similarly, to describe the incoming message (response) structure of this method the &lt;x15/&gt;ChequesResponse&lt;x16/&gt; schema element is used.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T101623Z" creationid="Марианна" creationdate="20200428T122035Z">
+        <seg>Similarly, to describe the incoming message (response) structure of this method, the &lt;x15/&gt;ChequesResponse&lt;x16/&gt; schema element is used.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1458,12 +1459,13 @@ Done. </note>
       </tuv>
     </tu>
     <tu>
-      <note>A: For this purpose, it is required to set a name and namespace of the corresponding schema element for the request and response of each method.</note>
+      <note>A: For this purpose, it is required to set a name and namespace of the corresponding schema element for the request and response of each method.
+M: Done. </note>
       <tuv lang="RU">
         <seg>Для этого для запроса и ответа каждого метода необходимо задать имя и пространство имен соответствующего элемента схемы.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200428T122802Z" creationid="Марианна" creationdate="20200428T122802Z">
-        <seg>For this purpose, it is required to set a name and namespace of the corresponding schema element for request and response of each method.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T101702Z" creationid="Марианна" creationdate="20200428T122802Z">
+        <seg>For this purpose, it is required to set a name and namespace of the corresponding schema element for the request and response of each method.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1726,7 +1728,8 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>A: Values of The web service description parameter are set by content of the &lt;wsdl:documentation&gt; WSDL nodes, and they are used for arbitrary description of the services.</note>
+      <note>A: Values of The web service description parameter are set by content of the &lt;wsdl:documentation&gt; WSDL nodes, and they are used for the arbitrary description of the services.
+M: Done. </note>
       <tuv lang="RU">
         <seg>Значения параметра &lt;x1/&gt;Описание веб-сервиса&lt;x2/&gt; задает содержание узлов WSDL &lt;x3/&gt;&lt;wsdl:documentation&gt;&lt;x4/&gt; и используется для произвольного описания сервисов.</seg>
       </tuv>
