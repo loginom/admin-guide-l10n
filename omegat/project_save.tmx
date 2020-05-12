@@ -1077,12 +1077,13 @@ Done. </note>
       </tuv>
     </tu>
     <tu>
-      <note>A: Full paths to the files or only the files' names can be stated in these parameters. </note>
+      <note>A: Full paths to the files or only the files' names can be stated in these parameters. 
+M: Done. </note>
       <tuv lang="RU">
         <seg>В этих параметрах могут быть заданы полные пути к файлам, либо только имена файлов.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T095814Z" creationid="Марианна" creationdate="20200426T095814Z">
-        <seg>Full paths to the files or only the files names can be stated in these parameters.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T094513Z" creationid="Марианна" creationdate="20200426T095814Z">
+        <seg>Full paths to the files or only the files' names can be stated in these parameters.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1238,12 +1239,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>A: This transformation is specific for the work with the CRB specified above, and it is not applied for other tasks. This stage is configured by means of the Special message format parameter.</note>
+      <note>A: This transformation is specific for the work with the CRB specified above, and it is not applied for other tasks. This stage is configured by means of the Special message format parameter.
+M: Done. But the second sentence is absent in the source.</note>
       <tuv lang="RU">
         <seg>Данное преобразование специфично для работы с вышеуказанным БКИ и в других задачах не применяется.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200424T103749Z" creationid="Марианна" creationdate="20200424T103749Z">
-        <seg>This transformation is specific for the work with the CRB specified above and it is not applied for other tasks.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T094429Z" creationid="Марианна" creationdate="20200424T103749Z">
+        <seg>This transformation is specific for the work with the CRB specified above, and it is not applied for other tasks.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2783,12 +2785,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>A: The next stage can be transformation to the special message format of the credit reference bureau "UNITED CREDIT BUREAU". </note>
+      <note>A: The next stage can be transformation to the special message format of the credit reference bureau "UNITED CREDIT BUREAU". 
+M: Done. </note>
       <tuv lang="RU">
         <seg>Следующим этапом может быть преобразование в особый формат сообщения БКИ «ОКБ».</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200430T225207Z" creationid="Марианна" creationdate="20200424T103459Z">
-        <seg>The next stage can be transformation to the special message format of credit reference bureau "UNITED CREDIT BUREAU".</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T094252Z" creationid="Марианна" creationdate="20200424T103459Z">
+        <seg>The next stage can be transformation to the special message format of the credit reference bureau "UNITED CREDIT BUREAU".</seg>
       </tuv>
     </tu>
     <tu>
