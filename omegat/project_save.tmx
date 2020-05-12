@@ -793,12 +793,13 @@ Ok, corrected in 2 segments. </note>
       </tuv>
     </tu>
     <tu>
-      <note>A: The WSDL description enables a clear definition of parameters of interaction to be provided with the web service, by means of which such interaction is performed including the XML message formats. </note>
+      <note>A: The WSDL description enables a clear definition of parameters of interaction to be provided with the web service, by means of which such interaction is performed including the XML message formats. 
+M: Done.</note>
       <tuv lang="RU">
         <seg>WSDL-описание однозначно определяет параметры взаимодействия с веб-сервисом, в том числе и форматы XML-сообщений, посредством которых это взаимодействие осуществляется.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200430T222959Z" creationid="Марианна" creationdate="20200424T085444Z">
-        <seg>The WSDL description enables to provide a clear definition of parameters of interaction with the web service, including the XML messages formats, by means of which such interaction is performed.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T092455Z" creationid="Марианна" creationdate="20200424T085444Z">
+        <seg>The WSDL description enables a clear definition of parameters of interaction to be provided with the web service, by means of which such interaction is performed including the XML message formats.</seg>
       </tuv>
     </tu>
     <tu>
@@ -842,12 +843,13 @@ Ok, corrected in 2 segments. </note>
       </tuv>
     </tu>
     <tu>
-      <note>A: The Algorithm of actions at the stage of the request sending to the external service is shown in Figure 8. </note>
+      <note>A: The Algorithm of actions at the stage of the request sending to the external service is shown in Figure 8. 
+M: Done.</note>
       <tuv lang="RU">
         <seg>Алгоритм действий на этапе отправки запроса внешнему сервису&lt;x2/&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200424T100116Z" creationid="Марианна" creationdate="20200424T100116Z">
-        <seg>Algorithm of Actions at the Stage of the Request Sending to the External Service&lt;x2/&gt;</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T092601Z" creationid="Марианна" creationdate="20200424T100116Z">
+        <seg>The algorithm of Actions at the Stage of the Request Sending to the External Service&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1792,12 +1794,13 @@ A: I understand. Company name</note>
       </tuv>
     </tu>
     <tu>
-      <note>A:As is shown in Figure 8, the first action after the SOAP request receipt from Loginom workflow is the XML request text selection from the SOAP package.</note>
+      <note>A:As is shown in Figure 8, the first action after the SOAP request receipt from Loginom workflow is the XML request text selection from the SOAP package.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Как видно из рисунка 8, первым действием после получения SOAP-запроса из сценария Loginom является выделение текста xml-запроса из SOAP-пакета.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200424T100643Z" creationid="Марианна" creationdate="20200424T100643Z">
-        <seg>As it is shown by Figure 8, the first action after the SOAP request receipt from Loginom workflow is the XML request text selection from the SOAP package.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T092705Z" creationid="Марианна" creationdate="20200424T100643Z">
+        <seg>As is shown in Figure 8, the first action after the SOAP request receipt from Loginom workflow is the XML request text selection from the SOAP package.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2733,12 +2736,13 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>A: At the same time, serving as a client, the Adapter provides transformation of these messages from the SOAP format to the individual formats of the external services, and backwards. </note>
+      <note>A: At the same time, serving as a client, the Adapter provides transformation of these messages from the SOAP format to the individual formats of the external services, and backwards. 
+M: Done.</note>
       <tuv lang="RU">
         <seg>С другой стороны, выполняя роль клиента, &lt;x5/&gt;Адаптер&lt;x6/&gt; обеспечивает трансформацию этих сообщений из формата SOAP в индивидуальные форматы внешних сервисов и обратно.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200424T095123Z" creationid="Марианна" creationdate="20200424T095123Z">
-        <seg>At the same time, serving as a client, the &lt;x5/&gt;Adapter&lt;x6/&gt; provides transformation of these messages from the SOAP format to the individual formats of the external services and backwards. </seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T092533Z" creationid="Марианна" creationdate="20200424T095123Z">
+        <seg>At the same time, serving as a client, the &lt;x5/&gt;Adapter&lt;x6/&gt; provides transformation of these messages from the SOAP format to the individual formats of the external services, and backwards. </seg>
       </tuv>
     </tu>
     <tu>
