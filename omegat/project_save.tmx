@@ -1209,12 +1209,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>A: Then the operations reverse to the optional transformations and XSLT transformation with usage of the XSLT for transformation of the response message, and XSLT parameters parameters are performed. </note>
+      <note>A: Then the operations reverse to the optional transformations and XSLT transformation with usage of the XSLT for transformation of the response message, and XSLT parameters parameters are performed. 
+M: Done. </note>
       <tuv lang="RU">
         <seg>Далее выполняются операции обратные опциональным преобразованиям и XSLT трансформация с использованием параметров &lt;x11/&gt;XSLT для трансформации ответного сообщения&lt;x12/&gt; и &lt;x13/&gt;Параметры XSLT&lt;x14/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200430T230726Z" creationid="Марианна" creationdate="20200427T114323Z">
-        <seg>Then the operations reverse to the optional transformations and XSLT transformation with usage of the &lt;x11/&gt;XSLT for transformation of the response message&lt;x12/&gt; and &lt;x13/&gt;XSLT parameters&lt;x14/&gt; parameters are performed.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T100143Z" creationid="Марианна" creationdate="20200427T114323Z">
+        <seg>Then the operations reverse to the optional transformations and XSLT transformation with usage of the &lt;x11/&gt;XSLT for transformation of the response message&lt;x12/&gt;, and &lt;x13/&gt;XSLT parameters&lt;x14/&gt; parameters are performed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1226,12 +1227,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>A: This schema is used for the WSDL web service formation, and it is an obligatory component of the Adapter settings. </note>
+      <note>A: This schema is used for the WSDL web service formation, and it is an obligatory component of the Adapter settings. 
+M: Done. </note>
       <tuv lang="RU">
         <seg>Данная схема используется для формирования WSDL веб-сервиса и является обязательным компонентом настроек &lt;x15/&gt;Адаптера&lt;x16/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200427T114713Z" creationid="Марианна" creationdate="20200427T114616Z">
-        <seg>This schema is used for the WSDL web service formation and it is an obligatory component of the &lt;x15/&gt;Adapter&lt;x16/&gt; settings.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T100227Z" creationid="Марианна" creationdate="20200427T114616Z">
+        <seg>This schema is used for the WSDL web service formation, and it is an obligatory component of the &lt;x15/&gt;Adapter&lt;x16/&gt; settings.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1608,12 +1610,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>A: Then the response content is transferred for processing by the OS command with by applying the following parameters: The response file source name, The resulting name of the response file, The response file processing command. </note>
+      <note>A: Then the response content is transferred for processing by the OS command with by applying the following parameters: The response file source name, The resulting name of the response file, The response file processing command. 
+M: Done. </note>
       <tuv lang="RU">
         <seg>Затем содержимое ответа передается на обработку командой ОС с использованием параметров &lt;x5/&gt;Исходное имя файла ответа&lt;x6/&gt;, &lt;x7/&gt;Результирующее имя файла ответа&lt;x8/&gt;, &lt;x9/&gt;Команда обработки файла ответа&lt;x10/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200430T223340Z" creationid="Марианна" creationdate="20200426T101447Z">
-        <seg>Then the response content is transferred for processing by the OS command with an application of the following parameters: &lt;x5/&gt;The response file source name&lt;x6/&gt;, &lt;x7/&gt;The resulting name of the response file&lt;x8/&gt;, &lt;x9/&gt;The response file processing command&lt;x10/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T100108Z" creationid="Марианна" creationdate="20200426T101447Z">
+        <seg>Then the response content is transferred for processing by the OS command by applying the following parameters: &lt;x5/&gt;The response file source name&lt;x6/&gt;, &lt;x7/&gt;The resulting name of the response file&lt;x8/&gt;, &lt;x9/&gt;The response file processing command&lt;x10/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1850,12 +1853,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>A: The final result of the transformation stages is the formation of the XML response, the structure of which complies with the XSD schema of the service description.</note>
+      <note>A: The final result of the transformation stages is the formation of the XML response, the structure of which complies with the XSD schema of the service description.
+M: Done. </note>
       <tuv lang="RU">
         <seg>Конечным результатом этапов трансформации должно стать формирование XML-ответа, структура которого соответствует XSD-схеме описания сервиса.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200430T223405Z" creationid="Марианна" creationdate="20200427T114355Z">
-        <seg>The final result of the transformation stages is the formation of the XML response the structure of which complies with the XSD schema of the service description.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T100208Z" creationid="Марианна" creationdate="20200427T114355Z">
+        <seg>The final result of the transformation stages is the formation of the XML response, the structure of which complies with the XSD schema of the service description.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2713,12 +2717,13 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
-      <note>A; The path to the schema is specified in The schema to which the service description will refer the parameter. </note>
+      <note>A; The path to the schema is specified in The schema to which the service description will refer the parameter. 
+M: Done. </note>
       <tuv lang="RU">
         <seg>Путь к схеме задается в параметре &lt;x17/&gt;Схема, на которую будет ссылаться описание сервиса&lt;x18/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200430T214912Z" creationid="Марианна" creationdate="20200427T115533Z">
-        <seg>The path to the schema is specified in &lt;x17/&gt;The schema to which the service description will refer&lt;x18/&gt; parameter.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T100258Z" creationid="Марианна" creationdate="20200427T115533Z">
+        <seg>The path to the schema is specified in &lt;x17/&gt;The schema to which the service description will refer the &lt;x18/&gt; parameter.</seg>
       </tuv>
     </tu>
     <tu>
