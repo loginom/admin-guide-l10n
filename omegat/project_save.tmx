@@ -957,8 +957,8 @@ Done. </note>
       <tuv lang="RU">
         <seg>В самом скрипте могут быть определены входные параметры, как это показано в следующем примере:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200424T102513Z" creationid="Марианна" creationdate="20200424T102513Z">
-        <seg>The input parameters can be specified in the workflow as such as it is represented by means of the following example:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T093056Z" creationid="Марианна" creationdate="20200424T102513Z">
+        <seg>The input parameters can be specified in the workflow as such, as it is represented by means of the following example:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1608,12 +1608,13 @@ A: Actually, I removed one of the commas. Now it flows better!</note>
     </tu>
     <tu>
       <note>A: MemberCode, UserID, Password parameters, taking the values specified in the Configurator,are described in the workflow body. 
-Vasiliy: судя по глоссарию надо писать script, а не workflow</note>
+Vasiliy: судя по глоссарию надо писать script, а не workflow
+M: Done. Vasya, thanks. I have changed the term. </note>
       <tuv lang="RU">
         <seg>Здесь в теле скрипта описаны параметры &lt;x1/&gt;MemberCode&lt;x2/&gt;, &lt;x3/&gt;UserID&lt;x4/&gt;, &lt;x5/&gt;Password&lt;x6/&gt;, принимающие значения, заданные в &lt;x7/&gt;Конфигураторе&lt;x8/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200424T103224Z" creationid="Марианна" creationdate="20200424T103224Z">
-        <seg>&lt;x1/&gt;MemberCode&lt;x2/&gt;, &lt;x3/&gt;UserID&lt;x4/&gt;, &lt;x5/&gt;Password&lt;x6/&gt; parameters taking the values specified in the &lt;x7/&gt;Configurator&lt;x8/&gt; are described in the workflow body.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T093219Z" creationid="Марианна" creationdate="20200424T103224Z">
+        <seg>&lt;x1/&gt;MemberCode&lt;x2/&gt;, &lt;x3/&gt;UserID&lt;x4/&gt;, &lt;x5/&gt;Password&lt;x6/&gt; parameters, taking the values specified in the &lt;x7/&gt;Configurator&lt;x8/&gt;, are described in the script body.</seg>
       </tuv>
     </tu>
     <tu>
