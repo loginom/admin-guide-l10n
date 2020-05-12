@@ -899,12 +899,13 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
-      <note>A: According to this example by the following reference: /WebServiceProxy/Service.svc?xsd=xsd1 &lt;xsd:import … &gt;, construction enables the importing of the XSD schema of the service description.</note>
+      <note>A: According to this example by the following reference: /WebServiceProxy/Service.svc?xsd=xsd1 &lt;xsd:import … &gt;, construction enables the importing of the XSD schema of the service description.
+M: Done. </note>
       <tuv lang="RU">
         <seg>В данном примере по ссылке &lt;x1/&gt;/WebServiceProxy/Service.svc?xsd=xsd1&lt;x2/&gt; конструкцией &lt;x3/&gt;&lt;xsd:import … &gt;&lt;x4/&gt; импортируется XSD-схема описания сервиса.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200428T115227Z" creationid="Марианна" creationdate="20200428T115227Z">
-        <seg>According to this example by the following reference: &lt;x1/&gt;/WebServiceProxy/Service.svc?xsd=xsd1&lt;x2/&gt;  &lt;x3/&gt;&lt;xsd:import … &gt;&lt;x4/&gt; construction enables to import the XSD schema of the service description.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T101420Z" creationid="Марианна" creationdate="20200428T115227Z">
+        <seg>According to this example by the following reference: &lt;x1/&gt;/WebServiceProxy/Service.svc?xsd=xsd1&lt;x2/&gt;  &lt;x3/&gt;&lt;xsd:import … &gt;&lt;x4/&gt;, construction enables the importing of the XSD schema of the service description.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2214,8 +2215,8 @@ Settled in correspondence)
       <tuv lang="RU">
         <seg>Определения всех сообщений запросов и ответов описываются отдельными элементами импортируемой схемы, и представлены узлами WSDL &lt;x7/&gt;&lt;wsdl:message&gt;&lt;x8/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200430T224341Z" creationid="Марианна" creationdate="20200428T110450Z">
-        <seg>Definitions of all requests and responses messages are provided by the separate elements of the imported schema, and they are represented by the WSDL nodes &lt;x7/&gt;&lt;wsdl:message&gt;&lt;x8/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T101256Z" creationid="Марианна" creationdate="20200428T110450Z">
+        <seg>Definitions of all requests and response messages are provided by the separate elements of the imported schema, and they are represented by the WSDL nodes &lt;x7/&gt;&lt;wsdl:message&gt;&lt;x8/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2670,12 +2671,13 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
-      <note>A: Here is an example of the XSD schema import of the service description in the &lt;wsdl:types&gt; WSDL section and descriptions of the message formats based on the imported schema in the &lt;wsdl:message&gt; nodes: </note>
+      <note>A: Here is an example of the XSD schema import of the service description in the &lt;wsdl:types&gt; WSDL section and descriptions of the message formats based on the imported schema in the &lt;wsdl:message&gt; nodes: 
+M: Done. </note>
       <tuv lang="RU">
         <seg>Пример импорта XSD-схемы описания сервиса в разделе WSDL &lt;x1/&gt;&lt;wsdl:types&gt;&lt;x2/&gt; и описания форматов сообщений на основе импортированной схемы в узлах &lt;x3/&gt;&lt;wsdl:message&gt;&lt;x4/&gt;:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200430T231803Z" creationid="Марианна" creationdate="20200428T110830Z">
-        <seg>The example of the XSD schema import of the service description in the &lt;x1/&gt;&lt;wsdl:types&gt;&lt;x2/&gt; WSDL section and descriptions of the message formats based on the imported schema in the &lt;x3/&gt;&lt;wsdl:message&gt;&lt;x4/&gt; nodes:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T101332Z" creationid="Марианна" creationdate="20200428T110830Z">
+        <seg>Here is an example of the XSD schema import of the service description in the &lt;x1/&gt;&lt;wsdl:types&gt;&lt;x2/&gt; WSDL section and descriptions of the message formats based on the imported schema in the &lt;x3/&gt;&lt;wsdl:message&gt;&lt;x4/&gt; nodes:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2890,8 +2892,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Структура (&lt;x5/&gt;tipe&lt;x6/&gt;) входящего сообщения (запроса) метода &lt;x7/&gt;Cheques&lt;x8/&gt; сервиса &lt;x9/&gt;DIS_stend-sup-29&lt;x10/&gt; в узле &lt;x11/&gt;&lt;wsdl:message name="DIS_stend-sup-29_Cheques_InputMessage"&gt;&lt;x12/&gt; задается определяемым в этой схеме элементом &lt;x13/&gt;Cheques&lt;x14/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dell" changedate="20200502T061308Z" creationid="Марианна" creationdate="20200428T121815Z">
-        <seg>(&lt;x5/&gt;tipe&lt;x6/&gt;) structure of the incoming message (request) of &lt;x7/&gt;Cheques&lt;x8/&gt; method of &lt;x9/&gt;DIS_stend-sup-29&lt;x10/&gt; service in the &lt;x11/&gt;&lt;wsdl:message name="DIS_stend-sup-29_Cheques_InputMessage"&gt;&lt;x12/&gt; node is set by the &lt;x13/&gt;Cheques&lt;x14/&gt; element defined in this schema. </seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T101556Z" creationid="Марианна" creationdate="20200428T121815Z">
+        <seg>(&lt;x5/&gt;tipe&lt;x6/&gt;) structure of the incoming message (request) of the &lt;x7/&gt;Cheques&lt;x8/&gt; method of the &lt;x9/&gt;DIS_stend-sup-29&lt;x10/&gt; service in the &lt;x11/&gt;&lt;wsdl:message name="DIS_stend-sup-29_Cheques_InputMessage"&gt;&lt;x12/&gt; node is set by the &lt;x13/&gt;Cheques&lt;x14/&gt; element defined in this schema. </seg>
       </tuv>
     </tu>
     <tu>
