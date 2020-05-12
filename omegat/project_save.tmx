@@ -1010,12 +1010,13 @@ Ok, the XML elements. Corrected everywhere.
       </tuv>
     </tu>
     <tu>
-      <note>A: If the values of The request file source name and The resulting name of the request file parameters are not specified, the files names will be generated according to randomly generated GUID (Globally Unique Identifier), without extension.</note>
+      <note>A: If the values of The request file source name and The resulting name of the request file parameters are not specified, the files names will be generated according to randomly generated GUID (Globally Unique Identifier), without extension.
+M: Done.</note>
       <tuv lang="RU">
         <seg>В случае, если значения параметров &lt;x1/&gt;Исходное имя файла запроса&lt;x2/&gt; и &lt;x3/&gt;Результирующее имя файла запроса&lt;x4/&gt; не заданы, то будут сформированы имена файлов на основе случайно сгенерированных GUID (Globally Unique Identifier) без расширения.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dell" changedate="20200502T062651Z" creationid="Марианна" creationdate="20200426T095002Z">
-        <seg>If the values of &lt;x1/&gt;The request file source name&lt;x2/&gt; and &lt;x3/&gt;The resulting name of the request fileа&lt;x4/&gt; parameters are not specified, the files names will be generated according to randomly generated GUID (Globally Unique Identifier) without extension. </seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T094723Z" creationid="Марианна" creationdate="20200426T095002Z">
+        <seg>If the values of &lt;x1/&gt;The request file source name&lt;x2/&gt; and &lt;x3/&gt;The resulting name of the request file&lt;x4/&gt; parameters are not specified, the files names will be generated according to randomly generated GUID (Globally Unique Identifier), without extension. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2572,12 +2573,13 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>A: The files will be placed into the folder with Web.config in case of full path absence.</note>
+      <note>A: The files will be placed into the folder with Web.config in case of full path absence.
+M: Done.</note>
       <tuv lang="RU">
         <seg>При отсутствии полного пути файлы будут располагаться в папке с &lt;x9/&gt;Web.config&lt;x10/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200510T213327Z" creationid="Марианна" creationdate="20200426T095938Z">
-        <seg>The files will be placed into the folder with &lt;x9/&gt;Web.config&lt;x10/&gt; in the case of the full path absence.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T094605Z" creationid="Марианна" creationdate="20200426T095938Z">
+        <seg>The files will be placed into the folder with &lt;x9/&gt;Web.config&lt;x10/&gt; in the case of full path absence.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2811,12 +2813,13 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
-      <note>A: The output file content is then transferred to the next processing stage.</note>
+      <note>A: The output file content is then transferred to the next processing stage.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Содержание выходного файла передается на следующий этап обработки.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T100425Z" creationid="Марианна" creationdate="20200426T100425Z">
-        <seg>The output file content is transferred to the next processing stage.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T094628Z" creationid="Марианна" creationdate="20200426T100425Z">
+        <seg>The output file content is then transferred to the next processing stage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3084,12 +3087,13 @@ Done</note>
       </tuv>
     </tu>
     <tu>
-      <note>A: These temporary files will be also placed into the folder with Web.config. They will be deleted after processing. </note>
+      <note>A: These temporary files will be also placed into the folder with Web.config. They will be deleted after processing. 
+M: Done.</note>
       <tuv lang="RU">
         <seg>Эти временные файлы так же будут располагаться в папке с &lt;x5/&gt;Web.config&lt;x6/&gt;, а по окончании обработки удалятся.</seg>
       </tuv>
-      <tuv lang="EN" changeid="mayorov" changedate="20200507T091316Z" creationid="Марианна" creationdate="20200426T100830Z">
-        <seg>These temporary files will be also placed into the folder with &lt;x5/&gt;Web.config&lt;x6/&gt;. They will be deleted after the processing.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T094756Z" creationid="Марианна" creationdate="20200426T100830Z">
+        <seg>These temporary files will be also placed into the folder with &lt;x5/&gt;Web.config&lt;x6/&gt;. They will be deleted after processing.</seg>
       </tuv>
     </tu>
     <tu>
