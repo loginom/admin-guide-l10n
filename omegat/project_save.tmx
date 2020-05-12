@@ -139,12 +139,13 @@ A: "while the command" is placed in a different part of the segment in Github, a
       </tuv>
     </tu>
     <tu>
-      <note>A: URL for request sending</note>
+      <note>A: URL for request sending
+M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;URL для отправки запроса&lt;x2/&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200428T103859Z" creationid="Марианна" creationdate="20200426T111152Z">
-        <seg>&lt;x1/&gt;URL for the request sending&lt;x2/&gt;</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T095157Z" creationid="Марианна" creationdate="20200426T111152Z">
+        <seg>&lt;x1/&gt;URL for request sending&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1569,12 +1570,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>A: In the SOAPAction header, it is required to state the value of the SOAPAction that is required to transfer in the header parameter.</note>
+      <note>A: In the SOAPAction header, it is required to state the value of the SOAPAction that is required to transfer in the header parameter.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Заголовок &lt;x5/&gt;SOAPAction&lt;x6/&gt; заполняется значением параметра &lt;x7/&gt;SOAPAction, который необходимо передавать в заголовке&lt;x8/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200430T230117Z" creationid="Марианна" creationdate="20200426T111501Z">
-        <seg>In the &lt;x5/&gt;SOAPAction&lt;x6/&gt; header it is required to state the value of the &lt;x7/&gt;SOAPAction that is required to transfer in the header&lt;x8/&gt; parameter. </seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T095245Z" creationid="Марианна" creationdate="20200426T111501Z">
+        <seg>In the &lt;x5/&gt;SOAPAction&lt;x6/&gt; header, it is required to state the value of the &lt;x7/&gt;SOAPAction that is required to transfer in the header&lt;x8/&gt; parameter. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1966,12 +1968,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>A At the stage of the package sending during the HTTPS connection implementation, encryption with the cerificate usage is applied. </note>
+      <note>A At the stage of the package sending during the HTTPS connection implementation, encryption with the cerificate usage is applied. 
+M: Done.</note>
       <tuv lang="RU">
         <seg>На этапе отправки пакета при реализации HTTPS соединения применяется шифрование с использованием сертификата.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T124440Z" creationid="Марианна" creationdate="20200426T124440Z">
-        <seg>At the stage of the package sending during the HTTPS connection implementation encryption with the cerificate usage is applied.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T095352Z" creationid="Марианна" creationdate="20200426T124440Z">
+        <seg>At the stage of the package sending during the HTTPS connection implementation, encryption with the cerificate usage is applied.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2378,12 +2381,13 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
     </tu>
     <tu>
-      <note>A: To learn more about certificates installation and usage refer to </note>
+      <note>A: To learn more about certificates installation and usage refer to 
+M: Done.</note>
       <tuv lang="RU">
         <seg>Подробнее об установке и использовании сертификатов см.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T124619Z" creationid="Марианна" creationdate="20200426T124619Z">
-        <seg>To learn more on the certificates installation and usage refer to</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T095416Z" creationid="Марианна" creationdate="20200426T124619Z">
+        <seg>To learn more about certificates installation and usage refer to</seg>
       </tuv>
     </tu>
     <tu>
@@ -2508,12 +2512,13 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>A: While interacting with the external services the Adapter uses only the POST requests. The GET requests are not used.</note>
+      <note>A: While interacting with the external services the Adapter uses only the POST requests. The GET requests are not used.
+M: Done.</note>
       <tuv lang="RU">
         <seg>При взаимодействии с внешними сервисами &lt;x1/&gt;Адаптер&lt;x2/&gt; использует только POST-запросы, GET-запросы не используются.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200430T230339Z" creationid="Марианна" creationdate="20200426T111824Z">
-        <seg>While interacting with the external services the &lt;x1/&gt;Adapter&lt;x2/&gt; uses only the POST requests, the GET requests are not used.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T095311Z" creationid="Марианна" creationdate="20200426T111824Z">
+        <seg>While interacting with the external services the &lt;x1/&gt;Adapter&lt;x2/&gt; uses only the POST requests. The GET requests are not used.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2525,12 +2530,13 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>A: While filling in the HTTP/HTTPS package sections sent to the external service, the following parameters of the Configurator are also used: </note>
+      <note>A: While filling in the HTTP/HTTPS package sections sent to the external service, the following parameters of the Configurator are also used: 
+M: Done.</note>
       <tuv lang="RU">
         <seg>При заполнении секций HTTP/HTTPS пакета, отправляемого внешнему сервису, также используются следующие параметры &lt;x9/&gt;Конфигуратора&lt;x10/&gt;:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200426T111031Z" creationid="Марианна" creationdate="20200426T111031Z">
-        <seg>While filling in the HTTP/HTTPS package sections, sent to the external service, the following parameters of the &lt;x9/&gt;Configurator&lt;x10/&gt; are also used:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200512T095133Z" creationid="Марианна" creationdate="20200426T111031Z">
+        <seg>While filling in the HTTP/HTTPS package sections sent to the external service, the following parameters of the &lt;x9/&gt;Configurator&lt;x10/&gt; are also used:</seg>
       </tuv>
     </tu>
     <tu>
