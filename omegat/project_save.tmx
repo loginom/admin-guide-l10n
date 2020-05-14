@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2136,6 +2136,22 @@ Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Общие настройки сервера</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T051558Z" creationid="Марианна" creationdate="20200514T051558Z">
+        <seg>The Server General Settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Общие настройки сервера хранятся в xml файле &lt;x1/&gt;Settings.cfg&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T051638Z" creationid="Марианна" creationdate="20200514T051638Z">
+        <seg>The server general settings are kept in the XML &lt;x1/&gt;Settings.cfg&lt;x2/&gt; file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Общие настройки&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200221T072407Z" creationid="Марианна" creationdate="20200221T072407Z">
@@ -2287,6 +2303,14 @@ M:Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200512T100801Z" creationid="Марианна" creationdate="20200428T104612Z">
         <seg>&lt;x1/&gt;The web service name&lt;x2/&gt;, &lt;x3/&gt;Method name&lt;x4/&gt;, &lt;x5/&gt;Method name in the Loginom Adapter&lt;x6/&gt; parameters participate in the formation of the elements' name of the service WSDL description. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Параметры каталогов задаются в атрибутах элемента &lt;x1/&gt;Settings/Directories&lt;x2/&gt;:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T051741Z" creationid="Марианна" creationdate="20200514T051741Z">
+        <seg>The directory parameters are set in the attributes of the &lt;x1/&gt;Settings/Directories&lt;x2/&gt; element:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2778,6 +2802,14 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200512T095631Z" creationid="Марианна" creationdate="20200426T124906Z">
         <seg>Certificates Usage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Расположение рабочего каталога по умолчанию - &lt;x1/&gt;%AllUsersProfile%\BaseGroup\Loginom 6\Server&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T051526Z" creationid="Марианна" creationdate="20200514T051526Z">
+        <seg>The default location of the work directory - &lt;x1/&gt;%AllUsersProfile%\BaseGroup\Loginom 6\Server&lt;x2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
