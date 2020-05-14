@@ -269,6 +269,30 @@ OK</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;llError&lt;x2/&gt; - ошибка.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T053025Z" creationid="Марианна" creationdate="20200514T053025Z">
+        <seg>&lt;x1/&gt;llError&lt;x2/&gt; - error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;llFatal&lt;x2/&gt; - авария.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T053151Z" creationid="Марианна" creationdate="20200514T053151Z">
+        <seg>&lt;x1/&gt;llFatal&lt;x2/&gt; - incident.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;llHint&lt;x2/&gt; - событие.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T052940Z" creationid="Марианна" creationdate="20200514T052940Z">
+        <seg>&lt;x1/&gt;llHint&lt;x2/&gt; - event.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;llInfo&lt;x2/&gt; - информация.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200514T052905Z" creationid="Марианна" creationdate="20200514T052905Z">
@@ -281,6 +305,14 @@ OK</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200514T052837Z" creationid="Марианна" creationdate="20200514T052837Z">
         <seg>&lt;x1/&gt;llTrace&lt;x2/&gt; - tracing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;llWarn&lt;x2/&gt; - предупреждение.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T053018Z" creationid="Марианна" creationdate="20200514T053018Z">
+        <seg>&lt;x1/&gt;llWarn&lt;x2/&gt; - warning.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2525,6 +2557,14 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200514T052038Z" creationid="Марианна" creationdate="20200514T052038Z">
         <seg>Bindings parameters are set in the attributes of the &lt;x1/&gt;Settings/Bindings&lt;x2/&gt; element:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Параметры файлов журналов задаются в атрибутах элемента &lt;x1/&gt;Logging/File&lt;x2/&gt;:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T053238Z" creationid="Марианна" creationdate="20200514T053238Z">
+        <seg>Parameters of the logging files are set in the attributes of the &lt;x1/&gt;Logging/File&lt;x2/&gt; element:</seg>
       </tuv>
     </tu>
     <tu>
