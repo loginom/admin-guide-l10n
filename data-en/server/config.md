@@ -8,8 +8,8 @@ The server general settings are kept in the XML `Settings.cfg` file.
 
 The directory parameters are set in the attributes of the `Settings/Directories` element:
 
-* **UserStorage** - location of the user directories. The values can be a full or relative path (from the working directory).
-* **SessionBackup** - location of the backup session copies directory. The values can be a full or relative path (from the working directory).
+* **UserStorage** - location of the user directories. The value can be a full or relative path (from the working directory).
+* **SessionBackup** - location of the backup session copies directory. The value can be a full or relative path (from the working directory).
 
 Bindings parameters are set in the attributes of the `Settings/Bindings` element:
 
