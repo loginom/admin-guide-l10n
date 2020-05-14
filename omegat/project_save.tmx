@@ -1914,8 +1914,8 @@ OK, I have got it. The WSDL description everywhere. And the names (name). Three 
       <tuv lang="RU">
         <seg>Значением может быть полный или относительный (от рабочего каталога) путь.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200514T054040Z" creationid="Марианна" creationdate="20200514T051839Z">
-        <seg>The values can be a full or relative path (from the working directory).</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T054503Z" creationid="Марианна" creationdate="20200514T051839Z">
+        <seg>The value can be a full or relative path (from the working directory).</seg>
       </tuv>
     </tu>
     <tu>
