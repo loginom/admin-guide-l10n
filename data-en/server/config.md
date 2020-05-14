@@ -1,6 +1,6 @@
 # Configuration
 
-Loginom Server configuration files are in the work directory. The default location of the work directory - `%AllUsersProfile%\BaseGroup\Loginom 6\Server`.
+Loginom Server configuration files are in the working directory. The default location of the working directory - `%AllUsersProfile%\BaseGroup\Loginom 6\Server`.
 
 ## The Server General Settings
 
@@ -8,8 +8,8 @@ The server general settings are kept in the XML `Settings.cfg` file.
 
 The directory parameters are set in the attributes of the `Settings/Directories` element:
 
-* **UserStorage** - location of the user directories. The values can be a full or relative path (from the work directory).
-* **SessionBackup** - location of the backup session copies directory. The values can be a full or relative path (from the work directory).
+* **UserStorage** - location of the user directories. The values can be a full or relative path (from the working directory).
+* **SessionBackup** - location of the backup session copies directory. The values can be a full or relative path (from the working directory).
 
 Bindings parameters are set in the attributes of the `Settings/Bindings` element:
 
@@ -20,14 +20,14 @@ Bindings parameters are set in the attributes of the `Settings/Bindings` element
 * **WSPort** - port number for Loginom Studio connection according to the websocket (ws) protocol.
    * Default value: `8080`.
 * **WSSPort** - port number for Loginom Studio connection according to the websocket secure (wss) protocol.
-* **SSLCertificateFile** - a full or relative path (from the work directory) to the SSL certificate file in the *pem* format.
-* **SSLPrivateKeyFile** - a full or relative path (from the work directory) to the SSL key file in the *pem* format.
+* **SSLCertificateFile** - a full or relative path (from the working directory) to the SSL certificate file in the *pem* format.
+* **SSLPrivateKeyFile** - a full or relative path (from the working directory) to the SSL key file in the *pem* format.
 
 ## Logging
 
 Logging parameters are kept in the XML `Logs.cfg` file.
 
-The log files are kept in the `Logs` subdirectory of the work directory.
+The log files are kept in the `Logs` subdirectory of the working directory.
 
 The general settings are set in the attributes of the `Logging/Common` element:
 
