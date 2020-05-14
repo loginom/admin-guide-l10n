@@ -1873,6 +1873,14 @@ M: Done. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Конфигурация</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T051255Z" creationid="Марианна" creationdate="20200514T051255Z">
+        <seg>Configuration</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Конфигурация Loginom Adapter</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200205T055051Z" creationid="Марианна" creationdate="20200203T072253Z">
@@ -3029,6 +3037,14 @@ Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T195106Z" creationid="Марианна" creationdate="20200502T195106Z">
         <seg>Management</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Файлы конфигурации Loginom Server располагаются в рабочем каталоге.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T051450Z" creationid="Марианна" creationdate="20200514T051450Z">
+        <seg>Loginom Server configuration files are in the work directory.</seg>
       </tuv>
     </tu>
     <tu>
