@@ -139,6 +139,14 @@ A: "while the command" is placed in a different part of the segment in Github, a
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;SessionBackup&lt;x2/&gt; - расположение каталога резервных копий сессий.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T051954Z" creationid="Марианна" creationdate="20200514T051954Z">
+        <seg>&lt;x1/&gt;SessionBackup&lt;x2/&gt; - location of the backup session copies directory.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A: URL for request sending
 M: Done.</note>
       <tuv lang="RU">
@@ -154,6 +162,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200429T105218Z" creationid="Марианна" creationdate="20200225T130012Z">
         <seg>&lt;x1/&gt;URL for the request sending&lt;x2/&gt; — the web service address for requests sending.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;UserStorage&lt;x2/&gt; - расположение каталогов пользователей.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T051805Z" creationid="Марианна" creationdate="20200514T051805Z">
+        <seg>&lt;x1/&gt;UserStorage&lt;x2/&gt; - location of the user directories.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1703,6 +1719,14 @@ OK, I have got it. The WSDL description everywhere. And the names (name). Three 
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Значением может быть полный или относительный (от рабочего каталога) путь.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T051839Z" creationid="Марианна" creationdate="20200514T051839Z">
+        <seg>The values can be a full or relative path (from the work directory).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Andrew:
 The values of &lt;x11/&gt;soap&lt;x12/&gt;, &lt;x13/&gt;soap12&lt;x14/&gt; parameter enables assignment of mode of the external service operation, as with SOAP service in Specifications 1.1 and 1.2 correspondingly.&lt;segment 0052&gt;
 
@@ -2349,6 +2373,14 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T220458Z" creationid="Марианна" creationdate="20200221T071943Z">
         <seg>Parameters of the General Settings </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Параметры привязок задаются в атрибутах элемента &lt;x1/&gt;Settings/Bindings&lt;x2/&gt;:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T052038Z" creationid="Марианна" creationdate="20200514T052038Z">
+        <seg>Bindings parameters are set in the attributes of the &lt;x1/&gt;Settings/Bindings&lt;x2/&gt; element:</seg>
       </tuv>
     </tu>
     <tu>
