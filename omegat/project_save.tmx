@@ -156,6 +156,22 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;SSLCertificateFile&lt;x2/&gt; - полный или относительный (от рабочего каталога) путь к файлу сертификата SSL в формате &lt;x3/&gt;pem&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T052506Z" creationid="Марианна" creationdate="20200514T052506Z">
+        <seg>&lt;x1/&gt;SSLCertificateFile&lt;x2/&gt; - a full or relative path (from the work directory) to the SSL certificate file in the &lt;x3/&gt;pem&lt;x4/&gt; format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;SSLPrivateKeyFile&lt;x2/&gt; - полный или относительный (от рабочего каталога) путь к файлу ключа SSL в формате &lt;x3/&gt;pem&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T052538Z" creationid="Марианна" creationdate="20200514T052538Z">
+        <seg>&lt;x1/&gt;SSLPrivateKeyFile&lt;x2/&gt; - a full or relative path (from the work directory) to the SSL key file in the &lt;x3/&gt;pem&lt;x4/&gt; format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;SessionBackup&lt;x2/&gt; - расположение каталога резервных копий сессий.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200514T051954Z" creationid="Марианна" creationdate="20200514T051954Z">
@@ -194,6 +210,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200514T052245Z" creationid="Марианна" creationdate="20200514T052245Z">
         <seg>&lt;x1/&gt;WSPort&lt;x2/&gt; - port number for Loginom Studio connection according to the websocket (ws) protocol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;WSSPort&lt;x2/&gt; - номер порта для подключения Loginom Studio по протоколу websocket secure (wss).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T052330Z" creationid="Марианна" creationdate="20200514T052330Z">
+        <seg>&lt;x1/&gt;WSSPort&lt;x2/&gt; - port number for Loginom Studio connection according to the websocket secure (wss) protocol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1607,6 +1631,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Журналирование</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T052550Z" creationid="Марианна" creationdate="20200514T052550Z">
+        <seg>Logging</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Заголовки (&lt;x1/&gt;Message Headers&lt;x2/&gt;)</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200426T111201Z" creationid="Марианна" creationdate="20200426T111201Z">
@@ -2375,6 +2407,14 @@ M:Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200512T100801Z" creationid="Марианна" creationdate="20200428T104612Z">
         <seg>&lt;x1/&gt;The web service name&lt;x2/&gt;, &lt;x3/&gt;Method name&lt;x4/&gt;, &lt;x5/&gt;Method name in the Loginom Adapter&lt;x6/&gt; parameters participate in the formation of the elements' name of the service WSDL description. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Параметры журналирования хранятся в xml файле &lt;x1/&gt;Logs.cfg&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T052621Z" creationid="Марианна" creationdate="20200514T052621Z">
+        <seg>Logging parameters are kept in the XML &lt;x1/&gt;Logs.cfg&lt;x2/&gt; file.</seg>
       </tuv>
     </tu>
     <tu>
