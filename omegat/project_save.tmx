@@ -124,6 +124,14 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;LogFileMaxIndex&lt;x2/&gt; - максимальное количество файлов журнала.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T053650Z" creationid="Марианна" creationdate="20200514T053650Z">
+        <seg>&lt;x1/&gt;LogFileMaxIndex&lt;x2/&gt; - the maximum number of the log files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;LogFileMaxSize&lt;x2/&gt; - максимальный размер файла журнала в байтах.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200514T053544Z" creationid="Марианна" creationdate="20200514T053544Z">
@@ -2640,6 +2648,22 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T070001Z" creationid="Марианна" creationdate="20200502T060903Z">
         <seg>the path in the file system specified in the &lt;x1/&gt;Certificate path&lt;x2/&gt; parameter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>По умолчанию 10.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T053702Z" creationid="Марианна" creationdate="20200514T053702Z">
+        <seg>By default 10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>По умолчанию 10485760 (10Mb).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T053558Z" creationid="Марианна" creationdate="20200514T053558Z">
+        <seg>By default 10485760 (10 Mb).</seg>
       </tuv>
     </tu>
     <tu>
