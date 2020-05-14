@@ -1882,8 +1882,8 @@ OK, I have got it. The WSDL description everywhere. And the names (name). Three 
       <tuv lang="RU">
         <seg>Значение по умолчанию.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200514T052916Z" creationid="Марианна" creationdate="20200514T052916Z">
-        <seg>Default Value.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T054646Z" creationid="Марианна" creationdate="20200514T052916Z">
+        <seg>Default value.</seg>
       </tuv>
     </tu>
     <tu>
