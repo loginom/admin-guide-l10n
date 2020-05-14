@@ -3088,8 +3088,8 @@ M: Done. </note>
       <tuv lang="RU">
         <seg>Расположение рабочего каталога по умолчанию - &lt;x1/&gt;%AllUsersProfile%\BaseGroup\Loginom 6\Server&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200514T051526Z" creationid="Марианна" creationdate="20200514T051526Z">
-        <seg>The default location of the work directory - &lt;x1/&gt;%AllUsersProfile%\BaseGroup\Loginom 6\Server&lt;x2/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T054033Z" creationid="Марианна" creationdate="20200514T051526Z">
+        <seg>The default location of the working directory - &lt;x1/&gt;%AllUsersProfile%\BaseGroup\Loginom 6\Server&lt;x2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3363,8 +3363,8 @@ Done. </note>
       <tuv lang="RU">
         <seg>Файлы конфигурации Loginom Server располагаются в рабочем каталоге.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200514T051450Z" creationid="Марианна" creationdate="20200514T051450Z">
-        <seg>Loginom Server configuration files are in the work directory.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T054025Z" creationid="Марианна" creationdate="20200514T051450Z">
+        <seg>Loginom Server configuration files are in the working directory.</seg>
       </tuv>
     </tu>
     <tu>
