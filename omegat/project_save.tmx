@@ -198,16 +198,16 @@ A: "while the command" is placed in a different part of the segment in Github, a
       <tuv lang="RU">
         <seg>&lt;x1/&gt;SSLCertificateFile&lt;x2/&gt; - полный или относительный (от рабочего каталога) путь к файлу сертификата SSL в формате &lt;x3/&gt;pem&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200514T052506Z" creationid="Марианна" creationdate="20200514T052506Z">
-        <seg>&lt;x1/&gt;SSLCertificateFile&lt;x2/&gt; - a full or relative path (from the work directory) to the SSL certificate file in the &lt;x3/&gt;pem&lt;x4/&gt; format.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T054048Z" creationid="Марианна" creationdate="20200514T052506Z">
+        <seg>&lt;x1/&gt;SSLCertificateFile&lt;x2/&gt; - a full or relative path (from the working directory) to the SSL certificate file in the &lt;x3/&gt;pem&lt;x4/&gt; format.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;SSLPrivateKeyFile&lt;x2/&gt; - полный или относительный (от рабочего каталога) путь к файлу ключа SSL в формате &lt;x3/&gt;pem&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200514T052538Z" creationid="Марианна" creationdate="20200514T052538Z">
-        <seg>&lt;x1/&gt;SSLPrivateKeyFile&lt;x2/&gt; - a full or relative path (from the work directory) to the SSL key file in the &lt;x3/&gt;pem&lt;x4/&gt; format.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T054055Z" creationid="Марианна" creationdate="20200514T052538Z">
+        <seg>&lt;x1/&gt;SSLPrivateKeyFile&lt;x2/&gt; - a full or relative path (from the working directory) to the SSL key file in the &lt;x3/&gt;pem&lt;x4/&gt; format.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1914,8 +1914,8 @@ OK, I have got it. The WSDL description everywhere. And the names (name). Three 
       <tuv lang="RU">
         <seg>Значением может быть полный или относительный (от рабочего каталога) путь.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200514T051839Z" creationid="Марианна" creationdate="20200514T051839Z">
-        <seg>The values can be a full or relative path (from the work directory).</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T054040Z" creationid="Марианна" creationdate="20200514T051839Z">
+        <seg>The values can be a full or relative path (from the working directory).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3355,8 +3355,8 @@ Done. </note>
       <tuv lang="RU">
         <seg>Файлы журналов сохраняются в подкаталоге &lt;x1/&gt;Logs&lt;x2/&gt; рабочего каталога.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200514T052716Z" creationid="Марианна" creationdate="20200514T052716Z">
-        <seg>The log files are kept in the &lt;x1/&gt;Logs&lt;x2/&gt; subdirectory of the work directory.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T054108Z" creationid="Марианна" creationdate="20200514T052716Z">
+        <seg>The log files are kept in the &lt;x1/&gt;Logs&lt;x2/&gt; subdirectory of the working directory.</seg>
       </tuv>
     </tu>
     <tu>
