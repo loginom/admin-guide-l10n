@@ -34,7 +34,7 @@ The general settings are set in the attributes of the `Logging/Common` element:
 * **MinLogLevel** - the minimum logging level. Possible values:
    * **llTrace** - tracing.
    * **llDebug** - debugging.
-   * **llInfo** - information. Default Value.
+   * **llInfo** - information. Default value.
    * **llHint** - event.
    * **llWarn** - warning.
    * **llError** - error.
