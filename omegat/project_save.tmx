@@ -108,6 +108,14 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Bind&lt;x2/&gt; - IP адрес сетевого интерфейса, используемого сервером Loginom.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T052111Z" creationid="Марианна" creationdate="20200514T052111Z">
+        <seg>&lt;x1/&gt;Bind&lt;x2/&gt; - IP address of the network interface used by Loginom server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;ContentType для передачи в заголовке&lt;x2/&gt; — значение данного параметра передается в заголовке &lt;x3/&gt;Content-Type&lt;x4/&gt; пакета сообщения к внешнему сервису.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200227T160055Z" creationid="Марианна" creationdate="20200227T160055Z">
@@ -128,6 +136,14 @@ A: "while the command" is placed in a different part of the segment in Github, a
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200428T123840Z" creationid="Марианна" creationdate="20200428T123840Z">
         <seg>&lt;x1/&gt;Namespace of the root element of the SOAP response&lt;x2/&gt;;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Port&lt;x2/&gt; - номер порта для подключения Loginom Integrator и BatchLauncher.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T052149Z" creationid="Марианна" creationdate="20200514T052149Z">
+        <seg>&lt;x1/&gt;Port&lt;x2/&gt; - port number for Loginom Integrator and BatchLauncher connection.</seg>
       </tuv>
     </tu>
     <tu>
@@ -170,6 +186,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200514T051805Z" creationid="Марианна" creationdate="20200514T051805Z">
         <seg>&lt;x1/&gt;UserStorage&lt;x2/&gt; - location of the user directories.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;WSPort&lt;x2/&gt; - номер порта для подключения Loginom Studio по протоколу websocket (ws).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T052245Z" creationid="Марианна" creationdate="20200514T052245Z">
+        <seg>&lt;x1/&gt;WSPort&lt;x2/&gt; - port number for Loginom Studio connection according to the websocket (ws) protocol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1716,6 +1740,30 @@ OK, I have got it. The WSDL description everywhere. And the names (name). Three 
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200429T105139Z" creationid="Марианна" creationdate="20200225T124548Z">
         <seg>The parameter value is used as a part of the names (name) of items and attributes in the WSDL description of the &lt;x3/&gt;Adapter&lt;x4/&gt; web service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Значение по умолчанию: &lt;x1/&gt;0.0.0.0&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T052123Z" creationid="Марианна" creationdate="20200514T052123Z">
+        <seg>Default value: &lt;x1/&gt;0.0.0.0&lt;x2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Значение по умолчанию: &lt;x1/&gt;4580&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T052201Z" creationid="Марианна" creationdate="20200514T052201Z">
+        <seg>Default value: &lt;x1/&gt;4580&lt;x2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Значение по умолчанию: &lt;x1/&gt;8080&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T052255Z" creationid="Марианна" creationdate="20200514T052255Z">
+        <seg>Default value: &lt;x1/&gt;8080&lt;x2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
