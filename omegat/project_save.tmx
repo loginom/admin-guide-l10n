@@ -124,6 +124,30 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;LogFileMaxSize&lt;x2/&gt; - максимальный размер файла журнала в байтах.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T053544Z" creationid="Марианна" creationdate="20200514T053544Z">
+        <seg>&lt;x1/&gt;LogFileMaxSize&lt;x2/&gt; - the maximum size of the log file in bytes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;LogFileName&lt;x2/&gt; - имя файла журнала.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T053252Z" creationid="Марианна" creationdate="20200514T053252Z">
+        <seg>&lt;x1/&gt;LogFileName&lt;x2/&gt; - the log file name.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;LogFileRewrite&lt;x2/&gt; - если атрибут установлен, при старте Loginom Server файл журнала будет перезаписан.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T053440Z" creationid="Марианна" creationdate="20200514T053440Z">
+        <seg>&lt;x1/&gt;LogFileRewrite&lt;x2/&gt; - if the attribute has been set, the log file will be rewritten while Loginom Server launching.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;MinLogLevel&lt;x2/&gt; - минимальный уровень журналирования.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200514T052810Z" creationid="Марианна" creationdate="20200514T052810Z">
@@ -2620,10 +2644,26 @@ M: Done. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>По умолчанию &lt;x3/&gt;app.log&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T053311Z" creationid="Марианна" creationdate="20200514T053311Z">
+        <seg>By default &lt;x3/&gt;app.log&lt;x4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>По умолчанию используется &lt;x7/&gt;utf-8&lt;x8/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200226T110604Z" creationid="Марианна" creationdate="20200226T110604Z">
         <seg> &lt;x7/&gt;utf-8&lt;x8/&gt; is used by default.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>По умолчанию отключен.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T053450Z" creationid="Марианна" creationdate="20200514T053450Z">
+        <seg>Disabled by default.</seg>
       </tuv>
     </tu>
     <tu>
