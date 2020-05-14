@@ -124,6 +124,14 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;MinLogLevel&lt;x2/&gt; - минимальный уровень журналирования.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T052810Z" creationid="Марианна" creationdate="20200514T052810Z">
+        <seg>&lt;x1/&gt;MinLogLevel&lt;x2/&gt; - the minimum logging level.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Namespace корневого элемента SOAP запроса&lt;x2/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200428T123943Z" creationid="Марианна" creationdate="20200428T123943Z">
@@ -249,6 +257,30 @@ OK</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200429T115211Z" creationid="Марианна" creationdate="20200309T125316Z">
         <seg>&lt;x1/&gt;XSLT for the response message transformation&lt;x2/&gt; — the path to corresponding files of the XSLT transformations is specified.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;llDebug&lt;x2/&gt; - отладка.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T052858Z" creationid="Марианна" creationdate="20200514T052858Z">
+        <seg>&lt;x1/&gt;llDebug&lt;x2/&gt; - debugging.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;llInfo&lt;x2/&gt; - информация.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T052905Z" creationid="Марианна" creationdate="20200514T052905Z">
+        <seg>&lt;x1/&gt;llInfo&lt;x2/&gt; - information.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;llTrace&lt;x2/&gt; - трассировка.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T052837Z" creationid="Марианна" creationdate="20200514T052837Z">
+        <seg>&lt;x1/&gt;llTrace&lt;x2/&gt; - tracing.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1209,6 +1241,14 @@ M: Done. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Возможные значения:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T052820Z" creationid="Марианна" creationdate="20200514T052820Z">
+        <seg>Possible values:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Время ожидания задается в секундах в параметре &lt;x3/&gt;Таймаут&lt;x4/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200427T135742Z" creationid="Марианна" creationdate="20200427T135742Z">
@@ -1776,6 +1816,14 @@ OK, I have got it. The WSDL description everywhere. And the names (name). Three 
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Значение по умолчанию.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T052916Z" creationid="Марианна" creationdate="20200514T052916Z">
+        <seg>Default Value.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Значение по умолчанию: &lt;x1/&gt;0.0.0.0&lt;x2/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200514T052123Z" creationid="Марианна" creationdate="20200514T052123Z">
@@ -2228,6 +2276,14 @@ Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200510T212547Z" creationid="Марианна" creationdate="20200502T193256Z">
         <seg>But some web services, for example, CRB, use the individual protocols and data encryption which preclude interaction using the standard Loginom means.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Общие настройки задаются в атрибутах элемента &lt;x1/&gt;Logging/Common&lt;x2/&gt;:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T052756Z" creationid="Марианна" creationdate="20200514T052756Z">
+        <seg>The general settings are set in the attributes of the &lt;x1/&gt;Logging/Common&lt;x2/&gt; element:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3189,6 +3245,14 @@ Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T195106Z" creationid="Марианна" creationdate="20200502T195106Z">
         <seg>Management</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Файлы журналов сохраняются в подкаталоге &lt;x1/&gt;Logs&lt;x2/&gt; рабочего каталога.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200514T052716Z" creationid="Марианна" creationdate="20200514T052716Z">
+        <seg>The log files are kept in the &lt;x1/&gt;Logs&lt;x2/&gt; subdirectory of the work directory.</seg>
       </tuv>
     </tu>
     <tu>
