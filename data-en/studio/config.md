@@ -1,4 +1,4 @@
-# Конфигурация
+# Configuration
 
 Путь к файлу конфигурации Loginom Studio: `%ProgramFiles%\BaseGroup\Loginom 6\Client\server.json`
 

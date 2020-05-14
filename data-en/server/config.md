@@ -1,48 +1,48 @@
-# Конфигурация
+# Configuration
 
-Файлы конфигурации Loginom Server располагаются в рабочем каталоге. Расположение рабочего каталога по умолчанию - `%AllUsersProfile%\BaseGroup\Loginom 6\Server`.
+Loginom Server configuration files are in the work directory. The default location of the work directory - `%AllUsersProfile%\BaseGroup\Loginom 6\Server`.
 
-## Общие настройки сервера
+## The Server General Settings
 
-Общие настройки сервера хранятся в xml файле `Settings.cfg`.
+The server general settings are kept in the XML `Settings.cfg` file.
 
-Параметры каталогов задаются в атрибутах элемента `Settings/Directories`:
+The directory parameters are set in the attributes of the `Settings/Directories` element:
 
-* **UserStorage** - расположение каталогов пользователей. Значением может быть полный или относительный (от рабочего каталога) путь.
-* **SessionBackup** - расположение каталога резервных копий сессий. Значением может быть полный или относительный (от рабочего каталога) путь.
+* **UserStorage** - location of the user directories. The values can be a full or relative path (from the work directory).
+* **SessionBackup** - location of the backup session copies directory. The values can be a full or relative path (from the work directory).
 
-Параметры привязок задаются в атрибутах элемента `Settings/Bindings`:
+Bindings parameters are set in the attributes of the `Settings/Bindings` element:
 
-* **Bind** - IP адрес сетевого интерфейса, используемого сервером Loginom.
-   * Значение по умолчанию: `0.0.0.0`.
-* **Port** - номер порта для подключения Loginom Integrator и BatchLauncher.
-   * Значение по умолчанию: `4580`.
-* **WSPort** - номер порта для подключения Loginom Studio по протоколу websocket (ws).
-   * Значение по умолчанию: `8080`.
-* **WSSPort** - номер порта для подключения Loginom Studio по протоколу websocket secure (wss).
-* **SSLCertificateFile** - полный или относительный (от рабочего каталога) путь к файлу сертификата SSL в формате *pem*.
-* **SSLPrivateKeyFile** - полный или относительный (от рабочего каталога) путь к файлу ключа SSL в формате *pem*.
+* **Bind** - IP address of the network interface used by Loginom server.
+   * Default value: `0.0.0.0`.
+* **Port** - port number for Loginom Integrator and BatchLauncher connection.
+   * Default value: `4580`.
+* **WSPort** - port number for Loginom Studio connection according to the websocket (ws) protocol.
+   * Default value: `8080`.
+* **WSSPort** - port number for Loginom Studio connection according to the websocket secure (wss) protocol.
+* **SSLCertificateFile** - a full or relative path (from the work directory) to the SSL certificate file in the *pem* format.
+* **SSLPrivateKeyFile** - a full or relative path (from the work directory) to the SSL key file in the *pem* format.
 
-## Журналирование
+## Logging
 
-Параметры журналирования хранятся в xml файле `Logs.cfg`.
+Logging parameters are kept in the XML `Logs.cfg` file.
 
-Файлы журналов сохраняются в подкаталоге `Logs` рабочего каталога.
+The log files are kept in the `Logs` subdirectory of the work directory.
 
-Общие настройки задаются в атрибутах элемента `Logging/Common`:
+The general settings are set in the attributes of the `Logging/Common` element:
 
-* **MinLogLevel** - минимальный уровень журналирования. Возможные значения:
-   * **llTrace** - трассировка.
-   * **llDebug** - отладка.
-   * **llInfo** - информация. Значение по умолчанию.
-   * **llHint** - событие.
-   * **llWarn** - предупреждение.
-   * **llError** - ошибка.
-   * **llFatal** - авария.
+* **MinLogLevel** - the minimum logging level. Possible values:
+   * **llTrace** - tracing.
+   * **llDebug** - debugging.
+   * **llInfo** - information. Default Value.
+   * **llHint** - event.
+   * **llWarn** - warning.
+   * **llError** - error.
+   * **llFatal** - incident.
 
-Параметры файлов журналов задаются в атрибутах элемента `Logging/File`:
+Parameters of the logging files are set in the attributes of the `Logging/File` element:
 
-* **LogFileName** - имя файла журнала. По умолчанию `app.log`.
-* **LogFileRewrite** - если атрибут установлен, при старте Loginom Server файл журнала будет перезаписан. По умолчанию отключен.
-* **LogFileMaxSize** - максимальный размер файла журнала в байтах. По умолчанию 10485760 (10Mb).
-* **LogFileMaxIndex** - максимальное количество файлов журнала. По умолчанию 10.
+* **LogFileName** - the log file name. By default `app.log`.
+* **LogFileRewrite** - if the attribute has been set, the log file will be rewritten while Loginom Server launching. Disabled by default.
+* **LogFileMaxSize** - the maximum size of the log file in bytes. By default 10485760 (10 Mb).
+* **LogFileMaxIndex** - the maximum number of the log files. By default 10.
