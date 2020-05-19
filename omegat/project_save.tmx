@@ -700,6 +700,14 @@ xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer"&gt;
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T145607Z" creationid="Марианна" creationdate="20200519T145607Z">
+        <seg>&lt;x1/&gt;&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Bind&lt;x2/&gt; - IP адрес сетевого интерфейса, используемого сервером Loginom.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200514T052111Z" creationid="Марианна" creationdate="20200514T052111Z">
@@ -1781,6 +1789,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>msiexec /x Loginom&lt;Редакця&gt;_6.x.x.msi /qn</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T145636Z" creationid="Марианна" creationdate="20200519T145636Z">
+        <seg>msiexec /x Loginom&lt;Редакця&gt;_6.x.x.msi /qn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>msiexec /x LoginomAdapter.msi /qn</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T202920Z" creationid="Марианна" creationdate="20200502T202920Z">
@@ -2835,8 +2851,8 @@ M: Done. </note>
       <tuv lang="RU">
         <seg>Из окна "Программы и компоненты" в Windows;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T145403Z" creationid="Марианна" creationdate="20200519T145403Z">
-        <seg>Using the "Programs and Components" window in Windows</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T145603Z" creationid="Марианна" creationdate="20200519T145403Z">
+        <seg>Use the "Programs and Components" window in Windows</seg>
       </tuv>
     </tu>
     <tu>
