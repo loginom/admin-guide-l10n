@@ -700,6 +700,14 @@ xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer"&gt;
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;0&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T153643Z" creationid="Марианна" creationdate="20200519T153643Z">
+        <seg>&lt;x1/&gt;0&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;1.&lt;x2/&gt; Останавливаем службу &lt;x3/&gt;loginom&lt;x4/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T150256Z" creationid="Марианна" creationdate="20200519T150256Z">
@@ -720,6 +728,22 @@ xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer"&gt;
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T150936Z" creationid="Марианна" creationdate="20200519T150936Z">
         <seg>&lt;x1/&gt;3.&lt;x2/&gt; After the upgrade it is required to launch the&lt;x3/&gt;loginom&lt;x4/&gt; service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;443&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T153616Z" creationid="Марианна" creationdate="20200519T153616Z">
+        <seg>&lt;x1/&gt;443&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;80&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T153530Z" creationid="Марианна" creationdate="20200519T153530Z">
+        <seg>&lt;x1/&gt;80&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -929,6 +953,14 @@ OK</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200429T115211Z" creationid="Марианна" creationdate="20200309T125316Z">
         <seg>&lt;x1/&gt;XSLT for the response message transformation&lt;x2/&gt; — the path to corresponding files of the XSLT transformations is specified.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;app/&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T153803Z" creationid="Марианна" creationdate="20200519T153803Z">
+        <seg>&lt;x1/&gt;app/&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1601,6 +1633,22 @@ Host: stend-057</seg>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>HTTP порт веб-сервера</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T153608Z" creationid="Марианна" creationdate="20200519T153608Z">
+        <seg>Web server HTTP port</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>HTTPS порт веб-сервера</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T153633Z" creationid="Марианна" creationdate="20200519T153633Z">
+        <seg>Web server HTTPS port</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Intel Core 2 Duo</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T194609Z" creationid="Марианна" creationdate="20200502T194609Z">
@@ -1769,10 +1817,66 @@ Host: stend-057</seg>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>URI веб-интерфейса Loginom Studio</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T153829Z" creationid="Марианна" creationdate="20200519T153829Z">
+        <seg>URI of Loginom Studio web interface</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>USB</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T144429Z" creationid="Марианна" creationdate="20200519T144429Z">
         <seg>USB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>WEBAPP_URI</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T153758Z" creationid="Марианна" creationdate="20200519T153758Z">
+        <seg>WEBAPP_URI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>WEBSRV_CRT_PATH</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T153750Z" creationid="Марианна" creationdate="20200519T153750Z">
+        <seg>WEBSRV_CRT_PATH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>WEBSRV_KEY_PATH</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T153739Z" creationid="Марианна" creationdate="20200519T153739Z">
+        <seg>WEBSRV_KEY_PATH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>WEBSRV_PORT</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T153524Z" creationid="Марианна" creationdate="20200519T153524Z">
+        <seg>WEBSRV_PORT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>WEBSRV_PORT_SSL</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T153611Z" creationid="Марианна" creationdate="20200519T153611Z">
+        <seg>WEBSRV_PORT_SSL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>WEBSRV_USE_SSL</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T153637Z" creationid="Марианна" creationdate="20200519T153637Z">
+        <seg>WEBSRV_USE_SSL</seg>
       </tuv>
     </tu>
     <tu>
@@ -3053,6 +3157,14 @@ M:Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200203T074026Z" creationid="Марианна" creationdate="20200203T074026Z">
         <seg>The &lt;x1/&gt;Configurator&lt;x2/&gt; interface consists of two panels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Использовать шифрование (https) (&lt;x1/&gt;0,1&lt;x2/&gt;)</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T153724Z" creationid="Марианна" creationdate="20200519T153724Z">
+        <seg>Use encryption (https) (&lt;x1/&gt;0,1&lt;x2/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
