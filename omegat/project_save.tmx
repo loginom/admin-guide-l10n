@@ -1521,6 +1521,14 @@ Host: stend-057</seg>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Loginom Server — ключевой элемент платформы, необходимый для коллективной работы.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T143635Z" creationid="Марианна" creationdate="20200519T143635Z">
+        <seg>Loginom Server is a key platform element required for the team work.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Microsoft IIS</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T195326Z" creationid="Марианна" creationdate="20200502T195326Z">
@@ -1677,6 +1685,14 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200512T095804Z" creationid="Марианна" creationdate="20200426T125325Z">
         <seg>The algorithm of Actions at the Stage of the Response Receipt from the External Service&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аналитический сервер, выполняет задачи загрузки, расчетов, построения моделей, визуализации, управления правами и прочее.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T143549Z" creationid="Марианна" creationdate="20200519T143549Z">
+        <seg>It is an analytical server responsible for downloading tasks, calculations, model training, visualisation, rights management, etc.</seg>
       </tuv>
     </tu>
     <tu>
