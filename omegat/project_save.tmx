@@ -4297,8 +4297,8 @@ Done. </note>
       <tuv lang="RU">
         <seg>Управление сервером, настройка, визуализация и прочие операции осуществляются при помощи &lt;x1/&gt;Loginom Studio&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T143755Z" creationid="Марианна" creationdate="20200519T143755Z">
-        <seg> &lt;x1/&gt;Loginom Studio&lt;x2/&gt; provides server management, configuration, visualisation and other operations.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T144805Z" creationid="Марианна" creationdate="20200519T143755Z">
+        <seg> &lt;x1/&gt;Loginom Studio&lt;x2/&gt; provides for the server management, configuration, visualisation and other operations.</seg>
       </tuv>
     </tu>
     <tu>
