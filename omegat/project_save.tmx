@@ -700,6 +700,22 @@ xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer"&gt;
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;1.&lt;x2/&gt; Останавливаем службу &lt;x3/&gt;loginom&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T150256Z" creationid="Марианна" creationdate="20200519T150256Z">
+        <seg>&lt;x1/&gt;1.&lt;x2/&gt; It is required to stop the &lt;x3/&gt;loginom&lt;x4/&gt; service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;2.&lt;x2/&gt; Запускаем инсталлятор Loginom новой версии:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T150434Z" creationid="Марианна" creationdate="20200519T150434Z">
+        <seg>&lt;x1/&gt;2.&lt;x2/&gt; Loginom installer (new release) is launched:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T145607Z" creationid="Марианна" creationdate="20200519T145607Z">
@@ -3266,6 +3282,14 @@ Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200510T212547Z" creationid="Марианна" creationdate="20200502T193256Z">
         <seg>But some web services, for example, CRB, use the individual protocols and data encryption which preclude interaction using the standard Loginom means.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Обновление Loginom Server</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T150233Z" creationid="Марианна" creationdate="20200519T150233Z">
+        <seg>Loginom Server Upgrade</seg>
       </tuv>
     </tu>
     <tu>
