@@ -7,7 +7,7 @@
 ![](..\images\server_msi_upgrade.png)
 
 * Pressing the **"Upgrade"** button will enable to upgrade the installed Loginom product.
-* Pressing the **"Reinstall"** button will open the dialog of the new product [installation](./setup.md). The earlier version will be removed without saved parameters.
+* Pressing the **"Reinstall"** button will open the new product [installation](./setup.md) dialog. The earlier version will be removed without saved parameters.
 
 **3.** After the upgrade it is required to launch the`loginom` service
 
