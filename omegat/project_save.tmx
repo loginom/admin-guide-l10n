@@ -732,6 +732,14 @@ xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer"&gt;
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Apache&lt;x2/&gt; – стандартная установка, web-сервер входит в состав дистрибутива;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T152902Z" creationid="Марианна" creationdate="20200519T152902Z">
+        <seg>&lt;x1/&gt;Apache&lt;x2/&gt; – standard installation, web server is included into the distribution kit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Bind&lt;x2/&gt; - IP адрес сетевого интерфейса, используемого сервером Loginom.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200514T052111Z" creationid="Марианна" creationdate="20200514T052111Z">
@@ -2604,6 +2612,14 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200324T070732Z" creationid="Марианна" creationdate="20200206T075207Z">
         <seg>Additional Files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Допустимым является использование следующих вариантов web-сервера:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T152816Z" creationid="Марианна" creationdate="20200519T152816Z">
+        <seg>It is allowed to use the following web server types:</seg>
       </tuv>
     </tu>
     <tu>
