@@ -3200,8 +3200,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Нажатие на кнопку &lt;x1/&gt;"Переустановить"&lt;x2/&gt; запускает диалог новой &lt;x3/&gt;установки&lt;x4/&gt; продукта.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T150737Z" creationid="Марианна" creationdate="20200519T150737Z">
-        <seg>Pressing the &lt;x1/&gt;"Reinstall"&lt;x2/&gt; button will open the dialog of the new product &lt;x3/&gt;installation&lt;x4/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T151610Z" creationid="Марианна" creationdate="20200519T150737Z">
+        <seg>Pressing the &lt;x1/&gt;"Reinstall"&lt;x2/&gt; button will open the new product &lt;x3/&gt;installation&lt;x4/&gt; dialog.</seg>
       </tuv>
     </tu>
     <tu>
