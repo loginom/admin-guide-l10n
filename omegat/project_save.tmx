@@ -76,6 +76,22 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>%/spoiler%</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T153908Z" creationid="Марианна" creationdate="20200519T153908Z">
+        <seg>%/spoiler%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>%spoiler%Примеры%spoiler%</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T153919Z" creationid="Марианна" creationdate="20200519T153919Z">
+        <seg>%spoiler%Examples%spoiler%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>%windir%\system32\iisreset.exe</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T141809Z" creationid="Марианна" creationdate="20200519T141809Z">
@@ -700,6 +716,14 @@ xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer"&gt;
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;%ProgramFiles%\BaseGroup&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T154106Z" creationid="Марианна" creationdate="20200519T154106Z">
+        <seg>&lt;x1/&gt;%ProgramFiles%\BaseGroup&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;0&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T153643Z" creationid="Марианна" creationdate="20200519T153643Z">
@@ -876,6 +900,14 @@ xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer"&gt;
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Server,Studio,Help,Webserver&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T154032Z" creationid="Марианна" creationdate="20200519T154032Z">
+        <seg>&lt;x1/&gt;Server,Studio,Help,Webserver&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;SessionBackup&lt;x2/&gt; - расположение каталога резервных копий сессий.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200514T051954Z" creationid="Марианна" creationdate="20200514T051954Z">
@@ -1035,6 +1067,14 @@ Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200421T110028Z" creationid="Марианна" creationdate="20200226T110728Z">
         <seg>&lt;x1/&gt;targetNamespace in WSDL&lt;x2/&gt; — the value is taken from the similarly-named attribute of the WSDL description of the external service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;ws/&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T153857Z" creationid="Марианна" creationdate="20200519T153857Z">
+        <seg>&lt;x1/&gt;ws/&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1587,6 +1627,14 @@ Ok, corrected in 2 segments. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>ADDLOCAL</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T154019Z" creationid="Марианна" creationdate="20200519T154019Z">
+        <seg>ADDLOCAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>CPU x64</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T144303Z" creationid="Марианна" creationdate="20200519T144303Z">
@@ -1645,6 +1693,14 @@ Host: stend-057</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T153633Z" creationid="Марианна" creationdate="20200519T153633Z">
         <seg>Web server HTTPS port</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>INSTALLDIR</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T154101Z" creationid="Марианна" creationdate="20200519T154101Z">
+        <seg>INSTALLDIR</seg>
       </tuv>
     </tu>
     <tu>
@@ -1809,10 +1865,26 @@ Host: stend-057</seg>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>SERVER_WS_PORT</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T154125Z" creationid="Марианна" creationdate="20200519T154125Z">
+        <seg>SERVER_WS_PORT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Server x64</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T144214Z" creationid="Марианна" creationdate="20200519T144214Z">
         <seg>Server x64</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>URI websocket proxy</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T153903Z" creationid="Марианна" creationdate="20200519T153903Z">
+        <seg>URI websocket proxy</seg>
       </tuv>
     </tu>
     <tu>
@@ -1873,10 +1945,26 @@ Host: stend-057</seg>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>WEBSRV_PROXY_URI</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T153852Z" creationid="Марианна" creationdate="20200519T153852Z">
+        <seg>WEBSRV_PROXY_URI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>WEBSRV_USE_SSL</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T153637Z" creationid="Марианна" creationdate="20200519T153637Z">
         <seg>WEBSRV_USE_SSL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>WEBSRV_USE_WS_PROXY</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T153833Z" creationid="Марианна" creationdate="20200519T153833Z">
+        <seg>WEBSRV_USE_WS_PROXY</seg>
       </tuv>
     </tu>
     <tu>
@@ -3010,6 +3098,14 @@ OK, I have got it. The WSDL description everywhere. And the names (name). Three 
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Значение по умолчанию</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T154004Z" creationid="Марианна" creationdate="20200519T154004Z">
+        <seg>Default value</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Значение по умолчанию.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200514T054646Z" creationid="Марианна" creationdate="20200514T052916Z">
@@ -3161,6 +3257,14 @@ M:Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Использовать websocket proxy (&lt;x1/&gt;0,1&lt;x2/&gt;)</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T153849Z" creationid="Марианна" creationdate="20200519T153849Z">
+        <seg>Use websocket proxy (&lt;x1/&gt;0,1&lt;x2/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Использовать шифрование (https) (&lt;x1/&gt;0,1&lt;x2/&gt;)</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T153724Z" creationid="Марианна" creationdate="20200519T153724Z">
@@ -3217,10 +3321,26 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Каталог установки</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T154121Z" creationid="Марианна" creationdate="20200519T154121Z">
+        <seg>Installation Directory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Клавиатура, мышь</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T195132Z" creationid="Марианна" creationdate="20200502T195132Z">
         <seg>Keyboard, mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Ключ</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T153945Z" creationid="Марианна" creationdate="20200519T153945Z">
+        <seg>Key</seg>
       </tuv>
     </tu>
     <tu>
@@ -3627,6 +3747,14 @@ Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T195219Z" creationid="Марианна" creationdate="20200502T195219Z">
         <seg>Operating system</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Описание</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T154016Z" creationid="Марианна" creationdate="20200519T154016Z">
+        <seg>Description</seg>
       </tuv>
     </tu>
     <tu>
@@ -4490,6 +4618,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T142216Z" creationid="Марианна" creationdate="20200519T142216Z">
         <seg>Creation of the Virtual Directory for Loginom Studio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Список устанавливаемых компонентов</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T154058Z" creationid="Марианна" creationdate="20200519T154058Z">
+        <seg>List of the Installed Components</seg>
       </tuv>
     </tu>
     <tu>
