@@ -788,6 +788,14 @@ xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer"&gt;
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Microsoft IIS&lt;x2/&gt; – не входит в состав дистрибутива, он должен быть &lt;x3/&gt;установлен и настроен&lt;x4/&gt; отдельно.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T153021Z" creationid="Марианна" creationdate="20200519T153021Z">
+        <seg>&lt;x1/&gt;Microsoft IIS&lt;x2/&gt; is not included into the distribution kit. It must be &lt;x3/&gt;installed and configured&lt;x4/&gt; separately.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;MinLogLevel&lt;x2/&gt; - минимальный уровень журналирования.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200514T052810Z" creationid="Марианна" creationdate="20200514T052810Z">
@@ -4029,6 +4037,14 @@ M: Done. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>При установке по умолчанию работа Loginom Studio осуществляется через web-сервер Apache.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T153306Z" creationid="Марианна" creationdate="20200519T153306Z">
+        <seg>When installing by default, Loginom Studio is used by means of the Apache web server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>При этом запросы, полученные &lt;x5/&gt;Адаптером&lt;x6/&gt; до этого, будут завершены со старыми настройками.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T215934Z" creationid="Марианна" creationdate="20200203T073751Z">
@@ -4495,6 +4511,14 @@ Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T152056Z" creationid="Марианна" creationdate="20200519T152056Z">
         <seg>Loginom Server Installation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Установка Loginom Server при использовании Apache или Microsoft IIS различна.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T153116Z" creationid="Марианна" creationdate="20200519T153116Z">
+        <seg>Loginom Server is installed in a different way using Apache or Microsoft IIS.</seg>
       </tuv>
     </tu>
     <tu>
