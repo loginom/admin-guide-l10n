@@ -764,10 +764,34 @@ xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer"&gt;
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;4580&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T154202Z" creationid="Марианна" creationdate="20200519T154202Z">
+        <seg>&lt;x1/&gt;4580&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;8080&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T154129Z" creationid="Марианна" creationdate="20200519T154129Z">
+        <seg>&lt;x1/&gt;8080&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;80&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T153530Z" creationid="Марианна" creationdate="20200519T153530Z">
         <seg>&lt;x1/&gt;80&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;8443&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T154146Z" creationid="Марианна" creationdate="20200519T154146Z">
+        <seg>&lt;x1/&gt;8443&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1861,6 +1885,30 @@ Host: stend-057</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T153437Z" creationid="Марианна" creationdate="20200519T153437Z">
         <seg>SERVER_KEY_PATH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>SERVER_PORT</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T154156Z" creationid="Марианна" creationdate="20200519T154156Z">
+        <seg>SERVER_PORT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>SERVER_USE_SSL</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T154211Z" creationid="Марианна" creationdate="20200519T154211Z">
+        <seg>SERVER_USE_SSL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>SERVER_WSS_PORT</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T154141Z" creationid="Марианна" creationdate="20200519T154141Z">
+        <seg>SERVER_WSS_PORT</seg>
       </tuv>
     </tu>
     <tu>
