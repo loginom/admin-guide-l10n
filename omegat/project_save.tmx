@@ -1657,6 +1657,14 @@ Host: stend-057</seg>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>LoginomTeam_6.x.x.msi – инсталлятор для редакции Team</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T152235Z" creationid="Марианна" creationdate="20200519T152235Z">
+        <seg>LoginomTeam_6.x.x.msi – the installer for the Team editing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Microsoft IIS</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T195326Z" creationid="Марианна" creationdate="20200502T195326Z">
@@ -2127,6 +2135,14 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200421T110951Z" creationid="Марианна" creationdate="20200227T161543Z">
         <seg>In this regard, the parameter value is subject to the rules of naming of the XML elements under &lt;x7/&gt; W3C specification&lt;x8/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Варианты имени файла инсталлятора:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T152202Z" creationid="Марианна" creationdate="20200519T152202Z">
+        <seg>The installer file name versions:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4431,6 +4447,22 @@ Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T144805Z" creationid="Марианна" creationdate="20200519T143755Z">
         <seg> &lt;x1/&gt;Loginom Studio&lt;x2/&gt; provides for the server management, configuration, visualisation and other operations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Установка Loginom Server</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T152056Z" creationid="Марианна" creationdate="20200519T152056Z">
+        <seg>Loginom Server Installation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Установка MSI</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T152108Z" creationid="Марианна" creationdate="20200519T152108Z">
+        <seg>MSI Installation</seg>
       </tuv>
     </tu>
     <tu>
