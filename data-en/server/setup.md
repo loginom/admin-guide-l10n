@@ -76,7 +76,7 @@
    * **Использовать WebSocket proxy** — включает параметр [wsproxy](../studio/config.md#wsproxy).
    * **Proxy URI** — определяет параметр [path](../studio/config.md#path).
 
-### Командная строка
+### Command Line
 
 ```cmd
 msiexec /i "путь_к_msi_файлу" ключи_msi параметры_loginom

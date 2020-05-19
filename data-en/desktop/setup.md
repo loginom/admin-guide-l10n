@@ -25,7 +25,7 @@
 
 По умолчанию устанавливаются все компоненты.
 
-### Командная строка
+### Command Line
 
 ```cmd
 msiexec /i "LoginomPersonal_6.x.x_x64.msi" ключи_msi

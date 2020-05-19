@@ -8,11 +8,11 @@
 
 Нажатие на кнопку **"Обновить"** выполняет обновление установленного экземпляра Loginom Integrator.
 
-Нажатие на кнопку **"Переустановить"** запускает диалог новой [установки](./setup.md) продукта. Предыдущая версия при этом будет удалена без сохранения параметров.
+Pressing the **"Reinstall"** button will open the dialog of the new product [installation](./setup.md). The earlier version will be removed without saved parameters.
 
-## Командная строка
+## Command Line
 
-Из командной строки выполнить обновление можно указав ключ `DOUPGRADE=1`:
+Upgrade is possible using the command line and specifying the `DOUPGRADE=1` key:
 
 ```cmd
 msiexec /i "LoginomIntegrator.msi" /qn DOUPGRADE=1

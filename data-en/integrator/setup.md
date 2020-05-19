@@ -86,7 +86,7 @@ dism /online /enable-feature /FeatureName:IIS-ApplicationDevelopment /FeatureNam
 * **Логин**, **Пароль** — реквизиты для [подключения к серверу Loginom](../server/setup.md#uchetnye-zapisi).
 * **Показать пароль** — переключает режим отображения пароля.
 
-### Командная строка
+### Command Line
 
 ```cmd
 msiexec /i "LoginomIntegrator_6.x.x.msi" ключи_msi параметры_integrator

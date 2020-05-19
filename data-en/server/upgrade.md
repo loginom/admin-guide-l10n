@@ -1,19 +1,19 @@
-# Обновление Loginom Server
+# Loginom Server Upgrade
 
-**1.** Останавливаем службу `loginom`.
+**1.** It is required to stop the `loginom` service.
 
-**2.** Запускаем инсталлятор Loginom новой версии:
+**2.** Loginom installer (new release) is launched:
 
 ![](..\images\server_msi_upgrade.png)
 
-* Нажатие на кнопку **"Обновить"** выполняет обновление установленного экземпляра Loginom.
-* Нажатие на кнопку **"Переустановить"** запускает диалог новой [установки](./setup.md) продукта. Предыдущая версия при этом будет удалена без сохранения параметров.
+* Pressing the **"Upgrade"** button will enable to upgrade the installed Loginom product.
+* Pressing the **"Reinstall"** button will open the dialog of the new product [installation](./setup.md). The earlier version will be removed without saved parameters.
 
-**3.** После обновления запускаем службу `loginom`
+**3.** After the upgrade it is required to launch the`loginom` service
 
-## Командная строка
+## Command Line
 
-Из командной строки выполнить обновление можно указав ключ `DOUPGRADE=1`:
+Upgrade is possible using the command line and specifying the `DOUPGRADE=1` key:
 
 ```cmd
 net stop loginom
