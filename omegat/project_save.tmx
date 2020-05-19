@@ -3154,6 +3154,22 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Нажатие на кнопку &lt;x1/&gt;"Обновить"&lt;x2/&gt; выполняет обновление установленного экземпляра Loginom.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T150531Z" creationid="Марианна" creationdate="20200519T150531Z">
+        <seg>Pressing the &lt;x1/&gt;"Upgrade"&lt;x2/&gt; button will enable to upgrade the installed Loginom product.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Нажатие на кнопку &lt;x1/&gt;"Переустановить"&lt;x2/&gt; запускает диалог новой &lt;x3/&gt;установки&lt;x4/&gt; продукта.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T150737Z" creationid="Марианна" creationdate="20200519T150737Z">
+        <seg>Pressing the &lt;x1/&gt;"Reinstall"&lt;x2/&gt; button will open the dialog of the new product &lt;x3/&gt;installation&lt;x4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Направляет преобразованный запрос во внешний веб-сервис;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T201712Z" creationid="Марианна" creationdate="20200502T194106Z">
