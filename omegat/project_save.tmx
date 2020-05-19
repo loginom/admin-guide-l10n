@@ -2514,6 +2514,14 @@ Done. </note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Для работы с программой &lt;x1/&gt;Loginom Studio&lt;x2/&gt; (web-интерфейс к Loginom Server)обязательным условием является наличие web-сервера.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T152723Z" creationid="Марианна" creationdate="20200519T152723Z">
+        <seg>Web server is mandatory for work with &lt;x1/&gt;Loginom Studio&lt;x2/&gt; (web interface for Loginom Server).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A: 
 Corresponding certificates will be required for use of a particular web service with encryption. 
 
