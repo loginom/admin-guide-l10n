@@ -108,6 +108,14 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>....</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T143036Z" creationid="Марианна" creationdate="20200519T143036Z">
+        <seg>....</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>.Net Framework</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T195436Z" creationid="Марианна" creationdate="20200502T195436Z">
@@ -256,6 +264,14 @@ A: "while the command" is placed in a different part of the segment in Github, a
       <tuv lang="EN" changeid="Марианна" changedate="20200519T142822Z" creationid="Марианна" creationdate="20200519T142822Z">
         <seg>&lt;/variables&gt;
 &lt;/ded:Cheques&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;/wsdl:definitions&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T143041Z" creationid="Марианна" creationdate="20200519T143041Z">
+        <seg>&lt;/wsdl:definitions&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1493,6 +1509,14 @@ Host: stend-057</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200203T072328Z" creationid="Марианна" creationdate="20200203T072328Z">
         <seg>Loginom Adapter Configurator </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Loginom Server</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T143300Z" creationid="Марианна" creationdate="20200519T143300Z">
+        <seg>Loginom Server</seg>
       </tuv>
     </tu>
     <tu>
