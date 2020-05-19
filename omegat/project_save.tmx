@@ -124,10 +124,26 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>1 TB</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T144350Z" creationid="Марианна" creationdate="20200519T144350Z">
+        <seg>1 TB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>1 Гб</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T194743Z" creationid="Марианна" creationdate="20200502T194743Z">
         <seg>1 GB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>1.0</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T144434Z" creationid="Марианна" creationdate="20200519T144434Z">
+        <seg>1.0</seg>
       </tuv>
     </tu>
     <tu>
@@ -140,10 +156,50 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>16</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T144331Z" creationid="Марианна" creationdate="20200519T144331Z">
+        <seg>16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>16 core (Users x 1.6 core + 1 core)</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T144313Z" creationid="Марианна" creationdate="20200519T144313Z">
+        <seg>16 core (Users x 1.6 core + 1 core)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>2.0</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T144439Z" creationid="Марианна" creationdate="20200519T144439Z">
+        <seg>2.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>4 core</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T144308Z" creationid="Марианна" creationdate="20200519T144308Z">
+        <seg>4 core</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>500</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T194950Z" creationid="Марианна" creationdate="20200502T194950Z">
         <seg>500</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>8 GB</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T144325Z" creationid="Марианна" creationdate="20200519T144325Z">
+        <seg>8 GB</seg>
       </tuv>
     </tu>
     <tu>
@@ -1142,6 +1198,14 @@ A: Okay</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Примечание:&lt;x2/&gt; Системные требования могут меняться в зависимости от объемов данных и взаимодействия со сторонними приложениями.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T144615Z" creationid="Марианна" creationdate="20200519T144615Z">
+        <seg>&lt;x1/&gt;Note:&lt;x2/&gt; the system requirements can vary according to the data volume and interaction with the third-party applications.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A:
 Note: Loginom Adapter uses .Net Framework, version 3.5 in the work process.
 
@@ -1443,6 +1507,14 @@ Ok, corrected in 2 segments. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>CPU x64</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T144303Z" creationid="Марианна" creationdate="20200519T144303Z">
+        <seg>CPU x64</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Content-Type: text/xml; charset=UTF-8
 SOAPAction: "http://www.basegroup.ru/WebServiceProxy/DIS_stend-sup-29/Cheques"
 Content-Length: 499
@@ -1461,6 +1533,22 @@ Host: stend-057</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T200146Z" creationid="Марианна" creationdate="20200502T200146Z">
         <seg>Cryptography Service Provider (CSP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>GB (Users x 2GB + 2GB)</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T144337Z" creationid="Марианна" creationdate="20200519T144337Z">
+        <seg>GB (Users x 2GB + 2GB)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>HDD</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T144343Z" creationid="Марианна" creationdate="20200519T144343Z">
+        <seg>HDD</seg>
       </tuv>
     </tu>
     <tu>
@@ -1577,10 +1665,26 @@ Host: stend-057</seg>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>RAM</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T144320Z" creationid="Марианна" creationdate="20200519T144320Z">
+        <seg>RAM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Server x64</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T144214Z" creationid="Марианна" creationdate="20200519T144214Z">
         <seg>Server x64</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>USB</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T144429Z" creationid="Марианна" creationdate="20200519T144429Z">
+        <seg>USB</seg>
       </tuv>
     </tu>
     <tu>
@@ -4400,6 +4504,14 @@ M: Done. Вася, посмотрю еще раз в сети, все помен
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200324T062342Z" creationid="Марианна" creationdate="20200309T123521Z">
         <seg>the following section: &lt;x7/&gt;Configuration of the Client Role of the External Services&lt;x8/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>от 1 ТB (+ User Data)</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T144424Z" creationid="Марианна" creationdate="20200519T144424Z">
+        <seg>from 1 ТB (+ User Data)</seg>
       </tuv>
     </tu>
     <tu>
