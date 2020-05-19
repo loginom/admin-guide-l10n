@@ -4316,8 +4316,8 @@ Done</note>
       <tuv lang="RU">
         <seg>Удаление Loginom Server</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T145835Z" creationid="Марианна" creationdate="20200519T145045Z">
-        <seg>Remove Loginom Server</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T150028Z" creationid="Марианна" creationdate="20200519T145045Z">
+        <seg>Loginom Server Removal</seg>
       </tuv>
     </tu>
     <tu>
