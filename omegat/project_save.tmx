@@ -2460,6 +2460,14 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Для удаления Loginom Server требуется остановить службу &lt;x1/&gt;loginom&lt;x2/&gt; и удалить приложение одним из способов:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T145133Z" creationid="Марианна" creationdate="20200519T145133Z">
+        <seg>To delete Loginom Server it is required to stop the &lt;x1/&gt;loginom&lt;x2/&gt; service and delete the application using one of the following methods:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A:
 Cryptography service providers such as Signal-COM CSP or CryptoPro CSP are used for data encryption in the case of integration with the external web services.
 
@@ -4270,6 +4278,14 @@ Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200510T214434Z" creationid="Марианна" creationdate="20200502T202513Z">
         <seg>Uninstalling Loginom Adapter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Удаление Loginom Server</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T145045Z" creationid="Марианна" creationdate="20200519T145045Z">
+        <seg>Delete Loginom Server</seg>
       </tuv>
     </tu>
     <tu>
