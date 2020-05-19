@@ -1,9 +1,9 @@
-# Удаление Loginom Server
+# Delete Loginom Server
 
-Для удаления Loginom Server требуется остановить службу *loginom* и удалить приложение одним из способов:
+To delete Loginom Server it is required to stop the *loginom* service and delete the application using one of the following methods:
 
-* Из окна "Программы и компоненты" в Windows;
-* Запустить инсталлятор продукта, нажать кнопку **"Удалить"**
+* Use the "Programs and Components" window in Windows
+* Launch the product installer, pressing the**"Delete"** button
 
 ![](../images/server_msi_remove.png)
 
