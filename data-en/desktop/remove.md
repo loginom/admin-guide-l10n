@@ -3,7 +3,7 @@
 Деинсталлировать **"Loginom Desktop"** можно несколькими способами:
 
 * To uninstall the application from the "Applications and Components" window in Windows
-* Launch the product installer, pressing the**"Delete"** button
+* Launch the product installer, pressing the**"Remove"** button
 
 ![](../images/personal_msi_remove.png)
 
