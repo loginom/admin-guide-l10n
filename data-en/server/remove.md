@@ -1,4 +1,4 @@
-# Remove Loginom Server
+# Loginom Server Removal
 
 To remove Loginom Server it is required to stop the *loginom* service and remove the application using one of the following methods:
 
