@@ -710,8 +710,8 @@ xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer"&gt;
       <tuv lang="RU">
         <seg>&lt;x1/&gt;2.&lt;x2/&gt; Запускаем инсталлятор Loginom новой версии:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T150434Z" creationid="Марианна" creationdate="20200519T150434Z">
-        <seg>&lt;x1/&gt;2.&lt;x2/&gt; Loginom installer (new release) is launched:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T151443Z" creationid="Марианна" creationdate="20200519T150434Z">
+        <seg>&lt;x1/&gt;2.&lt;x2/&gt; Loginom installer (new version) is launched:</seg>
       </tuv>
     </tu>
     <tu>
