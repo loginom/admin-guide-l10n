@@ -13,6 +13,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>"C:\Program Files\7-Zip\7z" a -tzip "%outputFile%" "%inputFile%"</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142916Z" creationid="Марианна" creationdate="20200519T142916Z">
+        <seg>"C:\Program Files\7-Zip\7z" a -tzip "%outputFile%" "%inputFile%"</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Andrew:
 // templates %inputFile% and %outputFile% are replaced with the parameters values while the command
 // "The request file source name" and "The resulting name of the request file", are executed correspondingly.&lt;segment 0102 ¶&gt;
@@ -92,6 +100,14 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142857Z" creationid="Марианна" creationdate="20200519T142857Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>.Net Framework</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T195436Z" creationid="Марианна" creationdate="20200502T195436Z">
@@ -148,6 +164,14 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;/ded:Cheques&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142812Z" creationid="Марианна" creationdate="20200519T142812Z">
+        <seg>&lt;/ded:Cheques&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;/httpProtocol&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T140953Z" creationid="Марианна" creationdate="20200519T140953Z">
@@ -190,6 +214,16 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;/soapenv:Body&gt;
+&lt;/soapenv:Envelope&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142816Z" creationid="Марианна" creationdate="20200519T142816Z">
+        <seg>&lt;/soapenv:Body&gt;
+&lt;/soapenv:Envelope&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;/staticContent&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T141029Z" creationid="Марианна" creationdate="20200519T141029Z">
@@ -208,12 +242,102 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;/variables&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142807Z" creationid="Марианна" creationdate="20200519T142807Z">
+        <seg>&lt;/variables&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;/variables&gt;
+&lt;/ded:Cheques&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142822Z" creationid="Марианна" creationdate="20200519T142822Z">
+        <seg>&lt;/variables&gt;
+&lt;/ded:Cheques&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;/wsdl:message&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T143019Z" creationid="Марианна" creationdate="20200519T143019Z">
+        <seg>&lt;/wsdl:message&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;/wsdl:types&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T143006Z" creationid="Марианна" creationdate="20200519T143006Z">
+        <seg>&lt;/wsdl:types&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;/xsd:schema&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T143001Z" creationid="Марианна" creationdate="20200519T143001Z">
+        <seg>&lt;/xsd:schema&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;/xsl:stylesheet&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142908Z" creationid="Марианна" creationdate="20200519T142908Z">
+        <seg>&lt;/xsl:stylesheet&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
 &lt;configuration&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T140910Z" creationid="Марианна" creationdate="20200519T140910Z">
         <seg>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
 &lt;configuration&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:fo="http://www.w3.org/1999/XSL/Format"&gt;
+&lt;xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes"/&gt;
+
+&lt;xsl:param name="MemberCode"/&gt;
+&lt;xsl:param name="UserID"/&gt;
+&lt;xsl:param name="Password"/&gt;
+
+&lt;xsl:template match="@* | node()"&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142832Z" creationid="Марианна" creationdate="20200519T142832Z">
+        <seg>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:fo="http://www.w3.org/1999/XSL/Format"&gt;
+&lt;xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes"/&gt;
+
+&lt;xsl:param name="MemberCode"/&gt;
+&lt;xsl:param name="UserID"/&gt;
+&lt;xsl:param name="Password"/&gt;
+
+&lt;xsl:template match="@* | node()"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;DateMax&gt;2017-06-06T23:59:00&lt;/DateMax&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142803Z" creationid="Марианна" creationdate="20200519T142803Z">
+        <seg>&lt;DateMax&gt;2017-06-06T23:59:00&lt;/DateMax&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;DateMin&gt;2000-06-06T23:59:00&lt;/DateMin&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142758Z" creationid="Марианна" creationdate="20200519T142758Z">
+        <seg>&lt;DateMin&gt;2000-06-06T23:59:00&lt;/DateMin&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -278,6 +402,14 @@ A: "while the command" is placed in a different part of the segment in Github, a
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T140931Z" creationid="Марианна" creationdate="20200519T140931Z">
         <seg>&lt;customHeaders&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;ded:Cheques&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142749Z" creationid="Марианна" creationdate="20200519T142749Z">
+        <seg>&lt;ded:Cheques&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -394,6 +526,26 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;soapenv:Body&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142744Z" creationid="Марианна" creationdate="20200519T142744Z">
+        <seg>&lt;soapenv:Body&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer"&gt;
+&lt;soapenv:Header/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142738Z" creationid="Марианна" creationdate="20200519T142738Z">
+        <seg>&lt;soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer"&gt;
+&lt;soapenv:Header/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;staticContent&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T140957Z" creationid="Марианна" creationdate="20200519T140957Z">
@@ -416,6 +568,62 @@ A: "while the command" is placed in a different part of the segment in Github, a
       <tuv lang="EN" changeid="Марианна" changedate="20200519T141423Z" creationid="Марианна" creationdate="20200519T141423Z">
         <seg>&lt;system.webServer&gt;
 ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;variables&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142754Z" creationid="Марианна" creationdate="20200519T142754Z">
+        <seg>&lt;variables&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;wsdl:definitions ....</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142941Z" creationid="Марианна" creationdate="20200519T142941Z">
+        <seg>&lt;wsdl:definitions ....</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;wsdl:message name="DIS_stend-sup-29_Cheques_InputMessage"&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T143011Z" creationid="Марианна" creationdate="20200519T143011Z">
+        <seg>&lt;wsdl:message name="DIS_stend-sup-29_Cheques_InputMessage"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;wsdl:message name="DIS_stend-sup-29_Cheques_OutputMessage"&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T143024Z" creationid="Марианна" creationdate="20200519T143024Z">
+        <seg>&lt;wsdl:message name="DIS_stend-sup-29_Cheques_OutputMessage"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;wsdl:part name="parameters" element="q1:Cheques" xmlns:q1="http://www.basegroup.ru/DeductorIntegrationServer"/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T143014Z" creationid="Марианна" creationdate="20200519T143014Z">
+        <seg>&lt;wsdl:part name="parameters" element="q1:Cheques" xmlns:q1="http://www.basegroup.ru/DeductorIntegrationServer"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;wsdl:part name="parameters" element="q2:ChequesResponse" xmlns:q2="http://www.basegroup.ru/DeductorIntegrationServer"/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T143028Z" creationid="Марианна" creationdate="20200519T143028Z">
+        <seg>&lt;wsdl:part name="parameters" element="q2:ChequesResponse" xmlns:q2="http://www.basegroup.ru/DeductorIntegrationServer"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;wsdl:types&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142949Z" creationid="Марианна" creationdate="20200519T142949Z">
+        <seg>&lt;wsdl:types&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1179,6 +1387,60 @@ Ok, corrected in 2 segments. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;xsd:import namespace="http://www.basegroup.ru/DeductorIntegrationServer" schemaLocation="/WebServiceProxy/Service.svc?xsd=xsd1"/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142957Z" creationid="Марианна" creationdate="20200519T142957Z">
+        <seg>&lt;xsd:import namespace="http://www.basegroup.ru/DeductorIntegrationServer" schemaLocation="/WebServiceProxy/Service.svc?xsd=xsd1"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;xsd:schema targetNamespace="http://www.basegroup.ru/WebServiceProxy/Imports"&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142953Z" creationid="Марианна" creationdate="20200519T142953Z">
+        <seg>&lt;xsd:schema targetNamespace="http://www.basegroup.ru/WebServiceProxy/Imports"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;xsl:apply-templates select="@* | node()"/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142842Z" creationid="Марианна" creationdate="20200519T142842Z">
+        <seg>&lt;xsl:apply-templates select="@* | node()"/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;xsl:copy&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142847Z" creationid="Марианна" creationdate="20200519T142847Z">
+        <seg>&lt;xsl:copy&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142946Z" creationid="Марианна" creationdate="20200519T142946Z">
+        <seg>&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Content-Type: text/xml; charset=UTF-8
+SOAPAction: "http://www.basegroup.ru/WebServiceProxy/DIS_stend-sup-29/Cheques"
+Content-Length: 499
+Host: stend-057</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142931Z" creationid="Марианна" creationdate="20200519T142931Z">
+        <seg>Content-Type: text/xml; charset=UTF-8
+SOAPAction: "http://www.basegroup.ru/WebServiceProxy/DIS_stend-sup-29/Cheques"
+Content-Length: 499
+Host: stend-057</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Cryptography Service Provider (CSP)</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T200146Z" creationid="Марианна" creationdate="20200502T200146Z">
@@ -1255,6 +1517,14 @@ Ok, corrected in 2 segments. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200428T104524Z" creationid="Марианна" creationdate="20200428T104524Z">
         <seg>Namespace of the root element of the SOAP response; Namespace of the root element of the SOAP response</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>POST https://stend-sup-29/DIS/Service.svc/ServiceClass HTTP/1.1</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142926Z" creationid="Марианна" creationdate="20200519T142926Z">
+        <seg>POST https://stend-sup-29/DIS/Service.svc/ServiceClass HTTP/1.1</seg>
       </tuv>
     </tu>
     <tu>
