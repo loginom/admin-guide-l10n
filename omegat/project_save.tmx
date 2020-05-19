@@ -1561,10 +1561,26 @@ Host: stend-057</seg>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>OS</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T144223Z" creationid="Марианна" creationdate="20200519T144223Z">
+        <seg>OS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>POST https://stend-sup-29/DIS/Service.svc/ServiceClass HTTP/1.1</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T142926Z" creationid="Марианна" creationdate="20200519T142926Z">
         <seg>POST https://stend-sup-29/DIS/Service.svc/ServiceClass HTTP/1.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Server x64</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T144214Z" creationid="Марианна" creationdate="20200519T144214Z">
+        <seg>Server x64</seg>
       </tuv>
     </tu>
     <tu>
@@ -1617,6 +1633,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T195322Z" creationid="Марианна" creationdate="20200502T195322Z">
         <seg>Windows Server 2008 and higher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Windows Server 2012 и выше</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T144258Z" creationid="Марианна" creationdate="20200519T144258Z">
+        <seg>Windows Server 2012 and higher</seg>
       </tuv>
     </tu>
     <tu>
