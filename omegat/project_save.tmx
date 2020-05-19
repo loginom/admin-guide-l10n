@@ -2654,6 +2654,14 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Запустить инсталлятор продукта, нажать кнопку &lt;x1/&gt;"Удалить"&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T145556Z" creationid="Марианна" creationdate="20200519T145556Z">
+        <seg>Launch the product installer, pressing the&lt;x1/&gt;"Delete"&lt;x2/&gt; button</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>To launch the product installer having pressed the "Uninstall" button</note>
       <tuv lang="RU">
         <seg>Запустить инсталлятор продукта, нажать кнопку &lt;x1/&gt;"Удалить"&lt;x2/&gt;.</seg>
@@ -2821,6 +2829,14 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T232045Z" creationid="Марианна" creationdate="20200428T124400Z">
         <seg>Values of &lt;x1/&gt;The web service description&lt;x2/&gt; parameter are set by content of the &lt;x3/&gt;&lt;wsdl:documentation&gt;&lt;x4/&gt; WSDL nodes, and they are used for the arbitrary description of the services.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Из окна "Программы и компоненты" в Windows;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T145403Z" creationid="Марианна" creationdate="20200519T145403Z">
+        <seg>Using the "Programs and Components" window in Windows</seg>
       </tuv>
     </tu>
     <tu>
