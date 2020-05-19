@@ -1,18 +1,18 @@
-# Web-сервер IIS
+# IIS Web Server
 
-> Инструкции для IIS 8.5
+> IIS 8.5 Instructions
 
-## Включение компонентов IIS
+## IIS Components Inclusion
 
-В командной строке, запущенной от имени администратора:
+In the command line initiated on behalf of the administrator:
 
 ```cmd
 dism /online /enable-feature /FeatureName:IIS-WebServerRole /FeatureName:IIS-WebServer /FeatureName:IIS-WebServerManagementTools /FeatureName:IIS-ManagementScriptingTools
 ```
 
-## Включение компонентов IIS для Loginom Studio
+## IIS Components Inclusion for Loginom Studio
 
-В командной строке, запущенной от имени администратора:
+In the command line initiated on behalf of the administrator:
 
 ```cmd
 dism /online /enable-feature /FeatureName:IIS-CommonHttpFeatures /FeatureName:IIS-StaticContent /FeatureName:IIS-DefaultDocument /FeatureName:IIS-Performance /FeatureName:IIS-HttpCompressionStatic
@@ -20,7 +20,7 @@ dism /online /enable-feature /FeatureName:IIS-CommonHttpFeatures /FeatureName:II
 
 ### Web.config
 
-В каталог `Loginom 6\Client` надо поместить файл `web.config` следующего содержания:
+It is required to place the `web.config` file with the following content into the `Loginom 6\Client` directory:
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -44,12 +44,12 @@ dism /online /enable-feature /FeatureName:IIS-CommonHttpFeatures /FeatureName:II
 </configuration>
 ```
 
-### Установка модуля Rewrite
+### Installation of the Rewrite Module
 
-> Модуль требуется для работы Loginom Studio в браузерах Internet Explorer v11+ / Edge. Также он необходим для использования wsproxy.
+> The module is required for the Loginom Studio operation in Internet Explorer v11+ / Edge browsers. It is also required for wsproxy usage.
 
-* Скачиваем и устанавливаем модуль [URL Rewrite](https://www.iis.net/downloads/microsoft/url-rewrite)
-* Добавляем в `web.config`:
+* It is required to download and install the [URL Rewrite](https://www.iis.net/downloads/microsoft/url-rewrite) module.
+* It is added to `web.config`:
 
 ```xml
 <system.webServer>
@@ -68,29 +68,29 @@ dism /online /enable-feature /FeatureName:IIS-CommonHttpFeatures /FeatureName:II
 </system.webServer>
 ```
 
-### Настройка WebSocket Proxy
+### WebSocket Proxy Configuring
 
-* Скачиваем и устанавливаем модуль [ARR3.0](https://www.iis.net/downloads/microsoft/application-request-routing#additionalDownloads)
-* Скачиваем и устанавливаем модуль [URL Rewrite](https://www.iis.net/downloads/microsoft/url-rewrite)
-* Включаем компонент WebSockets:
+* It is required to download and install the [ARR3.0](https://www.iis.net/downloads/microsoft/application-request-routing#additionalDownloads) module.
+* It is required to download and install the [URL Rewrite](https://www.iis.net/downloads/microsoft/url-rewrite) module.
+* The WebSockets component is included:
 
 ```cmd
 dism /online /enable-feature /FeatureName:IIS-WebSockets
 ```
 
-* Перезапускаем IIS
+* IIS is restarted
 
 ```cmd
 %windir%\system32\iisreset.exe
 ```
 
-* Включаем функцию прокси в ARR:
+* The proxy function is included into ARR:
 
 ```cmd
 %windir%\system32\inetsrv\appcmd set config -section:system.webServer/proxy /enabled:"True"
 ```
 
-* Добавляем в корневую директорию сайта файл `web.config` со следующим содержимым:
+* The `web.config` file with the following content is added to the site root directory:
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -111,9 +111,9 @@ dism /online /enable-feature /FeatureName:IIS-WebSockets
 </configuration>
 ```
 
-### Создание виртуального каталога для Loginom Studio
+### Creation of the Virtual Directory for Loginom Studio
 
-Следующая команда добавляет виртуальный каталог `/app` в сайте `Default Web Site`:
+The following command enables to add the `/app` virtual directory on the `Default Web Site`:
 
 ```cmd
 "%windir%\system32\inetsrv\appcmd.exe" add vdir /app.name:"Default Web Site/" / /path:/app /physicalPath:"%ProgramFiles%\BaseGroup\Loginom 6\Client"
