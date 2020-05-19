@@ -1,6 +1,6 @@
 # Обновление Loginom Integrator
 
-## Графический интерфейс
+## Graphic Interface
 
 Для обновления Loginom Integrator необходимо запустить инсталлятор новой версии:
 

@@ -1,18 +1,18 @@
 # Установка Loginom Desktop
 
-Варианты имени файла инсталлятора:
+The installer file name versions:
 
 * LoginomPersonal_6.x.x_x64.msi — инсталлятор для редакции Personal 64-битной версии
 * LoginomPersonal_6.x.x_x86.msi — инсталлятор для редакции Personal 32-битной версии
 * LoginomAcademic_6.x.x.msi — инсталлятор для редакции Academic
 
-где 6.x.x – цифры, обозначающие версию и релиз программы.
+where 6.x.x – figures denoting the software version and release.
 
-## Установка MSI
+## MSI Installation
 
-### Графический интерфейс
+### Graphic Interface
 
-#### Запуск инсталлятора
+#### The Installer Launch
 
 Для установки с нестандартными параметрами в диалоге **"Тип установки"** нажимаем кнопку **"Выборочная"**.
 

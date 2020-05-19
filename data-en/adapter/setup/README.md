@@ -45,7 +45,7 @@ dism /online /enable-feature /all /FeatureName:WCF-HTTP-Activation45
 dism /online /enable-feature /all /FeatureName:NetFx3 /LimitAccess /Source:D:\sources\sxs
 ```
 
-## Установка MSI
+## MSI Installation
 
 Имя установочного файла состоит из названия и версии продукта: `LoginomAdapter_6.x.x.msi`, где 6.x.x — цифры, обозначающие версию и релиз программы.
 

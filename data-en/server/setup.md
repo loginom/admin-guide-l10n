@@ -1,27 +1,27 @@
-# Установка Loginom Server
+# Loginom Server Installation
 
-## Установка MSI
+## MSI Installation
 
-Варианты имени файла инсталлятора:
+The installer file name versions:
 
-* LoginomTeam_6.x.x.msi – инсталлятор для редакции Team
-* LoginomStandard_6.x.x.msi – инсталлятор для редакции Standard
-* LoginomEnterprise_6.x.x.msi – инсталлятор для редакции Enterprise
+* LoginomTeam_6.x.x.msi – the installer for the Team editing
+* LoginomStandard_6.x.x.msi – the installer for the Standard editing
+* LoginomEnterprise_6.x.x.msi – the installer for the Enterprise editing
 
-где 6.x.x – цифры, обозначающие версию и релиз программы.
+where 6.x.x – figures denoting the software version and release.
 
-Для работы с программой [Loginom Studio](../studio/README.md) (web-интерфейс к Loginom Server)обязательным условием является наличие web-сервера.
+Web server is mandatory for work with [Loginom Studio](../studio/README.md) (web interface for Loginom Server).
 
-Допустимым является использование следующих вариантов web-сервера:
+It is allowed to use the following web server types:
 
-* **Apache** – стандартная установка, web-сервер входит в состав дистрибутива;
-* **Microsoft IIS** – не входит в состав дистрибутива, он должен быть [установлен и настроен](./iis.md) отдельно.
+* **Apache** – standard installation, web server is included into the distribution kit
+* **Microsoft IIS** is not included into the distribution kit. It must be [installed and configured](./iis.md) separately.
 
-Установка Loginom Server при использовании Apache или Microsoft IIS различна. При установке по умолчанию работа Loginom Studio осуществляется через web-сервер Apache.
+Loginom Server is installed in a different way using Apache or Microsoft IIS. When installing by default, Loginom Studio is used by means of the Apache web server.
 
-### Графический интерфейс
+### Graphic Interface
 
-#### Запуск инсталлятора
+#### The Installer Launch
 
 Для установки с нестандартными параметрами в диалоге **Тип установки** нажимаем кнопку **Выборочная**.
 
@@ -88,28 +88,28 @@ msiexec /i "путь_к_msi_файлу" ключи_msi параметры_logino
 
 %spoiler%Параметры_loginom в виде `КЛЮЧ=значение`%spoiler%
 
-| Ключ | Значение по умолчанию | Описание |
+| Key | Default value | Description |
 |:--------- |:-------------|:------------- |
-| ADDLOCAL | `Server,Studio,Help,Webserver` | Список устанавливаемых компонентов |
-| INSTALLDIR | `%ProgramFiles%\BaseGroup` | Каталог установки |
+| ADDLOCAL | `Server,Studio,Help,Webserver` | List of the Installed Components |
+| INSTALLDIR | `%ProgramFiles%\BaseGroup` | Installation Directory |
 | SERVER_WS_PORT | `8080` | Порт websocket сервера Loginom |
 | SERVER_WSS_PORT | `8443` | Порт websocket secure сервера Loginom |
 | SERVER_PORT | `4580` | Порт сервера Loginom |
 | SERVER_USE_SSL | `0` | Использовать шифрование для websocket (`0,1`) |
-| SERVER_KEY_PATH | | Путь к ключу SSL |
-| SERVER_CRT_PATH | | Путь к сертификату SSL |
-| WEBSRV_PORT | `80` | HTTP порт веб-сервера |
-| WEBSRV_PORT_SSL | `443` | HTTPS порт веб-сервера |
-| WEBSRV_USE_SSL | `0` | Использовать шифрование (https) (`0,1`) |
-| WEBSRV_KEY_PATH | | Путь к ключу SSL |
-| WEBSRV_CRT_PATH | | Путь к сертификату SSL |
-| WEBAPP_URI | `app/` | URI веб-интерфейса Loginom Studio |
-| WEBSRV_USE_WS_PROXY | `0` | Использовать websocket proxy (`0,1`) |
+| SERVER_KEY_PATH | | Path to the SSL key |
+| SERVER_CRT_PATH | | Path to the SSL certificate |
+| WEBSRV_PORT | `80` | Web server HTTP port |
+| WEBSRV_PORT_SSL | `443` | Web server HTTPS port |
+| WEBSRV_USE_SSL | `0` | Use encryption (https) (`0,1`) |
+| WEBSRV_KEY_PATH | | Path to the SSL key |
+| WEBSRV_CRT_PATH | | Path to the SSL certificate |
+| WEBAPP_URI | `app/` | URI of Loginom Studio web interface |
+| WEBSRV_USE_WS_PROXY | `0` | Use websocket proxy (`0,1`) |
 | WEBSRV_PROXY_URI | `ws/` | URI websocket proxy |
 
 %/spoiler%
 
-%spoiler%Примеры%spoiler%
+%spoiler%Examples%spoiler%
 
 ```cmd
 :: "тихая" установка Loginom без веб-сервера

@@ -54,15 +54,15 @@ dism /online /enable-feature /FeatureName:IIS-ApplicationDevelopment /FeatureNam
         * Фильтры ISAPI
 ```
 
-## Установка MSI
+## MSI Installation
 
-### Графический интерфейс
+### Graphic Interface
 
-#### Запуск инсталлятора
+#### The Installer Launch
 
 Для установки с нестандартными параметрами в диалоге **"Тип установки"** нажимаем кнопку **"Выборочная"**. Для получения параметров существующих сайтов IIS в интерфейсе инсталлятора требуется запустить его с правами администратора.
 
-#### Каталог установки
+#### Installation Directory
 
 По умолчанию установка производится в каталог `%ProgramFiles%\BaseGroup\`;
 
@@ -97,7 +97,7 @@ msiexec /i "LoginomIntegrator_6.x.x.msi" ключи_msi параметры_integ
    * `/qn` — "тихая" установка без отображения графического интерфейса.
 * `параметры_integrator` в виде `КЛЮЧ=значение`:
 
-| Ключ | Значение по умолчанию | Описание |
+| Key | Default value | Description |
 |:--------- |:-------------|:------------- |
 | IIS_APPNAME | `lgi` | Имя web-приложения IIS |
 | IIS_POOLNAME | `LGI_POOL` | Имя создаваемого пула приложений IIS |
