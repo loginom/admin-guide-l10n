@@ -1657,6 +1657,22 @@ Host: stend-057</seg>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>LoginomEnterprise_6.x.x.msi – инсталлятор для редакции Enterprise</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T152313Z" creationid="Марианна" creationdate="20200519T152313Z">
+        <seg>LoginomEnterprise_6.x.x.msi – the installer for the Enterprise editing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>LoginomStandard_6.x.x.msi – инсталлятор для редакции Standard</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T152253Z" creationid="Марианна" creationdate="20200519T152253Z">
+        <seg>LoginomStandard_6.x.x.msi – the installer for the Standard editing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>LoginomTeam_6.x.x.msi – инсталлятор для редакции Team</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T152235Z" creationid="Марианна" creationdate="20200519T152235Z">
@@ -4668,6 +4684,14 @@ M: Done. Вася, посмотрю еще раз в сети, все помен
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200324T062342Z" creationid="Марианна" creationdate="20200309T123521Z">
         <seg>the following section: &lt;x7/&gt;Configuration of the Client Role of the External Services&lt;x8/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>где 6.x.x – цифры, обозначающие версию и релиз программы.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T152407Z" creationid="Марианна" creationdate="20200519T152407Z">
+        <seg>where 6.x.x – figures denoting the software version and release.</seg>
       </tuv>
     </tu>
     <tu>
