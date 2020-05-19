@@ -5,6 +5,14 @@
   <body>
 <!-- Default translations -->
     <tu>
+      <tuv lang="RU">
+        <seg>"%windir%\system32\inetsrv\appcmd.exe" add vdir /app.name:"Default Web Site/" / /path:/app /physicalPath:"%ProgramFiles%\BaseGroup\Loginom 6\Client"</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142358Z" creationid="Марианна" creationdate="20200519T142358Z">
+        <seg>"%windir%\system32\inetsrv\appcmd.exe" add vdir /app.name:"Default Web Site/" / /path:/app /physicalPath:"%ProgramFiles%\BaseGroup\Loginom 6\Client"</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Andrew:
 // templates %inputFile% and %outputFile% are replaced with the parameters values while the command
 // "The request file source name" and "The resulting name of the request file", are executed correspondingly.&lt;segment 0102 ¶&gt;
@@ -60,6 +68,22 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>%windir%\system32\iisreset.exe</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141809Z" creationid="Марианна" creationdate="20200519T141809Z">
+        <seg>%windir%\system32\iisreset.exe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>%windir%\system32\inetsrv\appcmd set config -section:system.webServer/proxy /enabled:"True"</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141842Z" creationid="Марианна" creationdate="20200519T141842Z">
+        <seg>%windir%\system32\inetsrv\appcmd set config -section:system.webServer/proxy /enabled:"True"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&amp;nbsp;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T195138Z" creationid="Марианна" creationdate="20200502T195138Z">
@@ -104,6 +128,294 @@ A: "while the command" is placed in a different part of the segment in Github, a
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T194901Z" creationid="Марианна" creationdate="20200502T194901Z">
         <seg>8 GB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;/conditions&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141500Z" creationid="Марианна" creationdate="20200519T141500Z">
+        <seg>&lt;/conditions&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;/customHeaders&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T140948Z" creationid="Марианна" creationdate="20200519T140948Z">
+        <seg>&lt;/customHeaders&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;/httpProtocol&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T140953Z" creationid="Марианна" creationdate="20200519T140953Z">
+        <seg>&lt;/httpProtocol&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;/rewrite&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142115Z" creationid="Марианна" creationdate="20200519T142115Z">
+        <seg>&lt;/rewrite&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;/rewrite&gt;
+&lt;/system.webServer&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141519Z" creationid="Марианна" creationdate="20200519T141519Z">
+        <seg>&lt;/rewrite&gt;
+&lt;/system.webServer&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;/rule&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141510Z" creationid="Марианна" creationdate="20200519T141510Z">
+        <seg>&lt;/rule&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;/rules&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141515Z" creationid="Марианна" creationdate="20200519T141515Z">
+        <seg>&lt;/rules&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;/staticContent&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141029Z" creationid="Марианна" creationdate="20200519T141029Z">
+        <seg>&lt;/staticContent&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;/system.webServer&gt;
+&lt;/configuration&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141034Z" creationid="Марианна" creationdate="20200519T141034Z">
+        <seg>&lt;/system.webServer&gt;
+&lt;/configuration&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;configuration&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T140910Z" creationid="Марианна" creationdate="20200519T140910Z">
+        <seg>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;configuration&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;action type="Rewrite" url="bg-ie/{R:1}.js" appendQueryString="false" /&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141505Z" creationid="Марианна" creationdate="20200519T141505Z">
+        <seg>&lt;action type="Rewrite" url="bg-ie/{R:1}.js" appendQueryString="false" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;action type="Rewrite" url="{C:1}://127.0.0.1:8080/" appendQueryString="false" /&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142105Z" creationid="Марианна" creationdate="20200519T142105Z">
+        <seg>&lt;action type="Rewrite" url="{C:1}://127.0.0.1:8080/" appendQueryString="false" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;add input="{CACHE_URL}" pattern="(ws|http)s?://(.*)" /&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142058Z" creationid="Марианна" creationdate="20200519T142058Z">
+        <seg>&lt;add input="{CACHE_URL}" pattern="(ws|http)s?://(.*)" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;add input="{HTTP_USER_AGENT}" pattern="(MSIE|Trident)" /&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141455Z" creationid="Марианна" creationdate="20200519T141455Z">
+        <seg>&lt;add input="{HTTP_USER_AGENT}" pattern="(MSIE|Trident)" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;add name="Cache-Control" value="no-cache,must-revalidate" /&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T140943Z" creationid="Марианна" creationdate="20200519T140943Z">
+        <seg>&lt;add name="Cache-Control" value="no-cache,must-revalidate" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;conditions logicalGrouping="MatchAny" trackAllCaptures="false"&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142052Z" creationid="Марианна" creationdate="20200519T142052Z">
+        <seg>&lt;conditions logicalGrouping="MatchAny" trackAllCaptures="false"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;conditions logicalGrouping="MatchAny"&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141450Z" creationid="Марианна" creationdate="20200519T141450Z">
+        <seg>&lt;conditions logicalGrouping="MatchAny"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;customHeaders&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T140931Z" creationid="Марианна" creationdate="20200519T140931Z">
+        <seg>&lt;customHeaders&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;httpProtocol&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T140923Z" creationid="Марианна" creationdate="20200519T140923Z">
+        <seg>&lt;httpProtocol&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;match url="^bg/(.+)\.js$" /&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141446Z" creationid="Марианна" creationdate="20200519T141446Z">
+        <seg>&lt;match url="^bg/(.+)\.js$" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;match url="ws/" /&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142039Z" creationid="Марианна" creationdate="20200519T142039Z">
+        <seg>&lt;match url="ws/" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;mimeMap fileExtension=".json" mimeType="application/json" /&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141007Z" creationid="Марианна" creationdate="20200519T141007Z">
+        <seg>&lt;mimeMap fileExtension=".json" mimeType="application/json" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;mimeMap fileExtension=".woff" mimeType="application/font-woff" /&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141015Z" creationid="Марианна" creationdate="20200519T141015Z">
+        <seg>&lt;mimeMap fileExtension=".woff" mimeType="application/font-woff" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;mimeMap fileExtension=".woff2" mimeType="application/font-woff2" /&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141024Z" creationid="Марианна" creationdate="20200519T141024Z">
+        <seg>&lt;mimeMap fileExtension=".woff2" mimeType="application/font-woff2" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;remove fileExtension=".json" /&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141003Z" creationid="Марианна" creationdate="20200519T141003Z">
+        <seg>&lt;remove fileExtension=".json" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;remove fileExtension=".woff" /&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141011Z" creationid="Марианна" creationdate="20200519T141011Z">
+        <seg>&lt;remove fileExtension=".woff" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;remove fileExtension=".woff2" /&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141020Z" creationid="Марианна" creationdate="20200519T141020Z">
+        <seg>&lt;remove fileExtension=".woff2" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;remove name="Cache-Control" /&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T140937Z" creationid="Марианна" creationdate="20200519T140937Z">
+        <seg>&lt;remove name="Cache-Control" /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;rewrite&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141429Z" creationid="Марианна" creationdate="20200519T141429Z">
+        <seg>&lt;rewrite&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;rule name="ie"&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141440Z" creationid="Марианна" creationdate="20200519T141440Z">
+        <seg>&lt;rule name="ie"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;rule name="websocket_proxy" patternSyntax="ECMAScript" stopProcessing="false"&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142034Z" creationid="Марианна" creationdate="20200519T142034Z">
+        <seg>&lt;rule name="websocket_proxy" patternSyntax="ECMAScript" stopProcessing="false"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;rules&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141433Z" creationid="Марианна" creationdate="20200519T141433Z">
+        <seg>&lt;rules&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;staticContent&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T140957Z" creationid="Марианна" creationdate="20200519T140957Z">
+        <seg>&lt;staticContent&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;system.webServer&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T140917Z" creationid="Марианна" creationdate="20200519T140917Z">
+        <seg>&lt;system.webServer&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;system.webServer&gt;
+...</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141423Z" creationid="Марианна" creationdate="20200519T141423Z">
+        <seg>&lt;system.webServer&gt;
+...</seg>
       </tuv>
     </tu>
     <tu>
@@ -967,6 +1279,22 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Web-сервер IIS</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T135847Z" creationid="Марианна" creationdate="20200519T135847Z">
+        <seg>IIS Web Server</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Web.config</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T140650Z" creationid="Марианна" creationdate="20200519T140650Z">
+        <seg>Web.config</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Windows 7</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T195225Z" creationid="Марианна" creationdate="20200502T195225Z">
@@ -987,6 +1315,30 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200421T113623Z" creationid="Марианна" creationdate="20200227T155820Z">
         <seg>The XSD schema can contain references to the associated XSD schemas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>dism /online /enable-feature /FeatureName:IIS-CommonHttpFeatures /FeatureName:IIS-StaticContent /FeatureName:IIS-DefaultDocument /FeatureName:IIS-Performance /FeatureName:IIS-HttpCompressionStatic</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T140645Z" creationid="Марианна" creationdate="20200519T140645Z">
+        <seg>dism /online /enable-feature /FeatureName:IIS-CommonHttpFeatures /FeatureName:IIS-StaticContent /FeatureName:IIS-DefaultDocument /FeatureName:IIS-Performance /FeatureName:IIS-HttpCompressionStatic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>dism /online /enable-feature /FeatureName:IIS-WebServerRole /FeatureName:IIS-WebServer /FeatureName:IIS-WebServerManagementTools /FeatureName:IIS-ManagementScriptingTools</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T140608Z" creationid="Марианна" creationdate="20200519T140608Z">
+        <seg>dism /online /enable-feature /FeatureName:IIS-WebServerRole /FeatureName:IIS-WebServer /FeatureName:IIS-WebServerManagementTools /FeatureName:IIS-ManagementScriptingTools</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>dism /online /enable-feature /FeatureName:IIS-WebSockets</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141716Z" creationid="Марианна" creationdate="20200519T141716Z">
+        <seg>dism /online /enable-feature /FeatureName:IIS-WebSockets</seg>
       </tuv>
     </tu>
     <tu>
@@ -1080,6 +1432,22 @@ Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200510T211502Z" creationid="Марианна" creationdate="20200502T204312Z">
         <seg>It is required to create a new application pool in the IIS service manager that will work with the &lt;x1/&gt;Loginom Adapter&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>В каталог &lt;x1/&gt;Loginom 6\Client&lt;x2/&gt; надо поместить файл &lt;x3/&gt;web.config&lt;x4/&gt; следующего содержания:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T140906Z" creationid="Марианна" creationdate="20200519T140856Z">
+        <seg>It is required to place the &lt;x3/&gt;web.config&lt;x4/&gt; file with the following content into the &lt;x1/&gt;Loginom 6\Client&lt;x2/&gt; directory:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>В командной строке, запущенной от имени администратора:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T140601Z" creationid="Марианна" creationdate="20200519T140601Z">
+        <seg>In the command line initiated on behalf of the administrator:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1293,6 +1661,38 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T193721Z" creationid="Марианна" creationdate="20200502T193721Z">
         <seg>Interaction with the &lt;x3/&gt;Adapter&lt;x4/&gt; from the Loginom workflow is performed according to the standard SOAP protocol using the &lt;x5/&gt;Web service invocation&lt;x6/&gt; node.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Включаем компонент WebSockets:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141712Z" creationid="Марианна" creationdate="20200519T141712Z">
+        <seg>The WebSockets component is included:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Включаем функцию прокси в ARR:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141838Z" creationid="Марианна" creationdate="20200519T141838Z">
+        <seg>The proxy function is included into ARR:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Включение компонентов IIS</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T140318Z" creationid="Марианна" creationdate="20200519T140318Z">
+        <seg>IIS Components Inclusion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Включение компонентов IIS для Loginom Studio</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T140627Z" creationid="Марианна" creationdate="20200519T140627Z">
+        <seg>IIS Components Inclusion for Loginom Studio</seg>
       </tuv>
     </tu>
     <tu>
@@ -1634,6 +2034,22 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200512T101702Z" creationid="Марианна" creationdate="20200428T122802Z">
         <seg>For this purpose, it is required to set a name and namespace of the corresponding schema element for the request and response of each method.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Добавляем в &lt;x1/&gt;web.config&lt;x2/&gt;:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141419Z" creationid="Марианна" creationdate="20200519T141419Z">
+        <seg>It is added to &lt;x1/&gt;web.config&lt;x2/&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Добавляем в корневую директорию сайта файл &lt;x1/&gt;web.config&lt;x2/&gt; со следующим содержимым:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142017Z" creationid="Марианна" creationdate="20200519T142017Z">
+        <seg>The &lt;x1/&gt;web.config&lt;x2/&gt; file with the following content is added to the site root directory:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1999,6 +2415,14 @@ M:Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Инструкции для IIS 8.5</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T140002Z" creationid="Марианна" creationdate="20200519T140002Z">
+        <seg>IIS 8.5 Instructions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Интерфейс &lt;x1/&gt;Конфигуратора&lt;x2/&gt; состоит из двух панелей.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200203T074026Z" creationid="Марианна" creationdate="20200203T074026Z">
@@ -2147,6 +2571,14 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Модуль требуется для работы Loginom Studio в браузерах Internet Explorer v11+ / Edge.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141306Z" creationid="Марианна" creationdate="20200519T141306Z">
+        <seg>The module is required for the Loginom Studio operation in Internet Explorer v11+ / Edge browsers.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Andrew:
 It can take the following values: &lt;x3/&gt;default&lt;x4/&gt;, and &lt;x5/&gt;experianEncoding&lt;x6/&gt;.&lt;segment 0056&gt;
 
@@ -2254,6 +2686,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T210038Z" creationid="Марианна" creationdate="20200502T204111Z">
         <seg>IIS Setup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Настройка WebSocket Proxy</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141543Z" creationid="Марианна" creationdate="20200519T141543Z">
+        <seg>WebSocket Proxy Configuring</seg>
       </tuv>
     </tu>
     <tu>
@@ -2622,6 +3062,14 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200426T100247Z" creationid="Марианна" creationdate="20200426T094939Z">
         <seg>Before the OS command execution  result of the previous transformation stages is represented as a file with the name specified in &lt;x1/&gt;The request file source name&lt;x2/&gt; parameter; then it is recorded to the disc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Перезапускаем IIS</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141803Z" creationid="Марианна" creationdate="20200519T141803Z">
+        <seg>IIS is restarted</seg>
       </tuv>
     </tu>
     <tu>
@@ -3143,6 +3591,30 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Скачиваем и устанавливаем модуль &lt;x1/&gt;ARR3.0&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141609Z" creationid="Марианна" creationdate="20200519T141609Z">
+        <seg>It is required to download and install the &lt;x1/&gt;ARR3.0&lt;x2/&gt; module.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Скачиваем и устанавливаем модуль &lt;x1/&gt;URL Rewrite&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141401Z" creationid="Марианна" creationdate="20200519T141401Z">
+        <seg>It is required to download and install the &lt;x1/&gt;URL Rewrite&lt;x2/&gt; module.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Следующая команда добавляет виртуальный каталог &lt;x1/&gt;/app&lt;x2/&gt; в сайте &lt;x3/&gt;Default Web Site&lt;x4/&gt;:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142354Z" creationid="Марианна" creationdate="20200519T142354Z">
+        <seg>The following command enables to add the &lt;x1/&gt;/app&lt;x2/&gt; virtual directory on the &lt;x3/&gt;Default Web Site&lt;x4/&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A: The next stage can be transformation to the special message format of the credit reference bureau "UNITED CREDIT BUREAU". 
 M: Done. </note>
       <tuv lang="RU">
@@ -3204,6 +3676,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Создание виртуального каталога для Loginom Studio</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T142216Z" creationid="Марианна" creationdate="20200519T142216Z">
+        <seg>Creation of the Virtual Directory for Loginom Studio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Строка запроса (&lt;x1/&gt;Request Line&lt;x2/&gt;)</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200426T111130Z" creationid="Марианна" creationdate="20200426T111130Z">
@@ -3260,6 +3740,14 @@ M:Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200512T101131Z" creationid="Марианна" creationdate="20200427T115630Z">
         <seg>The compulsory configuration component also participates in the WSDL formation process – the XSD schema of the service description; a path to it is specified in &lt;x1/&gt;The schema to which the service description will refer&lt;x2/&gt; the parameter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Также он необходим для использования wsproxy.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141327Z" creationid="Марианна" creationdate="20200519T141327Z">
+        <seg>It is also required for wsproxy usage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3349,6 +3837,14 @@ Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T195106Z" creationid="Марианна" creationdate="20200502T195106Z">
         <seg>Management</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Установка модуля Rewrite</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T141150Z" creationid="Марианна" creationdate="20200519T141150Z">
+        <seg>Installation of the Rewrite Module</seg>
       </tuv>
     </tu>
     <tu>
