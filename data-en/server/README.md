@@ -1,10 +1,10 @@
 # Loginom Server
 
-Аналитический сервер, выполняет задачи загрузки, расчетов, построения моделей, визуализации, управления правами и прочее. Loginom Server — ключевой элемент платформы, необходимый для коллективной работы.
+It is an analytical server responsible for downloading tasks, calculations, model training, visualisation, rights management, etc. Loginom Server is a key platform element required for the team work.
 
-Управление сервером, настройка, визуализация и прочие операции осуществляются при помощи [Loginom Studio](../studio/README.md). С Loginom Server могут взаимодействовать остальные компоненты платформы, кроме компонента [Desktop](../desktop/README.md).
+ [Loginom Studio](../studio/README.md) provides server management, configuration, visualisation and other operations. Other platform components, with the exception of the [Desktop](../desktop/README.md) component, can interact with Loginom Server.
 
-Loginom Server предназначен для развертывания во внутренней сети, когда подразумевается работа более чем одного пользователя с различных рабочих мест.
+Loginom Server is designated for deployment in the internal network when the work of more than one user from different working places is anticipated.
 
 ## System Requirements
 
@@ -12,10 +12,10 @@ Loginom Server предназначен для развертывания во �
 
 | Component | Minimum | Recommended |
 |:--------- |:-------------|:------------- |
-| OS | Windows Server 2012 и выше | |
+| OS | Windows Server 2012 and higher | |
 | CPU x64 | 4 core | 16 core (Users x 1.6 core + 1 core) |
 | RAM | 8 GB | 16 GB (Users x 2GB + 2GB) |
-| HDD | 1 TB | от 1 ТB (+ User Data) |
+| HDD | 1 TB | from 1 ТB (+ User Data) |
 | USB | 1.0 | 2.0 |
 
-> **Примечание:** Системные требования могут меняться в зависимости от объемов данных и взаимодействия со сторонними приложениями.
+> **Note:** the system requirements can vary according to the data volume and interaction with the third-party applications.

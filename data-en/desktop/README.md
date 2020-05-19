@@ -30,4 +30,4 @@
 | HDD | 10 GB | 100 GB (+ User Data) |
 | USB | 1.0 | 2.0 |
 
-> **Примечание:** Системные требования могут меняться в зависимости от объемов данных и взаимодействия со сторонними приложениями.
+> **Note:** the system requirements can vary according to the data volume and interaction with the third-party applications.
