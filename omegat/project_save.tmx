@@ -716,6 +716,14 @@ xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer"&gt;
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;3.&lt;x2/&gt; После обновления запускаем службу &lt;x3/&gt;loginom&lt;x4/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T150936Z" creationid="Марианна" creationdate="20200519T150936Z">
+        <seg>&lt;x1/&gt;3.&lt;x2/&gt; After the upgrade it is required to launch the&lt;x3/&gt;loginom&lt;x4/&gt; service</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T145607Z" creationid="Марианна" creationdate="20200519T145607Z">
@@ -2989,6 +2997,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Командная строка</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T151009Z" creationid="Марианна" creationdate="20200519T151009Z">
+        <seg>Command Line</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Компонент</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T194507Z" creationid="Марианна" creationdate="20200502T194507Z">
@@ -3801,6 +3817,14 @@ Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200510T212848Z" creationid="Марианна" creationdate="20200502T195704Z">
         <seg>The evidence from application usage practice shows that compatibility with.Net Framework, version 4.5 is possible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Предыдущая версия при этом будет удалена без сохранения параметров.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T150834Z" creationid="Марианна" creationdate="20200519T150834Z">
+        <seg>The earlier version will be removed without saved parameters.</seg>
       </tuv>
     </tu>
     <tu>
