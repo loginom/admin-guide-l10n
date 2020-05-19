@@ -2,7 +2,7 @@
 
 **1.** It is required to stop the `loginom` service.
 
-**2.** Loginom installer (new release) is launched:
+**2.** Loginom installer (new version) is launched:
 
 ![](..\images\server_msi_upgrade.png)
 
