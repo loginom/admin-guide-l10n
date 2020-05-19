@@ -2479,8 +2479,8 @@ Done.</note>
       <tuv lang="RU">
         <seg>Для удаления Loginom Server требуется остановить службу &lt;x1/&gt;loginom&lt;x2/&gt; и удалить приложение одним из способов:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T145133Z" creationid="Марианна" creationdate="20200519T145133Z">
-        <seg>To delete Loginom Server it is required to stop the &lt;x1/&gt;loginom&lt;x2/&gt; service and delete the application using one of the following methods:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T145901Z" creationid="Марианна" creationdate="20200519T145133Z">
+        <seg>To remove Loginom Server it is required to stop the &lt;x1/&gt;loginom&lt;x2/&gt; service and remove the application using one of the following methods:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2673,8 +2673,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Запустить инсталлятор продукта, нажать кнопку &lt;x1/&gt;"Удалить"&lt;x2/&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T145556Z" creationid="Марианна" creationdate="20200519T145556Z">
-        <seg>Launch the product installer, pressing the&lt;x1/&gt;"Delete"&lt;x2/&gt; button</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T145924Z" creationid="Марианна" creationdate="20200519T145556Z">
+        <seg>Launch the product installer, pressing the&lt;x1/&gt;"Remove"&lt;x2/&gt; button</seg>
       </tuv>
     </tu>
     <tu>
@@ -4316,8 +4316,8 @@ Done</note>
       <tuv lang="RU">
         <seg>Удаление Loginom Server</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T145045Z" creationid="Марианна" creationdate="20200519T145045Z">
-        <seg>Delete Loginom Server</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200519T145835Z" creationid="Марианна" creationdate="20200519T145045Z">
+        <seg>Remove Loginom Server</seg>
       </tuv>
     </tu>
     <tu>
