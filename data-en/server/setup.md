@@ -71,7 +71,7 @@ The dialog is available only on condition of the Loginom Studio component instal
 * **URL of the Web Application**
 * **Connection to the Loginom server** contains parameters for formation of the [Loginom Studio configuration file](../studio/config.md)
    * **Host** defines the value of the [host](../studio/config.md#host) parameter. If the field value is equal to host of the *URL of the web application* field, it is required to specify `host: null` in `server.json`.
-   * The **WS port** and **WSS port** вашту the values of the [wsport](../studio/config.md#wsport) and [wssport](../studio/config.md#wssport) parameters correspondingly.
+   * The **WS port** and **WSS port** defines the values of the [wsport](../studio/config.md#wsport) and [wssport](../studio/config.md#wssport) parameters correspondingly.
    * **Always use secure connection** activates the [secure](../studio/config.md#secure) parameter.
    * **Use WebSocket proxy** activates the [wsproxy](../studio/config.md#wsproxy) parameter.
    * **Proxy URI** defines the [path](../studio/config.md#path) parameter.
