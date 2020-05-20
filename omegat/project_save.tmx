@@ -3393,6 +3393,22 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Запуск службы "LoginomHttpd": &lt;x1/&gt;net start httpd_loginom&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T090706Z" creationid="Марианна" creationdate="20200520T090706Z">
+        <seg>The "LoginomHttpd" service launch: &lt;x1/&gt;net start httpd_loginom&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Запуск службы "LoginomServer": &lt;x1/&gt;net start loginom&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T090650Z" creationid="Марианна" creationdate="20200520T090650Z">
+        <seg>The "LoginomServer" service launch: &lt;x1/&gt;net start loginom&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Запустить web-клиент Loginom Studio</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T085403Z" creationid="Марианна" creationdate="20200520T085403Z">
@@ -5430,6 +5446,14 @@ A: Okay, I see that now</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T095457Z" creationid="Марианна" creationdate="20200424T095419Z">
         <seg>The Functional Operation Scheme of the Adapter&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Хост с сервером Loginom должен разрешать подключения:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T090845Z" creationid="Марианна" creationdate="20200520T090845Z">
+        <seg>The host with the Loginom server must allow for connections:</seg>
       </tuv>
     </tu>
     <tu>
