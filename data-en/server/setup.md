@@ -128,7 +128,7 @@ msiexec /i ".\LoginomEnterprise.msi" /qn SERVER_USE_SSL=1 SERVER_KEY_PATH="%ALLU
 
 ## Licenses
 
-To launch the **LoginomServer** service it is required to configure the licensing keys (см. [Licensing Keys](../licenses/README.md)).
+To launch the **LoginomServer** service it is required to configure the licensing keys (refer to [Licensing Keys](../licenses/README.md)).
 
 To use the server network keys it is required to create the [GnClient.ini](https://dev.guardant.ru/pages/viewpage.action?pageId=1277980) file in the `"C:\ProgramData\BaseGroup\Loginom 6\Server"` directory
 
