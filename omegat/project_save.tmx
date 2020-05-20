@@ -1583,8 +1583,8 @@ A: Okay</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание:&lt;x2/&gt; После завершения установки в обязательном порядке необходимо изменить пароль учетной записи администратора (admin).</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T092512Z" creationid="Марианна" creationdate="20200520T092512Z">
-        <seg>&lt;x1/&gt;Note:&lt;x2/&gt; После завершения установки в обязательном порядке необходимо изменить пароль учетной записи администратора (admin).</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T092614Z" creationid="Марианна" creationdate="20200520T092512Z">
+        <seg>&lt;x1/&gt;Note:&lt;x2/&gt; Upon installation it is required to change the administrator account (admin) password.</seg>
       </tuv>
     </tu>
     <tu>
