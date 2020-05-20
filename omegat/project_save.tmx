@@ -3849,8 +3849,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Каталог установки</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T154121Z" creationid="Марианна" creationdate="20200519T154121Z">
-        <seg>Installation Directory</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T101502Z" creationid="Марианна" creationdate="20200519T154121Z">
+        <seg>Installation directory</seg>
       </tuv>
     </tu>
     <tu>
@@ -5310,8 +5310,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Список устанавливаемых компонентов</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T154058Z" creationid="Марианна" creationdate="20200519T154058Z">
-        <seg>List of the Installed Components</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T101446Z" creationid="Марианна" creationdate="20200519T154058Z">
+        <seg>List of the installed components</seg>
       </tuv>
     </tu>
     <tu>
