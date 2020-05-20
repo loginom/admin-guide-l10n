@@ -58,7 +58,7 @@ dism /online /enable-feature /FeatureName:IIS-ApplicationDevelopment /FeatureNam
 
 ### Graphic Interface
 
-#### The Installer Launch
+#### Run the Installer
 
 Для установки с нестандартными параметрами в диалоге **"Тип установки"** нажимаем кнопку **"Выборочная"**. Для получения параметров существующих сайтов IIS в интерфейсе инсталлятора требуется запустить его с правами администратора.
 

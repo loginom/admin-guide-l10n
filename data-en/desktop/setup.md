@@ -12,7 +12,7 @@ where 6.x.x – figures denoting the software version and release.
 
 ### Graphic Interface
 
-#### The Installer Launch
+#### Run the Installer
 
 Для установки с нестандартными параметрами в диалоге **"Тип установки"** нажимаем кнопку **"Выборочная"**.
 

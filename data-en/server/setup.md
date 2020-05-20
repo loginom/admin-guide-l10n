@@ -21,7 +21,7 @@ Loginom Server is installed in a different way using Apache or Microsoft IIS. Wh
 
 ### Graphic Interface
 
-#### The Installer Launch
+#### Run the Installer
 
 It is required to press the **Custom** button for installation with nonstandard parameters in the **Installation type** dialog.
 
