@@ -860,6 +860,22 @@ xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer"&gt;
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Loginom Server&lt;x2/&gt; обязателен для установки &lt;x3/&gt;сервера Loginom&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T074635Z" creationid="Марианна" creationdate="20200520T074635Z">
+        <seg>&lt;x1/&gt;Loginom Server&lt;x2/&gt; is compulsory for the &lt;x3/&gt;Loginom server&lt;x4/&gt; installation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Loginom Studio&lt;x2/&gt; устанавливает web-интерфейс.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T074655Z" creationid="Марианна" creationdate="20200520T074655Z">
+        <seg>&lt;x1/&gt;Loginom Studio&lt;x2/&gt; installs the web interface.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Microsoft IIS&lt;x2/&gt; – не входит в состав дистрибутива, он должен быть &lt;x3/&gt;установлен и настроен&lt;x4/&gt; отдельно.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T153021Z" creationid="Марианна" creationdate="20200519T153021Z">
@@ -1117,6 +1133,14 @@ M: Not done. The Russian source is different.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200427T135138Z" creationid="Марианна" creationdate="20200427T135138Z">
         <seg>&lt;x1/&gt;Important&lt;x2/&gt;: incompliance of the resulting XML response with its description in the XSD schema will cause the &lt;x3/&gt;Adapter&lt;x4/&gt; web service operation error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Документация&lt;x2/&gt; добавляет в web-интерфейс раздел справки по работе с платформой.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T074816Z" creationid="Марианна" creationdate="20200520T074816Z">
+        <seg>&lt;x1/&gt;Documentation&lt;x2/&gt; enables to add the platform operation reference section to the web interface.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2519,6 +2543,14 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200427T135742Z" creationid="Марианна" creationdate="20200427T135742Z">
         <seg>The timeout period is expressed in seconds in the &lt;x3/&gt;Timeout&lt;x4/&gt; parameter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Выбор компонентов для установки</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T074545Z" creationid="Марианна" creationdate="20200520T074545Z">
+        <seg>Selection of components for installation</seg>
       </tuv>
     </tu>
     <tu>
