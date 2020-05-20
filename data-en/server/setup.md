@@ -23,58 +23,58 @@ Loginom Server is installed in a different way using Apache or Microsoft IIS. Wh
 
 #### The Installer Launch
 
-Для установки с нестандартными параметрами в диалоге **Тип установки** нажимаем кнопку **Выборочная**.
+It is required to press the **Custom** button for installation with nonstandard parameters in the **Installation type** dialog.
 
-#### Выбор компонентов для установки
+#### Selection of components for installation
 
-* **Loginom Server** обязателен для установки *сервера Loginom*.
-* **Loginom Studio** устанавливает web-интерфейс.
-* **Документация** добавляет в web-интерфейс раздел справки по работе с платформой.
-* **Веб-сервер** устанавливает встроенный web-сервер Apache Httpd. Если предполагается использование стороннего web-сервера, компонент должен быть отключен.
+* **Loginom Server** is compulsory for the *Loginom server* installation.
+* **Loginom Studio** installs the web interface.
+* The **Documentation** enables to add the platform operation reference section to the web interface.
+* The **web server** installs the embedded Apache Httpd web server. If the third-party server is to be used, the component must be disabled.
 
 ![](../images/server_msi_features_default.png)
 
-> **Примечание:** По умолчанию устанавливаются все компоненты.
+> **Note:** All components are installed by default.
 
-#### Параметры Loginom Server
+#### Loginom Server Parameters
 
-Данный диалог доступен только при установке компонента *Loginom Server*.
+This dialog is available only on condition of the *Loginom Server* component installation.
 
 ![](../images/server_msi_server.png)
 
-* **Порт сервера** — определяет номер порта для подключения Loginom Integrator и BatchLauncher.
-* **Порт WS** — определяет номер порта для подключения Loginom Studio по протоколу websocket (ws).
-* **Использовать WebSocket secure** — включает возможность задать параметры ssl для websocket:
-   * **Порт WSS** — определяет номер порта для подключения Loginom Studio по протоколу websocket secure (wss).
-   * **Сертификат SSL**, **Ключ SSL** — полные пути к файлам сертификата и ключа SSL в формате *pem*.
-* **Установить драйвера Guardant x64** — запускает установку в автоматическом режиме драйверов для работы электронного ключа защиты.
+* The **Server port** defines the port number for Loginom Integrator and BatchLauncher connection.
+* The **WS port** defines the port number for Loginom Studio connection according to the websocket (ws) protocol.
+* **Use WebSocket secure** enables to set the ssl parameters for websocket:
+   * The **WSS port** defines the port number for Loginom Studio connection according to the websocket secure (wss) protocol.
+   * The **SSL certificate**, **SSL key** are the full paths to the certificate file and SSL key in the *pem* format.
+* **Install the Guardant x64 driver** enables to launch the installation in the automatic driver mode for the software protection dongle operation.
 
-#### Параметры web-сервера Apache Httpd
+#### Apache Httpd Web Server Parameters
 
-Диалог доступен только при установке компонента *Веб-сервер*.
+The dialog is available only on condition of the *Web server* component installation.
 
 ![](../images/server_msi_httpd.png)
 
-* **Порт HTTP** — определяет номер http порта web-сервера.
-* **Использовать WebSocket proxy** — включает проксирование websocket соединений.
-* **Использовать HTTPS** — включает возможность задать параметры ssl для http:
-   * **Порт HTTPS** — определяет номер https порта web-сервера.
-   * **Сертификат SSL**, **Ключ SSL** — полные пути к файлам сертификата и ключа SSL в формате *pem*.
+* The **HTTP port** defines the number of the web server http port.
+* **Use WebSocket proxy** activates proxying of the websocket connections.
+* **Use HTTPS** enables to set the sssl parameters for http:
+   * The **HTTPS port** defines the number of the web server https port.
+   * The **SSL certificate**, **SSL key** are the full paths to the certificate file and SSL key in the *pem* format.
 
-#### Параметры Loginom Studio
+#### Loginom Studio Parameters
 
-Диалог доступен только при установке компонента Loginom Studio без установки компонента Веб-сервер.
+The dialog is available only on condition of the Loginom Studio component installation without the Web server component installation.
 
 ![](../images/server_msi_studio.png)
 
-* **Каталог веб-приложения**
-* **URL веб-приложения**
-* **Подключение к серверу Loginom** — содержит параметры для формирования [файла конфигурации Loginom Studio](../studio/config.md)
-   * **Хост** — определяет значение параметра [host](../studio/config.md#host). Если значение поля равняется значению host поля *URL веб-приложения*, в `server.json` указывается `host: null`.
-   * **Порт WS** и **Порт WSS** — определяют значения параметров [wsport](../studio/config.md#wsport) и [wssport](../studio/config.md#wssport) соответственно.
-   * **Всегда использовать безопасное подключение** — включает параметр [secure](../studio/config.md#secure).
-   * **Использовать WebSocket proxy** — включает параметр [wsproxy](../studio/config.md#wsproxy).
-   * **Proxy URI** — определяет параметр [path](../studio/config.md#path).
+* **The Web Application Directory**
+* **URL of the Web Application**
+* **Connection to the Loginom server** contains parameters for formation of the [Loginom Studio configuration file](../studio/config.md)
+   * **Host** defines the value of the [host](../studio/config.md#host) parameter. If the field value is equal to host of the *URL of the web application* field, it is required to specify `host: null` in `server.json`.
+   * The **WS port** and **WSS port** вашту the values of the [wsport](../studio/config.md#wsport) and [wssport](../studio/config.md#wssport) parameters correspondingly.
+   * **Always use secure connection** activates the [secure](../studio/config.md#secure) parameter.
+   * **Use WebSocket proxy** activates the [wsproxy](../studio/config.md#wsproxy) parameter.
+   * **Proxy URI** defines the [path](../studio/config.md#path) parameter.
 
 ### Command Line
 
@@ -82,20 +82,20 @@ Loginom Server is installed in a different way using Apache or Microsoft IIS. Wh
 msiexec /i "путь_к_msi_файлу" ключи_msi параметры_loginom
 ```
 
-* `ключи_msi` — допустимые значения можно узнать, выполнив в командной строке `msiexec /?`. Особо полезными могут быть:
-   * `/l* "%TEMP%\loginom.msi.log"` — включение журналирования установки.
-   * `/qn` — "тихая" установка без отображения графического интерфейса.
+* `ключи_msi` — it is possible to find the allowable values executing the following command in the command line: `msiexec /?`. The following commands can be especially useful:
+   * `/l* "%TEMP%\loginom.msi.log"` — activation of the installation logging.
+   * `/qn` — "silent" installation without graphic interface mapping.
 
-%spoiler%Параметры_loginom в виде `КЛЮЧ=значение`%spoiler%
+%spoiler%Параметры_loginom in the form of `КЛЮЧ=значение`%spoiler%
 
 | Key | Default value | Description |
 |:--------- |:-------------|:------------- |
 | ADDLOCAL | `Server,Studio,Help,Webserver` | List of the Installed Components |
 | INSTALLDIR | `%ProgramFiles%\BaseGroup` | Installation Directory |
-| SERVER_WS_PORT | `8080` | Порт websocket сервера Loginom |
-| SERVER_WSS_PORT | `8443` | Порт websocket secure сервера Loginom |
-| SERVER_PORT | `4580` | Порт сервера Loginom |
-| SERVER_USE_SSL | `0` | Использовать шифрование для websocket (`0,1`) |
+| SERVER_WS_PORT | `8080` | The websocket port of the Loginom server |
+| SERVER_WSS_PORT | `8443` | The websocket secure port of the Loginom server |
+| SERVER_PORT | `4580` | The Loginom server port |
+| SERVER_USE_SSL | `0` | Use encryption for websocket (`0,1`) |
 | SERVER_KEY_PATH | | Path to the SSL key |
 | SERVER_CRT_PATH | | Path to the SSL certificate |
 | WEBSRV_PORT | `80` | Web server HTTP port |
@@ -103,7 +103,7 @@ msiexec /i "путь_к_msi_файлу" ключи_msi параметры_logino
 | WEBSRV_USE_SSL | `0` | Use encryption (https) (`0,1`) |
 | WEBSRV_KEY_PATH | | Path to the SSL key |
 | WEBSRV_CRT_PATH | | Path to the SSL certificate |
-| WEBAPP_URI | `app/` | URI of Loginom Studio web interface |
+| WEBAPP_URI | `app/` | URI of the Loginom Studio web interface |
 | WEBSRV_USE_WS_PROXY | `0` | Use websocket proxy (`0,1`) |
 | WEBSRV_PROXY_URI | `ws/` | URI websocket proxy |
 
@@ -112,13 +112,13 @@ msiexec /i "путь_к_msi_файлу" ключи_msi параметры_logino
 %spoiler%Examples%spoiler%
 
 ```cmd
-:: "тихая" установка Loginom без веб-сервера
+:: "silent" installation of Loginom without web server
 msiexec /i ".\LoginomEnterprise.msi" /qn ADDLOCAL=Server,Studio,Help
 
-:: "тихая" установка с нестандартными портами
+:: "silent" installation with non-standard ports
 msiexec /i ".\LoginomEnterprise.msi" /qn WEBSRV_PORT=9080 SERVER_WS_PORT=9081 SERVER_PORT=9082
 
-:: "тихая" установка с включением SSL для websocket
+:: "silent" installation with SSL activation for websocket
 msiexec /i ".\LoginomEnterprise.msi" /qn SERVER_USE_SSL=1 SERVER_KEY_PATH="%ALLUSERSPROFILE%\ssl.key" SERVER_CRT_PATH="%ALLUSERSPROFILE%\ssl.crt"
 
 ```
@@ -126,61 +126,61 @@ msiexec /i ".\LoginomEnterprise.msi" /qn SERVER_USE_SSL=1 SERVER_KEY_PATH="%ALLU
 %/spoiler%
 
 
-## Лицензии
+## Licenses
 
-Для запуска службы **LoginomServer** требуется настройка ключей лицензирования (см. [Лицензионные ключи](../licenses/README.md)).
+To launch the **LoginomServer** service it is required to configure the licensing keys (см. [Licensing Keys](../licenses/README.md)).
 
-При использовании сервера сетевых ключей требуется создать файл [GnClient.ini](https://dev.guardant.ru/pages/viewpage.action?pageId=1277980) в каталоге `"C:\ProgramData\BaseGroup\Loginom 6\Server"`
+To use the server network keys it is required to create the [GnClient.ini](https://dev.guardant.ru/pages/viewpage.action?pageId=1277980) file in the `"C:\ProgramData\BaseGroup\Loginom 6\Server"` directory
 
-## Запуск служб
+## Launch of Services
 
-Службы LoginomServer и LoginomHttpd не запускается после установки автоматически.
+LoginomServer and LoginomHttpd services are not launched in the installation process automatically.
 
-При установке продукта в меню "Пуск" Windows (`Все программы\Loginom 6\Server`) добавляются ярлыки **"Запуск сервера Loginom"** и **"Запуск веб-сервера"**.
+When installing the product in the "Start" Windows menu (`All programs\Loginom 6\Server`) the **"The Loginom server launch"** and **"Web server launch" shortcuts are added**.
 
-Для запуска служб с помощью ярлыка требуется выбрать в его контекстном меню пункт **"Запуск от имени администратора"**. При успешном запуске в окне консоли появится надпись `Служба "LoginomServer" успешно запущена`.
+To launch the services using the shortcut it is required to select the **"Launch as administrator"** item in the context menu. In the case of the successful launch the following text will appear in the console window: `The "LoginomServer" service was successfully launched`.
 
-Для запуска служб из командной строки требутся выполнить от имени администратора следующие команды:
+To launch the services by means if the command line it is required to run the following commands as administrator:
 
-* Запуск службы "LoginomServer": `net start loginom`
-* Запуск службы "LoginomHttpd": `net start httpd_loginom`
+* The "LoginomServer" service launch: `net start loginom`
+* The "LoginomHttpd" service launch: `net start httpd_loginom`
 
-## Файрволл
+## Firewall
 
-Хост с сервером Loginom должен разрешать подключения:
+The host with the Loginom server must allow for connections:
 
-* Входящие на TCP порт `8080|8443` (websocket) для хостов клиентов (браузеры)
-   * при использовании websocket proxy — только для хоста веб-сервера.
-* Входящие на TCP порт `4580` для хостов с **Loginom Intergator** или **BatchLauncher**.
-* При использовании сетевых ключей Guardant — на TCP/UDP порты `3186` и `3187` хоста сервера сетевых ключей.
+* Incoming to the TCP port `8080|8443` (websocket) for the client hosts (browsers)
+   * using websocket proxy — only for the web server host.
+* Incoming to the  TCP port `4580` for hosts with **Loginom Intergator** or **BatchLauncher**.
+* Using the network Guardant keys — to TCP/UDP ports `3186` and `3187` server host of the network keys.
 
-Хост с веб-сервером должен разрешать подключения:
+The host with the web server must allow for connections:
 
-* На TCP порт `80|443` (http(s)) для хостов клиентов (браузеры)
+* To the TCP port `80|443` (http(s)) for the client hosts (browsers)
 
-Убедитесь, что установленные антивирусы и межсетевые экраны разрешают эти подключения.
+Make sure that the installed antivirus software and network firewalls allow for such connections.
 
 %spoiler%Примеры настройки Windows Firewal:%spoiler%
 
-* Разрешаем подключения к http порту web-сервера
+* Connections to the http web server port are allowed
 
 ```cmd
 netsh advfirewall firewall add rule name="Allow HTTP" dir=in action=allow protocol=TCP localport=80
 ```
 
-* Разрешаем подключения к Loginom Server websocket
+* Connections to Loginom Server websocket are allowed
 
 ```cmd
 netsh advfirewall firewall add rule name="Allow Loginom WebSocket" dir=in action=allow protocol=TCP localport=8080
 ```
 
-* Разрешаем подключения к Loginom Server для Integrator
+* Connections to Loginom Server for Integrator are allowed
 
 ```cmd
 netsh advfirewall firewall add rule name="Allow Loginom Port" dir=in action=allow protocol=TCP localport=4850 remoteip=%lgi_host_ip%
 ```
 
-* Разрешаем подключения к серверу сетевых ключей для Loginom Server
+* Connections to the network keys server for Loginom Server are allowed
 
 ```cmd
 netsh advfirewall firewall add rule name="Allow Guardant Net" dir=out action=allow protocol=TCP remoteport=3186-3187 remoteip=%guardant_net_host_ip%
@@ -189,20 +189,20 @@ netsh advfirewall firewall add rule name="Allow Guardant Net" dir=out action=all
 %/spoiler%
 
 
-## Учетные записи
+## Accounts
 
-При установке в Loginom Server создаются учетные записи пользователей:
+When Loginom Server installing, the following user accounts are created:
 
-* `user` с пустым паролем — для работы со сценариями Loginom
-* `admin` с паролем `admin` — для администрирования сервера Loginom
-* `service` с паролем `service` — для подключения внешних приложений (Integrator и BatchLauncher)
+* `user` with blank password — for work with the Loginom workflows
+* `admin` with the `admin` password — for the Loginom server administration
+* `service` with the `service` password — for connection of the external applications (Integrator and BatchLauncher)
 
-> **Примечание:** После завершения установки в обязательном порядке необходимо изменить пароль учетной записи администратора (admin).
+> **Note:** Upon installation it is required to change the administrator account (admin) password.
 
 
-## Проверка работоспособности
+## Function Test
 
-* Запустить web-клиент Loginom Studio
-   * ярлыком `Все программы\Loginom 6\Studio\Loginom Studio` из меню "Пуск" Windows
-   * либо в браузере (рекомендуется Chrome) по URL: `http://localhost/app/`. Если в настройках веб-сервера порт был изменен, то URL: `http://localhost:<Порт HTTP>/app/`
-* Авторизоваться с учетной записью `user` с пустым паролем.
+* Launch the Loginom Studio web client
+   * using the `All programs\Loginom 6\Studio\Loginom Studio` shortcut from the "Start" Windows menu,
+   * or in the browser (Chrome is recommended) using the following URL: `http://localhost/app/`. If the port was changed in the web server settings, the following URL is used: `http://localhost:<HTTP port>/app/`
+* Log in as `user` with blank password.

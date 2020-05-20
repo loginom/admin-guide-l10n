@@ -16,7 +16,7 @@ where 6.x.x – figures denoting the software version and release.
 
 Для установки с нестандартными параметрами в диалоге **"Тип установки"** нажимаем кнопку **"Выборочная"**.
 
-#### Выбор компонентов для установки
+#### Selection of components for installation
 
 ![](../images/personal_msi_features_default.png)
 
@@ -31,12 +31,12 @@ where 6.x.x – figures denoting the software version and release.
 msiexec /i "LoginomPersonal_6.x.x_x64.msi" ключи_msi
 ```
 
-* `ключи_msi` — допустимые значения можно узнать, выполнив в командной строке `msiexec /?`. Особо полезными могут быть:
-   * `/l* "%TEMP%\loginom.msi.log"` — включение журналирования установки.
-   * `/qn` — "тихая" установка без отображения графического интерфейса.
+* `ключи_msi` — it is possible to find the allowable values executing the following command in the command line: `msiexec /?`. The following commands can be especially useful:
+   * `/l* "%TEMP%\loginom.msi.log"` — activation of the installation logging.
+   * `/qn` — "silent" installation without graphic interface mapping.
 
-## Лицензии
+## Licenses
 
-Для запуска **Loginom Desktop** требуется настройка ключей лицензирования (см. [Лицензионные ключи](../licenses/README.md)).
+Для запуска **Loginom Desktop** требуется настройка ключей лицензирования (см. [Licensing Keys](../licenses/README.md)).
 
 При использовании сервера сетевых ключей требуется создать файл [GnClient.ini](https://dev.guardant.ru/pages/viewpage.action?pageId=1277980) в каталоге `"C:\ProgramData\BaseGroup\Loginom 6\Personal"`

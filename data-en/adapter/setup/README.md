@@ -71,7 +71,7 @@ dism /online /enable-feature /all /FeatureName:NetFx3 /LimitAccess /Source:D:\so
 
 При использовании сервера сетевых ключей требуется отредактировать файл [GnClient.ini](https://dev.guardant.ru/pages/viewpage.action?pageId=1277980) в каталоге `"C:\ProgramData\BaseGroup\Loginom 6\Adapter"`, указав в секции `[Server]` в поле `IP_NAME` адрес сервера ключей.
 
-## Проверка работоспособности
+## Function Test
 
 Для проверки работоспособности необходимо в браузере перейти по URL: `http://<Server>/LoginomAdapter/Service.svc?wsdl`, где `<Server>` — имя хоста Loginom Adapter.
 

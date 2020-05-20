@@ -92,9 +92,9 @@ dism /online /enable-feature /FeatureName:IIS-ApplicationDevelopment /FeatureNam
 msiexec /i "LoginomIntegrator_6.x.x.msi" ключи_msi параметры_integrator
 ```
 
-* `ключи_msi` — допустимые значения можно узнать, выполнив в командной строке `msiexec /?`. Особо полезными могут быть:
-   * `/l* "%TEMP%\loginom.msi.log"` — включение журналирования установки.
-   * `/qn` — "тихая" установка без отображения графического интерфейса.
+* `ключи_msi` — it is possible to find the allowable values executing the following command in the command line: `msiexec /?`. The following commands can be especially useful:
+   * `/l* "%TEMP%\loginom.msi.log"` — activation of the installation logging.
+   * `/qn` — "silent" installation without graphic interface mapping.
 * `параметры_integrator` в виде `КЛЮЧ=значение`:
 
 | Key | Default value | Description |
@@ -116,7 +116,7 @@ msiexec /i "LoginomIntegrator_6.x.x.msi" ключи_msi параметры_integ
 * Создать в IIS пул приложений в режиме `Integrated` и версией среды CLR `v4.0`
 * Создать в IIS web-приложение в новом пуле, указав путь к расположению файлов Integrator
 
-## Проверка работоспособности
+## Function Test
 
 Для проверки работоспособности необходимо в браузере перейти по URL: `http://<Server>/lgi/service.svc?wsdl`, где `<Server>` — имя хоста Loginom Integrator.
 
