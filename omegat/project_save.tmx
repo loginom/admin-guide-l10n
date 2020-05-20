@@ -1153,6 +1153,14 @@ M: Not done. The Russian source is different.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Всегда использовать безопасное подключение&lt;x2/&gt; — включает параметр &lt;x3/&gt;secure&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T083930Z" creationid="Марианна" creationdate="20200520T083930Z">
+        <seg>&lt;x1/&gt;Always use secure connection&lt;x2/&gt; activates the &lt;x3/&gt;secure&lt;x4/&gt; parameter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Документация&lt;x2/&gt; добавляет в web-интерфейс раздел справки по работе с платформой.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T074828Z" creationid="Марианна" creationdate="20200520T074816Z">
@@ -1435,6 +1443,14 @@ A: Okay</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T082027Z" creationid="Марианна" creationdate="20200520T082027Z">
         <seg>The &lt;x1/&gt;HTTPS port&lt;x2/&gt; defines the number of the web server https port.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Порт WS&lt;x2/&gt; и &lt;x3/&gt;Порт WSS&lt;x4/&gt; — определяют значения параметров &lt;x5/&gt;wsport&lt;x6/&gt; и &lt;x7/&gt;wssport&lt;x8/&gt; соответственно.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T083844Z" creationid="Марианна" creationdate="20200520T083844Z">
+        <seg>The &lt;x1/&gt;WS port&lt;x2/&gt; and &lt;x3/&gt;WSS port&lt;x4/&gt; вашту the values of the &lt;x5/&gt;wsport&lt;x6/&gt; and &lt;x7/&gt;wssport&lt;x8/&gt; parameters correspondingly.</seg>
       </tuv>
     </tu>
     <tu>
