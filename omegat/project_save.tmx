@@ -796,16 +796,16 @@ xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer"&gt;
       <tuv lang="RU">
         <seg>&lt;x1/&gt;2.&lt;x2/&gt; Запускаем инсталлятор Loginom новой версии:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T151443Z" creationid="Марианна" creationdate="20200519T150434Z">
-        <seg>&lt;x1/&gt;2.&lt;x2/&gt; Loginom installer (new version) is launched:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T102846Z" creationid="Марианна" creationdate="20200519T150434Z">
+        <seg>&lt;x1/&gt;2.&lt;x2/&gt; Loginom installer (new version) is started:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;3.&lt;x2/&gt; После обновления запускаем службу &lt;x3/&gt;loginom&lt;x4/&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T150936Z" creationid="Марианна" creationdate="20200519T150936Z">
-        <seg>&lt;x1/&gt;3.&lt;x2/&gt; After the upgrade it is required to launch the&lt;x3/&gt;loginom&lt;x4/&gt; service</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T102948Z" creationid="Марианна" creationdate="20200519T150936Z">
+        <seg>&lt;x1/&gt;3.&lt;x2/&gt; After the upgrade it is required to start the&lt;x3/&gt;loginom&lt;x4/&gt; service</seg>
       </tuv>
     </tu>
     <tu>
@@ -3087,8 +3087,8 @@ Done.</note>
       <tuv lang="RU">
         <seg>Для запуска служб из командной строки требутся выполнить от имени администратора следующие команды:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T090636Z" creationid="Марианна" creationdate="20200520T090636Z">
-        <seg>To launch the services by means if the command line it is required to run the following commands as administrator:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T102811Z" creationid="Марианна" creationdate="20200520T090636Z">
+        <seg>To start the services by means if the command line it is required to run the following commands as administrator:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3483,24 +3483,24 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Запуск службы "LoginomHttpd": &lt;x1/&gt;net start httpd_loginom&lt;x2/&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T090706Z" creationid="Марианна" creationdate="20200520T090706Z">
-        <seg>The "LoginomHttpd" service launch: &lt;x1/&gt;net start httpd_loginom&lt;x2/&gt;</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T102828Z" creationid="Марианна" creationdate="20200520T090706Z">
+        <seg>The "LoginomHttpd" service start: &lt;x1/&gt;net start httpd_loginom&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>Запуск службы "LoginomServer": &lt;x1/&gt;net start loginom&lt;x2/&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T090650Z" creationid="Марианна" creationdate="20200520T090650Z">
-        <seg>The "LoginomServer" service launch: &lt;x1/&gt;net start loginom&lt;x2/&gt;</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T102818Z" creationid="Марианна" creationdate="20200520T090650Z">
+        <seg>The "LoginomServer" service start: &lt;x1/&gt;net start loginom&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>Запустить web-клиент Loginom Studio</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T085403Z" creationid="Марианна" creationdate="20200520T085403Z">
-        <seg>Launch the Loginom Studio web client</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T102835Z" creationid="Марианна" creationdate="20200520T085403Z">
+        <seg>Start the Loginom Studio web client</seg>
       </tuv>
     </tu>
     <tu>
