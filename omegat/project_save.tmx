@@ -1375,6 +1375,30 @@ A: Okay</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Порт WS&lt;x2/&gt; — определяет номер порта для подключения Loginom Studio по протоколу websocket (ws).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T075635Z" creationid="Марианна" creationdate="20200520T075635Z">
+        <seg>The &lt;x1/&gt;WS port&lt;x2/&gt; defines the port number for Loginom Studio connection according to the websocket (ws) protocol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Порт сервера&lt;x2/&gt; — определяет номер порта для подключения Loginom Integrator и BatchLauncher.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T075552Z" creationid="Марианна" creationdate="20200520T075552Z">
+        <seg>The &lt;x1/&gt;Server port&lt;x2/&gt; defines the port number for Loginom Integrator and BatchLauncher connection.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Примечание:&lt;x2/&gt; По умолчанию устанавливаются все компоненты.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T075347Z" creationid="Марианна" creationdate="20200520T075347Z">
+        <seg>&lt;x1/&gt;Note:&lt;x2/&gt; All components are installed by default.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание:&lt;x2/&gt; Системные требования могут меняться в зависимости от объемов данных и взаимодействия со сторонними приложениями.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T144615Z" creationid="Марианна" creationdate="20200519T144615Z">
@@ -2696,6 +2720,14 @@ M: Done. But the second sentence is absent in the source.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Данный диалог доступен только при установке компонента &lt;x1/&gt;Loginom Server&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T075459Z" creationid="Марианна" creationdate="20200520T075459Z">
+        <seg>This dialog is available only on condition of the &lt;x1/&gt;Loginom Server&lt;x2/&gt; component installation.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Andrew:
 This parameter must contain the method name taken from WSDL description of the SOAP service.&lt;segment 0090&gt;
 
@@ -3969,6 +4001,14 @@ M:Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200512T100801Z" creationid="Марианна" creationdate="20200428T104612Z">
         <seg>&lt;x1/&gt;The web service name&lt;x2/&gt;, &lt;x3/&gt;Method name&lt;x4/&gt;, &lt;x5/&gt;Method name in the Loginom Adapter&lt;x6/&gt; parameters participate in the formation of the elements' name of the service WSDL description. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Параметры Loginom Server</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T075400Z" creationid="Марианна" creationdate="20200520T075400Z">
+        <seg>Loginom Server Parameters</seg>
       </tuv>
     </tu>
     <tu>
