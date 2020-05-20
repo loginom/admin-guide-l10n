@@ -5526,6 +5526,14 @@ M: Done. Вася, посмотрю еще раз в сети, все помен
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>либо в браузере (рекомендуется Chrome) по URL: &lt;x1/&gt;http://localhost/app/&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T085555Z" creationid="Марианна" creationdate="20200520T085555Z">
+        <seg>or in the browser (Chrome is recommended) using the following URL: &lt;x1/&gt;http://localhost/app/&lt;x2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>от 1 ТB (+ User Data)</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T144424Z" creationid="Марианна" creationdate="20200519T144424Z">
@@ -5640,8 +5648,8 @@ A: I get it now. At the time I made the recommendation, I was not reading it in 
       <tuv lang="RU">
         <seg>ярлыком &lt;x1/&gt;Все программы\Loginom 6\Studio\Loginom Studio&lt;x2/&gt; из меню "Пуск" Windows</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T085512Z" creationid="Марианна" creationdate="20200520T085512Z">
-        <seg>using the &lt;x1/&gt;All programs\Loginom 6\Studio\Loginom Studio&lt;x2/&gt; shortcut from the "Start" Windows menu</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T085520Z" creationid="Марианна" creationdate="20200520T085512Z">
+        <seg>using the &lt;x1/&gt;All programs\Loginom 6\Studio\Loginom Studio&lt;x2/&gt; shortcut from the "Start" Windows menu,</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
