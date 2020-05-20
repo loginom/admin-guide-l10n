@@ -236,6 +236,28 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>:: "тихая" установка Loginom без веб-сервера
+msiexec /i ".\LoginomEnterprise.msi" /qn ADDLOCAL=Server,Studio,Help
+
+:: "тихая" установка с нестандартными портами
+msiexec /i ".\LoginomEnterprise.msi" /qn WEBSRV_PORT=9080 SERVER_WS_PORT=9081 SERVER_PORT=9082
+
+:: "тихая" установка с включением SSL для websocket
+msiexec /i ".\LoginomEnterprise.msi" /qn SERVER_USE_SSL=1 SERVER_KEY_PATH="%ALLUSERSPROFILE%\ssl.key" SERVER_CRT_PATH="%ALLUSERSPROFILE%\ssl.crt"</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T084927Z" creationid="Марианна" creationdate="20200520T084927Z">
+        <seg>:: "silent" installation of Loginom without web server
+msiexec /i ".\LoginomEnterprise.msi" /qn ADDLOCAL=Server,Studio,Help
+
+:: "silent" installation with non-standard ports
+msiexec /i ".\LoginomEnterprise.msi" /qn WEBSRV_PORT=9080 SERVER_WS_PORT=9081 SERVER_PORT=9082
+
+:: "silent" installation with SSL activation for websocket
+msiexec /i ".\LoginomEnterprise.msi" /qn SERVER_USE_SSL=1 SERVER_KEY_PATH="%ALLUSERSPROFILE%\ssl.key" SERVER_CRT_PATH="%ALLUSERSPROFILE%\ssl.crt"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;/conditions&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T141500Z" creationid="Марианна" creationdate="20200519T141500Z">
@@ -2155,8 +2177,8 @@ Host: stend-057</seg>
       <tuv lang="RU">
         <seg>URI веб-интерфейса Loginom Studio</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T153829Z" creationid="Марианна" creationdate="20200519T153829Z">
-        <seg>URI of Loginom Studio web interface</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T084759Z" creationid="Марианна" creationdate="20200519T153829Z">
+        <seg>URI of the Loginom Studio web interface</seg>
       </tuv>
     </tu>
     <tu>
@@ -3601,6 +3623,14 @@ M:Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Использовать шифрование для websocket (&lt;x1/&gt;0,1&lt;x2/&gt;)</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T084737Z" creationid="Марианна" creationdate="20200520T084737Z">
+        <seg>Use encryption for websocket (&lt;x1/&gt;0,1&lt;x2/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Используемые в работе &lt;x1/&gt;Адаптера&lt;x2/&gt; сертификаты могут хранится:</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T060833Z" creationid="Марианна" creationdate="20200502T060833Z">
@@ -4474,10 +4504,26 @@ Done. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Порт websocket secure сервера Loginom</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T084645Z" creationid="Марианна" creationdate="20200520T084645Z">
+        <seg>The websocket secure port of the Loginom server</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Порт websocket сервера Loginom</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T084621Z" creationid="Марианна" creationdate="20200520T084621Z">
         <seg>The websocket port of the Loginom server</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Порт сервера Loginom</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T084704Z" creationid="Марианна" creationdate="20200520T084704Z">
+        <seg>The Loginom server port</seg>
       </tuv>
     </tu>
     <tu>
