@@ -1543,8 +1543,8 @@ A: Okay</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Порт WS&lt;x2/&gt; и &lt;x3/&gt;Порт WSS&lt;x4/&gt; — определяют значения параметров &lt;x5/&gt;wsport&lt;x6/&gt; и &lt;x7/&gt;wssport&lt;x8/&gt; соответственно.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T083844Z" creationid="Марианна" creationdate="20200520T083844Z">
-        <seg>The &lt;x1/&gt;WS port&lt;x2/&gt; and &lt;x3/&gt;WSS port&lt;x4/&gt; вашту the values of the &lt;x5/&gt;wsport&lt;x6/&gt; and &lt;x7/&gt;wssport&lt;x8/&gt; parameters correspondingly.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T101013Z" creationid="Марианна" creationdate="20200520T083844Z">
+        <seg>The &lt;x1/&gt;WS port&lt;x2/&gt; and &lt;x3/&gt;WSS port&lt;x4/&gt; defines the values of the &lt;x5/&gt;wsport&lt;x6/&gt; and &lt;x7/&gt;wssport&lt;x8/&gt; parameters correspondingly.</seg>
       </tuv>
     </tu>
     <tu>
