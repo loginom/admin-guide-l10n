@@ -92,6 +92,14 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>%spoiler%Примеры настройки Windows Firewal:%spoiler%</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T091725Z" creationid="Марианна" creationdate="20200520T091725Z">
+        <seg>%spoiler%Примеры настройки Windows Firewal:%spoiler%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>%spoiler%Примеры%spoiler%</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T153919Z" creationid="Марианна" creationdate="20200519T153919Z">
@@ -2399,10 +2407,26 @@ net start loginom</seg>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>netsh advfirewall firewall add rule name="Allow HTTP" dir=in action=allow protocol=TCP localport=80</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T091809Z" creationid="Марианна" creationdate="20200520T091809Z">
+        <seg>netsh advfirewall firewall add rule name="Allow HTTP" dir=in action=allow protocol=TCP localport=80</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>netsh advfirewall firewall add rule name="Allow Loginom Port" dir=in action=allow protocol=TCP localport=4850 remoteip=%lgi_host_ip%</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T085017Z" creationid="Марианна" creationdate="20200520T085017Z">
         <seg>netsh advfirewall firewall add rule name="Allow Loginom Port" dir=in action=allow protocol=TCP localport=4850 remoteip=%lgi_host_ip%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>netsh advfirewall firewall add rule name="Allow Loginom WebSocket" dir=in action=allow protocol=TCP localport=8080</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T091831Z" creationid="Марианна" creationdate="20200520T091831Z">
+        <seg>netsh advfirewall firewall add rule name="Allow Loginom WebSocket" dir=in action=allow protocol=TCP localport=8080</seg>
       </tuv>
     </tu>
     <tu>
@@ -5026,6 +5050,38 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200512T095631Z" creationid="Марианна" creationdate="20200426T124906Z">
         <seg>Certificates Usage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Разрешаем подключения к Loginom Server websocket</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T091826Z" creationid="Марианна" creationdate="20200520T091826Z">
+        <seg>Connections to Loginom Server websocket are allowed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Разрешаем подключения к Loginom Server для Integrator</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T091857Z" creationid="Марианна" creationdate="20200520T091857Z">
+        <seg>Connections to Loginom Server for Integrator are allowed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Разрешаем подключения к http порту web-сервера</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T091800Z" creationid="Марианна" creationdate="20200520T091800Z">
+        <seg>Connections to the http web server port are allowed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Разрешаем подключения к серверу сетевых ключей для Loginom Server</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T092110Z" creationid="Марианна" creationdate="20200520T092110Z">
+        <seg>Connections to the network keys server for Loginom Server are allowed</seg>
       </tuv>
     </tu>
     <tu>
