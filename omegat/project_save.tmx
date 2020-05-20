@@ -955,6 +955,14 @@ xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer"&gt;
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;URL веб-приложения&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T083349Z" creationid="Марианна" creationdate="20200520T083349Z">
+        <seg>&lt;x1/&gt;URL of the Web Application&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A: URL for request sending
 M: Done.</note>
       <tuv lang="RU">
@@ -1300,6 +1308,14 @@ OK
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Каталог веб-приложения&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T083328Z" creationid="Марианна" creationdate="20200520T083328Z">
+        <seg>&lt;x1/&gt;The Web Application Directory&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Кодировка сообщений&lt;x2/&gt; — указывается кодировка сообщений, применяемая внешним сервисом.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200226T110522Z" creationid="Марианна" creationdate="20200226T110456Z">
@@ -1395,6 +1411,14 @@ A: Okay</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200429T114328Z" creationid="Марианна" creationdate="20200226T105538Z">
         <seg>&lt;x1/&gt;To transfer the address in the SOAP message header &lt;x2/&gt; — the flag that shows that it is required to transfer the address in the header (the &lt;x3/&gt;Header&lt;x4/&gt; sections) of the SOAP message.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Подключение к серверу Loginom&lt;x2/&gt; — содержит параметры для формирования &lt;x3/&gt;файла конфигурации Loginom Studio&lt;x4/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T083456Z" creationid="Марианна" creationdate="20200520T083456Z">
+        <seg>&lt;x1/&gt;Connection to the Loginom server&lt;x2/&gt; contains parameters for formation of the &lt;x3/&gt;Loginom Studio configuration file&lt;x4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1707,6 +1731,14 @@ Ok, or added.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200421T111404Z" creationid="Марианна" creationdate="20200226T104749Z">
         <seg>&lt;x1/&gt;Message format&lt;x2/&gt; can take one of three values: &lt;x3/&gt;plainXml&lt;x4/&gt;, &lt;x5/&gt;soap&lt;x6/&gt;, or &lt;x7/&gt;soap12&lt;x8/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Хост&lt;x2/&gt; — определяет значение параметра &lt;x3/&gt;host&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T083522Z" creationid="Марианна" creationdate="20200520T083522Z">
+        <seg>&lt;x1/&gt;Host&lt;x2/&gt; defines the value of the &lt;x3/&gt;host&lt;x4/&gt; parameter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3081,6 +3113,14 @@ Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T225045Z" creationid="Марианна" creationdate="20200424T103406Z">
         <seg>If the value of the &lt;x1/&gt;&gt;XSLT for transformation of the incoming message before transfer&lt;x2/&gt; parameter is not specified, the XSLT transformation stage is not performed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Если значение поля равняется значению host поля &lt;x5/&gt;URL веб-приложения&lt;x6/&gt;, в &lt;x7/&gt;server.json&lt;x8/&gt; указывается &lt;x9/&gt;host: null&lt;x10/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T083734Z" creationid="Марианна" creationdate="20200520T083734Z">
+        <seg>If the field value is equal to host of the &lt;x5/&gt;URL of the web application&lt;x6/&gt; field, it is required to specify &lt;x9/&gt;host: null&lt;x10/&gt; in &lt;x7/&gt;server.json&lt;x8/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
