@@ -4795,6 +4795,14 @@ M: Done. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>При установке продукта в меню "Пуск" Windows (&lt;x1/&gt;Все программы\Loginom 6\Server&lt;x2/&gt;) добавляются ярлыки &lt;x3/&gt;"Запуск сервера Loginom"&lt;x4/&gt; и &lt;x5/&gt;"Запуск веб-сервера"&lt;x6/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T090048Z" creationid="Марианна" creationdate="20200520T090048Z">
+        <seg>When installing the product in the "Start" Windows menu (&lt;x1/&gt;All programs\Loginom 6\Server&lt;x2/&gt;) the &lt;x3/&gt;"The Loginom server launch"&lt;x4/&gt; and &lt;x5/&gt;"Web server launch" shortcuts are added&lt;x6/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>При этом запросы, полученные &lt;x5/&gt;Адаптером&lt;x6/&gt; до этого, будут завершены со старыми настройками.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T215934Z" creationid="Марианна" creationdate="20200203T073751Z">
@@ -5054,6 +5062,14 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T223109Z" creationid="Марианна" creationdate="20200424T104144Z">
         <seg>The next processing stage can be an application of the OS command.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Службы LoginomServer и LoginomHttpd не запускается после установки автоматически.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T085903Z" creationid="Марианна" creationdate="20200520T085903Z">
+        <seg>LoginomServer and LoginomHttpd services are not launched in the installation process automatically.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5321,6 +5337,14 @@ Done. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Учетные записи</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T085817Z" creationid="Марианна" creationdate="20200520T085817Z">
+        <seg>Accounts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Файлы журналов сохраняются в подкаталоге &lt;x1/&gt;Logs&lt;x2/&gt; рабочего каталога.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200514T054108Z" creationid="Марианна" creationdate="20200514T052716Z">
@@ -5333,6 +5357,14 @@ Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200514T054025Z" creationid="Марианна" creationdate="20200514T051450Z">
         <seg>Loginom Server configuration files are in the working directory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Файрволл</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T085746Z" creationid="Марианна" creationdate="20200520T085746Z">
+        <seg>Firewall</seg>
       </tuv>
     </tu>
     <tu>
