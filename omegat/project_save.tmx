@@ -3467,8 +3467,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Запуск инсталлятора</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T153403Z" creationid="Марианна" creationdate="20200519T153403Z">
-        <seg>The Installer Launch</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T103157Z" creationid="Марианна" creationdate="20200519T153403Z">
+        <seg>Run the Installer</seg>
       </tuv>
     </tu>
     <tu>
@@ -3515,8 +3515,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Запустить инсталлятор продукта, нажать кнопку &lt;x1/&gt;"Удалить"&lt;x2/&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T145924Z" creationid="Марианна" creationdate="20200519T145556Z">
-        <seg>Launch the product installer, pressing the&lt;x1/&gt;"Remove"&lt;x2/&gt; button</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T103134Z" creationid="Марианна" creationdate="20200519T145556Z">
+        <seg>Run the product installer, pressing the&lt;x1/&gt;"Remove"&lt;x2/&gt; button</seg>
       </tuv>
     </tu>
     <tu>
@@ -3524,8 +3524,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Запустить инсталлятор продукта, нажать кнопку &lt;x1/&gt;"Удалить"&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200510T214634Z" creationid="Марианна" creationdate="20200502T202746Z">
-        <seg>To launch the product installer having pressed the &lt;x1/&gt;"Uninstall"&lt;x2/&gt; button</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T103126Z" creationid="Марианна" creationdate="20200502T202746Z">
+        <seg>To run the product installer having pressed the &lt;x1/&gt;"Uninstall"&lt;x2/&gt; button</seg>
       </tuv>
     </tu>
     <tu>
