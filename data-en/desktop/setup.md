@@ -31,7 +31,7 @@ where 6.x.x – figures denoting the software version and release.
 msiexec /i "LoginomPersonal_6.x.x_x64.msi" ключи_msi
 ```
 
-* `ключи_msi` — it is possible to find the allowable values executing the following command in the command line: `msiexec /?`. The following commands can be especially useful:
+* `keys_msi` — it is possible to find the allowable values executing the following command in the command line: `msiexec /?`. The following commands can be especially useful:
    * `/l* "%TEMP%\loginom.msi.log"` — activation of the installation logging.
    * `/qn` — "silent" installation without graphic interface mapping.
 

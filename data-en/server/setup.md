@@ -82,7 +82,7 @@ The dialog is available only on condition of the Loginom Studio component instal
 msiexec /i "путь_к_msi_файлу" ключи_msi параметры_loginom
 ```
 
-* `ключи_msi` — it is possible to find the allowable values executing the following command in the command line: `msiexec /?`. The following commands can be especially useful:
+* `keys_msi` — it is possible to find the allowable values executing the following command in the command line: `msiexec /?`. The following commands can be especially useful:
    * `/l* "%TEMP%\loginom.msi.log"` — activation of the installation logging.
    * `/qn` — "silent" installation without graphic interface mapping.
 
