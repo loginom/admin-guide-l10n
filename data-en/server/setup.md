@@ -90,8 +90,8 @@ msiexec /i "путь_к_msi_файлу" ключи_msi параметры_logino
 
 | Key | Default value | Description |
 |:--------- |:-------------|:------------- |
-| ADDLOCAL | `Server,Studio,Help,Webserver` | List of the Installed Components |
-| INSTALLDIR | `%ProgramFiles%\BaseGroup` | Installation Directory |
+| ADDLOCAL | `Server,Studio,Help,Webserver` | List of the installed components |
+| INSTALLDIR | `%ProgramFiles%\BaseGroup` | Installation directory |
 | SERVER_WS_PORT | `8080` | The websocket port of the Loginom server |
 | SERVER_WSS_PORT | `8443` | The websocket secure port of the Loginom server |
 | SERVER_PORT | `4580` | The Loginom server port |
