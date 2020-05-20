@@ -1654,6 +1654,14 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Установить драйвера Guardant x64&lt;x2/&gt; — запускает установку в автоматическом режиме драйверов для работы электронного ключа защиты.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T081543Z" creationid="Марианна" creationdate="20200520T081543Z">
+        <seg>&lt;x1/&gt;Install the Guardant x64 driver&lt;x2/&gt; enables to launch the installation in the automatic driver mode for the software protection dongle operation.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Andrew:
 &lt;x1/&gt;Message format&lt;x2/&gt; can take one of three values: &lt;x3/&gt;plainXml&lt;x4/&gt;, &lt;x5/&gt;soap&lt;x6/&gt;, or &lt;x7/&gt;soap12&lt;x8/&gt;.&lt;segment 0049 ¶&gt;
 
