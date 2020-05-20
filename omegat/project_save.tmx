@@ -2793,6 +2793,22 @@ M: Done. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Входящие на TCP порт &lt;x1/&gt;4580&lt;x2/&gt; для хостов с &lt;x3/&gt;Loginom Intergator&lt;x4/&gt; или &lt;x5/&gt;BatchLauncher&lt;x6/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T091029Z" creationid="Марианна" creationdate="20200520T091029Z">
+        <seg>Incoming to the  TCP port &lt;x1/&gt;4580&lt;x2/&gt; for hosts with &lt;x3/&gt;Loginom Intergator&lt;x4/&gt; or &lt;x5/&gt;BatchLauncher&lt;x6/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Входящие на TCP порт &lt;x1/&gt;8080|8443&lt;x2/&gt; (websocket) для хостов клиентов (браузеры)</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T090943Z" creationid="Марианна" creationdate="20200520T090943Z">
+        <seg>Incoming to the TCP port &lt;x1/&gt;8080|8443&lt;x2/&gt; (websocket) for the client hosts (browsers)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Выбор компонентов для установки</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T074545Z" creationid="Марианна" creationdate="20200520T074545Z">
@@ -4754,6 +4770,14 @@ Only comma added</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>При использовании сетевых ключей Guardant — на TCP/UDP порты &lt;x1/&gt;3186&lt;x2/&gt; и &lt;x3/&gt;3187&lt;x4/&gt; хоста сервера сетевых ключей.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T091151Z" creationid="Марианна" creationdate="20200520T091151Z">
+        <seg>Using the network Guardant keys — to TCP/UDP ports &lt;x1/&gt;3186&lt;x2/&gt; and &lt;x3/&gt;3187&lt;x4/&gt; server host of the network keys.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>При использовании хранилища необходимо выполнение следующих условий:</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T061354Z" creationid="Марианна" creationdate="20200502T061354Z">
@@ -5618,6 +5642,14 @@ M: Done. Вася, посмотрю еще раз в сети, все помен
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T144424Z" creationid="Марианна" creationdate="20200519T144424Z">
         <seg>from 1 ТB (+ User Data)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>при использовании websocket proxy — только для хоста веб-сервера.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T091004Z" creationid="Марианна" creationdate="20200520T091004Z">
+        <seg>using websocket proxy — only for the web server host.</seg>
       </tuv>
     </tu>
     <tu>
