@@ -4,7 +4,7 @@
 
 > **Примечание:** Версия Loginom Integrator должна соответствовать версии используемого сервера Loginom.
 
-## IIS Components Inclusion
+## Enable IIS Components
 
 Необходимо выполнить в командной строке от имени администратора:
 

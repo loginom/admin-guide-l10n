@@ -2,7 +2,7 @@
 
 > IIS 8.5 Instructions
 
-## IIS Components Inclusion
+## Enable IIS Components
 
 In the command line initiated on behalf of the administrator:
 
@@ -10,7 +10,7 @@ In the command line initiated on behalf of the administrator:
 dism /online /enable-feature /FeatureName:IIS-WebServerRole /FeatureName:IIS-WebServer /FeatureName:IIS-WebServerManagementTools /FeatureName:IIS-ManagementScriptingTools
 ```
 
-## IIS Components Inclusion for Loginom Studio
+## Enable IIS Components for Loginom Studio
 
 In the command line initiated on behalf of the administrator:
 
@@ -72,7 +72,7 @@ It is required to place the `web.config` file with the following content into th
 
 * It is required to download and install the [ARR3.0](https://www.iis.net/downloads/microsoft/application-request-routing#additionalDownloads) module.
 * It is required to download and install the [URL Rewrite](https://www.iis.net/downloads/microsoft/url-rewrite) module.
-* The WebSockets component is included:
+* The WebSockets component is enabled:
 
 ```cmd
 dism /online /enable-feature /FeatureName:IIS-WebSockets
@@ -84,7 +84,7 @@ dism /online /enable-feature /FeatureName:IIS-WebSockets
 %windir%\system32\iisreset.exe
 ```
 
-* The proxy function is included into ARR:
+* The proxy function is enabled in ARR:
 
 ```cmd
 %windir%\system32\inetsrv\appcmd set config -section:system.webServer/proxy /enabled:"True"
