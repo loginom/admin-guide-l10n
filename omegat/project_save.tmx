@@ -1099,6 +1099,14 @@ OK</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;admin&lt;x2/&gt; с паролем &lt;x3/&gt;admin&lt;x4/&gt; — для администрирования сервера Loginom</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T092417Z" creationid="Марианна" creationdate="20200520T092343Z">
+        <seg>&lt;x1/&gt;admin&lt;x2/&gt; with the &lt;x3/&gt;admin&lt;x4/&gt; password — for the Loginom server administration</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;app/&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T153803Z" creationid="Марианна" creationdate="20200519T153803Z">
@@ -1162,6 +1170,14 @@ OK</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;service&lt;x2/&gt; с паролем &lt;x3/&gt;service&lt;x4/&gt; — для подключения внешних приложений (Integrator и BatchLauncher)</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T092454Z" creationid="Марианна" creationdate="20200520T092454Z">
+        <seg>&lt;x1/&gt;service&lt;x2/&gt; with the &lt;x3/&gt;service&lt;x4/&gt; password — for connection of the external applications (Integrator and BatchLauncher)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Andrew:
 &lt;x1/&gt;targetNamespace в WSDL&lt;x2/&gt; — the value is taken from the similarly-named attribute of the WSDL description of the external service.&lt;segment 0063 ¶&gt;
 
@@ -1177,6 +1193,14 @@ Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200421T110028Z" creationid="Марианна" creationdate="20200226T110728Z">
         <seg>&lt;x1/&gt;targetNamespace in WSDL&lt;x2/&gt; — the value is taken from the similarly-named attribute of the WSDL description of the external service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;user&lt;x2/&gt; с пустым паролем — для работы со сценариями Loginom</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T092351Z" creationid="Марианна" creationdate="20200520T092323Z">
+        <seg>&lt;x1/&gt;user&lt;x2/&gt; with blank password — for work with the Loginom workflows</seg>
       </tuv>
     </tu>
     <tu>
@@ -4871,6 +4895,14 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T090426Z" creationid="Марианна" creationdate="20200520T090426Z">
         <seg>In the case of the successful launch the following text will appear in the console window: &lt;x3/&gt;The "LoginomServer" service was successfully launched&lt;x4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>При установке в Loginom Server создаются учетные записи пользователей:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T092210Z" creationid="Марианна" creationdate="20200520T092210Z">
+        <seg>When Loginom Server installing, the following user accounts are created:</seg>
       </tuv>
     </tu>
     <tu>
