@@ -2840,6 +2840,14 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Для установки с нестандартными параметрами в диалоге &lt;x1/&gt;Тип установки&lt;x2/&gt; нажимаем кнопку &lt;x3/&gt;Выборочная&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T074517Z" creationid="Марианна" creationdate="20200520T074517Z">
+        <seg>It is required to press the &lt;x3/&gt;Custom&lt;x4/&gt; button for installation with nonstandard parameters in the &lt;x1/&gt;Installation type&lt;x2/&gt; dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A:
 Cryptography service providers such as Signal-COM CSP or CryptoPro CSP are used for data encryption in the case of integration with the external web services.
 
