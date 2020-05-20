@@ -3025,6 +3025,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Если предполагается использование стороннего web-сервера, компонент должен быть отключен.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T075317Z" creationid="Марианна" creationdate="20200520T075317Z">
+        <seg>If the third-party server is to be used, the component must be disabled.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Жесткий диск</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T194932Z" creationid="Марианна" creationdate="20200502T194932Z">
