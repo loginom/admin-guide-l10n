@@ -2463,6 +2463,14 @@ net start loginom</seg>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Авторизоваться с учетной записью &lt;x1/&gt;user&lt;x2/&gt; с пустым паролем.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T092808Z" creationid="Марианна" creationdate="20200520T092808Z">
+        <seg>Log in as &lt;x1/&gt;user&lt;x2/&gt; with blank password.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Алгоритм действий на этапе отправки запроса внешнему сервису представлен на рисунке 8.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T100132Z" creationid="Марианна" creationdate="20200424T100009Z">
@@ -3319,6 +3327,14 @@ Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200510T210600Z" creationid="Марианна" creationdate="20200502T064328Z">
         <seg>It can be edited in the following snap-in: &lt;x5/&gt;Certificates - the local computer&lt;x6/&gt;, and can be activated using the &lt;x7/&gt;mmc certlm.msc&lt;x8/&gt; command.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Если в настройках веб-сервера порт был изменен, то URL: &lt;x3/&gt;http://localhost:&lt;Порт HTTP&gt;/app/&lt;x4/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T092713Z" creationid="Марианна" creationdate="20200520T092713Z">
+        <seg>If the port was changed in the web server settings, the following URL is used: &lt;x3/&gt;http://localhost:&lt;HTTP port&gt;/app/&lt;x4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
