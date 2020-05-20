@@ -1137,10 +1137,18 @@ M: Not done. The Russian source is different.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Веб-сервер&lt;x2/&gt; устанавливает встроенный web-сервер Apache Httpd.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T075150Z" creationid="Марианна" creationdate="20200520T075150Z">
+        <seg>The &lt;x1/&gt;web server&lt;x2/&gt; installs the embedded Apache Httpd web server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Документация&lt;x2/&gt; добавляет в web-интерфейс раздел справки по работе с платформой.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T074816Z" creationid="Марианна" creationdate="20200520T074816Z">
-        <seg>&lt;x1/&gt;Documentation&lt;x2/&gt; enables to add the platform operation reference section to the web interface.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T074828Z" creationid="Марианна" creationdate="20200520T074816Z">
+        <seg>The &lt;x1/&gt;Documentation&lt;x2/&gt; enables to add the platform operation reference section to the web interface.</seg>
       </tuv>
     </tu>
     <tu>
