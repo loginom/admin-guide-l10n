@@ -2803,32 +2803,32 @@ M: Done. </note>
       <tuv lang="RU">
         <seg>Включаем компонент WebSockets:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T141712Z" creationid="Марианна" creationdate="20200519T141712Z">
-        <seg>The WebSockets component is included:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T103800Z" creationid="Марианна" creationdate="20200519T141712Z">
+        <seg>The WebSockets component is enabled:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>Включаем функцию прокси в ARR:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T141838Z" creationid="Марианна" creationdate="20200519T141838Z">
-        <seg>The proxy function is included into ARR:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T103823Z" creationid="Марианна" creationdate="20200519T141838Z">
+        <seg>The proxy function is enabled in ARR:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>Включение компонентов IIS</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T140318Z" creationid="Марианна" creationdate="20200519T140318Z">
-        <seg>IIS Components Inclusion</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T103719Z" creationid="Марианна" creationdate="20200519T140318Z">
+        <seg>Enable IIS Components</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>Включение компонентов IIS для Loginom Studio</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T140627Z" creationid="Марианна" creationdate="20200519T140627Z">
-        <seg>IIS Components Inclusion for Loginom Studio</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T103749Z" creationid="Марианна" creationdate="20200519T140627Z">
+        <seg>Enable IIS Components for Loginom Studio</seg>
       </tuv>
     </tu>
     <tu>
