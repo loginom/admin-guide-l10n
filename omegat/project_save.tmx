@@ -2846,6 +2846,14 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Диалог доступен только при установке компонента Loginom Studio без установки компонента Веб-сервер.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T083301Z" creationid="Марианна" creationdate="20200520T083301Z">
+        <seg>The dialog is available only on condition of the Loginom Studio component installation without the Web server component installation.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Andrew: 
 3. Setting Parameters of methods of interaction with the external services 
 &lt;38/23/28% &gt;
@@ -4081,6 +4089,14 @@ M:Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T075400Z" creationid="Марианна" creationdate="20200520T075400Z">
         <seg>Loginom Server Parameters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Параметры Loginom Studio</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T083208Z" creationid="Марианна" creationdate="20200520T083208Z">
+        <seg>Loginom Studio Parameters</seg>
       </tuv>
     </tu>
     <tu>
