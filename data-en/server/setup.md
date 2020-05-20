@@ -47,7 +47,7 @@ This dialog is available only on condition of the *Loginom Server* component ins
 * **Use WebSocket secure** enables to set the ssl parameters for websocket:
    * The **WSS port** defines the port number for Loginom Studio connection according to the websocket secure (wss) protocol.
    * The **SSL certificate**, **SSL key** are the full paths to the certificate file and SSL key in the *pem* format.
-* **Install the Guardant x64 driver** enables to launch the installation in the automatic driver mode for the software protection dongle operation.
+* **Install the Guardant x64 driver** enables to start the installation in the automatic driver mode for the software protection dongle operation.
 
 #### Apache Httpd Web Server Parameters
 
@@ -128,22 +128,22 @@ msiexec /i ".\LoginomEnterprise.msi" /qn SERVER_USE_SSL=1 SERVER_KEY_PATH="%ALLU
 
 ## Licenses
 
-To launch the **LoginomServer** service it is required to configure the licensing keys (refer to [Licensing Keys](../licenses/README.md)).
+To start the **LoginomServer** service it is required to configure the licensing keys (refer to [Licensing Keys](../licenses/README.md)).
 
 To use the server network keys it is required to create the [GnClient.ini](https://dev.guardant.ru/pages/viewpage.action?pageId=1277980) file in the `"C:\ProgramData\BaseGroup\Loginom 6\Server"` directory
 
-## Launch of Services
+## Start of Services
 
-LoginomServer and LoginomHttpd services are not launched in the installation process automatically.
+LoginomServer and LoginomHttpd services are not started in the installation process automatically.
 
-When installing the product in the "Start" Windows menu (`All programs\Loginom 6\Server`) the **"The Loginom server launch"** and **"Web server launch" shortcuts are added**.
+When installing the product in the "Start" Windows menu (`All programs\Loginom 6\Server`) the **"The Loginom server start"** and **"Web server start" shortcuts are added**.
 
-To launch the services using the shortcut it is required to select the **"Launch as administrator"** item in the context menu. In the case of the successful launch the following text will appear in the console window: `The "LoginomServer" service was successfully launched`.
+To start the services using the shortcut it is required to select the **"Launch as administrator"** item in the context menu. In the case of the successful start the following text will appear in the console window: `The "LoginomServer" service was successfully started`.
 
-To launch the services by means if the command line it is required to run the following commands as administrator:
+To start the services by means if the command line it is required to run the following commands as administrator:
 
-* The "LoginomServer" service launch: `net start loginom`
-* The "LoginomHttpd" service launch: `net start httpd_loginom`
+* The "LoginomServer" service start: `net start loginom`
+* The "LoginomHttpd" service start: `net start httpd_loginom`
 
 ## Firewall
 
@@ -202,7 +202,7 @@ When Loginom Server installing, the following user accounts are created:
 
 ## Function Test
 
-* Launch the Loginom Studio web client
+* Start the Loginom Studio web client
    * using the `All programs\Loginom 6\Studio\Loginom Studio` shortcut from the "Start" Windows menu,
    * or in the browser (Chrome is recommended) using the following URL: `http://localhost/app/`. If the port was changed in the web server settings, the following URL is used: `http://localhost:<HTTP port>/app/`
 * Log in as `user` with blank password.

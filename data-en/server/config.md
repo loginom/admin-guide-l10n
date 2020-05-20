@@ -43,6 +43,6 @@ The general settings are set in the attributes of the `Logging/Common` element:
 Parameters of the logging files are set in the attributes of the `Logging/File` element:
 
 * **LogFileName** - the log file name. By default `app.log`.
-* **LogFileRewrite** - if the attribute has been set, the log file will be rewritten while Loginom Server launching. Disabled by default.
+* **LogFileRewrite** - if the attribute has been set, the log file will be rewritten while Loginom Server starting. Disabled by default.
 * **LogFileMaxSize** - the maximum size of the log file in bytes. By default 10485760 (10 Mb).
 * **LogFileMaxIndex** - the maximum number of the log files. By default 10.

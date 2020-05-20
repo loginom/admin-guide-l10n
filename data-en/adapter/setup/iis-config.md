@@ -2,7 +2,7 @@
 
 ## Application Pools
 
-It is required to create a new application pool in the IIS service manager that will work with the *Loginom Adapter* It is possible to launch the IIS service manager by the `inetmgr` command using the **Run** menu.
+It is required to create a new application pool in the IIS service manager that will work with the *Loginom Adapter* It is possible to start the IIS service manager by the `inetmgr` command using the **Run** menu.
 
 Then the ** IIS service manager ** window will appear. A new application pool needs to be created in the **IIS service manager**. This task is possible by using the **Add Application Pool…** (*Add Application Pool…*) item in the context menu of the **Application Pools** (*Application Pools*) element.
 
