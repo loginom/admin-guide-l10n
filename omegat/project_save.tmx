@@ -3944,6 +3944,14 @@ Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>На TCP порт &lt;x1/&gt;80|443&lt;x2/&gt; (http(s)) для хостов клиентов (браузеры)</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T091246Z" creationid="Марианна" creationdate="20200520T091246Z">
+        <seg>To the TCP port &lt;x1/&gt;80|443&lt;x2/&gt; (http(s)) for the client hosts (browsers)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>На левой панели окна &lt;x3/&gt;Конфигуратора&lt;x4/&gt; располагается дерево навигации (см.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200203T075310Z" creationid="Марианна" creationdate="20200203T074642Z">
@@ -5318,6 +5326,14 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Убедитесь, что установленные антивирусы и межсетевые экраны разрешают эти подключения.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T091400Z" creationid="Марианна" creationdate="20200520T091400Z">
+        <seg>Make sure that the installed antivirus software and network firewalls allow for such connections.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A:
 Uninstalling Loginom Adapter 
 
@@ -5470,6 +5486,14 @@ A: Okay, I see that now</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T095457Z" creationid="Марианна" creationdate="20200424T095419Z">
         <seg>The Functional Operation Scheme of the Adapter&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Хост с веб-сервером должен разрешать подключения:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T091219Z" creationid="Марианна" creationdate="20200520T091219Z">
+        <seg>The host with the web server must allow for connections:</seg>
       </tuv>
     </tu>
     <tu>
