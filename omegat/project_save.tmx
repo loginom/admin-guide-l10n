@@ -3103,8 +3103,8 @@ Done.</note>
       <tuv lang="RU">
         <seg>Для запуска службы &lt;x1/&gt;LoginomServer&lt;x2/&gt; требуется настройка ключей лицензирования (см.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T085126Z" creationid="Марианна" creationdate="20200520T085126Z">
-        <seg>To launch the &lt;x1/&gt;LoginomServer&lt;x2/&gt; service it is required to configure the licensing keys (см.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T101637Z" creationid="Марианна" creationdate="20200520T085126Z">
+        <seg>To launch the &lt;x1/&gt;LoginomServer&lt;x2/&gt; service it is required to configure the licensing keys (refer to</seg>
       </tuv>
     </tu>
     <tu>
