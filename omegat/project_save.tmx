@@ -3005,6 +3005,14 @@ Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Для запуска служб с помощью ярлыка требуется выбрать в его контекстном меню пункт &lt;x1/&gt;"Запуск от имени администратора"&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T090308Z" creationid="Марианна" creationdate="20200520T090308Z">
+        <seg>To launch the services using the shortcut it is required to select the &lt;x1/&gt;"Launch as administrator"&lt;x2/&gt; item in the context menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Для запуска службы &lt;x1/&gt;LoginomServer&lt;x2/&gt; требуется настройка ключей лицензирования (см.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T085126Z" creationid="Марианна" creationdate="20200520T085126Z">
