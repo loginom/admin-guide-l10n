@@ -908,8 +908,8 @@ xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer"&gt;
       <tuv lang="RU">
         <seg>&lt;x1/&gt;LogFileRewrite&lt;x2/&gt; - если атрибут установлен, при старте Loginom Server файл журнала будет перезаписан.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200514T053440Z" creationid="Марианна" creationdate="20200514T053440Z">
-        <seg>&lt;x1/&gt;LogFileRewrite&lt;x2/&gt; - if the attribute has been set, the log file will be rewritten while Loginom Server launching.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T102634Z" creationid="Марианна" creationdate="20200514T053440Z">
+        <seg>&lt;x1/&gt;LogFileRewrite&lt;x2/&gt; - if the attribute has been set, the log file will be rewritten while Loginom Server starting.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1831,8 +1831,8 @@ Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Установить драйвера Guardant x64&lt;x2/&gt; — запускает установку в автоматическом режиме драйверов для работы электронного ключа защиты.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T081543Z" creationid="Марианна" creationdate="20200520T081543Z">
-        <seg>&lt;x1/&gt;Install the Guardant x64 driver&lt;x2/&gt; enables to launch the installation in the automatic driver mode for the software protection dongle operation.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T102643Z" creationid="Марианна" creationdate="20200520T081543Z">
+        <seg>&lt;x1/&gt;Install the Guardant x64 driver&lt;x2/&gt; enables to start the installation in the automatic driver mode for the software protection dongle operation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3095,16 +3095,16 @@ Done.</note>
       <tuv lang="RU">
         <seg>Для запуска служб с помощью ярлыка требуется выбрать в его контекстном меню пункт &lt;x1/&gt;"Запуск от имени администратора"&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T090308Z" creationid="Марианна" creationdate="20200520T090308Z">
-        <seg>To launch the services using the shortcut it is required to select the &lt;x1/&gt;"Launch as administrator"&lt;x2/&gt; item in the context menu.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T102736Z" creationid="Марианна" creationdate="20200520T090308Z">
+        <seg>To start the services using the shortcut it is required to select the &lt;x1/&gt;"Launch as administrator"&lt;x2/&gt; item in the context menu.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>Для запуска службы &lt;x1/&gt;LoginomServer&lt;x2/&gt; требуется настройка ключей лицензирования (см.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T101637Z" creationid="Марианна" creationdate="20200520T085126Z">
-        <seg>To launch the &lt;x1/&gt;LoginomServer&lt;x2/&gt; service it is required to configure the licensing keys (refer to</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T102651Z" creationid="Марианна" creationdate="20200520T085126Z">
+        <seg>To start the &lt;x1/&gt;LoginomServer&lt;x2/&gt; service it is required to configure the licensing keys (refer to</seg>
       </tuv>
     </tu>
     <tu>
@@ -3475,8 +3475,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Запуск служб</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T085254Z" creationid="Марианна" creationdate="20200520T085254Z">
-        <seg>Launch of Services</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T102658Z" creationid="Марианна" creationdate="20200520T085254Z">
+        <seg>Start of Services</seg>
       </tuv>
     </tu>
     <tu>
@@ -3507,8 +3507,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Запустить диспетчер служб IIS можно командой &lt;x3/&gt;inetmgr&lt;x4/&gt; через меню &lt;x5/&gt;Выполнить&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T204447Z" creationid="Марианна" creationdate="20200502T204447Z">
-        <seg>It is possible to launch the IIS service manager by the &lt;x3/&gt;inetmgr&lt;x4/&gt; command using the &lt;x5/&gt;Run&lt;x6/&gt; menu.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T102619Z" creationid="Марианна" creationdate="20200502T204447Z">
+        <seg>It is possible to start the IIS service manager by the &lt;x3/&gt;inetmgr&lt;x4/&gt; command using the &lt;x5/&gt;Run&lt;x6/&gt; menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4917,8 +4917,8 @@ M: Done. </note>
       <tuv lang="RU">
         <seg>При успешном запуске в окне консоли появится надпись &lt;x3/&gt;Служба "LoginomServer" успешно запущена&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T090426Z" creationid="Марианна" creationdate="20200520T090426Z">
-        <seg>In the case of the successful launch the following text will appear in the console window: &lt;x3/&gt;The "LoginomServer" service was successfully launched&lt;x4/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T102803Z" creationid="Марианна" creationdate="20200520T090426Z">
+        <seg>In the case of the successful start the following text will appear in the console window: &lt;x3/&gt;The "LoginomServer" service was successfully started&lt;x4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4949,8 +4949,8 @@ M: Done. </note>
       <tuv lang="RU">
         <seg>При установке продукта в меню "Пуск" Windows (&lt;x1/&gt;Все программы\Loginom 6\Server&lt;x2/&gt;) добавляются ярлыки &lt;x3/&gt;"Запуск сервера Loginom"&lt;x4/&gt; и &lt;x5/&gt;"Запуск веб-сервера"&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T090048Z" creationid="Марианна" creationdate="20200520T090048Z">
-        <seg>When installing the product in the "Start" Windows menu (&lt;x1/&gt;All programs\Loginom 6\Server&lt;x2/&gt;) the &lt;x3/&gt;"The Loginom server launch"&lt;x4/&gt; and &lt;x5/&gt;"Web server launch" shortcuts are added&lt;x6/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T102728Z" creationid="Марианна" creationdate="20200520T090048Z">
+        <seg>When installing the product in the "Start" Windows menu (&lt;x1/&gt;All programs\Loginom 6\Server&lt;x2/&gt;) the &lt;x3/&gt;"The Loginom server start"&lt;x4/&gt; and &lt;x5/&gt;"Web server start" shortcuts are added&lt;x6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5252,8 +5252,8 @@ M: Done. </note>
       <tuv lang="RU">
         <seg>Службы LoginomServer и LoginomHttpd не запускается после установки автоматически.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T085903Z" creationid="Марианна" creationdate="20200520T085903Z">
-        <seg>LoginomServer and LoginomHttpd services are not launched in the installation process automatically.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T102707Z" creationid="Марианна" creationdate="20200520T085903Z">
+        <seg>LoginomServer and LoginomHttpd services are not started in the installation process automatically.</seg>
       </tuv>
     </tu>
     <tu>
