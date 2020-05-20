@@ -916,6 +916,14 @@ xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer"&gt;
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Proxy URI&lt;x2/&gt; — определяет параметр &lt;x3/&gt;path&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T084003Z" creationid="Марианна" creationdate="20200520T084003Z">
+        <seg>&lt;x1/&gt;Proxy URI&lt;x2/&gt; defines the &lt;x3/&gt;path&lt;x4/&gt; parameter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;SOAPAction для передачи в заголовке&lt;x2/&gt; — значение данного параметра передается в заголовке &lt;x3/&gt;SOAPAction&lt;x4/&gt; HTTP/HTTPS-пакета, передаваемого внешнему сервису.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200429T114850Z" creationid="Марианна" creationdate="20200304T070336Z">
@@ -1265,6 +1273,14 @@ all else okay</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T081916Z" creationid="Марианна" creationdate="20200520T081916Z">
         <seg>&lt;x1/&gt;Use HTTPS&lt;x2/&gt; enables to set the sssl parameters for http:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Использовать WebSocket proxy&lt;x2/&gt; — включает параметр &lt;x3/&gt;wsproxy&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T083950Z" creationid="Марианна" creationdate="20200520T083950Z">
+        <seg>&lt;x1/&gt;Use WebSocket proxy&lt;x2/&gt; activates the &lt;x3/&gt;wsproxy&lt;x4/&gt; parameter.</seg>
       </tuv>
     </tu>
     <tu>
