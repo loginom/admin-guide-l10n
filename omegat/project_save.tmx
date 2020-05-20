@@ -84,6 +84,14 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>%spoiler%Параметры_loginom в виде &lt;x1/&gt;КЛЮЧ=значение&lt;x2/&gt;%spoiler%</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T084552Z" creationid="Марианна" creationdate="20200520T084552Z">
+        <seg>%spoiler%Параметры_loginom in the form of &lt;x1/&gt;КЛЮЧ=значение&lt;x2/&gt;%spoiler%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>%spoiler%Примеры%spoiler%</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T153919Z" creationid="Марианна" creationdate="20200519T153919Z">
@@ -720,6 +728,22 @@ xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer"&gt;
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T154106Z" creationid="Марианна" creationdate="20200519T154106Z">
         <seg>&lt;x1/&gt;%ProgramFiles%\BaseGroup&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;/l* "%TEMP%\loginom.msi.log"&lt;x2/&gt; — включение журналирования установки.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T084442Z" creationid="Марианна" creationdate="20200520T084442Z">
+        <seg>&lt;x1/&gt;/l* "%TEMP%\loginom.msi.log"&lt;x2/&gt; — activation of the installation logging.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;/qn&lt;x2/&gt; — "тихая" установка без отображения графического интерфейса.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T084534Z" creationid="Марианна" creationdate="20200520T084534Z">
+        <seg>&lt;x1/&gt;/qn&lt;x2/&gt; — "silent" installation without graphic interface mapping.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4138,6 +4162,14 @@ Settled in correspondence)
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Особо полезными могут быть:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T084417Z" creationid="Марианна" creationdate="20200520T084417Z">
+        <seg>The following commands can be especially useful:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Отправка сформированного пакета осуществляется по адресу, указанному в параметре &lt;x1/&gt;URL для отправки запроса&lt;x2/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200428T104051Z" creationid="Марианна" creationdate="20200428T103834Z">
@@ -4438,6 +4470,14 @@ Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200510T214138Z" creationid="Марианна" creationdate="20200206T075830Z">
         <seg>Apart from the folders and files pre-installed in the installation process when configuring the &lt;x1/&gt;Adapter&lt;x2/&gt;, additional files, (certificates, the XSD schemas, etc.) required for work with the external services, can be placed into the installation directory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Порт websocket сервера Loginom</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T084621Z" creationid="Марианна" creationdate="20200520T084621Z">
+        <seg>The websocket port of the Loginom server</seg>
       </tuv>
     </tu>
     <tu>
