@@ -1245,6 +1245,14 @@ all else okay</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Использовать WebSocket secure&lt;x2/&gt; — включает возможность задать параметры ssl для websocket:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T075730Z" creationid="Марианна" creationdate="20200520T075730Z">
+        <seg>&lt;x1/&gt;Use WebSocket secure&lt;x2/&gt; enables to set the ssl parameters for websocket:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Исходное имя файла запроса&lt;x2/&gt;, &lt;x3/&gt;Результирующее имя файла запроса&lt;x4/&gt;, &lt;x5/&gt;Команда обработки файла запроса&lt;x6/&gt; — данные параметры используются для задания команды ОС (операционной системы) предварительной обработки текста запроса перед его отправкой внешнему сервису.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200426T095328Z" creationid="Марианна" creationdate="20200309T123417Z">
@@ -1379,6 +1387,14 @@ A: Okay</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T075635Z" creationid="Марианна" creationdate="20200520T075635Z">
         <seg>The &lt;x1/&gt;WS port&lt;x2/&gt; defines the port number for Loginom Studio connection according to the websocket (ws) protocol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Порт WSS&lt;x2/&gt; — определяет номер порта для подключения Loginom Studio по протоколу websocket secure (wss).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T075814Z" creationid="Марианна" creationdate="20200520T075814Z">
+        <seg>The &lt;x1/&gt;WSS port&lt;x2/&gt; defines the port number for Loginom Studio connection according to the websocket secure (wss) protocol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1580,6 +1596,14 @@ M:Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T101929Z" creationid="Марианна" creationdate="20200424T101929Z">
         <seg>&lt;x1/&gt;Figure 9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Сертификат SSL&lt;x2/&gt;, &lt;x3/&gt;Ключ SSL&lt;x4/&gt; — полные пути к файлам сертификата и ключа SSL в формате &lt;x5/&gt;pem&lt;x6/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T075939Z" creationid="Марианна" creationdate="20200520T075939Z">
+        <seg>The &lt;x1/&gt;SSL certificate&lt;x2/&gt;, &lt;x3/&gt;SSL key&lt;x4/&gt; are the full paths to the certificate file and SSL key in the &lt;x5/&gt;pem&lt;x6/&gt; format.</seg>
       </tuv>
     </tu>
     <tu>
