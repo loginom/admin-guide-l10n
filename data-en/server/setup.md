@@ -130,7 +130,7 @@ msiexec /i ".\LoginomEnterprise.msi" /qn SERVER_USE_SSL=1 SERVER_KEY_PATH="%ALLU
 
 To start the **LoginomServer** service it is required to configure the licensing keys (refer to [Licensing Keys](../licenses/README.md)).
 
-To use the server network keys it is required to create the [GnClient.ini](https://dev.guardant.ru/pages/viewpage.action?pageId=1277980) file in the `"C:\ProgramData\BaseGroup\Loginom 6\Server"` directory
+To use the server network dongles it is required to create the [GnClient.ini](https://dev.guardant.ru/pages/viewpage.action?pageId=1277980) file in the `"C:\ProgramData\BaseGroup\Loginom 6\Server"` directory
 
 ## Start of Services
 
@@ -152,7 +152,7 @@ The host with the Loginom server must allow for connections:
 * Incoming to the TCP port `8080|8443` (websocket) for the client hosts (browsers)
    * using websocket proxy — only for the web server host.
 * Incoming to the  TCP port `4580` for hosts with **Loginom Intergator** or **BatchLauncher**.
-* Using the network Guardant keys — to TCP/UDP ports `3186` and `3187` server host of the network keys.
+* Using the network Guardant dongles — to TCP/UDP ports `3186` and `3187` server host of the network dongles.
 
 The host with the web server must allow for connections:
 
@@ -180,7 +180,7 @@ netsh advfirewall firewall add rule name="Allow Loginom WebSocket" dir=in action
 netsh advfirewall firewall add rule name="Allow Loginom Port" dir=in action=allow protocol=TCP localport=4850 remoteip=%lgi_host_ip%
 ```
 
-* Connections to the network keys server for Loginom Server are allowed
+* Connections to the network dongles server for Loginom Server are allowed
 
 ```cmd
 netsh advfirewall firewall add rule name="Allow Guardant Net" dir=out action=allow protocol=TCP remoteport=3186-3187 remoteip=%guardant_net_host_ip%
