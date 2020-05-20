@@ -1883,8 +1883,8 @@ Ok, corrected in 2 segments. </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;ключи_msi&lt;x2/&gt; — допустимые значения можно узнать, выполнив в командной строке &lt;x3/&gt;msiexec /?&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T084324Z" creationid="Марианна" creationdate="20200520T084324Z">
-        <seg>&lt;x1/&gt;ключи_msi&lt;x2/&gt; — it is possible to find the allowable values executing the following command in the command line: &lt;x3/&gt;msiexec /?&lt;x4/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T101244Z" creationid="Марианна" creationdate="20200520T084324Z">
+        <seg>&lt;x1/&gt;keys_msi&lt;x2/&gt; — it is possible to find the allowable values executing the following command in the command line: &lt;x3/&gt;msiexec /?&lt;x4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
