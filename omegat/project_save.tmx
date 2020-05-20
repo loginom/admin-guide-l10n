@@ -4844,16 +4844,16 @@ Only comma added</note>
       <tuv lang="RU">
         <seg>При использовании сервера сетевых ключей требуется создать файл &lt;x1/&gt;GnClient.ini&lt;x2/&gt; в каталоге &lt;x3/&gt;"C:\ProgramData\BaseGroup\Loginom 6\Server"&lt;x4/&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T085239Z" creationid="Марианна" creationdate="20200520T085239Z">
-        <seg>To use the server network keys it is required to create the &lt;x1/&gt;GnClient.ini&lt;x2/&gt; file in the &lt;x3/&gt;"C:\ProgramData\BaseGroup\Loginom 6\Server"&lt;x4/&gt; directory</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T103455Z" creationid="Марианна" creationdate="20200520T085239Z">
+        <seg>To use the server network dongles it is required to create the &lt;x1/&gt;GnClient.ini&lt;x2/&gt; file in the &lt;x3/&gt;"C:\ProgramData\BaseGroup\Loginom 6\Server"&lt;x4/&gt; directory</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>При использовании сетевых ключей Guardant — на TCP/UDP порты &lt;x1/&gt;3186&lt;x2/&gt; и &lt;x3/&gt;3187&lt;x4/&gt; хоста сервера сетевых ключей.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T091151Z" creationid="Марианна" creationdate="20200520T091151Z">
-        <seg>Using the network Guardant keys — to TCP/UDP ports &lt;x1/&gt;3186&lt;x2/&gt; and &lt;x3/&gt;3187&lt;x4/&gt; server host of the network keys.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T103503Z" creationid="Марианна" creationdate="20200520T091151Z">
+        <seg>Using the network Guardant dongles — to TCP/UDP ports &lt;x1/&gt;3186&lt;x2/&gt; and &lt;x3/&gt;3187&lt;x4/&gt; server host of the network dongles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5136,8 +5136,8 @@ M: Done. </note>
       <tuv lang="RU">
         <seg>Разрешаем подключения к серверу сетевых ключей для Loginom Server</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T092110Z" creationid="Марианна" creationdate="20200520T092110Z">
-        <seg>Connections to the network keys server for Loginom Server are allowed</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T103621Z" creationid="Марианна" creationdate="20200520T092110Z">
+        <seg>Connections to the network dongles server for Loginom Server are allowed</seg>
       </tuv>
     </tu>
     <tu>
