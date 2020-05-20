@@ -1849,6 +1849,14 @@ Ok, corrected in 2 segments. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x3/&gt;Лицензионные ключи&lt;x4/&gt;).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T085139Z" creationid="Марианна" creationdate="20200520T085139Z">
+        <seg>&lt;x3/&gt;Licensing Keys&lt;x4/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;xsd:import namespace="http://www.basegroup.ru/DeductorIntegrationServer" schemaLocation="/WebServiceProxy/Service.svc?xsd=xsd1"/&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T142957Z" creationid="Марианна" creationdate="20200519T142957Z">
@@ -2379,6 +2387,22 @@ net start loginom</seg>
         <seg>net stop loginom
 msiexec /i "LoginomEnterprise.msi" /qn DOUPGRADE=1
 net start loginom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>netsh advfirewall firewall add rule name="Allow Guardant Net" dir=out action=allow protocol=TCP remoteport=3186-3187 remoteip=%guardant_net_host_ip%</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T085023Z" creationid="Марианна" creationdate="20200520T085023Z">
+        <seg>netsh advfirewall firewall add rule name="Allow Guardant Net" dir=out action=allow protocol=TCP remoteport=3186-3187 remoteip=%guardant_net_host_ip%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>netsh advfirewall firewall add rule name="Allow Loginom Port" dir=in action=allow protocol=TCP localport=4850 remoteip=%lgi_host_ip%</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T085017Z" creationid="Марианна" creationdate="20200520T085017Z">
+        <seg>netsh advfirewall firewall add rule name="Allow Loginom Port" dir=in action=allow protocol=TCP localport=4850 remoteip=%lgi_host_ip%</seg>
       </tuv>
     </tu>
     <tu>
@@ -2977,6 +3001,14 @@ Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T083301Z" creationid="Марианна" creationdate="20200520T083301Z">
         <seg>The dialog is available only on condition of the Loginom Studio component installation without the Web server component installation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Для запуска службы &lt;x1/&gt;LoginomServer&lt;x2/&gt; требуется настройка ключей лицензирования (см.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T085126Z" creationid="Марианна" creationdate="20200520T085126Z">
+        <seg>To launch the &lt;x1/&gt;LoginomServer&lt;x2/&gt; service it is required to configure the licensing keys (см.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3776,6 +3808,14 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200512T100546Z" creationid="Марианна" creationdate="20200427T140322Z">
         <seg>Apart from the sending and receipt of messages, the &lt;x1/&gt;Adapter&lt;x2/&gt; web service forms the WSDL service description.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Лицензии</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T084959Z" creationid="Марианна" creationdate="20200520T084959Z">
+        <seg>Licenses</seg>
       </tuv>
     </tu>
     <tu>
