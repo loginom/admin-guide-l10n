@@ -3369,6 +3369,22 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Запуск служб</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T085254Z" creationid="Марианна" creationdate="20200520T085254Z">
+        <seg>Launch of Services</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Запустить web-клиент Loginom Studio</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T085403Z" creationid="Марианна" creationdate="20200520T085403Z">
+        <seg>Launch the Loginom Studio web client</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Запустить диспетчер служб IIS можно командой &lt;x3/&gt;inetmgr&lt;x4/&gt; через меню &lt;x5/&gt;Выполнить&lt;x6/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T204447Z" creationid="Марианна" creationdate="20200502T204447Z">
@@ -4698,6 +4714,14 @@ Only comma added</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>При использовании сервера сетевых ключей требуется создать файл &lt;x1/&gt;GnClient.ini&lt;x2/&gt; в каталоге &lt;x3/&gt;"C:\ProgramData\BaseGroup\Loginom 6\Server"&lt;x4/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T085239Z" creationid="Марианна" creationdate="20200520T085239Z">
+        <seg>To use the server network keys it is required to create the &lt;x1/&gt;GnClient.ini&lt;x2/&gt; file in the &lt;x3/&gt;"C:\ProgramData\BaseGroup\Loginom 6\Server"&lt;x4/&gt; directory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>При использовании хранилища необходимо выполнение следующих условий:</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T061354Z" creationid="Марианна" creationdate="20200502T061354Z">
@@ -4826,6 +4850,14 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T083112Z" creationid="Марианна" creationdate="20200424T083112Z">
         <seg>Operation Principles and Settings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Проверка работоспособности</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T085347Z" creationid="Марианна" creationdate="20200520T085347Z">
+        <seg>Function Test</seg>
       </tuv>
     </tu>
     <tu>
@@ -5602,6 +5634,14 @@ A: I get it now. At the time I made the recommendation, I was not reading it in 
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200512T095613Z" creationid="Марианна" creationdate="20200226T104455Z">
         <seg>the &lt;x11/&gt;Certificates Usage&lt;x12/&gt; section).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>ярлыком &lt;x1/&gt;Все программы\Loginom 6\Studio\Loginom Studio&lt;x2/&gt; из меню "Пуск" Windows</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200520T085512Z" creationid="Марианна" creationdate="20200520T085512Z">
+        <seg>using the &lt;x1/&gt;All programs\Loginom 6\Studio\Loginom Studio&lt;x2/&gt; shortcut from the "Start" Windows menu</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
