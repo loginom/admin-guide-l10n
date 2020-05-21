@@ -1178,6 +1178,7 @@ OK</note>
       </tuv>
     </tu>
     <tu>
+      <note>service with the service password — for connection of external applications (Integrator and BatchLauncher) </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;service&lt;x2/&gt; с паролем &lt;x3/&gt;service&lt;x4/&gt; — для подключения внешних приложений (Integrator и BatchLauncher)</seg>
       </tuv>
@@ -1595,6 +1596,7 @@ A: Okay</note>
       </tuv>
     </tu>
     <tu>
+      <note>Note: Upon installation, it is required to change the administrator account (admin) password. </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание:&lt;x2/&gt; После завершения установки в обязательном порядке необходимо изменить пароль учетной записи администратора (admin).</seg>
       </tuv>
