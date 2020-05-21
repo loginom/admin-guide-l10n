@@ -3112,6 +3112,7 @@ I omitted the article here because it felt right as the direct object of a sente
       </tuv>
     </tu>
     <tu>
+      <note>To start the services by means of the command line, it is required to run the following commands as administrator: </note>
       <tuv lang="RU">
         <seg>Для запуска служб из командной строки требутся выполнить от имени администратора следующие команды:</seg>
       </tuv>
