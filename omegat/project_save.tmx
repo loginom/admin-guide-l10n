@@ -2111,6 +2111,7 @@ Host: stend-057</seg>
       </tuv>
     </tu>
     <tu>
+      <note>LoginomTeam_6.x.x.msi – the installer for Team editing</note>
       <tuv lang="RU">
         <seg>LoginomTeam_6.x.x.msi – инсталлятор для редакции Team</seg>
       </tuv>
