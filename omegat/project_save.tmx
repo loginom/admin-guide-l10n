@@ -3120,6 +3120,7 @@ I omitted the article here because it felt right as the direct object of a sente
       </tuv>
     </tu>
     <tu>
+      <note>To start the services using the shortcut, it is required to select the "Launch as administrator" item in the context menu. To start the services using the shortcut, it is required to select the "Launch as administrator" item in the context menu. </note>
       <tuv lang="RU">
         <seg>Для запуска служб с помощью ярлыка требуется выбрать в его контекстном меню пункт &lt;x1/&gt;"Запуск от имени администратора"&lt;x2/&gt;.</seg>
       </tuv>
@@ -4985,6 +4986,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>When installing the product in the "Start" Windows menu (All programs\Loginom 6\Server), the "The Loginom server start" and "Web server start" shortcuts are added. </note>
       <tuv lang="RU">
         <seg>При установке продукта в меню "Пуск" Windows (&lt;x1/&gt;Все программы\Loginom 6\Server&lt;x2/&gt;) добавляются ярлыки &lt;x3/&gt;"Запуск сервера Loginom"&lt;x4/&gt; и &lt;x5/&gt;"Запуск веб-сервера"&lt;x6/&gt;.</seg>
       </tuv>
