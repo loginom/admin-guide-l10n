@@ -4960,6 +4960,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>The default installation setting for Loginom Studio is through use of the Apache web server. </note>
       <tuv lang="RU">
         <seg>При установке по умолчанию работа Loginom Studio осуществляется через web-сервер Apache.</seg>
       </tuv>
