@@ -865,6 +865,7 @@ xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer"&gt;
       </tuv>
     </tu>
     <tu>
+      <note>Bind - the IP address of the network interface used by the Loginom server.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Bind&lt;x2/&gt; - IP адрес сетевого интерфейса, используемого сервером Loginom.</seg>
       </tuv>
@@ -5148,6 +5149,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>The default location of the working directory is - %AllUsersProfile%\BaseGroup\Loginom 6\Server. </note>
       <tuv lang="RU">
         <seg>Расположение рабочего каталога по умолчанию - &lt;x1/&gt;%AllUsersProfile%\BaseGroup\Loginom 6\Server&lt;x2/&gt;.</seg>
       </tuv>
