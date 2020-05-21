@@ -3287,6 +3287,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>It is to be added to web.config:</note>
       <tuv lang="RU">
         <seg>Добавляем в &lt;x1/&gt;web.config&lt;x2/&gt;:</seg>
       </tuv>
