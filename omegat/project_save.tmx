@@ -2414,6 +2414,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>/l* "%TEMP%\loginom.msi.log" — activation of installation logging.</note>
       <tuv lang="RU">
         <seg>msiexec /i "путь_к_msi_файлу" ключи_msi параметры_loginom</seg>
       </tuv>
