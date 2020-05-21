@@ -1353,6 +1353,7 @@ all else okay</note>
       </tuv>
     </tu>
     <tu>
+      <note>Use HTTPS enables the setting of sssl parameters for http:</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Использовать HTTPS&lt;x2/&gt; — включает возможность задать параметры ssl для http:</seg>
       </tuv>
@@ -1369,6 +1370,7 @@ all else okay</note>
       </tuv>
     </tu>
     <tu>
+      <note>Use WebSocket proxy activates the proxying of websocket connections.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Использовать WebSocket proxy&lt;x2/&gt; — включает проксирование websocket соединений.</seg>
       </tuv>
