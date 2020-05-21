@@ -1105,6 +1105,7 @@ OK</note>
       </tuv>
     </tu>
     <tu>
+      <note>admin with the admin password — for Loginom server administration </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;admin&lt;x2/&gt; с паролем &lt;x3/&gt;admin&lt;x4/&gt; — для администрирования сервера Loginom</seg>
       </tuv>
@@ -1203,6 +1204,7 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>user with blank password — for work with Loginom workflows</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;user&lt;x2/&gt; с пустым паролем — для работы со сценариями Loginom</seg>
       </tuv>
@@ -4963,6 +4965,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>When Loginom Server is installing, the following user accounts are created:</note>
       <tuv lang="RU">
         <seg>При установке в Loginom Server создаются учетные записи пользователей:</seg>
       </tuv>
