@@ -2825,6 +2825,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>Enable IIS Components for the Loginom Studio</note>
       <tuv lang="RU">
         <seg>Включение компонентов IIS</seg>
       </tuv>
