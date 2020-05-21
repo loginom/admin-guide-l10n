@@ -5532,6 +5532,7 @@ Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>The Installation method for the Loginom Server is different, depending on whether Apache or Microsoft IIS is selected.</note>
       <tuv lang="RU">
         <seg>Установка Loginom Server при использовании Apache или Microsoft IIS различна.</seg>
       </tuv>
