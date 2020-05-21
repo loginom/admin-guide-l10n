@@ -4583,6 +4583,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>By default, 10.</note>
       <tuv lang="RU">
         <seg>По умолчанию 10.</seg>
       </tuv>
