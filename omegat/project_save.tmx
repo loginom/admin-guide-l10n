@@ -3128,6 +3128,7 @@ I omitted the article here because it felt right as the direct object of a sente
       </tuv>
     </tu>
     <tu>
+      <note>To start the LoginomServer service, it is required to configure the licensing keys (refer to</note>
       <tuv lang="RU">
         <seg>Для запуска службы &lt;x1/&gt;LoginomServer&lt;x2/&gt; требуется настройка ключей лицензирования (см.</seg>
       </tuv>
@@ -4877,6 +4878,7 @@ Only comma added</note>
       </tuv>
     </tu>
     <tu>
+      <note>To use the server network dongles, it is required to create the GnClient.ini file in the "C:\ProgramData\BaseGroup\Loginom 6\Server" directory</note>
       <tuv lang="RU">
         <seg>При использовании сервера сетевых ключей требуется создать файл &lt;x1/&gt;GnClient.ini&lt;x2/&gt; в каталоге &lt;x3/&gt;"C:\ProgramData\BaseGroup\Loginom 6\Server"&lt;x4/&gt;</seg>
       </tuv>
