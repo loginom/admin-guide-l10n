@@ -931,6 +931,7 @@ xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer"&gt;
       </tuv>
     </tu>
     <tu>
+      <note>Microsoft IIS is not included in the distribution kit. It must be installed and configured separately. </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Microsoft IIS&lt;x2/&gt; – не входит в состав дистрибутива, он должен быть &lt;x3/&gt;установлен и настроен&lt;x4/&gt; отдельно.</seg>
       </tuv>
@@ -3315,6 +3316,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>The following web server types are permitted:</note>
       <tuv lang="RU">
         <seg>Допустимым является использование следующих вариантов web-сервера:</seg>
       </tuv>
