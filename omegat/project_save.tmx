@@ -1839,6 +1839,7 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Install the Guardant x64 driver enables the installation to start in the automatic driver mode for the software protection dongle operation.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Установить драйвера Guardant x64&lt;x2/&gt; — запускает установку в автоматическом режиме драйверов для работы электронного ключа защиты.</seg>
       </tuv>
