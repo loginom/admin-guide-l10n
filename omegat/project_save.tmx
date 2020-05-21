@@ -4235,6 +4235,9 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Server General Settings
+
+(In a heading, it just feels right to leave out the 'the'. As the subject/object of a complete sentence, different story)</note>
       <tuv lang="RU">
         <seg>Общие настройки сервера</seg>
       </tuv>
