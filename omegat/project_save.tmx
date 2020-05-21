@@ -5480,6 +5480,7 @@ Done</note>
       </tuv>
     </tu>
     <tu>
+      <note>To remove Loginom Server, it is required to stop the loginom service and remove the application using one of the following methods:</note>
       <tuv lang="RU">
         <seg>Удаление Loginom Server</seg>
       </tuv>
