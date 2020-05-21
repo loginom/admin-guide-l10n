@@ -3099,6 +3099,9 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>The dialog is available only on condition of Loginom Studio component installation without the Web server component installation. 
+
+I omitted the article here because it felt right as the direct object of a sentence clause. To my native inner ear, it just has a more native ring to it.</note>
       <tuv lang="RU">
         <seg>Диалог доступен только при установке компонента Loginom Studio без установки компонента Веб-сервер.</seg>
       </tuv>
