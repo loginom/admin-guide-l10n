@@ -2071,6 +2071,7 @@ Host: stend-057</seg>
       </tuv>
     </tu>
     <tu>
+      <note>The Loginom Server is designated for deployment in the internal network when the work of more than one user from different working places is anticipated.</note>
       <tuv lang="RU">
         <seg>Loginom Server предназначен для развертывания во внутренней сети, когда подразумевается работа более чем одного пользователя с различных рабочих мест.</seg>
       </tuv>
@@ -2079,6 +2080,7 @@ Host: stend-057</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Loginom Server is a key platform element required for teamwork. </note>
       <tuv lang="RU">
         <seg>Loginom Server — ключевой элемент платформы, необходимый для коллективной работы.</seg>
       </tuv>
@@ -5158,6 +5160,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>Other platform components, with the exception of the Desktop component, can interact with the Loginom Server.</note>
       <tuv lang="RU">
         <seg>С Loginom Server могут взаимодействовать остальные компоненты платформы, кроме компонента &lt;x3/&gt;Desktop&lt;x4/&gt;.</seg>
       </tuv>
@@ -5489,6 +5492,7 @@ Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>Loginom Studio provides for server management, configuration, visualisation and other operations. </note>
       <tuv lang="RU">
         <seg>Управление сервером, настройка, визуализация и прочие операции осуществляются при помощи &lt;x1/&gt;Loginom Studio&lt;x2/&gt;.</seg>
       </tuv>
