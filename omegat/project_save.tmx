@@ -1377,6 +1377,7 @@ all else okay</note>
       </tuv>
     </tu>
     <tu>
+      <note>Use WebSocket secure enables the setting of ssl parameters for the websocket:</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Использовать WebSocket secure&lt;x2/&gt; — включает возможность задать параметры ssl для websocket:</seg>
       </tuv>
@@ -1563,6 +1564,7 @@ A: Okay</note>
       </tuv>
     </tu>
     <tu>
+      <note>The WSS port defines the port number for the Loginom Studio connection according to the websocket secure (wss) protocol. </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Порт WSS&lt;x2/&gt; — определяет номер порта для подключения Loginom Studio по протоколу websocket secure (wss).</seg>
       </tuv>
@@ -1571,6 +1573,7 @@ A: Okay</note>
       </tuv>
     </tu>
     <tu>
+      <note>The Server port defines the port number for the Loginom Integrator and BatchLauncher connection. </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Порт сервера&lt;x2/&gt; — определяет номер порта для подключения Loginom Integrator и BatchLauncher.</seg>
       </tuv>
