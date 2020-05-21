@@ -962,6 +962,7 @@ xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer"&gt;
       </tuv>
     </tu>
     <tu>
+      <note>Port - port number for the Loginom Integrator and the BatchLauncher connection.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Port&lt;x2/&gt; - номер порта для подключения Loginom Integrator и BatchLauncher.</seg>
       </tuv>
@@ -1052,6 +1053,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>WSPort - port number for the Loginom Studio connection according to the websocket (ws) protocol.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;WSPort&lt;x2/&gt; - номер порта для подключения Loginom Studio по протоколу websocket (ws).</seg>
       </tuv>
