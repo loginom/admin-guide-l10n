@@ -5242,6 +5242,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>The following command enables addition of the /app virtual directory on the Default Web Site: </note>
       <tuv lang="RU">
         <seg>Следующая команда добавляет виртуальный каталог &lt;x1/&gt;/app&lt;x2/&gt; в сайте &lt;x3/&gt;Default Web Site&lt;x4/&gt;:</seg>
       </tuv>
@@ -5318,6 +5319,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Creation of the Virtual Directory for the Loginom Studio</note>
       <tuv lang="RU">
         <seg>Создание виртуального каталога для Loginom Studio</seg>
       </tuv>
