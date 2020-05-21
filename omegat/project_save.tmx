@@ -3088,6 +3088,7 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>The dialog is available only on condition of Web server component installation.</note>
       <tuv lang="RU">
         <seg>Диалог доступен только при установке компонента &lt;x1/&gt;Веб-сервер&lt;x2/&gt;.</seg>
       </tuv>
