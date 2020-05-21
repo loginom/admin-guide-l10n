@@ -5152,6 +5152,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>Connections to the Loginom Server websocket are allowed</note>
       <tuv lang="RU">
         <seg>Разрешаем подключения к Loginom Server websocket</seg>
       </tuv>
@@ -5160,6 +5161,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>Connections to the Loginom Server for Integrator are allowed </note>
       <tuv lang="RU">
         <seg>Разрешаем подключения к Loginom Server для Integrator</seg>
       </tuv>
