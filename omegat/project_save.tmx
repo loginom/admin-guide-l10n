@@ -761,6 +761,7 @@ xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer"&gt;
       </tuv>
     </tu>
     <tu>
+      <note>/l* "%TEMP%\loginom.msi.log" — activation of installation logging.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;/l* "%TEMP%\loginom.msi.log"&lt;x2/&gt; — включение журналирования установки.</seg>
       </tuv>
