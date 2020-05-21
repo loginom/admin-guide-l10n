@@ -3029,6 +3029,7 @@ M: Done. But the second sentence is absent in the source.</note>
       </tuv>
     </tu>
     <tu>
+      <note>This dialog is available only on condition of Loginom Server component installation.</note>
       <tuv lang="RU">
         <seg>Данный диалог доступен только при установке компонента &lt;x1/&gt;Loginom Server&lt;x2/&gt;.</seg>
       </tuv>
