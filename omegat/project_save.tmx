@@ -802,6 +802,7 @@ xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer"&gt;
       </tuv>
     </tu>
     <tu>
+      <note>3. After the upgrade, it is required to start the loginom service </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;3.&lt;x2/&gt; После обновления запускаем службу &lt;x3/&gt;loginom&lt;x4/&gt;</seg>
       </tuv>
