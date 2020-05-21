@@ -2095,6 +2095,7 @@ Host: stend-057</seg>
       </tuv>
     </tu>
     <tu>
+      <note>LoginomEnterprise_6.x.x.msi – the installer for Enterprise editing</note>
       <tuv lang="RU">
         <seg>LoginomEnterprise_6.x.x.msi – инсталлятор для редакции Enterprise</seg>
       </tuv>
@@ -2103,6 +2104,7 @@ Host: stend-057</seg>
       </tuv>
     </tu>
     <tu>
+      <note>LoginomStandard_6.x.x.msi – the installer for Standard editing</note>
       <tuv lang="RU">
         <seg>LoginomStandard_6.x.x.msi – инсталлятор для редакции Standard</seg>
       </tuv>
@@ -2115,8 +2117,8 @@ Host: stend-057</seg>
       <tuv lang="RU">
         <seg>LoginomTeam_6.x.x.msi – инсталлятор для редакции Team</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T152235Z" creationid="Марианна" creationdate="20200519T152235Z">
-        <seg>LoginomTeam_6.x.x.msi – the installer for the Team editing</seg>
+      <tuv lang="EN" changeid="dell" changedate="20200521T082832Z" creationid="Марианна" creationdate="20200519T152235Z">
+        <seg>LoginomTeam_6.x.x.msi – the installer for the Team editing </seg>
       </tuv>
     </tu>
     <tu>
