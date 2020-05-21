@@ -4097,6 +4097,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Pressing the "Upgrade" button will enable the upgrade of the installed Loginom product.</note>
       <tuv lang="RU">
         <seg>Нажатие на кнопку &lt;x1/&gt;"Обновить"&lt;x2/&gt; выполняет обновление установленного экземпляра Loginom.</seg>
       </tuv>
@@ -4105,6 +4106,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Pressing the "Reinstall" button will open a new product installation dialog. The earlier version will be removed without saved parameters.</note>
       <tuv lang="RU">
         <seg>Нажатие на кнопку &lt;x1/&gt;"Переустановить"&lt;x2/&gt; запускает диалог новой &lt;x3/&gt;установки&lt;x4/&gt; продукта.</seg>
       </tuv>
