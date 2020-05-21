@@ -1252,6 +1252,7 @@ M: Not done. The Russian source is different.</note>
       </tuv>
     </tu>
     <tu>
+      <note>The Documentation enables addition of the platform operation reference section to the web interface.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Документация&lt;x2/&gt; добавляет в web-интерфейс раздел справки по работе с платформой.</seg>
       </tuv>
