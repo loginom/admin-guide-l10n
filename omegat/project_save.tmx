@@ -1062,6 +1062,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>WSSPort - port number for the Loginom Studio connection according to the websocket secure (wss) protocol.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;WSSPort&lt;x2/&gt; - номер порта для подключения Loginom Studio по протоколу websocket secure (wss).</seg>
       </tuv>
@@ -3429,6 +3430,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>LogFileRewrite - if the attribute has been set, the log file will be rewritten while the Loginom Server is starting. </note>
       <tuv lang="RU">
         <seg>Журналирование</seg>
       </tuv>
