@@ -5550,6 +5550,7 @@ Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>The Loginom Server configuration files are in the working directory. </note>
       <tuv lang="RU">
         <seg>Файлы конфигурации Loginom Server располагаются в рабочем каталоге.</seg>
       </tuv>
