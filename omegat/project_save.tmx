@@ -5485,6 +5485,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Make sure that installed antivirus software and network firewalls allow for such connections.</note>
       <tuv lang="RU">
         <seg>Убедитесь, что установленные антивирусы и межсетевые экраны разрешают эти подключения.</seg>
       </tuv>
