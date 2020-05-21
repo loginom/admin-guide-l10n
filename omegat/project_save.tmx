@@ -4953,6 +4953,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>When the start is successful, the following text will appear in the console window: The "LoginomServer" service was successfully started.</note>
       <tuv lang="RU">
         <seg>При успешном запуске в окне консоли появится надпись &lt;x3/&gt;Служба "LoginomServer" успешно запущена&lt;x4/&gt;.</seg>
       </tuv>
