@@ -2433,6 +2433,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Vasiliy M.: msiexec /x Loginom&lt;Edition&gt;_6.x.x.msi /qn</note>
       <tuv lang="RU">
         <seg>msiexec /x Loginom&lt;Редакця&gt;_6.x.x.msi /qn</seg>
       </tuv>
