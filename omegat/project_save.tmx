@@ -2537,6 +2537,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>Vasiliy M. - loading tasks вместо downloading tasks</note>
       <tuv lang="RU">
         <seg>Аналитический сервер, выполняет задачи загрузки, расчетов, построения моделей, визуализации, управления правами и прочее.</seg>
       </tuv>
