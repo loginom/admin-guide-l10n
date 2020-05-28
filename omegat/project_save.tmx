@@ -2113,7 +2113,9 @@ Host: stend-057</seg>
       </tuv>
     </tu>
     <tu>
-      <note>LoginomEnterprise_6.x.x.msi – the installer for Enterprise editing</note>
+      <note>LoginomEnterprise_6.x.x.msi – the installer for Enterprise editing
+
+Vasiliy M.: Могу ошибаться, но может быть - Edition?</note>
       <tuv lang="RU">
         <seg>LoginomEnterprise_6.x.x.msi – инсталлятор для редакции Enterprise</seg>
       </tuv>
@@ -2122,7 +2124,9 @@ Host: stend-057</seg>
       </tuv>
     </tu>
     <tu>
-      <note>LoginomStandard_6.x.x.msi – the installer for Standard editing</note>
+      <note>LoginomStandard_6.x.x.msi – the installer for Standard editing
+
+Vasiliy M.: Могу ошибаться, но может быть - Edition?</note>
       <tuv lang="RU">
         <seg>LoginomStandard_6.x.x.msi – инсталлятор для редакции Standard</seg>
       </tuv>
@@ -2131,7 +2135,9 @@ Host: stend-057</seg>
       </tuv>
     </tu>
     <tu>
-      <note>LoginomTeam_6.x.x.msi – the installer for Team editing</note>
+      <note>LoginomTeam_6.x.x.msi – the installer for Team editing
+
+Vasiliy M.: Могу ошибаться, но может быть - Edition?</note>
       <tuv lang="RU">
         <seg>LoginomTeam_6.x.x.msi – инсталлятор для редакции Team</seg>
       </tuv>
