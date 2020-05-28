@@ -3752,6 +3752,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>Vasiliy M.: В англоязычной Windows это называется Programs and Features</note>
       <tuv lang="RU">
         <seg>Из окна "Программы и компоненты" в Windows;</seg>
       </tuv>
