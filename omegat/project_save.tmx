@@ -1123,6 +1123,7 @@ OK</note>
       </tuv>
     </tu>
     <tu>
+      <note>Vasiliy M. - может быть, стоит заменить на соответствующее из англоязычной версии программы - debug</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;llDebug&lt;x2/&gt; - отладка.</seg>
       </tuv>
@@ -1139,6 +1140,7 @@ OK</note>
       </tuv>
     </tu>
     <tu>
+      <note>Vasiliy M. - может быть, стоит заменить на соответствующее из англоязычной версии программы - Fatal</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;llFatal&lt;x2/&gt; - авария.</seg>
       </tuv>
@@ -1155,6 +1157,7 @@ OK</note>
       </tuv>
     </tu>
     <tu>
+      <note>Vasiliy M. - может быть, стоит заменить на соответствующее из англоязычной версии программы - info</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;llInfo&lt;x2/&gt; - информация.</seg>
       </tuv>
@@ -1163,6 +1166,7 @@ OK</note>
       </tuv>
     </tu>
     <tu>
+      <note>Vasiliy M. - может быть, стоит заменить на соответствующее из англоязычной версии программы - trace</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;llTrace&lt;x2/&gt; - трассировка.</seg>
       </tuv>
