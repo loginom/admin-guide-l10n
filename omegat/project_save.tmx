@@ -5442,7 +5442,9 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
-      <note>Connections to the Loginom Server websocket are allowed</note>
+      <note>Connections to the Loginom Server websocket are allowed
+
+Vasiliy M: Больше вопрос, почему не так: Allow connections to Loginom Server websocket. Могу опять же ошибаться</note>
       <tuv lang="RU">
         <seg>Разрешаем подключения к Loginom Server websocket</seg>
       </tuv>
@@ -5460,6 +5462,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>Vasiliy M: Больше вопрос, почему не так: Allow connections to the http port of the web server. Могу ошибаться</note>
       <tuv lang="RU">
         <seg>Разрешаем подключения к http порту web-сервера</seg>
       </tuv>
