@@ -1,3 +1,3 @@
-# Обновление Loginom Desktop
+# Loginom Desktop Update
 
-Для обновления достаточно [установить](./setup.md) новую версию **"Loginom Desktop"** поверх предыдущей.
+It is sufficient to [install](./setup.md) the new version of **"Loginom Desktop"** over the previous one to update it.
