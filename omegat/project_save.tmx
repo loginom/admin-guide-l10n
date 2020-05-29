@@ -2209,6 +2209,14 @@ Host: stend-057</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>LoginomAcademic_6.x.x.msi — инсталлятор для редакции Academic</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T111853Z" creationid="Марианна" creationdate="20200529T111853Z">
+        <seg>LoginomAcademic_6.x.x.msi — installer the Academic edition</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>LoginomEnterprise_6.x.x.msi – the installer for Enterprise editing
 
 Vasiliy M.: Могу ошибаться, но может быть - Edition?</note>
@@ -2223,8 +2231,16 @@ Vasiliy M.: Могу ошибаться, но может быть - Edition?</no
       <tuv lang="RU">
         <seg>LoginomPersonal_6.x.x_x64.msi — инсталлятор для редакции Personal 64-битной версии</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200529T111626Z" creationid="Марианна" creationdate="20200529T111626Z">
-        <seg>LoginomPersonal_6.x.x_x64.msi — installer для редакции Personal 64-битной версии</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T111813Z" creationid="Марианна" creationdate="20200529T111626Z">
+        <seg>LoginomPersonal_6.x.x_x64.msi — installer the 64-bit Personal edition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>LoginomPersonal_6.x.x_x86.msi — инсталлятор для редакции Personal 32-битной версии</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T111831Z" creationid="Марианна" creationdate="20200529T111831Z">
+        <seg>LoginomPersonal_6.x.x_x86.msi — installer the 32-bit Personal edition</seg>
       </tuv>
     </tu>
     <tu>
@@ -3438,6 +3454,14 @@ Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T145901Z" creationid="Марианна" creationdate="20200519T145133Z">
         <seg>To remove Loginom Server it is required to stop the &lt;x1/&gt;loginom&lt;x2/&gt; service and remove the application using one of the following methods:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Для установки с нестандартными параметрами в диалоге &lt;x1/&gt;"Тип установки"&lt;x2/&gt; нажимаем кнопку &lt;x3/&gt;"Выборочная"&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T112156Z" creationid="Марианна" creationdate="20200529T112156Z">
+        <seg>It is required to press the  &lt;x3/&gt;Custom&lt;x4/&gt; button for installation with nonstandard parameters in the &lt;x1/&gt;Installation type&lt;x2/&gt; dialog.</seg>
       </tuv>
     </tu>
     <tu>
