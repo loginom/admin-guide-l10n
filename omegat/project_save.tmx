@@ -3332,7 +3332,9 @@ I omitted the article here because it felt right as the direct object of a sente
       </tuv>
     </tu>
     <tu>
-      <note>To start the LoginomServer service, it is required to configure the licensing keys (refer to</note>
+      <note>To start the LoginomServer service, it is required to configure the licensing keys (refer to
+
+</note>
       <tuv lang="RU">
         <seg>Для запуска службы &lt;x1/&gt;LoginomServer&lt;x2/&gt; требуется настройка ключей лицензирования (см.</seg>
       </tuv>
