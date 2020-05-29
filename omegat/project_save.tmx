@@ -2576,6 +2576,14 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>msiexec /i "LoginomPersonal_6.x.x_x64.msi" ключи_msi</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T112419Z" creationid="Марианна" creationdate="20200529T112419Z">
+        <seg>msiexec /i "LoginomPersonal_6.x.x_x64.msi" ключи_msi</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>/l* "%TEMP%\loginom.msi.log" — activation of installation logging.</note>
       <tuv lang="RU">
         <seg>msiexec /i "путь_к_msi_файлу" ключи_msi параметры_loginom</seg>
@@ -3289,6 +3297,14 @@ I omitted the article here because it felt right as the direct object of a sente
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T083301Z" creationid="Марианна" creationdate="20200520T083301Z">
         <seg>The dialog is available only on condition of the Loginom Studio component installation without the Web server component installation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Для запуска &lt;x1/&gt;Loginom Desktop&lt;x2/&gt; требуется настройка ключей лицензирования (см.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T112617Z" creationid="Марианна" creationdate="20200529T112617Z">
+        <seg>To start the &lt;x1/&gt;Loginom Desktop&lt;x2/&gt; it is required to configure the licensing keys (refer to </seg>
       </tuv>
     </tu>
     <tu>
@@ -4118,6 +4134,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Компонент &lt;x1/&gt;"Документация"&lt;x2/&gt; устанавливает файлы документации по работе с платформой.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T112348Z" creationid="Марианна" creationdate="20200529T112348Z">
+        <seg>The &lt;x1/&gt;"Documentation"&lt;x2/&gt; component enables to install the document files wor the platform operation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Компонент Desktop входит в редакцию редакцию платформы Loginom Personal.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200529T105347Z" creationid="Марианна" creationdate="20200529T105347Z">
@@ -4862,6 +4886,14 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200514T053450Z" creationid="Марианна" creationdate="20200514T053450Z">
         <seg>Disabled by default.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>По умолчанию устанавливаются все компоненты.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T112404Z" creationid="Марианна" creationdate="20200529T112404Z">
+        <seg>All components are installed by default.</seg>
       </tuv>
     </tu>
     <tu>
