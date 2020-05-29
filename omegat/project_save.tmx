@@ -3323,7 +3323,9 @@ I omitted the article here because it felt right as the direct object of a sente
       </tuv>
     </tu>
     <tu>
-      <note>To start the services using the shortcut, it is required to select the "Launch as administrator" item in the context menu. To start the services using the shortcut, it is required to select the "Launch as administrator" item in the context menu. </note>
+      <note>To start the services using the shortcut, it is required to select the "Launch as administrator" item in the context menu. To start the services using the shortcut, it is required to select the "Launch as administrator" item in the context menu. 
+
+Vasiliy M: вместо launch, наверное, надо написать run. </note>
       <tuv lang="RU">
         <seg>Для запуска служб с помощью ярлыка требуется выбрать в его контекстном меню пункт &lt;x1/&gt;"Запуск от имени администратора"&lt;x2/&gt;.</seg>
       </tuv>
@@ -5159,7 +5161,9 @@ Only comma added</note>
       </tuv>
     </tu>
     <tu>
-      <note>To use the server network dongles, it is required to create the GnClient.ini file in the "C:\ProgramData\BaseGroup\Loginom 6\Server" directory</note>
+      <note>To use the server network dongles, it is required to create the GnClient.ini file in the "C:\ProgramData\BaseGroup\Loginom 6\Server" directory
+
+Vasiliy M: может быть, лезу не в своё дело. Мне кажется, порядок слов не очень верный, могу ошибаться. Сервер сетевых ключей = network dongles server. </note>
       <tuv lang="RU">
         <seg>При использовании сервера сетевых ключей требуется создать файл &lt;x1/&gt;GnClient.ini&lt;x2/&gt; в каталоге &lt;x3/&gt;"C:\ProgramData\BaseGroup\Loginom 6\Server"&lt;x4/&gt;</seg>
       </tuv>
