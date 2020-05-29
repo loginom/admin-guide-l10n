@@ -3335,6 +3335,14 @@ I omitted the article here because it felt right as the direct object of a sente
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Для обновления достаточно &lt;x1/&gt;установить&lt;x2/&gt; новую версию &lt;x3/&gt;"Loginom Desktop"&lt;x4/&gt; поверх предыдущей.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T120933Z" creationid="Марианна" creationdate="20200529T120933Z">
+        <seg>It is sufficient to &lt;x1/&gt;install&lt;x2/&gt; the new version of &lt;x3/&gt;"Loginom Desktop"&lt;x4/&gt; over the previous one to update it.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Andrew: 
 3. Setting Parameters of methods of interaction with the external services 
 &lt;38/23/28% &gt;
