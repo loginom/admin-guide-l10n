@@ -4481,6 +4481,14 @@ Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Обновление Loginom Desktop</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T120806Z" creationid="Марианна" creationdate="20200529T120806Z">
+        <seg>Loginom Desktop Update</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Обновление Loginom Server</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T150233Z" creationid="Марианна" creationdate="20200519T150233Z">
