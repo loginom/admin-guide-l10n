@@ -16,7 +16,7 @@ where 6.x.x – figures denoting the software version and release.
 
 It is required to press the  **Custom** button for installation with nonstandard parameters in the **Installation type** dialog.
 
-#### Selection of components for installation
+#### Selection of Components for Installation
 
 ![](../images/personal_msi_features_default.png)
 
