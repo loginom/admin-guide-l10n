@@ -1,10 +1,10 @@
-# Установка Loginom Desktop
+# Loginom Desktop Installation
 
 The installer file name versions:
 
-* LoginomPersonal_6.x.x_x64.msi — инсталлятор для редакции Personal 64-битной версии
-* LoginomPersonal_6.x.x_x86.msi — инсталлятор для редакции Personal 32-битной версии
-* LoginomAcademic_6.x.x.msi — инсталлятор для редакции Academic
+* LoginomPersonal_6.x.x_x64.msi — installer the 64-bit Personal edition
+* LoginomPersonal_6.x.x_x86.msi — installer the 32-bit Personal edition
+* LoginomAcademic_6.x.x.msi — installer the Academic edition
 
 where 6.x.x – figures denoting the software version and release.
 
@@ -14,16 +14,16 @@ where 6.x.x – figures denoting the software version and release.
 
 #### Run the Installer
 
-Для установки с нестандартными параметрами в диалоге **"Тип установки"** нажимаем кнопку **"Выборочная"**.
+It is required to press the  **Custom** button for installation with nonstandard parameters in the **Installation type** dialog.
 
 #### Selection of components for installation
 
 ![](../images/personal_msi_features_default.png)
 
-* Компонент **"Loginom Personal"** обязателен для установки.
-* Компонент **"Документация"** устанавливает файлы документации по работе с платформой.
+* The **"Loginom Personal"** component is compulsory for installation.
+* The **"Documentation"** component enables to install the document files wor the platform operation.
 
-По умолчанию устанавливаются все компоненты.
+All components are installed by default.
 
 ### Command Line
 
@@ -37,6 +37,6 @@ msiexec /i "LoginomPersonal_6.x.x_x64.msi" ключи_msi
 
 ## Licenses
 
-Для запуска **Loginom Desktop** требуется настройка ключей лицензирования (см. [Licensing Keys](../licenses/README.md)).
+To start the **Loginom Desktop** it is required to configure the licensing keys (refer to  [Licensing Keys](../licenses/README.md)).
 
-При использовании сервера сетевых ключей требуется создать файл [GnClient.ini](https://dev.guardant.ru/pages/viewpage.action?pageId=1277980) в каталоге `"C:\ProgramData\BaseGroup\Loginom 6\Personal"`
+To use the server network dongles, it is required to create the [GnClient.ini](https://dev.guardant.ru/pages/viewpage.action?pageId=1277980) file in the `"C:\ProgramData\BaseGroup\Loginom 6\Personal"` directory

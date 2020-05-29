@@ -5,7 +5,7 @@
 The installer file name versions:
 
 * LoginomTeam_6.x.x.msi – the installer for the Team editing
-* LoginomStandard_6.x.x.msi – the installer for the Standard editing
+* LoginomStandard_6.x.x.msi – the installer for the Standard edition
 * LoginomEnterprise_6.x.x.msi – the installer for the Enterprise editing
 
 where 6.x.x – figures denoting the software version and release.
