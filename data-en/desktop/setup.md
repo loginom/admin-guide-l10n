@@ -21,7 +21,7 @@ It is required to press the  **Custom** button for installation with nonstandard
 ![](../images/personal_msi_features_default.png)
 
 * The **"Loginom Personal"** component is compulsory for installation.
-* The **"Documentation"** component enables to install the document files wor the platform operation.
+* The **"Documentation"** component enables to install the document files for the platform operation.
 
 All components are installed by default.
 
