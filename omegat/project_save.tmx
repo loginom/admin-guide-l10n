@@ -3201,6 +3201,14 @@ OK</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Деинсталлировать &lt;x1/&gt;"Loginom Desktop"&lt;x2/&gt; можно несколькими способами:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T111147Z" creationid="Марианна" creationdate="20200529T111147Z">
+        <seg>It is possible to uninstall &lt;x1/&gt;"Loginom Desktop"&lt;x2/&gt; можно несколькими способами:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A:
 It is possible to uninstall Loginom Adapter in several ways: 
 
@@ -5664,6 +5672,14 @@ Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200510T214434Z" creationid="Марианна" creationdate="20200502T202513Z">
         <seg>Uninstalling Loginom Adapter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Удаление Loginom Desktop</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T111047Z" creationid="Марианна" creationdate="20200529T111047Z">
+        <seg>Delete Loginom Desktop</seg>
       </tuv>
     </tu>
     <tu>
