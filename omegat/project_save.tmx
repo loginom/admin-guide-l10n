@@ -4110,6 +4110,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Компонент &lt;x1/&gt;"Loginom Personal"&lt;x2/&gt; обязателен для установки.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T112239Z" creationid="Марианна" creationdate="20200529T112239Z">
+        <seg>The &lt;x1/&gt;"Loginom Personal"&lt;x2/&gt; component is compulsory for installation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Компонент Desktop входит в редакцию редакцию платформы Loginom Personal.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200529T105347Z" creationid="Марианна" creationdate="20200529T105347Z">
