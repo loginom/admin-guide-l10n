@@ -4136,8 +4136,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Компонент &lt;x1/&gt;"Документация"&lt;x2/&gt; устанавливает файлы документации по работе с платформой.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200529T112348Z" creationid="Марианна" creationdate="20200529T112348Z">
-        <seg>The &lt;x1/&gt;"Documentation"&lt;x2/&gt; component enables to install the document files wor the platform operation.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T114642Z" creationid="Марианна" creationdate="20200529T112348Z">
+        <seg>The &lt;x1/&gt;"Documentation"&lt;x2/&gt; component enables to install the document files for the platform operation.</seg>
       </tuv>
     </tu>
     <tu>
