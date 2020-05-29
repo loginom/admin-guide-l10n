@@ -83,6 +83,7 @@ A: "while the command" is placed in a different part of the segment in Github, a
       </tuv>
     </tu>
     <tu>
+      <note>Vasiliy M.: Loginom_options in the form of KEY=Value</note>
       <tuv lang="RU">
         <seg>%spoiler%Параметры_loginom в виде &lt;x1/&gt;КЛЮЧ=значение&lt;x2/&gt;%spoiler%</seg>
       </tuv>
@@ -1962,6 +1963,7 @@ Ok, corrected in 2 segments. </note>
       </tuv>
     </tu>
     <tu>
+      <note>Vasiliy M. msi_options</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;ключи_msi&lt;x2/&gt; — допустимые значения можно узнать, выполнив в командной строке &lt;x3/&gt;msiexec /?&lt;x4/&gt;.</seg>
       </tuv>
