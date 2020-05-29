@@ -3338,8 +3338,8 @@ I omitted the article here because it felt right as the direct object of a sente
       <tuv lang="RU">
         <seg>Для обновления достаточно &lt;x1/&gt;установить&lt;x2/&gt; новую версию &lt;x3/&gt;"Loginom Desktop"&lt;x4/&gt; поверх предыдущей.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200529T120933Z" creationid="Марианна" creationdate="20200529T120933Z">
-        <seg>It is sufficient to &lt;x1/&gt;install&lt;x2/&gt; the new version of &lt;x3/&gt;"Loginom Desktop"&lt;x4/&gt; over the previous one to update it.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T121049Z" creationid="Марианна" creationdate="20200529T120933Z">
+        <seg>It is sufficient to &lt;x1/&gt;install&lt;x2/&gt; the new version of &lt;x3/&gt;"Loginom Desktop"&lt;x4/&gt; over the previous one to upgrade it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4491,8 +4491,8 @@ Done.</note>
       <tuv lang="RU">
         <seg>Обновление Loginom Desktop</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200529T120806Z" creationid="Марианна" creationdate="20200529T120806Z">
-        <seg>Loginom Desktop Update</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T121035Z" creationid="Марианна" creationdate="20200529T120806Z">
+        <seg>Loginom Desktop Upgrade</seg>
       </tuv>
     </tu>
     <tu>
