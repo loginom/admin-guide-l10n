@@ -204,6 +204,14 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>100</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T105509Z" creationid="Марианна" creationdate="20200529T105509Z">
+        <seg>100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>16</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T144331Z" creationid="Марианна" creationdate="20200519T144331Z">
@@ -224,6 +232,14 @@ A: "while the command" is placed in a different part of the segment in Github, a
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T144439Z" creationid="Марианна" creationdate="20200519T144439Z">
         <seg>2.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>4 GB</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T105454Z" creationid="Марианна" creationdate="20200529T105454Z">
+        <seg>4 GB</seg>
       </tuv>
     </tu>
     <tu>
@@ -1259,6 +1275,14 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;ВАЖНО:&lt;x2/&gt; Размер используемой оперативной памяти (RAM) ограничен 2 GB (ограничение платформы x86).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T105754Z" creationid="Марианна" creationdate="20200529T105754Z">
+        <seg>&lt;x1/&gt;IMPORTANT:&lt;x2/&gt; Capacity of the used RAM is limited by 2 GB (platform limit x86).</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A; Important: in compliance with the resulting XML response with its description in the XSD schema will cause the Adapter web service operation error. 
 M: Not done. The Russian source is different.</note>
       <tuv lang="RU">
@@ -2027,6 +2051,22 @@ Host: stend-057</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T200146Z" creationid="Марианна" creationdate="20200502T200146Z">
         <seg>Cryptography Service Provider (CSP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>GB</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T105504Z" creationid="Марианна" creationdate="20200529T105504Z">
+        <seg>GB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>GB (+ User Data)</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T105515Z" creationid="Марианна" creationdate="20200529T105515Z">
+        <seg>GB (+ User Data)</seg>
       </tuv>
     </tu>
     <tu>
