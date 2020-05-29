@@ -156,10 +156,26 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>1 GB</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T105443Z" creationid="Марианна" creationdate="20200529T105443Z">
+        <seg>1 GB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>1 TB</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T144350Z" creationid="Марианна" creationdate="20200519T144350Z">
         <seg>1 TB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>1 core</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T105431Z" creationid="Марианна" creationdate="20200529T105431Z">
+        <seg>1 core</seg>
       </tuv>
     </tu>
     <tu>
@@ -1985,6 +2001,14 @@ Ok, corrected in 2 segments. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>CPU x86</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T105425Z" creationid="Марианна" creationdate="20200529T105425Z">
+        <seg>CPU x86</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Content-Type: text/xml; charset=UTF-8
 SOAPAction: "http://www.basegroup.ru/WebServiceProxy/DIS_stend-sup-29/Cheques"
 Content-Length: 499
@@ -2203,6 +2227,14 @@ Vasiliy M.: Могу ошибаться, но может быть - Edition?</no
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Personal x86</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T105355Z" creationid="Марианна" creationdate="20200529T105355Z">
+        <seg>Personal x86</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>RAM</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T144320Z" creationid="Марианна" creationdate="20200519T144320Z">
@@ -2395,6 +2427,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T195225Z" creationid="Марианна" creationdate="20200502T195225Z">
         <seg>Windows 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Windows 7 и выше</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T105420Z" creationid="Марианна" creationdate="20200529T105420Z">
+        <seg>Windows 7 and higher</seg>
       </tuv>
     </tu>
     <tu>
@@ -3952,6 +3992,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T194507Z" creationid="Марианна" creationdate="20200502T194507Z">
         <seg>Component</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Компонент Desktop входит в редакцию редакцию платформы Loginom Personal.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T105347Z" creationid="Марианна" creationdate="20200529T105347Z">
+        <seg>Desktop component is included into the Loginom Personal platform version.</seg>
       </tuv>
     </tu>
     <tu>
