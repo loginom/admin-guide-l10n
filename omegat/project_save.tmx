@@ -228,6 +228,14 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>64-х битная версия Loginom Desktop способна обработать большие массивы данных, ограниченные только ресурсами рабочей станции.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T105034Z" creationid="Марианна" creationdate="20200529T105034Z">
+        <seg>64-bit Loginom Desktop version can process significant data arrays limited only by the workstation resources.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>8 GB</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T144325Z" creationid="Марианна" creationdate="20200519T144325Z">
