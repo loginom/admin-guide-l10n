@@ -228,6 +228,14 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>2 core</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T105808Z" creationid="Марианна" creationdate="20200529T105808Z">
+        <seg>2 core</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>2.0</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T144439Z" creationid="Марианна" creationdate="20200519T144439Z">
@@ -2159,6 +2167,14 @@ Host: stend-057</seg>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Loginom Desktop</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T105829Z" creationid="Марианна" creationdate="20200529T105829Z">
+        <seg>Loginom Desktop</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Loginom Desktop не включает инструменты для совместной работы, разграничения прав, публикации и работы с веб-сервисами.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200529T105307Z" creationid="Марианна" creationdate="20200529T105307Z">
@@ -2263,6 +2279,14 @@ Vasiliy M.: Могу ошибаться, но может быть - Edition?</no
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T142926Z" creationid="Марианна" creationdate="20200519T142926Z">
         <seg>POST https://stend-sup-29/DIS/Service.svc/ServiceClass HTTP/1.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Personal x64</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T105758Z" creationid="Марианна" creationdate="20200529T105758Z">
+        <seg>Personal x64</seg>
       </tuv>
     </tu>
     <tu>
