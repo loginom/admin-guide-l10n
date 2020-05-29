@@ -5453,7 +5453,9 @@ Vasiliy M: Больше вопрос, почему не так: Allow connection
       </tuv>
     </tu>
     <tu>
-      <note>Connections to the Loginom Server for Integrator are allowed </note>
+      <note>Connections to the Loginom Server for Integrator are allowed 
+
+Vasiliy M: Больше вопрос, почему не так: Allowing connections to Loginom Server for Integrator. Могу опять же ошибаться</note>
       <tuv lang="RU">
         <seg>Разрешаем подключения к Loginom Server для Integrator</seg>
       </tuv>
@@ -5471,6 +5473,7 @@ Vasiliy M: Больше вопрос, почему не так: Allow connection
       </tuv>
     </tu>
     <tu>
+      <note>Vasiliy M: Больше вопрос, почему не так: Allow connections to the network dongles server for Loginom Server. Могу опять же ошибаться</note>
       <tuv lang="RU">
         <seg>Разрешаем подключения к серверу сетевых ключей для Loginom Server</seg>
       </tuv>
