@@ -92,6 +92,7 @@ A: "while the command" is placed in a different part of the segment in Github, a
       </tuv>
     </tu>
     <tu>
+      <note>Vasiliy M: Example of configuring Windows Firewall мне кажется</note>
       <tuv lang="RU">
         <seg>%spoiler%Примеры настройки Windows Firewal:%spoiler%</seg>
       </tuv>
@@ -3068,8 +3069,8 @@ M: Done. </note>
       <tuv lang="RU">
         <seg>Входящие на TCP порт &lt;x1/&gt;4580&lt;x2/&gt; для хостов с &lt;x3/&gt;Loginom Intergator&lt;x4/&gt; или &lt;x5/&gt;BatchLauncher&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T091029Z" creationid="Марианна" creationdate="20200520T091029Z">
-        <seg>Incoming to the  TCP port &lt;x1/&gt;4580&lt;x2/&gt; for hosts with &lt;x3/&gt;Loginom Intergator&lt;x4/&gt; or &lt;x5/&gt;BatchLauncher&lt;x6/&gt;.</seg>
+      <tuv lang="EN" changeid="mayorov" changedate="20200529T142647Z" creationid="Марианна" creationdate="20200520T091029Z">
+        <seg>Incoming to the TCP port &lt;x1/&gt;4580&lt;x2/&gt; for hosts with &lt;x3/&gt;Loginom Intergator&lt;x4/&gt; or &lt;x5/&gt;BatchLauncher&lt;x6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5174,6 +5175,7 @@ Vasiliy M: может быть, лезу не в своё дело. Мне ка�
       </tuv>
     </tu>
     <tu>
+      <note>Vasiliy M: ...host of network dongles server (сервер сетевых ключей)</note>
       <tuv lang="RU">
         <seg>При использовании сетевых ключей Guardant — на TCP/UDP порты &lt;x1/&gt;3186&lt;x2/&gt; и &lt;x3/&gt;3187&lt;x4/&gt; хоста сервера сетевых ключей.</seg>
       </tuv>
