@@ -2094,6 +2094,14 @@ Host: stend-057</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Loginom Desktop не включает инструменты для совместной работы, разграничения прав, публикации и работы с веб-сервисами.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T105307Z" creationid="Марианна" creationdate="20200529T105307Z">
+        <seg>Loginom Desktop does not include the tools for collaborative work, division of rights, publications and work with web services.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>The Loginom Server</note>
       <tuv lang="RU">
         <seg>Loginom Server</seg>
