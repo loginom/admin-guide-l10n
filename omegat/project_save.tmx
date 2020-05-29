@@ -2212,8 +2212,8 @@ Host: stend-057</seg>
       <tuv lang="RU">
         <seg>LoginomAcademic_6.x.x.msi — инсталлятор для редакции Academic</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200529T111853Z" creationid="Марианна" creationdate="20200529T111853Z">
-        <seg>LoginomAcademic_6.x.x.msi — installer the Academic edition</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T114404Z" creationid="Марианна" creationdate="20200529T111853Z">
+        <seg>LoginomAcademic_6.x.x.msi — installer for the Academic edition</seg>
       </tuv>
     </tu>
     <tu>
@@ -2231,16 +2231,16 @@ Vasiliy M.: Могу ошибаться, но может быть - Edition?</no
       <tuv lang="RU">
         <seg>LoginomPersonal_6.x.x_x64.msi — инсталлятор для редакции Personal 64-битной версии</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200529T111813Z" creationid="Марианна" creationdate="20200529T111626Z">
-        <seg>LoginomPersonal_6.x.x_x64.msi — installer the 64-bit Personal edition</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T114353Z" creationid="Марианна" creationdate="20200529T111626Z">
+        <seg>LoginomPersonal_6.x.x_x64.msi — installer for the 64-bit Personal edition</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>LoginomPersonal_6.x.x_x86.msi — инсталлятор для редакции Personal 32-битной версии</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200529T111831Z" creationid="Марианна" creationdate="20200529T111831Z">
-        <seg>LoginomPersonal_6.x.x_x86.msi — installer the 32-bit Personal edition</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T114358Z" creationid="Марианна" creationdate="20200529T111831Z">
+        <seg>LoginomPersonal_6.x.x_x86.msi — installer for the 32-bit Personal edition</seg>
       </tuv>
     </tu>
     <tu>
