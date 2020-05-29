@@ -2577,6 +2577,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>msiexec /x LoginomPersonal_6.x.x_x64.msi /qn</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T111319Z" creationid="Марианна" creationdate="20200529T111319Z">
+        <seg>msiexec /x LoginomPersonal_6.x.x_x64.msi /qn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>net stop loginom
 msiexec /i "LoginomEnterprise.msi" /qn DOUPGRADE=1
 net start loginom</seg>
@@ -3204,8 +3212,8 @@ OK</note>
       <tuv lang="RU">
         <seg>Деинсталлировать &lt;x1/&gt;"Loginom Desktop"&lt;x2/&gt; можно несколькими способами:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200529T111147Z" creationid="Марианна" creationdate="20200529T111147Z">
-        <seg>It is possible to uninstall &lt;x1/&gt;"Loginom Desktop"&lt;x2/&gt; можно несколькими способами:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T111258Z" creationid="Марианна" creationdate="20200529T111147Z">
+        <seg>It is possible to uninstall &lt;x1/&gt;Loginom Desktop&lt;x2/&gt; in several ways:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5678,8 +5686,8 @@ Done</note>
       <tuv lang="RU">
         <seg>Удаление Loginom Desktop</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200529T111047Z" creationid="Марианна" creationdate="20200529T111047Z">
-        <seg>Delete Loginom Desktop</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200529T111151Z" creationid="Марианна" creationdate="20200529T111047Z">
+        <seg>Uninstalling Loginom Desktop</seg>
       </tuv>
     </tu>
     <tu>
