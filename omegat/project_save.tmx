@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1418,7 +1418,9 @@ all else okay</note>
       </tuv>
     </tu>
     <tu>
-      <note>Use HTTPS enables the setting of sssl parameters for http:</note>
+      <note>Use HTTPS enables the setting of sssl parameters for http:
+
+Vasiliy M.: опечатка. наверное, ssl </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Использовать HTTPS&lt;x2/&gt; — включает возможность задать параметры ssl для http:</seg>
       </tuv>
@@ -2584,7 +2586,9 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>/l* "%TEMP%\loginom.msi.log" — activation of installation logging.</note>
+      <note>/l* "%TEMP%\loginom.msi.log" — activation of installation logging.
+
+Vasiliy M.: msiexec /i "path_to_package" msi_options loginom_options</note>
       <tuv lang="RU">
         <seg>msiexec /i "путь_к_msi_файлу" ключи_msi параметры_loginom</seg>
       </tuv>
