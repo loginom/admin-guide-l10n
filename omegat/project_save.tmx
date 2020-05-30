@@ -4472,6 +4472,7 @@ A: Okay</note>
       </tuv>
     </tu>
     <tu>
+      <note>The desktop version of the platform is designated for installation on the local computer when only one user operation is anticipated.</note>
       <tuv lang="RU">
         <seg>Настрольная версия платформы предназначена для установки на локальной компьютере, когда подразумевается работа одного пользователя.</seg>
       </tuv>
