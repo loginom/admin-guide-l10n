@@ -1966,7 +1966,9 @@ Ok, corrected in 2 segments. </note>
       </tuv>
     </tu>
     <tu>
-      <note>Vasiliy M. msi_options</note>
+      <note>Vasiliy M. msi_options
+
+Andrew R: keys_msi — it is possible to find allowable values executing the following command in the command line: msiexec /? </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;ключи_msi&lt;x2/&gt; — допустимые значения можно узнать, выполнив в командной строке &lt;x3/&gt;msiexec /?&lt;x4/&gt;.</seg>
       </tuv>
