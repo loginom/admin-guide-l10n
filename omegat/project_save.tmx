@@ -5166,6 +5166,7 @@ Only comma added</note>
       </tuv>
     </tu>
     <tu>
+      <note>To use server network dongles, it is required to create the GnClient.ini file in the "C:\ProgramData\BaseGroup\Loginom 6\Personal" directory </note>
       <tuv lang="RU">
         <seg>При использовании сервера сетевых ключей требуется создать файл &lt;x1/&gt;GnClient.ini&lt;x2/&gt; в каталоге &lt;x3/&gt;"C:\ProgramData\BaseGroup\Loginom 6\Personal"&lt;x4/&gt;</seg>
       </tuv>
