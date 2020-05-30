@@ -1672,7 +1672,7 @@ A: Okay</note>
       </tuv>
     </tu>
     <tu>
-      <note>Note: The system requirements can vary according to data volume and interaction with third-party applications. &lt;segment 1117 ¶&gt;</note>
+      <note>Note: system requirements can vary according to data volume and interaction with third-party applications. </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание:&lt;x2/&gt; Системные требования могут меняться в зависимости от объемов данных и взаимодействия со сторонними приложениями.</seg>
       </tuv>
