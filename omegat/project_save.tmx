@@ -269,6 +269,7 @@ A: "while the command" is placed in a different part of the segment in Github, a
       </tuv>
     </tu>
     <tu>
+      <note>The 64-bit Loginom Desktop version can process significant data arrays limited only by  workstation resources.</note>
       <tuv lang="RU">
         <seg>64-х битная версия Loginom Desktop способна обработать большие массивы данных, ограниченные только ресурсами рабочей станции.</seg>
       </tuv>
@@ -2179,6 +2180,7 @@ Host: stend-057</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Loginom Desktop does not include tools for collaborative work, division of rights, publications and work with web services.</note>
       <tuv lang="RU">
         <seg>Loginom Desktop не включает инструменты для совместной работы, разграничения прав, публикации и работы с веб-сервисами.</seg>
       </tuv>
