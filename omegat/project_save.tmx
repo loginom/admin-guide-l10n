@@ -1286,6 +1286,7 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>IMPORTANT: The Capacity of used RAM is limited by 2 GB (platform limit x86).</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;ВАЖНО:&lt;x2/&gt; Размер используемой оперативной памяти (RAM) ограничен 2 GB (ограничение платформы x86).</seg>
       </tuv>
@@ -4164,6 +4165,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>The desktop component is included in the Loginom Personal platform version.</note>
       <tuv lang="RU">
         <seg>Компонент Desktop входит в редакцию редакцию платформы Loginom Personal.</seg>
       </tuv>
