@@ -3498,6 +3498,7 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>It is required to click the Custom button for installation with nonstandard parameters in the Installation type dialog. </note>
       <tuv lang="RU">
         <seg>Для установки с нестандартными параметрами в диалоге &lt;x1/&gt;"Тип установки"&lt;x2/&gt; нажимаем кнопку &lt;x3/&gt;"Выборочная"&lt;x4/&gt;.</seg>
       </tuv>
@@ -4158,6 +4159,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>The "Documentation" component enables the installation of document files for the platform operation. </note>
       <tuv lang="RU">
         <seg>Компонент &lt;x1/&gt;"Документация"&lt;x2/&gt; устанавливает файлы документации по работе с платформой.</seg>
       </tuv>
