@@ -4282,8 +4282,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Компонент платформы, функционирующий в виде приложения для Internet Information Services (IIS) и предоставляющий возможность публиковать собственные веб-сервисы.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T221141Z" creationid="Марианна" creationdate="20200604T221141Z">
-        <seg>The platform component running as an application for Internet Information Services (IIS) and allowing for publication of the own web services.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T221615Z" creationid="Марианна" creationdate="20200604T221141Z">
+        <seg>It is a platform component running as an application for Internet Information Services (IIS) and allowing for publication of the own web services.</seg>
       </tuv>
     </tu>
     <tu>
