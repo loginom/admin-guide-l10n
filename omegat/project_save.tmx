@@ -3819,6 +3819,16 @@ M: OK, done. Still i would prefer to preserve the universal style of the text. <
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Для
+использования пакетов в качестве веб-сервиса необходимо
+предварительно опубликовать их в Loginom Server.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T232232Z" creationid="Марианна" creationdate="20200604T232232Z">
+        <seg>To use the packages as a web service, it is required to publish them in advance in the Loginom Server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Для запуска &lt;x1/&gt;Loginom Desktop&lt;x2/&gt; требуется настройка ключей лицензирования (см.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200529T112617Z" creationid="Марианна" creationdate="20200529T112617Z">
