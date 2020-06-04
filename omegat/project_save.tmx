@@ -1690,6 +1690,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Примечание:&lt;x2/&gt; Версия Loginom Integrator должна соответствовать версии используемого сервера Loginom.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T223303Z" creationid="Марианна" creationdate="20200604T223303Z">
+        <seg>&lt;x1/&gt;Note:&lt;x2/&gt; The Loginom Integrator version must comply with the used Loginom server version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание:&lt;x2/&gt; По умолчанию устанавливаются все компоненты.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T075347Z" creationid="Марианна" creationdate="20200520T075347Z">
@@ -4156,6 +4164,14 @@ M:Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Имя файла инсталлятора: &lt;x1/&gt;LoginomIntegrator_6.x.x.msi&lt;x2/&gt;, где 6.x.x – цифры, обозначающие версию и релиз программы.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T223205Z" creationid="Марианна" creationdate="20200604T223205Z">
+        <seg>The installer file name: &lt;x1/&gt;LoginomIntegrator_6.x.x.msi&lt;x2/&gt;, where 6.x.x – figures denoting software version and release.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Инструкции для IIS 8.5</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T140002Z" creationid="Марианна" creationdate="20200519T140002Z">
@@ -6069,6 +6085,14 @@ M: Done. I added the Loginom Studio</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200529T111542Z" creationid="Марианна" creationdate="20200529T111542Z">
         <seg>Loginom Desktop Installation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Установка Loginom Integrator</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T223036Z" creationid="Марианна" creationdate="20200604T223036Z">
+        <seg>Loginom Integrator Installation</seg>
       </tuv>
     </tu>
     <tu>
