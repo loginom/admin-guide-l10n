@@ -565,6 +565,14 @@ dism /online /enable-feature /FeatureName:IIS-ApplicationDevelopment /FeatureNam
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;/wsdl:documentation&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T231545Z" creationid="Марианна" creationdate="20200604T231545Z">
+        <seg>&lt;/wsdl:documentation&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;/wsdl:message&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T143019Z" creationid="Марианна" creationdate="20200519T143019Z">
@@ -6377,6 +6385,14 @@ M: Done </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T212711Z" creationid="Марианна" creationdate="20200519T142216Z">
         <seg>Creation of the Virtual Directory for the Loginom Studio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Создать в IIS web-приложение в новом пуле, указав путь к расположению файлов Integrator</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T231701Z" creationid="Марианна" creationdate="20200604T231701Z">
+        <seg>To create web application in IIS in the new pool, having specified the path to the Integrator files location</seg>
       </tuv>
     </tu>
     <tu>
