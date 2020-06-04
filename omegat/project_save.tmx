@@ -272,12 +272,13 @@ A: "while the command" is placed in a different part of the segment in Github, a
       </tuv>
     </tu>
     <tu>
-      <note>The 64-bit Loginom Desktop version can process significant data arrays limited only by  workstation resources.</note>
+      <note>A: The 64-bit Loginom Desktop version can process significant data arrays limited only by  workstation resources.
+M: Done.</note>
       <tuv lang="RU">
         <seg>64-х битная версия Loginom Desktop способна обработать большие массивы данных, ограниченные только ресурсами рабочей станции.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200529T105034Z" creationid="Марианна" creationdate="20200529T105034Z">
-        <seg>64-bit Loginom Desktop version can process significant data arrays limited only by the workstation resources.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T205828Z" creationid="Марианна" creationdate="20200529T105034Z">
+        <seg>The 64-bit Loginom Desktop version can process significant data arrays limited only by workstation resources.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4503,12 +4504,15 @@ A: Okay</note>
       </tuv>
     </tu>
     <tu>
-      <note>The desktop version of the platform is designated for installation on the local computer when only one user operation is anticipated.</note>
+      <note>A: 
+The desktop version of the platform is designated for installation on the local computer when only one user operation is anticipated.
+
+М: Done </note>
       <tuv lang="RU">
         <seg>Настрольная версия платформы предназначена для установки на локальной компьютере, когда подразумевается работа одного пользователя.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200529T104651Z" creationid="Марианна" creationdate="20200529T104651Z">
-        <seg>The desktop platform version is designated for installation on the local computer when only one user operation is anticipated.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T205728Z" creationid="Марианна" creationdate="20200529T104651Z">
+        <seg>The desktop version of the platform is designated for installation on the local computer when only one user operation is anticipated.</seg>
       </tuv>
     </tu>
     <tu>
