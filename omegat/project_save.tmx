@@ -1711,6 +1711,14 @@ OK
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Логин&lt;x2/&gt;, &lt;x3/&gt;Пароль&lt;x4/&gt; — реквизиты для &lt;x5/&gt;подключения к серверу Loginom&lt;x6/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T230615Z" creationid="Марианна" creationdate="20200604T230615Z">
+        <seg>&lt;x1/&gt;Login&lt;x2/&gt;, &lt;x3/&gt;Password&lt;x4/&gt; — credentials for &lt;x5/&gt;connection to the Loginom server&lt;x6/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Логировать запрос&lt;x2/&gt; — флаг, указывающий, что в лог необходимо сохранять xml-запрос к &lt;x3/&gt;Адаптеру&lt;x4/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T100728Z" creationid="Марианна" creationdate="20200221T074943Z">
@@ -1858,6 +1866,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T214404Z" creationid="Марианна" creationdate="20200520T075552Z">
         <seg>The &lt;x1/&gt;Server port&lt;x2/&gt; defines the port number for the Loginom Integrator and BatchLauncher connection.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Порт&lt;x2/&gt; — порт сервера Loginom.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T230511Z" creationid="Марианна" creationdate="20200604T230511Z">
+        <seg>&lt;x1/&gt;Port&lt;x2/&gt; — the Loginom server port.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2176,6 +2192,14 @@ Ok, or added.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200421T111404Z" creationid="Марианна" creationdate="20200226T104749Z">
         <seg>&lt;x1/&gt;Message format&lt;x2/&gt; can take one of three values: &lt;x3/&gt;plainXml&lt;x4/&gt;, &lt;x5/&gt;soap&lt;x6/&gt;, or &lt;x7/&gt;soap12&lt;x8/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Хост&lt;x2/&gt; — адрес хоста сервера Loginom.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T230457Z" creationid="Марианна" creationdate="20200604T230457Z">
+        <seg>&lt;x1/&gt;Host&lt;x2/&gt; — the Loginom server host address.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3125,6 +3149,14 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T225154Z" creationid="Марианна" creationdate="20200604T225154Z">
         <seg>&lt;x1/&gt;IIS&lt;x2/&gt; block:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Блок &lt;x1/&gt;Подключение к Loginom Server&lt;x2/&gt;:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T230430Z" creationid="Марианна" creationdate="20200604T230430Z">
+        <seg>&lt;x1/&gt;Connection to the Loginom Server&lt;x2/&gt; block:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4122,6 +4154,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T075317Z" creationid="Марианна" creationdate="20200520T075317Z">
         <seg>If the third-party server is to be used, the component must be disabled.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Если пул не существует, он будет создан.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T230411Z" creationid="Марианна" creationdate="20200604T230411Z">
+        <seg>If the pool does not exist, it will be created.</seg>
       </tuv>
     </tu>
     <tu>
