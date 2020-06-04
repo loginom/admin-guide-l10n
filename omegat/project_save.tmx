@@ -137,10 +137,50 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>* Документ по умолчанию</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T224335Z" creationid="Марианна" creationdate="20200604T224335Z">
+        <seg>* Default document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>* Обзор Каталога</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T224431Z" creationid="Марианна" creationdate="20200604T224431Z">
+        <seg>* Directory Overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>* Статическое содержимое</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T224449Z" creationid="Марианна" creationdate="20200604T224449Z">
+        <seg>*Static content</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>* Фильтрация запросов</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T224241Z" creationid="Марианна" creationdate="20200604T224241Z">
+        <seg>* Request filtering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>- Безопасность (Установлено 1 из 9)</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T224222Z" creationid="Марианна" creationdate="20200604T224222Z">
         <seg>- Safety (1 installed of 9)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>- Общие функции HTTP (Установлено 3 из 6)</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T224314Z" creationid="Марианна" creationdate="20200604T224314Z">
+        <seg>- General HTTP functions (3 installed of 6)</seg>
       </tuv>
     </tu>
     <tu>
