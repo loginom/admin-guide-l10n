@@ -1294,12 +1294,13 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>IMPORTANT: The Capacity of used RAM is limited by 2 GB (platform limit x86).</note>
+      <note>A: IMPORTANT: The Capacity of used RAM is limited by 2 GB (platform limit x86).
+M: Done. </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;ВАЖНО:&lt;x2/&gt; Размер используемой оперативной памяти (RAM) ограничен 2 GB (ограничение платформы x86).</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200529T105754Z" creationid="Марианна" creationdate="20200529T105754Z">
-        <seg>&lt;x1/&gt;IMPORTANT:&lt;x2/&gt; Capacity of the used RAM is limited by 2 GB (platform limit x86).</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T210036Z" creationid="Марианна" creationdate="20200529T105754Z">
+        <seg>&lt;x1/&gt;IMPORTANT:&lt;x2/&gt; The capacity of used RAM is limited by 2 GB (platform limit x86).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1681,12 +1682,13 @@ A: Okay</note>
       </tuv>
     </tu>
     <tu>
-      <note>Note: system requirements can vary according to data volume and interaction with third-party applications. </note>
+      <note>A: Note: system requirements can vary according to data volume and interaction with third-party applications. 
+M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание:&lt;x2/&gt; Системные требования могут меняться в зависимости от объемов данных и взаимодействия со сторонними приложениями.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T144615Z" creationid="Марианна" creationdate="20200519T144615Z">
-        <seg>&lt;x1/&gt;Note:&lt;x2/&gt; the system requirements can vary according to the data volume and interaction with the third-party applications.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T210145Z" creationid="Марианна" creationdate="20200519T144615Z">
+        <seg>&lt;x1/&gt;Note:&lt;x2/&gt; system requirements can vary according to data volume and interaction with third-party applications.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2194,12 +2196,13 @@ Host: stend-057</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Loginom Desktop does not include tools for collaborative work, division of rights, publications and work with web services.</note>
+      <note>A: Loginom Desktop does not include tools for collaborative work, division of rights, publications and work with web services.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Loginom Desktop не включает инструменты для совместной работы, разграничения прав, публикации и работы с веб-сервисами.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200529T105307Z" creationid="Марианна" creationdate="20200529T105307Z">
-        <seg>Loginom Desktop does not include the tools for collaborative work, division of rights, publications and work with web services.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T205914Z" creationid="Марианна" creationdate="20200529T105307Z">
+        <seg>Loginom Desktop does not include tools for collaborative work, division of rights, publications and work with web services.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4193,12 +4196,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>The desktop component is included in the Loginom Personal platform version.</note>
+      <note>A: The desktop component is included in the Loginom Personal platform version.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Компонент Desktop входит в редакцию редакцию платформы Loginom Personal.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200529T105347Z" creationid="Марианна" creationdate="20200529T105347Z">
-        <seg>Desktop component is included into the Loginom Personal platform version.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T205956Z" creationid="Марианна" creationdate="20200529T105347Z">
+        <seg>The desktop component is included in the Loginom Personal platform version.</seg>
       </tuv>
     </tu>
     <tu>
