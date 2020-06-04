@@ -5502,12 +5502,13 @@ Vasiliy M: Больше вопрос, почему не так: Allowing connect
       </tuv>
     </tu>
     <tu>
-      <note>Vasiliy M: Больше вопрос, почему не так: Allow connections to the http port of the web server. Могу ошибаться</note>
+      <note>Vasiliy M: Больше вопрос, почему не так: Allow connections to the http port of the web server. Могу ошибаться
+М: На самом деле оба варианта правильные. Поменяю на твой, чтобы звучало в соответствии с IT тематикой. </note>
       <tuv lang="RU">
         <seg>Разрешаем подключения к http порту web-сервера</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T091800Z" creationid="Марианна" creationdate="20200520T091800Z">
-        <seg>Connections to the http web server port are allowed</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T090947Z" creationid="Марианна" creationdate="20200520T091800Z">
+        <seg>Allow connections to the http port of the web server</seg>
       </tuv>
     </tu>
     <tu>
