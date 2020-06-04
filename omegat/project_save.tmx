@@ -1168,12 +1168,13 @@ OK</note>
       </tuv>
     </tu>
     <tu>
-      <note>admin with the admin password — for Loginom server administration </note>
+      <note>A: admin with the admin password — for Loginom server administration 
+M: Done. But still I do not feel the diffrerence. We need to discuss it and check the whole text.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;admin&lt;x2/&gt; с паролем &lt;x3/&gt;admin&lt;x4/&gt; — для администрирования сервера Loginom</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T092417Z" creationid="Марианна" creationdate="20200520T092343Z">
-        <seg>&lt;x1/&gt;admin&lt;x2/&gt; with the &lt;x3/&gt;admin&lt;x4/&gt; password — for the Loginom server administration</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T215536Z" creationid="Марианна" creationdate="20200520T092343Z">
+        <seg>&lt;x1/&gt;admin&lt;x2/&gt; with the &lt;x3/&gt;admin&lt;x4/&gt; password — for Loginom server administration</seg>
       </tuv>
     </tu>
     <tu>
@@ -1249,12 +1250,13 @@ OK</note>
       </tuv>
     </tu>
     <tu>
-      <note>service with the service password — for connection of external applications (Integrator and BatchLauncher) </note>
+      <note>A: service with the service password — for connection of external applications (Integrator and BatchLauncher) 
+M: Done</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;service&lt;x2/&gt; с паролем &lt;x3/&gt;service&lt;x4/&gt; — для подключения внешних приложений (Integrator и BatchLauncher)</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T092454Z" creationid="Марианна" creationdate="20200520T092454Z">
-        <seg>&lt;x1/&gt;service&lt;x2/&gt; with the &lt;x3/&gt;service&lt;x4/&gt; password — for connection of the external applications (Integrator and BatchLauncher)</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T215558Z" creationid="Марианна" creationdate="20200520T092454Z">
+        <seg>&lt;x1/&gt;service&lt;x2/&gt; with the &lt;x3/&gt;service&lt;x4/&gt; password — for connection of external applications (Integrator and BatchLauncher)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1276,12 +1278,13 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>user with blank password — for work with Loginom workflows</note>
+      <note>A: user with blank password — for work with Loginom workflows
+M: Done</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;user&lt;x2/&gt; с пустым паролем — для работы со сценариями Loginom</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T092351Z" creationid="Марианна" creationdate="20200520T092323Z">
-        <seg>&lt;x1/&gt;user&lt;x2/&gt; with blank password — for work with the Loginom workflows</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T215409Z" creationid="Марианна" creationdate="20200520T092323Z">
+        <seg>&lt;x1/&gt;user&lt;x2/&gt; with blank password — for work with Loginom workflows</seg>
       </tuv>
     </tu>
     <tu>
@@ -1686,12 +1689,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Note: Upon installation, it is required to change the administrator account (admin) password. </note>
+      <note>A: Note: Upon installation, it is required to change the administrator account (admin) password. 
+M: Done. </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание:&lt;x2/&gt; После завершения установки в обязательном порядке необходимо изменить пароль учетной записи администратора (admin).</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T092614Z" creationid="Марианна" creationdate="20200520T092512Z">
-        <seg>&lt;x1/&gt;Note:&lt;x2/&gt; Upon installation it is required to change the administrator account (admin) password.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T215615Z" creationid="Марианна" creationdate="20200520T092512Z">
+        <seg>&lt;x1/&gt;Note:&lt;x2/&gt; Upon installation, it is required to change the administrator account (admin) password.</seg>
       </tuv>
     </tu>
     <tu>
