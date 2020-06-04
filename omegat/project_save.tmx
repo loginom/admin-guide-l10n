@@ -5334,12 +5334,13 @@ Vasiliy M: порядок слов немного другой. Выводитс
       </tuv>
     </tu>
     <tu>
-      <note>When Loginom Server is installing, the following user accounts are created:</note>
+      <note>A: When Loginom Server is installing, the following user accounts are created:
+M: Done.</note>
       <tuv lang="RU">
         <seg>При установке в Loginom Server создаются учетные записи пользователей:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T092210Z" creationid="Марианна" creationdate="20200520T092210Z">
-        <seg>When Loginom Server installing, the following user accounts are created:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T215348Z" creationid="Марианна" creationdate="20200520T092210Z">
+        <seg>When the Loginom Server is installing, the following user accounts are created:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5361,12 +5362,13 @@ M: Done</note>
       </tuv>
     </tu>
     <tu>
-      <note>When installing the product in the "Start" Windows menu (All programs\Loginom 6\Server), the "The Loginom server start" and "Web server start" shortcuts are added. </note>
+      <note>A: When installing the product in the "Start" Windows menu (All programs\Loginom 6\Server), the "The Loginom server start" and "Web server start" shortcuts are added. 
+M: Done</note>
       <tuv lang="RU">
         <seg>При установке продукта в меню "Пуск" Windows (&lt;x1/&gt;Все программы\Loginom 6\Server&lt;x2/&gt;) добавляются ярлыки &lt;x3/&gt;"Запуск сервера Loginom"&lt;x4/&gt; и &lt;x5/&gt;"Запуск веб-сервера"&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T102728Z" creationid="Марианна" creationdate="20200520T090048Z">
-        <seg>When installing the product in the "Start" Windows menu (&lt;x1/&gt;All programs\Loginom 6\Server&lt;x2/&gt;) the &lt;x3/&gt;"The Loginom server start"&lt;x4/&gt; and &lt;x5/&gt;"Web server start" shortcuts are added&lt;x6/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T215124Z" creationid="Марианна" creationdate="20200520T090048Z">
+        <seg>When installing the product in the "Start" Windows menu (&lt;x1/&gt;All programs\Loginom 6\Server&lt;x2/&gt;), the &lt;x3/&gt;"Loginom server start"&lt;x4/&gt; and &lt;x5/&gt;"Web server start" shortcuts are added&lt;x6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5565,8 +5567,8 @@ Vasiliy M: Больше вопрос, почему не так: Allowing connect
       <tuv lang="RU">
         <seg>Разрешаем подключения к серверу сетевых ключей для Loginom Server</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T091410Z" creationid="Марианна" creationdate="20200520T092110Z">
-        <seg>Allow connections to the network dongles server for Loginom Server</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T215316Z" creationid="Марианна" creationdate="20200520T092110Z">
+        <seg>Allow connections to the network dongles server for the Loginom Server</seg>
       </tuv>
     </tu>
     <tu>
@@ -5875,12 +5877,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Make sure that installed antivirus software and network firewalls allow for such connections.</note>
+      <note>A: Make sure that installed antivirus software and network firewalls allow for such connections.
+M: Done</note>
       <tuv lang="RU">
         <seg>Убедитесь, что установленные антивирусы и межсетевые экраны разрешают эти подключения.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T091400Z" creationid="Марианна" creationdate="20200520T091400Z">
-        <seg>Make sure that the installed antivirus software and network firewalls allow for such connections.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T215231Z" creationid="Марианна" creationdate="20200520T091400Z">
+        <seg>Make sure that installed antivirus software and network firewalls allow for such connections.</seg>
       </tuv>
     </tu>
     <tu>
