@@ -991,12 +991,13 @@ M: Done </note>
       </tuv>
     </tu>
     <tu>
-      <note>Microsoft IIS is not included in the distribution kit. It must be installed and configured separately. </note>
+      <note>A: Microsoft IIS is not included in the distribution kit. It must be installed and configured separately. 
+M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Microsoft IIS&lt;x2/&gt; – не входит в состав дистрибутива, он должен быть &lt;x3/&gt;установлен и настроен&lt;x4/&gt; отдельно.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T153021Z" creationid="Марианна" creationdate="20200519T153021Z">
-        <seg>&lt;x1/&gt;Microsoft IIS&lt;x2/&gt; is not included into the distribution kit. It must be &lt;x3/&gt;installed and configured&lt;x4/&gt; separately.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T214000Z" creationid="Марианна" creationdate="20200519T153021Z">
+        <seg>&lt;x1/&gt;Microsoft IIS&lt;x2/&gt; is not included in the distribution kit. It must be &lt;x3/&gt;installed and configured&lt;x4/&gt; separately.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2250,14 +2251,15 @@ M: Done</note>
     </tu>
     <tu>
       <note>LoginomEnterprise_6.x.x.msi – the installer for Enterprise editing
-М: Поменяла
+М: Done
 
-Vasiliy M.: Могу ошибаться, но может быть - Edition?</note>
+Vasiliy M.: Могу ошибаться, но может быть - Edition?
+M: Поменяла </note>
       <tuv lang="RU">
         <seg>LoginomEnterprise_6.x.x.msi – инсталлятор для редакции Enterprise</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T084926Z" creationid="Марианна" creationdate="20200519T152313Z">
-        <seg>LoginomEnterprise_6.x.x.msi – the installer for Enterprise editing</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T213854Z" creationid="Марианна" creationdate="20200519T152313Z">
+        <seg>LoginomEnterprise_6.x.x.msi – the installer for Enterprise edition</seg>
       </tuv>
     </tu>
     <tu>
@@ -3602,12 +3604,13 @@ M: Done</note>
       </tuv>
     </tu>
     <tu>
-      <note>The following web server types are permitted:</note>
+      <note>A: The following web server types are permitted:
+M: Done</note>
       <tuv lang="RU">
         <seg>Допустимым является использование следующих вариантов web-сервера:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T152816Z" creationid="Марианна" creationdate="20200519T152816Z">
-        <seg>It is allowed to use the following web server types:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T213922Z" creationid="Марианна" creationdate="20200519T152816Z">
+        <seg>The following web server types are permitted:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5336,12 +5339,13 @@ Vasiliy M: порядок слов немного другой. Выводитс
       </tuv>
     </tu>
     <tu>
-      <note>The default installation setting for Loginom Studio is through use of the Apache web server. </note>
+      <note>A The default installation setting for Loginom Studio is through use of the Apache web server. 
+M: Done</note>
       <tuv lang="RU">
         <seg>При установке по умолчанию работа Loginom Studio осуществляется через web-сервер Apache.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T153306Z" creationid="Марианна" creationdate="20200519T153306Z">
-        <seg>When installing by default, Loginom Studio is used by means of the Apache web server.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T214143Z" creationid="Марианна" creationdate="20200519T153306Z">
+        <seg>The default installation setting for the Loginom Studio is through use of the Apache web server.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5945,12 +5949,13 @@ M: Done. I added the Loginom Studio</note>
       </tuv>
     </tu>
     <tu>
-      <note>The Installation method for the Loginom Server is different, depending on whether Apache or Microsoft IIS is selected.</note>
+      <note>A: The Installation method for the Loginom Server is different, depending on whether Apache or Microsoft IIS is selected
+M: Done </note>
       <tuv lang="RU">
         <seg>Установка Loginom Server при использовании Apache или Microsoft IIS различна.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T153116Z" creationid="Марианна" creationdate="20200519T153116Z">
-        <seg>Loginom Server is installed in a different way using Apache or Microsoft IIS.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T214054Z" creationid="Марианна" creationdate="20200519T153116Z">
+        <seg>The Installation method for the Loginom Server is different, depending on whether Apache or Microsoft IIS is selected.</seg>
       </tuv>
     </tu>
     <tu>
