@@ -2210,12 +2210,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>The Loginom Server</note>
+      <note>A: The Loginom Server
+M: Done</note>
       <tuv lang="RU">
         <seg>Loginom Server</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T143300Z" creationid="Марианна" creationdate="20200519T143300Z">
-        <seg>Loginom Server</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T212859Z" creationid="Марианна" creationdate="20200519T143300Z">
+        <seg>The Loginom Server</seg>
       </tuv>
     </tu>
     <tu>
@@ -2228,12 +2229,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Loginom Server is a key platform element required for teamwork. </note>
+      <note>A: Loginom Server is a key platform element required for teamwork. 
+M: Done</note>
       <tuv lang="RU">
         <seg>Loginom Server — ключевой элемент платформы, необходимый для коллективной работы.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T143635Z" creationid="Марианна" creationdate="20200519T143635Z">
-        <seg>Loginom Server is a key platform element required for the team work.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T212937Z" creationid="Марианна" creationdate="20200519T143635Z">
+        <seg>The Loginom Server is a key platform element required for teamwork.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5565,12 +5567,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Other platform components, with the exception of the Desktop component, can interact with the Loginom Server.</note>
+      <note>A: Other platform components, with the exception of the Desktop component, can interact with the Loginom Server.
+M: Done.</note>
       <tuv lang="RU">
         <seg>С Loginom Server могут взаимодействовать остальные компоненты платформы, кроме компонента &lt;x3/&gt;Desktop&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T143920Z" creationid="Марианна" creationdate="20200519T143920Z">
-        <seg>Other platform components, with the exception of the &lt;x3/&gt;Desktop&lt;x4/&gt; component, can interact with Loginom Server.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T213139Z" creationid="Марианна" creationdate="20200519T143920Z">
+        <seg>Other platform components, with the exception of the &lt;x3/&gt;Desktop&lt;x4/&gt; component, can interact with the Loginom Server.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5911,12 +5914,13 @@ Done. </note>
       </tuv>
     </tu>
     <tu>
-      <note>Loginom Studio provides for server management, configuration, visualisation and other operations. </note>
+      <note>A: Loginom Studio provides for server management, configuration, visualisation and other operations. 
+M: Done. I added the Loginom Studio</note>
       <tuv lang="RU">
         <seg>Управление сервером, настройка, визуализация и прочие операции осуществляются при помощи &lt;x1/&gt;Loginom Studio&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T144805Z" creationid="Марианна" creationdate="20200519T143755Z">
-        <seg> &lt;x1/&gt;Loginom Studio&lt;x2/&gt; provides for the server management, configuration, visualisation and other operations.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T213054Z" creationid="Марианна" creationdate="20200519T143755Z">
+        <seg>The &lt;x1/&gt;Loginom Studio&lt;x2/&gt; provides for server management, configuration, visualisation and other operations.</seg>
       </tuv>
     </tu>
     <tu>
