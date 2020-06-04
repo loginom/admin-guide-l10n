@@ -3276,12 +3276,13 @@ OK</note>
       </tuv>
     </tu>
     <tu>
-      <note>Loginom Desktop can be uninstalled in several ways: </note>
+      <note>A: Loginom Desktop can be uninstalled in several ways: 
+M: Done.</note>
       <tuv lang="RU">
         <seg>Деинсталлировать &lt;x1/&gt;"Loginom Desktop"&lt;x2/&gt; можно несколькими способами:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200529T111258Z" creationid="Марианна" creationdate="20200529T111147Z">
-        <seg>It is possible to uninstall &lt;x1/&gt;Loginom Desktop&lt;x2/&gt; in several ways:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T210344Z" creationid="Марианна" creationdate="20200529T111147Z">
+        <seg>&lt;x1/&gt;Loginom Desktop&lt;x2/&gt; can be uninstalled in several ways:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3525,12 +3526,13 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>It is required to click the Custom button for installation with nonstandard parameters in the Installation type dialog. </note>
+      <note>A: It is required to click the Custom button for installation with nonstandard parameters in the Installation type dialog. 
+M: Done.</note>
       <tuv lang="RU">
         <seg>Для установки с нестандартными параметрами в диалоге &lt;x1/&gt;"Тип установки"&lt;x2/&gt; нажимаем кнопку &lt;x3/&gt;"Выборочная"&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200529T112156Z" creationid="Марианна" creationdate="20200529T112156Z">
-        <seg>It is required to press the  &lt;x3/&gt;Custom&lt;x4/&gt; button for installation with nonstandard parameters in the &lt;x1/&gt;Installation type&lt;x2/&gt; dialog.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T210500Z" creationid="Марианна" creationdate="20200529T112156Z">
+        <seg>It is required to click the  &lt;x3/&gt;Custom&lt;x4/&gt; button for installation with nonstandard parameters in the &lt;x1/&gt;Installation type&lt;x2/&gt; dialog.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4187,12 +4189,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>The "Documentation" component enables the installation of document files for the platform operation. </note>
+      <note>A: The "Documentation" component enables the installation of document files for the platform operation. 
+M: Done.</note>
       <tuv lang="RU">
         <seg>Компонент &lt;x1/&gt;"Документация"&lt;x2/&gt; устанавливает файлы документации по работе с платформой.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200529T114642Z" creationid="Марианна" creationdate="20200529T112348Z">
-        <seg>The &lt;x1/&gt;"Documentation"&lt;x2/&gt; component enables to install the document files for the platform operation.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T210552Z" creationid="Марианна" creationdate="20200529T112348Z">
+        <seg>The &lt;x1/&gt;"Documentation"&lt;x2/&gt; component enables the installation of document files for the platform operation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6175,12 +6178,13 @@ M: Done. Вася, посмотрю еще раз в сети, все помен
       </tuv>
     </tu>
     <tu>
-      <note>where 6.x.x – figures denoting software version and release.</note>
+      <note>A: where 6.x.x – figures denoting software version and release.
+M: Done.</note>
       <tuv lang="RU">
         <seg>где 6.x.x – цифры, обозначающие версию и релиз программы.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T152407Z" creationid="Марианна" creationdate="20200519T152407Z">
-        <seg>where 6.x.x – figures denoting the software version and release.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T210417Z" creationid="Марианна" creationdate="20200519T152407Z">
+        <seg>where 6.x.x – figures denoting software version and release.</seg>
       </tuv>
     </tu>
     <tu>
