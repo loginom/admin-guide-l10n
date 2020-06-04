@@ -2224,6 +2224,14 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Loginom Integrator</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T220020Z" creationid="Марианна" creationdate="20200604T220020Z">
+        <seg>Loginom Integrator</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A: The Loginom Server
 M: Done</note>
       <tuv lang="RU">
@@ -4236,6 +4244,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T205956Z" creationid="Марианна" creationdate="20200529T105347Z">
         <seg>The desktop component is included in the Loginom Personal platform version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Компонент платформы, функционирующий в виде приложения для Internet Information Services (IIS) и предоставляющий возможность публиковать собственные веб-сервисы.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T221141Z" creationid="Марианна" creationdate="20200604T221141Z">
+        <seg>The platform component running as an application for Internet Information Services (IIS) and allowing for publication of the own web services.</seg>
       </tuv>
     </tu>
     <tu>
