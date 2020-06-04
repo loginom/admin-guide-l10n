@@ -1026,8 +1026,8 @@ M: Done</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Port&lt;x2/&gt; - номер порта для подключения Loginom Integrator и BatchLauncher.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200514T052149Z" creationid="Марианна" creationdate="20200514T052149Z">
-        <seg>&lt;x1/&gt;Port&lt;x2/&gt; - port number for Loginom Integrator and BatchLauncher connection.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T211931Z" creationid="Марианна" creationdate="20200514T052149Z">
+        <seg>&lt;x1/&gt;Port&lt;x2/&gt; - port number for the Loginom Integrator and the BatchLauncher connection.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1113,21 +1113,23 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>WSPort - port number for the Loginom Studio connection according to the websocket (ws) protocol.</note>
+      <note>A: WSPort - port number for the Loginom Studio connection according to the websocket (ws) protocol.
+M: Done</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;WSPort&lt;x2/&gt; - номер порта для подключения Loginom Studio по протоколу websocket (ws).</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200514T052245Z" creationid="Марианна" creationdate="20200514T052245Z">
-        <seg>&lt;x1/&gt;WSPort&lt;x2/&gt; - port number for Loginom Studio connection according to the websocket (ws) protocol.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T212026Z" creationid="Марианна" creationdate="20200514T052245Z">
+        <seg>&lt;x1/&gt;WSPort&lt;x2/&gt; - port number for the Loginom Studio connection according to the websocket (ws) protocol.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>WSSPort - port number for the Loginom Studio connection according to the websocket secure (wss) protocol.</note>
+      <note>A: WSSPort - port number for the Loginom Studio connection according to the websocket secure (wss) protocol.
+M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;WSSPort&lt;x2/&gt; - номер порта для подключения Loginom Studio по протоколу websocket secure (wss).</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200514T052330Z" creationid="Марианна" creationdate="20200514T052330Z">
-        <seg>&lt;x1/&gt;WSSPort&lt;x2/&gt; - port number for Loginom Studio connection according to the websocket secure (wss) protocol.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T212055Z" creationid="Марианна" creationdate="20200514T052330Z">
+        <seg>&lt;x1/&gt;WSSPort&lt;x2/&gt; - port number for the Loginom Studio connection according to the websocket secure (wss) protocol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3715,7 +3717,8 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Logging Parameters </note>
+      <note>A: Logging Parameters 
+M: I decided not to change. Actually the process is meant as far as I understood. I will ask Vasya. </note>
       <tuv lang="RU">
         <seg>Журналирование</seg>
       </tuv>
