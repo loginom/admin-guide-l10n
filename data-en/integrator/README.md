@@ -1,15 +1,15 @@
 # Loginom Integrator
 
-Компонент платформы, функционирующий в виде приложения для Internet Information Services (IIS) и предоставляющий возможность публиковать собственные веб-сервисы.
+The platform component running as an application for Internet Information Services (IIS) and allowing for publication of the own web services.
 
-Применение Loginom Integrator позволяет реализовать архитектуру решения, обеспечивающую отказоустойчивость, балансировку нагрузки и горизонтальное масштабирование.
+The Loginom Integrator usage allows for implementation of the solution architecture providing resilience, load balance and scaling out.
 
 ## System Requirements
 
 | Component | Minimum | Recommended |
 |:--------- |:-------------|:------------- |
 | OS | Windows Server 2012 and higher | |
-| Software | IIS 8.0 и выше, DotNet 4.5 | |
+| Software | IIS 8.0 and higher, DotNet 4.5 | |
 | CPU | 2 core | 4 core |
 | RAM | 2 GB | 4 GB |
 | HDD | 100 GB | 500 GB |
