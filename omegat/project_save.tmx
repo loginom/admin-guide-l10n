@@ -816,12 +816,13 @@ xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer"&gt;
       </tuv>
     </tu>
     <tu>
-      <note>/l* "%TEMP%\loginom.msi.log" — activation of installation logging.</note>
+      <note>A: /l* "%TEMP%\loginom.msi.log" — activation of installation logging.
+M: Done</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;/l* "%TEMP%\loginom.msi.log"&lt;x2/&gt; — включение журналирования установки.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T084442Z" creationid="Марианна" creationdate="20200520T084442Z">
-        <seg>&lt;x1/&gt;/l* "%TEMP%\loginom.msi.log"&lt;x2/&gt; — activation of the installation logging.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T214939Z" creationid="Марианна" creationdate="20200520T084442Z">
+        <seg>&lt;x1/&gt;/l* "%TEMP%\loginom.msi.log"&lt;x2/&gt; — activation of installation logging.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3344,14 +3345,15 @@ M: Done</note>
       </tuv>
     </tu>
     <tu>
-      <note>The dialog is available only on condition of Loginom Studio component installation without the Web server component installation. 
+      <note>A: The dialog is available only on condition of Loginom Studio component installation without the Web server component installation. 
 
-I omitted the article here because it felt right as the direct object of a sentence clause. To my native inner ear, it just has a more native ring to it.</note>
+I omitted the article here because it felt right as the direct object of a sentence clause. To my native inner ear, it just has a more native ring to it.
+M: OK, done. Still i would prefer to preserve the universal style of the text. </note>
       <tuv lang="RU">
         <seg>Диалог доступен только при установке компонента Loginom Studio без установки компонента Веб-сервер.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T083301Z" creationid="Марианна" creationdate="20200520T083301Z">
-        <seg>The dialog is available only on condition of the Loginom Studio component installation without the Web server component installation.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T214919Z" creationid="Марианна" creationdate="20200520T083301Z">
+        <seg>The dialog is available only on condition of Loginom Studio component installation without the Web server component installation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3389,14 +3391,15 @@ M: Поменяла </note>
       </tuv>
     </tu>
     <tu>
-      <note>To start the LoginomServer service, it is required to configure the licensing keys (refer to
+      <note>A: To start the LoginomServer service, it is required to configure the licensing keys (refer to
+M: Done
 
 </note>
       <tuv lang="RU">
         <seg>Для запуска службы &lt;x1/&gt;LoginomServer&lt;x2/&gt; требуется настройка ключей лицензирования (см.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T102651Z" creationid="Марианна" creationdate="20200520T085126Z">
-        <seg>To start the &lt;x1/&gt;LoginomServer&lt;x2/&gt; service it is required to configure the licensing keys (refer to</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T215008Z" creationid="Марианна" creationdate="20200520T085126Z">
+        <seg>To start the &lt;x1/&gt;LoginomServer&lt;x2/&gt; service, it is required to configure the licensing keys (refer to</seg>
       </tuv>
     </tu>
     <tu>
