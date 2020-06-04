@@ -901,6 +901,16 @@ xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer"&gt;
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;wsdl:documentation&gt;
+В настоящий момент не опубликовано ни одного пакета.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T232113Z" creationid="Марианна" creationdate="20200604T232113Z">
+        <seg>&lt;wsdl:documentation&gt;
+No package published at the present moment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;wsdl:message name="DIS_stend-sup-29_Cheques_InputMessage"&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T143011Z" creationid="Марианна" creationdate="20200519T143011Z">
