@@ -45,7 +45,7 @@ Web server (IIS) (8 installed of 43)
         * Request filtering
    - General HTTP functions (3 installed of 6)
         * Default document
-        * Directory Overview
+        * Directory overview
         *Static content
    - Applications development (4 installed of 11)
         * ASP.NET 4.6
