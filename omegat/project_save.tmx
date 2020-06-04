@@ -2788,12 +2788,13 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Vasiliy M. - In the command line running as an administrator - может быть так?</note>
+      <note>Vasiliy M. - In the command line running as an administrator - может быть так?
+М: Да, подойдет, поменяла. </note>
       <tuv lang="RU">
         <seg>В командной строке, запущенной от имени администратора:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T140601Z" creationid="Марианна" creationdate="20200519T140601Z">
-        <seg>In the command line initiated on behalf of the administrator:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T084522Z" creationid="Марианна" creationdate="20200519T140601Z">
+        <seg>In the command line running as an administrator:</seg>
       </tuv>
     </tu>
     <tu>
