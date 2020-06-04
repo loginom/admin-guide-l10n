@@ -21,7 +21,7 @@ It is required to install the following components:
 It is required to execute the following command in the command line as an administrator:
 
 ```cmd
-For: Для windows 2008/7/2012/8:
+:: For windows 2008/7/2012/8:
 dism /online /enable-feature /FeatureName:IIS-ApplicationDevelopment /FeatureName:IIS-ISAPIExtensions /FeatureName:WAS-WindowsActivationService /FeatureName:WAS-ProcessModel /FeatureName:IIS-NetFxExtensibility /FeatureName:WAS-NetFxEnvironment /FeatureName:WAS-ConfigurationAPI /FeatureName:WCF-HTTP-Activation
 
 :: For windows 2012r2/8.1/2016/10:
