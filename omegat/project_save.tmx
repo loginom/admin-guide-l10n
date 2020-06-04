@@ -3105,6 +3105,14 @@ net start loginom</seg>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Адрес привязки сайта IIS</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T230951Z" creationid="Марианна" creationdate="20200604T230951Z">
+        <seg>IIS site binding address</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Алгоритм действий на этапе отправки запроса внешнему сервису представлен на рисунке 8.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T100132Z" creationid="Марианна" creationdate="20200424T100009Z">
@@ -4554,6 +4562,22 @@ M:Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Имя создаваемого пула приложений IIS</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T230920Z" creationid="Марианна" creationdate="20200604T230920Z">
+        <seg>Name of the created IIS application pool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Имя учетной записи Loginom Server</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T231054Z" creationid="Марианна" creationdate="20200604T231054Z">
+        <seg>Loginom Server account name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Имя файла инсталлятора: &lt;x1/&gt;LoginomIntegrator_6.x.x.msi&lt;x2/&gt;, где 6.x.x – цифры, обозначающие версию и релиз программы.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T223205Z" creationid="Марианна" creationdate="20200604T223205Z">
@@ -5437,6 +5461,14 @@ From now on, I will only mention the sections of text that I require a tweak.
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Пароль учетной записи Loginom Server</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T231107Z" creationid="Марианна" creationdate="20200604T231107Z">
+        <seg>Loginom Server account password</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Первым этапом преобразования XML запроса может быть XSLT трансформация.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T101638Z" creationid="Марианна" creationdate="20200424T101638Z">
@@ -5643,6 +5675,14 @@ Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T084621Z" creationid="Марианна" creationdate="20200520T084621Z">
         <seg>The websocket port of the Loginom server</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Порт привязки сайта IIS</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T231023Z" creationid="Марианна" creationdate="20200604T231023Z">
+        <seg>IIS site binding port</seg>
       </tuv>
     </tu>
     <tu>
