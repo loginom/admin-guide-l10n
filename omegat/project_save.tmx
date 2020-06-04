@@ -1085,8 +1085,8 @@ M: Done</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;IP&lt;x2/&gt;, &lt;x3/&gt;Порт&lt;x4/&gt; — параметры привязки сайта IIS.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T225742Z" creationid="Марианна" creationdate="20200604T225742Z">
-        <seg>&lt;x1/&gt;IP&lt;x2/&gt;, &lt;x3/&gt;Port&lt;x4/&gt; — параметры привязки сайта IIS.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T230213Z" creationid="Марианна" creationdate="20200604T225742Z">
+        <seg>&lt;x1/&gt;IP&lt;x2/&gt;, &lt;x3/&gt;Port&lt;x4/&gt; — binding parameters of the IIS site.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1339,6 +1339,14 @@ M: Done. But still I do not feel the diffrerence. We need to discuss it and chec
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T153803Z" creationid="Марианна" creationdate="20200519T153803Z">
         <seg>&lt;x1/&gt;app/&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;lgi&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T230010Z" creationid="Марианна" creationdate="20200604T230010Z">
+        <seg>&lt;x1/&gt;lgi&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1854,6 +1862,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Приложение&lt;x2/&gt; — имя web-приложения.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T230235Z" creationid="Марианна" creationdate="20200604T230235Z">
+        <seg>&lt;x1/&gt;Application&lt;x2/&gt; — web application name.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание:&lt;x2/&gt; Версия Loginom Integrator должна соответствовать версии используемого сервера Loginom.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T223303Z" creationid="Марианна" creationdate="20200604T223303Z">
@@ -1967,6 +1983,14 @@ M:Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T221855Z" creationid="Марианна" creationdate="20200206T082050Z">
         <seg>&lt;x1/&gt;Note&lt;x2/&gt;: It is recommended to place the additional files into the folder in which the &lt;x3/&gt;Adapter&lt;x4/&gt; has been installed, and to specify the relative paths to them in the &lt;x5/&gt;Web.config&lt;x6/&gt; configuration file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Пул приложений&lt;x2/&gt; — имя пула приложений, обслуживающего Loginom Integrator.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T230350Z" creationid="Марианна" creationdate="20200604T230350Z">
+        <seg>&lt;x1/&gt;Application pool&lt;x2/&gt; — name of the application pool supporting Loginom Integrator.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2351,6 +2375,14 @@ Host: stend-057</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T221410Z" creationid="Марианна" creationdate="20200604T221410Z">
         <seg>IIS 8.0 and higher, DotNet 4.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>IIS_APPNAME</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T230014Z" creationid="Марианна" creationdate="20200604T230014Z">
+        <seg>IIS_APPNAME</seg>
       </tuv>
     </tu>
     <tu>
