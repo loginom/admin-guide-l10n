@@ -959,6 +959,14 @@ M: Done</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;0.0.0.0&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T225909Z" creationid="Марианна" creationdate="20200604T225909Z">
+        <seg>&lt;x1/&gt;0.0.0.0&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;0&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T153643Z" creationid="Марианна" creationdate="20200519T153643Z">
@@ -1063,6 +1071,30 @@ M: Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200227T160055Z" creationid="Марианна" creationdate="20200227T160055Z">
         <seg>&lt;x1/&gt;ContentType for transfer in the header&lt;x2/&gt; — the value of this parameter is transferred in the &lt;x3/&gt;Content-Type&lt;x4/&gt; header of the message package to the external service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Default Web Site&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T225930Z" creationid="Марианна" creationdate="20200604T225930Z">
+        <seg>&lt;x1/&gt;Default Web Site&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;IP&lt;x2/&gt;, &lt;x3/&gt;Порт&lt;x4/&gt; — параметры привязки сайта IIS.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T225742Z" creationid="Марианна" creationdate="20200604T225742Z">
+        <seg>&lt;x1/&gt;IP&lt;x2/&gt;, &lt;x3/&gt;Port&lt;x4/&gt; — параметры привязки сайта IIS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;LGI_POOL&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T225938Z" creationid="Марианна" creationdate="20200604T225938Z">
+        <seg>&lt;x1/&gt;LGI_POOL&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1371,6 +1403,22 @@ M: Done. But still I do not feel the diffrerence. We need to discuss it and chec
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200514T053018Z" creationid="Марианна" creationdate="20200514T053018Z">
         <seg>&lt;x1/&gt;llWarn&lt;x2/&gt; - warning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;localhost&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T225854Z" creationid="Марианна" creationdate="20200604T225854Z">
+        <seg>&lt;x1/&gt;localhost&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;service&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T225752Z" creationid="Марианна" creationdate="20200604T225752Z">
+        <seg>&lt;x1/&gt;service&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2307,6 +2355,38 @@ Host: stend-057</seg>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>IIS_POOLNAME</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T225942Z" creationid="Марианна" creationdate="20200604T225942Z">
+        <seg>IIS_POOLNAME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>IIS_WEBSITEIPADDRESS</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T225914Z" creationid="Марианна" creationdate="20200604T225914Z">
+        <seg>IIS_WEBSITEIPADDRESS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>IIS_WEBSITENAME</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T225934Z" creationid="Марианна" creationdate="20200604T225934Z">
+        <seg>IIS_WEBSITENAME</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>IIS_WEBSITEPORT</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T225905Z" creationid="Марианна" creationdate="20200604T225905Z">
+        <seg>IIS_WEBSITEPORT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>INSTALLDIR</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T154101Z" creationid="Марианна" creationdate="20200519T154101Z">
@@ -2343,6 +2423,38 @@ Host: stend-057</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T200814Z" creationid="Марианна" creationdate="20200502T200814Z">
         <seg>Java Runtime Environment (JRE) version 6 or higher is a mandatory requirement for connection to the &lt;x1/&gt;National Hunter&lt;x2/&gt; and &lt;x3/&gt;Equifax FPS&lt;x4/&gt; services.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>LGS_HOST</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T225858Z" creationid="Марианна" creationdate="20200604T225858Z">
+        <seg>LGS_HOST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>LGS_PASS</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T225745Z" creationid="Марианна" creationdate="20200604T225745Z">
+        <seg>LGS_PASS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>LGS_PORT</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T225840Z" creationid="Марианна" creationdate="20200604T225840Z">
+        <seg>LGS_PORT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>LGS_USER</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T225822Z" creationid="Марианна" creationdate="20200604T225822Z">
+        <seg>LGS_USER</seg>
       </tuv>
     </tu>
     <tu>
@@ -4296,6 +4408,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Имя web-приложения IIS</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T230007Z" creationid="Марианна" creationdate="20200604T230007Z">
+        <seg>IIS web application name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Имя веб-сервиса</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200428T104650Z" creationid="Марианна" creationdate="20200427T141557Z">
@@ -4326,6 +4446,14 @@ M:Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200512T100703Z" creationid="Марианна" creationdate="20200427T141747Z">
         <seg>Method name in the Loginom Adapter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Имя сайта IIS</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T225928Z" creationid="Марианна" creationdate="20200604T225928Z">
+        <seg>IIS site name</seg>
       </tuv>
     </tu>
     <tu>
@@ -5399,6 +5527,14 @@ Done. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Порт Loginom Server</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T225836Z" creationid="Марианна" creationdate="20200604T225836Z">
+        <seg>Loginom Server port</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Порт websocket secure сервера Loginom</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T084645Z" creationid="Марианна" creationdate="20200520T084645Z">
@@ -5749,6 +5885,14 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200309T123739Z" creationid="Марианна" creationdate="20200309T123739Z">
         <seg>The command example:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Пример: &lt;x1/&gt;http://localhost/lgi/service.svc?wsdl&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T225814Z" creationid="Марианна" creationdate="20200604T225814Z">
+        <seg>Example: &lt;x1/&gt;http://localhost/lgi/service.svc?wsdl&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6408,6 +6552,14 @@ A: Okay, I see that now</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T095457Z" creationid="Марианна" creationdate="20200424T095419Z">
         <seg>The Functional Operation Scheme of the Adapter&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Хост Loginom Server</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T225851Z" creationid="Марианна" creationdate="20200604T225851Z">
+        <seg>Loginom Server host</seg>
       </tuv>
     </tu>
     <tu>
