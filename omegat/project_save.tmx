@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1174,12 +1174,13 @@ OK</note>
       </tuv>
     </tu>
     <tu>
-      <note>Vasiliy M. - может быть, стоит заменить на соответствующее из англоязычной версии программы - debug</note>
+      <note>Vasiliy M. - может быть, стоит заменить на соответствующее из англоязычной версии программы - debug
+М: Спасибо, поменяла.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;llDebug&lt;x2/&gt; - отладка.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200514T052858Z" creationid="Марианна" creationdate="20200514T052858Z">
-        <seg>&lt;x1/&gt;llDebug&lt;x2/&gt; - debugging.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T083801Z" creationid="Марианна" creationdate="20200514T052858Z">
+        <seg>&lt;x1/&gt;llDebug&lt;x2/&gt; - debug.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1191,12 +1192,13 @@ OK</note>
       </tuv>
     </tu>
     <tu>
-      <note>Vasiliy M. - может быть, стоит заменить на соответствующее из англоязычной версии программы - Fatal</note>
+      <note>Vasiliy M. - может быть, стоит заменить на соответствующее из англоязычной версии программы - Fatal
+М: Спасибо, поменяла.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;llFatal&lt;x2/&gt; - авария.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200514T053151Z" creationid="Марианна" creationdate="20200514T053151Z">
-        <seg>&lt;x1/&gt;llFatal&lt;x2/&gt; - incident.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T083921Z" creationid="Марианна" creationdate="20200514T053151Z">
+        <seg>&lt;x1/&gt;llFatal&lt;x2/&gt; - fatal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1208,21 +1210,23 @@ OK</note>
       </tuv>
     </tu>
     <tu>
-      <note>Vasiliy M. - может быть, стоит заменить на соответствующее из англоязычной версии программы - info</note>
+      <note>Vasiliy M. - может быть, стоит заменить на соответствующее из англоязычной версии программы - info
+М: Спасибо, поменяла.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;llInfo&lt;x2/&gt; - информация.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200514T052905Z" creationid="Марианна" creationdate="20200514T052905Z">
-        <seg>&lt;x1/&gt;llInfo&lt;x2/&gt; - information.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T083836Z" creationid="Марианна" creationdate="20200514T052905Z">
+        <seg>&lt;x1/&gt;llInfo&lt;x2/&gt; - info.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Vasiliy M. - может быть, стоит заменить на соответствующее из англоязычной версии программы - trace</note>
+      <note>Vasiliy M. - может быть, стоит заменить на соответствующее из англоязычной версии программы - trace
+М. - спасибо, поменяла.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;llTrace&lt;x2/&gt; - трассировка.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200514T052837Z" creationid="Марианна" creationdate="20200514T052837Z">
-        <seg>&lt;x1/&gt;llTrace&lt;x2/&gt; - tracing.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T083719Z" creationid="Марианна" creationdate="20200514T052837Z">
+        <seg>&lt;x1/&gt;llTrace&lt;x2/&gt; - trace.</seg>
       </tuv>
     </tu>
     <tu>
