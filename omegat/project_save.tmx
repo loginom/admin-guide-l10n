@@ -2580,6 +2580,15 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Loginom Integrator должен отдать WSDL SOAP веб-сервиса с
+предупреждением:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T232045Z" creationid="Марианна" creationdate="20200604T232045Z">
+        <seg>Loginom Integrator must give WSDL of the SOAP web service with the following warning:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A: The Loginom Server
 M: Done</note>
       <tuv lang="RU">
@@ -3927,6 +3936,14 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200512T092829Z" creationid="Марианна" creationdate="20200424T101428Z">
         <seg>The &lt;x1/&gt;ded:Cheques&lt;x2/&gt; node will be selected for the provided example from the SOAP package, and further transformation in the following stages will be performed with the XML text:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Для проверки работоспособности необходимо в браузере перейти по URL: &lt;x1/&gt;http://&lt;Server&gt;/lgi/service.svc?wsdl&lt;x2/&gt;, где &lt;x3/&gt;&lt;Server&gt;&lt;x4/&gt; — имя хоста Loginom Integrator.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T231949Z" creationid="Марианна" creationdate="20200604T231949Z">
+        <seg>To check the operability, it is required to go to the following URL using the browser: &lt;x1/&gt;http://&lt;Server&gt;/lgi/service.svc?wsdl&lt;x2/&gt;, where &lt;x3/&gt;&lt;Server&gt;&lt;x4/&gt; — name of the Loginom Integrator host.</seg>
       </tuv>
     </tu>
     <tu>
