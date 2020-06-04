@@ -1,6 +1,6 @@
-# Удаление Loginom Integrator
+# Uninstalling Loginom Integrator
 
-Деинсталлировать Loginom Integrator можно несколькими способами:
+Loginom Integrator can be uninstalled in several ways:
 
 * To uninstall the application from the "Applications and Components" window in Windows
 * Run the product installer, pressing the**"Remove"** button
