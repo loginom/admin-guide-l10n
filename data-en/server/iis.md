@@ -4,7 +4,7 @@
 
 ## Enable IIS Components
 
-In the command line initiated on behalf of the administrator:
+In the command line running as an administrator:
 
 ```cmd
 dism /online /enable-feature /FeatureName:IIS-WebServerRole /FeatureName:IIS-WebServer /FeatureName:IIS-WebServerManagementTools /FeatureName:IIS-ManagementScriptingTools
@@ -12,7 +12,7 @@ dism /online /enable-feature /FeatureName:IIS-WebServerRole /FeatureName:IIS-Web
 
 ## Enable IIS Components for Loginom Studio
 
-In the command line initiated on behalf of the administrator:
+In the command line running as an administrator:
 
 ```cmd
 dism /online /enable-feature /FeatureName:IIS-CommonHttpFeatures /FeatureName:IIS-StaticContent /FeatureName:IIS-DefaultDocument /FeatureName:IIS-Performance /FeatureName:IIS-HttpCompressionStatic

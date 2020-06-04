@@ -31,7 +31,7 @@ All components are installed by default.
 msiexec /i "LoginomPersonal_6.x.x_x64.msi" ключи_msi
 ```
 
-* `keys_msi` — it is possible to find the allowable values executing the following command in the command line: `msiexec /?`. The following commands can be especially useful:
+* `msi_options` — it is possible to find allowable values executing the following command in the command line: `msiexec /?`. The following commands can be especially useful:
    * `/l* "%TEMP%\loginom.msi.log"` — activation of the installation logging.
    * `/qn` — "silent" installation without graphic interface mapping.
 

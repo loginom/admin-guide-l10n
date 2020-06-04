@@ -7,7 +7,7 @@
 
 ![](../images/integrator_msi_remove.png)
 
-* To execute the following command in the command line as the administrator:
+* To execute the following command in the command line as an administrator:
 
 ```cmd
 msiexec /x LoginomIntegrator_6.x.x.msi /qn

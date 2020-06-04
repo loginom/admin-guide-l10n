@@ -7,7 +7,7 @@ It is possible to uninstall **Loginom Desktop** in several ways:
 
 ![](../images/personal_msi_remove.png)
 
-* To execute the following command in the command line as the administrator:
+* To execute the following command in the command line as an administrator:
 
 ```cmd
 msiexec /x LoginomPersonal_6.x.x_x64.msi /qn

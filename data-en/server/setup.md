@@ -4,9 +4,9 @@
 
 The installer file name versions:
 
-* LoginomTeam_6.x.x.msi – the installer for the Team editing
-* LoginomStandard_6.x.x.msi – the installer for the Standard edition
-* LoginomEnterprise_6.x.x.msi – the installer for the Enterprise editing
+* LoginomTeam_6.x.x.msi – the installer for Team editing
+* LoginomStandard_6.x.x.msi – the installer for Standard editing
+* LoginomEnterprise_6.x.x.msi – the installer for Enterprise editing
 
 where 6.x.x – figures denoting the software version and release.
 
@@ -57,7 +57,7 @@ The dialog is available only on condition of the *Web server* component installa
 
 * The **HTTP port** defines the number of the web server http port.
 * **Use WebSocket proxy** activates proxying of the websocket connections.
-* **Use HTTPS** enables to set the sssl parameters for http:
+* **Use HTTPS** enables the setting of sssl parameters for http:
    * The **HTTPS port** defines the number of the web server https port.
    * The **SSL certificate**, **SSL key** are the full paths to the certificate file and SSL key in the *pem* format.
 
@@ -79,14 +79,14 @@ The dialog is available only on condition of the Loginom Studio component instal
 ### Command Line
 
 ```cmd
-msiexec /i "путь_к_msi_файлу" ключи_msi параметры_loginom
+msiexec /i "path_to_package" msi_options loginom_options
 ```
 
-* `keys_msi` — it is possible to find the allowable values executing the following command in the command line: `msiexec /?`. The following commands can be especially useful:
+* `msi_options` — it is possible to find allowable values executing the following command in the command line: `msiexec /?`. The following commands can be especially useful:
    * `/l* "%TEMP%\loginom.msi.log"` — activation of the installation logging.
    * `/qn` — "silent" installation without graphic interface mapping.
 
-%spoiler%Параметры_loginom in the form of `КЛЮЧ=значение`%spoiler%
+%spoiler%Loginom_options in the form of `KEY=Value`%spoiler%
 
 | Key | Default value | Description |
 |:--------- |:-------------|:------------- |
@@ -130,7 +130,7 @@ msiexec /i ".\LoginomEnterprise.msi" /qn SERVER_USE_SSL=1 SERVER_KEY_PATH="%ALLU
 
 To start the **LoginomServer** service it is required to configure the licensing keys (refer to [Licensing Keys](../licenses/README.md)).
 
-To use the server network dongles it is required to create the [GnClient.ini](https://dev.guardant.ru/pages/viewpage.action?pageId=1277980) file in the `"C:\ProgramData\BaseGroup\Loginom 6\Server"` directory
+To use the network dongles server, it is required to create the [GnClient.ini](https://dev.guardant.ru/pages/viewpage.action?pageId=1277980) file in the `"C:\ProgramData\BaseGroup\Loginom 6\Server"` directory
 
 ## Start of Services
 
@@ -138,9 +138,9 @@ LoginomServer and LoginomHttpd services are not started in the installation proc
 
 When installing the product in the "Start" Windows menu (`All programs\Loginom 6\Server`) the **"The Loginom server start"** and **"Web server start" shortcuts are added**.
 
-To start the services using the shortcut it is required to select the **"Launch as administrator"** item in the context menu. In the case of the successful start the following text will appear in the console window: `The "LoginomServer" service was successfully started`.
+To start the services using the shortcut, it is required to select the **"Run as an administrator"** item in the context menu. When the start is successful, the following text will appear in the console window: `The "LoginomServer" service was started successfully`.
 
-To start the services by means if the command line it is required to run the following commands as administrator:
+To start the services from the command line, it is required to run the following commands as an administrator:
 
 * The "LoginomServer" service start: `net start loginom`
 * The "LoginomHttpd" service start: `net start httpd_loginom`
@@ -151,8 +151,8 @@ The host with the Loginom server must allow for connections:
 
 * Incoming to the TCP port `8080|8443` (websocket) for the client hosts (browsers)
    * using websocket proxy — only for the web server host.
-* Incoming to the  TCP port `4580` for hosts with **Loginom Intergator** or **BatchLauncher**.
-* Using the network Guardant dongles — to TCP/UDP ports `3186` and `3187` server host of the network dongles.
+* Incoming to the TCP port `4580` for hosts with **Loginom Intergator** or **BatchLauncher**.
+* Using the network Guardant dongles — to TCP/UDP ports `3186` and `3187` host of the network dongles server.
 
 The host with the web server must allow for connections:
 
@@ -160,27 +160,27 @@ The host with the web server must allow for connections:
 
 Make sure that the installed antivirus software and network firewalls allow for such connections.
 
-%spoiler%Примеры настройки Windows Firewal:%spoiler%
+%spoiler%Examples of Windows Firewall configuring:%spoiler%
 
-* Connections to the http web server port are allowed
+* Allow connections to the http port of the web server
 
 ```cmd
 netsh advfirewall firewall add rule name="Allow HTTP" dir=in action=allow protocol=TCP localport=80
 ```
 
-* Connections to Loginom Server websocket are allowed
+* Allow connections to the Loginom Server websocket
 
 ```cmd
 netsh advfirewall firewall add rule name="Allow Loginom WebSocket" dir=in action=allow protocol=TCP localport=8080
 ```
 
-* Connections to Loginom Server for Integrator are allowed
+* Allow connections to the Loginom Server for Integrator
 
 ```cmd
 netsh advfirewall firewall add rule name="Allow Loginom Port" dir=in action=allow protocol=TCP localport=4850 remoteip=%lgi_host_ip%
 ```
 
-* Connections to the network dongles server for Loginom Server are allowed
+* Allow connections to the network dongles server for Loginom Server
 
 ```cmd
 netsh advfirewall firewall add rule name="Allow Guardant Net" dir=out action=allow protocol=TCP remoteport=3186-3187 remoteip=%guardant_net_host_ip%

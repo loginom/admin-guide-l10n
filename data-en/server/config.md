@@ -32,13 +32,13 @@ The log files are kept in the `Logs` subdirectory of the working directory.
 The general settings are set in the attributes of the `Logging/Common` element:
 
 * **MinLogLevel** - the minimum logging level. Possible values:
-   * **llTrace** - tracing.
-   * **llDebug** - debugging.
-   * **llInfo** - information. Default value.
+   * **llTrace** - trace.
+   * **llDebug** - debug.
+   * **llInfo** - info. Default value.
    * **llHint** - event.
    * **llWarn** - warning.
    * **llError** - error.
-   * **llFatal** - incident.
+   * **llFatal** - fatal.
 
 Parameters of the logging files are set in the attributes of the `Logging/File` element:
 

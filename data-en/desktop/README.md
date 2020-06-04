@@ -1,10 +1,10 @@
 # Loginom Desktop
 
-The desktop platform version is designated for installation on the local computer when only one user operation is anticipated.
+The desktop version of the platform is designated for installation on the local computer when only one user operation is anticipated.
 
-64-bit Loginom Desktop version can process significant data arrays limited only by the workstation resources. Loginom Desktop does not include the tools for collaborative work, division of rights, publications and work with web services.
+The 64-bit Loginom Desktop version can process significant data arrays limited only by workstation resources. Loginom Desktop does not include tools for collaborative work, division of rights, publications and work with web services.
 
-Desktop component is included into the Loginom Personal platform version.
+The desktop component is included in the Loginom Personal platform version.
 
 ## System Requirements
 
@@ -18,7 +18,7 @@ Desktop component is included into the Loginom Personal platform version.
 | HDD | 10 GB | 100 GB (+ User Data) |
 | USB | 1.0 | 2.0 |
 
-> **IMPORTANT:** Capacity of the used RAM is limited by 2 GB (platform limit x86).
+> **IMPORTANT:** The capacity of used RAM is limited by 2 GB (platform limit x86).
 
 ### Personal x64
 
@@ -30,4 +30,4 @@ Desktop component is included into the Loginom Personal platform version.
 | HDD | 10 GB | 100 GB (+ User Data) |
 | USB | 1.0 | 2.0 |
 
-> **Note:** the system requirements can vary according to the data volume and interaction with the third-party applications.
+> **Note:** system requirements can vary according to data volume and interaction with third-party applications.

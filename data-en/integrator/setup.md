@@ -92,7 +92,7 @@ It is required to press the  **Custom** button for installation with nonstandard
 msiexec /i "LoginomIntegrator_6.x.x.msi" ключи_msi параметры_integrator
 ```
 
-* `keys_msi` — it is possible to find the allowable values executing the following command in the command line: `msiexec /?`. The following commands can be especially useful:
+* `msi_options` — it is possible to find allowable values executing the following command in the command line: `msiexec /?`. The following commands can be especially useful:
    * `/l* "%TEMP%\loginom.msi.log"` — activation of the installation logging.
    * `/qn` — "silent" installation without graphic interface mapping.
 * `параметры_integrator` в виде `КЛЮЧ=значение`:
