@@ -2220,12 +2220,13 @@ M: Done</note>
       </tuv>
     </tu>
     <tu>
-      <note>The Loginom Server is designated for deployment in the internal network when the work of more than one user from different working places is anticipated.</note>
+      <note>A: The Loginom Server is designated for deployment in the internal network when the work of more than one user from different working places is anticipated.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Loginom Server предназначен для развертывания во внутренней сети, когда подразумевается работа более чем одного пользователя с различных рабочих мест.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T144202Z" creationid="Марианна" creationdate="20200519T144202Z">
-        <seg>Loginom Server is designated for deployment in the internal network when the work of more than one user from different working places is anticipated.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T213216Z" creationid="Марианна" creationdate="20200519T144202Z">
+        <seg>The Loginom Server is designated for deployment in the internal network when the work of more than one user from different working places is anticipated.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3527,8 +3528,8 @@ Done.</note>
       <tuv lang="RU">
         <seg>Для удаления Loginom Server требуется остановить службу &lt;x1/&gt;loginom&lt;x2/&gt; и удалить приложение одним из способов:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T145901Z" creationid="Марианна" creationdate="20200519T145133Z">
-        <seg>To remove Loginom Server it is required to stop the &lt;x1/&gt;loginom&lt;x2/&gt; service and remove the application using one of the following methods:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T213405Z" creationid="Марианна" creationdate="20200519T145133Z">
+        <seg>To remove the Loginom Server, it is required to stop the &lt;x1/&gt;loginom&lt;x2/&gt; service and remove the application using one of the following methods:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4390,12 +4391,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Pressing the "Upgrade" button will enable the upgrade of the installed Loginom product.</note>
+      <note>A: Pressing the "Upgrade" button will enable the upgrade of the installed Loginom product.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Нажатие на кнопку &lt;x1/&gt;"Обновить"&lt;x2/&gt; выполняет обновление установленного экземпляра Loginom.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T150531Z" creationid="Марианна" creationdate="20200519T150531Z">
-        <seg>Pressing the &lt;x1/&gt;"Upgrade"&lt;x2/&gt; button will enable to upgrade the installed Loginom product.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T213501Z" creationid="Марианна" creationdate="20200519T150531Z">
+        <seg>Pressing the &lt;x1/&gt;"Upgrade"&lt;x2/&gt; will enable the upgrade of the installed Loginom product.</seg>
       </tuv>
     </tu>
     <tu>
