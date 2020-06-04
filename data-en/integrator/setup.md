@@ -109,7 +109,7 @@ msiexec /i "LoginomIntegrator_6.x.x.msi" ключи_msi параметры_integ
 | LGS_USER | `service` | Loginom Server account name |
 | LGS_PASS | `service` | Loginom Server account password |
 
-## Manual installation
+## Manual Installation
 
 * To place the Integrator directory content to the required location
 * To correct the [web.config](./config.md) content
