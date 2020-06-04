@@ -5641,6 +5641,14 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Поместить содержимое каталога Integrator в требуемое расположение</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T231258Z" creationid="Марианна" creationdate="20200604T231258Z">
+        <seg>To place the Integrator directory content to the required location</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A: 
 "Apart from the folders and files pre-installed in the installation process when configuring the Adapter, additional files, (certificates, the XSD schemas, etc.) required for work with  external services, can be placed into the installation directory."
 
@@ -6200,6 +6208,14 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Ручная установка</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T231153Z" creationid="Марианна" creationdate="20200604T231153Z">
+        <seg>Manual installation</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A: Other platform components, with the exception of the Desktop component, can interact with the Loginom Server.
 M: Done.</note>
       <tuv lang="RU">
@@ -6265,6 +6281,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T141401Z" creationid="Марианна" creationdate="20200519T141401Z">
         <seg>It is required to download and install the &lt;x1/&gt;URL Rewrite&lt;x2/&gt; module.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Скорректировать содержимое &lt;x1/&gt;web.config&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T231400Z" creationid="Марианна" creationdate="20200604T231400Z">
+        <seg>To correct the &lt;x1/&gt;web.config&lt;x2/&gt; content</seg>
       </tuv>
     </tu>
     <tu>
@@ -6353,6 +6377,14 @@ M: Done </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T212711Z" creationid="Марианна" creationdate="20200519T142216Z">
         <seg>Creation of the Virtual Directory for the Loginom Studio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Создать в IIS пул приложений в режиме &lt;x1/&gt;Integrated&lt;x2/&gt; и версией среды CLR &lt;x3/&gt;v4.0&lt;x4/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T231533Z" creationid="Марианна" creationdate="20200604T231533Z">
+        <seg>To create application pool in IIS in the&lt;x1/&gt;Integrated&lt;x2/&gt; mode and CLR &lt;x3/&gt;v4.0&lt;x4/&gt; environment version</seg>
       </tuv>
     </tu>
     <tu>
