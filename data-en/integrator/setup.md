@@ -83,7 +83,7 @@ By default, installation is performed in the `%ProgramFiles%\BaseGroup\` directo
 
 * **Host** — the Loginom server host address.
 * **Port** — the Loginom server port.
-* **Login**, **Password** — credentials for [connection to the Loginom server](../server/setup.md#uchetnye-zapisi).
+* **Login**, **password** — credentials for [connection to the Loginom server](../server/setup.md#uchetnye-zapisi).
 * **Show password** switches the password display mode.
 
 ### Command Line
