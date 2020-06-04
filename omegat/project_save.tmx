@@ -3464,6 +3464,14 @@ M: Done
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Для обновления Loginom Integrator необходимо запустить инсталлятор новой версии:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T222421Z" creationid="Марианна" creationdate="20200604T222421Z">
+        <seg>To upgrade Loginom Integrator, it is required to run the installer (new version):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Для обновления достаточно &lt;x1/&gt;установить&lt;x2/&gt; новую версию &lt;x3/&gt;"Loginom Desktop"&lt;x4/&gt; поверх предыдущей.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200529T121049Z" creationid="Марианна" creationdate="20200529T120933Z">
@@ -4645,6 +4653,14 @@ Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200529T121035Z" creationid="Марианна" creationdate="20200529T120806Z">
         <seg>Loginom Desktop Upgrade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Обновление Loginom Integrator</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T222208Z" creationid="Марианна" creationdate="20200604T222208Z">
+        <seg>Loginom Integrator Upgrade</seg>
       </tuv>
     </tu>
     <tu>
