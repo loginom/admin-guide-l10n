@@ -922,12 +922,13 @@ xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer"&gt;
       </tuv>
     </tu>
     <tu>
-      <note>Bind - the IP address of the network interface used by the Loginom server.</note>
+      <note>A: Bind - the IP address of the network interface used by the Loginom server.
+M: Done</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Bind&lt;x2/&gt; - IP адрес сетевого интерфейса, используемого сервером Loginom.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200514T052111Z" creationid="Марианна" creationdate="20200514T052111Z">
-        <seg>&lt;x1/&gt;Bind&lt;x2/&gt; - IP address of the network interface used by Loginom server.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T211837Z" creationid="Марианна" creationdate="20200514T052111Z">
+        <seg>&lt;x1/&gt;Bind&lt;x2/&gt; - the IP address of the network interface used by the Loginom server.</seg>
       </tuv>
     </tu>
     <tu>
