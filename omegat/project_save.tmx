@@ -2705,6 +2705,14 @@ Vasiliy M.: msiexec /i "path_to_package" msi_options loginom_options
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>msiexec /x LoginomIntegrator_6.x.x.msi /qn</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T221946Z" creationid="Марианна" creationdate="20200604T221946Z">
+        <seg>msiexec /x LoginomIntegrator_6.x.x.msi /qn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>msiexec /x LoginomPersonal_6.x.x_x64.msi /qn</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200529T111319Z" creationid="Марианна" creationdate="20200529T111319Z">
