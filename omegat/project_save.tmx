@@ -2019,6 +2019,14 @@ M:Done. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Сайт&lt;x2/&gt; — имя существующего сайта IIS, на котором будет развернут Loginom Integrator.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T225726Z" creationid="Марианна" creationdate="20200604T225726Z">
+        <seg>&lt;x1/&gt;Site&lt;x2/&gt; is a name of the existing IIS site on which Loginom Integrator will be deployed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Сертификат SSL&lt;x2/&gt;, &lt;x3/&gt;Ключ SSL&lt;x4/&gt; — полные пути к файлам сертификата и ключа SSL в формате &lt;x5/&gt;pem&lt;x6/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T075939Z" creationid="Марианна" creationdate="20200520T075939Z">
