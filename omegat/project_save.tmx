@@ -1336,12 +1336,13 @@ M: Not done. The Russian source is different.</note>
       </tuv>
     </tu>
     <tu>
-      <note>The Documentation enables addition of the platform operation reference section to the web interface.</note>
+      <note>A: The Documentation enables addition of the platform operation reference section to the web interface.
+M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Документация&lt;x2/&gt; добавляет в web-интерфейс раздел справки по работе с платформой.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T074828Z" creationid="Марианна" creationdate="20200520T074816Z">
-        <seg>The &lt;x1/&gt;Documentation&lt;x2/&gt; enables to add the platform operation reference section to the web interface.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T214218Z" creationid="Марианна" creationdate="20200520T074816Z">
+        <seg>The &lt;x1/&gt;Documentation&lt;x2/&gt; enables addition of the platform operation reference section to the web interface.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1466,12 +1467,13 @@ Vasiliy M.: опечатка. наверное, ssl </note>
       </tuv>
     </tu>
     <tu>
-      <note>Use WebSocket secure enables the setting of ssl parameters for the websocket:</note>
+      <note>A: Use WebSocket secure enables the setting of ssl parameters for the websocket:
+M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Использовать WebSocket secure&lt;x2/&gt; — включает возможность задать параметры ssl для websocket:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T075730Z" creationid="Марианна" creationdate="20200520T075730Z">
-        <seg>&lt;x1/&gt;Use WebSocket secure&lt;x2/&gt; enables to set the ssl parameters for websocket:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T214448Z" creationid="Марианна" creationdate="20200520T075730Z">
+        <seg>&lt;x1/&gt;Use WebSocket secure&lt;x2/&gt; enables the setting of ssl parameters for the websocket:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1662,12 +1664,13 @@ A: Okay</note>
       </tuv>
     </tu>
     <tu>
-      <note>The Server port defines the port number for the Loginom Integrator and BatchLauncher connection. </note>
+      <note>A: The Server port defines the port number for the Loginom Integrator and BatchLauncher connection. 
+M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Порт сервера&lt;x2/&gt; — определяет номер порта для подключения Loginom Integrator и BatchLauncher.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T075552Z" creationid="Марианна" creationdate="20200520T075552Z">
-        <seg>The &lt;x1/&gt;Server port&lt;x2/&gt; defines the port number for Loginom Integrator and BatchLauncher connection.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T214404Z" creationid="Марианна" creationdate="20200520T075552Z">
+        <seg>The &lt;x1/&gt;Server port&lt;x2/&gt; defines the port number for the Loginom Integrator and BatchLauncher connection.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3261,7 +3264,8 @@ M: Done. But the second sentence is absent in the source.</note>
       </tuv>
     </tu>
     <tu>
-      <note>This dialog is available only on condition of Loginom Server component installation.</note>
+      <note>A: This dialog is available only on condition of Loginom Server component installation.
+M: I decided to preserve THE for the sake of uniformity of the whole translation body.</note>
       <tuv lang="RU">
         <seg>Данный диалог доступен только при установке компонента &lt;x1/&gt;Loginom Server&lt;x2/&gt;.</seg>
       </tuv>
