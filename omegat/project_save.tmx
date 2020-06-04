@@ -3358,8 +3358,16 @@ Done.</note>
       <tuv lang="RU">
         <seg>Деинсталлировать Loginom Adapter можно несколькими способами:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200510T214453Z" creationid="Марианна" creationdate="20200502T202546Z">
-        <seg>It is possible to uninstall Loginom Adapter in several ways:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T221921Z" creationid="Марианна" creationdate="20200502T202546Z">
+        <seg>Loginom Adapter can be uninstalled in several ways:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Деинсталлировать Loginom Integrator можно несколькими способами:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T221936Z" creationid="Марианна" creationdate="20200604T221936Z">
+        <seg>Loginom Integrator can be uninstalled in several ways:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5965,6 +5973,14 @@ Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200529T111151Z" creationid="Марианна" creationdate="20200529T111047Z">
         <seg>Uninstalling Loginom Desktop</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Удаление Loginom Integrator</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T221808Z" creationid="Марианна" creationdate="20200604T221808Z">
+        <seg>Uninstalling Loginom Integrator</seg>
       </tuv>
     </tu>
     <tu>
