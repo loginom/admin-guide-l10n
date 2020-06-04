@@ -4576,14 +4576,15 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Server General Settings
+      <note>A: Server General Settings
 
-(In a heading, it just feels right to leave out the 'the'. As the subject/object of a complete sentence, different story)</note>
+(In a heading, it just feels right to leave out the 'the'. As the subject/object of a complete sentence, different story)
+M: Done. Thanks for explanation.</note>
       <tuv lang="RU">
         <seg>Общие настройки сервера</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200514T051558Z" creationid="Марианна" creationdate="20200514T051558Z">
-        <seg>The Server General Settings</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T211441Z" creationid="Марианна" creationdate="20200514T051558Z">
+        <seg>Server General Settings</seg>
       </tuv>
     </tu>
     <tu>
@@ -5538,12 +5539,13 @@ Vasiliy M: Больше вопрос, почему не так: Allowing connect
       </tuv>
     </tu>
     <tu>
-      <note>The default location of the working directory is - %AllUsersProfile%\BaseGroup\Loginom 6\Server. </note>
+      <note>A: The default location of the working directory is - %AllUsersProfile%\BaseGroup\Loginom 6\Server. 
+M: Done.</note>
       <tuv lang="RU">
         <seg>Расположение рабочего каталога по умолчанию - &lt;x1/&gt;%AllUsersProfile%\BaseGroup\Loginom 6\Server&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200514T054033Z" creationid="Марианна" creationdate="20200514T051526Z">
-        <seg>The default location of the working directory - &lt;x1/&gt;%AllUsersProfile%\BaseGroup\Loginom 6\Server&lt;x2/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T211213Z" creationid="Марианна" creationdate="20200514T051526Z">
+        <seg>The default location of the working directory is &lt;x1/&gt;%AllUsersProfile%\BaseGroup\Loginom 6\Server&lt;x2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5965,12 +5967,13 @@ Done. </note>
       </tuv>
     </tu>
     <tu>
-      <note>The Loginom Server configuration files are in the working directory. </note>
+      <note>A: The Loginom Server configuration files are in the working directory. 
+M: Done</note>
       <tuv lang="RU">
         <seg>Файлы конфигурации Loginom Server располагаются в рабочем каталоге.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200514T054025Z" creationid="Марианна" creationdate="20200514T051450Z">
-        <seg>Loginom Server configuration files are in the working directory.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T211129Z" creationid="Марианна" creationdate="20200514T051450Z">
+        <seg>The Loginom Server configuration files are in the working directory.</seg>
       </tuv>
     </tu>
     <tu>
