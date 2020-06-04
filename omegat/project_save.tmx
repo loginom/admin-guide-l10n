@@ -93,12 +93,14 @@ A: "while the command" is placed in a different part of the segment in Github, a
       </tuv>
     </tu>
     <tu>
-      <note>Vasiliy M: Example of configuring Windows Firewall мне кажется</note>
+      <note>Vasiliy M: Example of configuring Windows Firewall мне кажется
+М: Немного изменю порядок слов и число. Поменяла. Спасибо.
+И в исходнике, видимо, ошибка - Firewall с двумя ll</note>
       <tuv lang="RU">
         <seg>%spoiler%Примеры настройки Windows Firewal:%spoiler%</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T091725Z" creationid="Марианна" creationdate="20200520T091725Z">
-        <seg>%spoiler%Примеры настройки Windows Firewal:%spoiler%</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T090743Z" creationid="Марианна" creationdate="20200520T091725Z">
+        <seg>%spoiler%Examples of Windows Firewall configuring:%spoiler%</seg>
       </tuv>
     </tu>
     <tu>
@@ -3337,13 +3339,15 @@ I omitted the article here because it felt right as the direct object of a sente
     </tu>
     <tu>
       <note>To start the services by means of the command line, it is required to run the following commands as administrator: 
+M: Done
 
-Vasiliy M: Может быть здесь - To start the services from the command line it is....</note>
+Vasiliy M: Может быть здесь - To start the services from the command line it is....
+М: Поменяла</note>
       <tuv lang="RU">
         <seg>Для запуска служб из командной строки требутся выполнить от имени администратора следующие команды:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T090014Z" creationid="Марианна" creationdate="20200520T090636Z">
-        <seg>To start the services by means if the command line it is required to run the following commands as an administrator:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T090357Z" creationid="Марианна" creationdate="20200520T090636Z">
+        <seg>To start the services from the command line, it is required to run the following commands as an administrator:</seg>
       </tuv>
     </tu>
     <tu>
