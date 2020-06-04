@@ -1818,6 +1818,14 @@ A: Okay</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Показать пароль&lt;x2/&gt; — переключает режим отображения пароля.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T230711Z" creationid="Марианна" creationdate="20200604T230711Z">
+        <seg>&lt;x1/&gt;Show password&lt;x2/&gt; switches the password display mode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Порт HTTP&lt;x2/&gt; — определяет номер http порта web-сервера.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T081733Z" creationid="Марианна" creationdate="20200520T081733Z">
@@ -2241,6 +2249,14 @@ Andrew R: keys_msi — it is possible to find allowable values executing the fo
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T085254Z" creationid="Марианна" creationdate="20200520T084324Z">
         <seg>&lt;x1/&gt;msi_options&lt;x2/&gt; — it is possible to find allowable values executing the following command in the command line: &lt;x3/&gt;msiexec /?&lt;x4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;параметры_integrator&lt;x2/&gt; в виде &lt;x3/&gt;КЛЮЧ=значение&lt;x4/&gt;:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T230841Z" creationid="Марианна" creationdate="20200604T230841Z">
+        <seg>&lt;x1/&gt;параметры_integrator&lt;x2/&gt; в виде &lt;x3/&gt;КЛЮЧ=значение&lt;x4/&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2971,6 +2987,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T222603Z" creationid="Марианна" creationdate="20200604T222603Z">
         <seg>msiexec /i "LoginomIntegrator.msi" /qn DOUPGRADE=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>msiexec /i "LoginomIntegrator_6.x.x.msi" ключи_msi параметры_integrator</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T230734Z" creationid="Марианна" creationdate="20200604T230734Z">
+        <seg>msiexec /i "LoginomIntegrator_6.x.x.msi" ключи_msi параметры_integrator</seg>
       </tuv>
     </tu>
     <tu>
