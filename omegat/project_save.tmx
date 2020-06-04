@@ -2609,12 +2609,13 @@ Vasiliy M.: msiexec /i "path_to_package" msi_options loginom_options</note>
       </tuv>
     </tu>
     <tu>
-      <note>Vasiliy M.: msiexec /x Loginom&lt;Edition&gt;_6.x.x.msi /qn</note>
+      <note>Vasiliy M.: msiexec /x Loginom&lt;Edition&gt;_6.x.x.msi /qn
+М: Вставила</note>
       <tuv lang="RU">
         <seg>msiexec /x Loginom&lt;Редакця&gt;_6.x.x.msi /qn</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T145636Z" creationid="Марианна" creationdate="20200519T145636Z">
-        <seg>msiexec /x Loginom&lt;Редакця&gt;_6.x.x.msi /qn</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T084750Z" creationid="Марианна" creationdate="20200519T145636Z">
+        <seg>msiexec /x Loginom&lt;Edition&gt;_6.x.x.msi /qn</seg>
       </tuv>
     </tu>
     <tu>
@@ -2722,12 +2723,13 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
-      <note>Vasiliy M. - loading tasks вместо downloading tasks</note>
+      <note>Vasiliy M. - loading tasks вместо downloading tasks
+М: Поменяла.</note>
       <tuv lang="RU">
         <seg>Аналитический сервер, выполняет задачи загрузки, расчетов, построения моделей, визуализации, управления правами и прочее.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T143549Z" creationid="Марианна" creationdate="20200519T143549Z">
-        <seg>It is an analytical server responsible for downloading tasks, calculations, model training, visualisation, rights management, etc.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T084553Z" creationid="Марианна" creationdate="20200519T143549Z">
+        <seg>It is an analytical server responsible for loading tasks, calculations, model training, visualisation, rights management, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3977,12 +3979,13 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
-      <note>Vasiliy M.: В англоязычной Windows это называется Programs and Features</note>
+      <note>Vasiliy M.: В англоязычной Windows это называется Programs and Features
+М: Поменяла.</note>
       <tuv lang="RU">
         <seg>Из окна "Программы и компоненты" в Windows;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T145603Z" creationid="Марианна" creationdate="20200519T145403Z">
-        <seg>Use the "Programs and Components" window in Windows</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T084652Z" creationid="Марианна" creationdate="20200519T145403Z">
+        <seg>Use the "Programs and Features" window in Windows</seg>
       </tuv>
     </tu>
     <tu>
