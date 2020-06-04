@@ -2969,6 +2969,14 @@ M: Done. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Блок &lt;x1/&gt;IIS&lt;x2/&gt;:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T225154Z" creationid="Марианна" creationdate="20200604T225154Z">
+        <seg>&lt;x1/&gt;IIS&lt;x2/&gt; block:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>В аналитической платформе Loginom имеются &lt;x1/&gt;компоненты интеграции с SOAP и REST сервисами&lt;x2/&gt;, которые реализуют наиболее распространенные варианты взаимодействия с веб-сервисами.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T192817Z" creationid="Марианна" creationdate="20200502T192817Z">
@@ -5172,6 +5180,14 @@ From now on, I will only mention the sections of text that I require a tweak.
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Параметры установки</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T225032Z" creationid="Марианна" creationdate="20200604T225032Z">
+        <seg>Installation Parameters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Параметры файлов журналов задаются в атрибутах элемента &lt;x1/&gt;Logging/File&lt;x2/&gt;:</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200514T053238Z" creationid="Марианна" creationdate="20200514T053238Z">
@@ -5287,6 +5303,14 @@ M: Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200529T112404Z" creationid="Марианна" creationdate="20200529T112404Z">
         <seg>All components are installed by default.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>По умолчанию установка производится в каталог &lt;x1/&gt;%ProgramFiles%\BaseGroup\&lt;x2/&gt;;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T225015Z" creationid="Марианна" creationdate="20200604T225015Z">
+        <seg>By default, installation is performed in the &lt;x1/&gt;%ProgramFiles%\BaseGroup\&lt;x2/&gt; directory;</seg>
       </tuv>
     </tu>
     <tu>
