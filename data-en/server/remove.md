@@ -1,6 +1,6 @@
 # Loginom Server Removal
 
-To remove Loginom Server it is required to stop the *loginom* service and remove the application using one of the following methods:
+To remove the Loginom Server, it is required to stop the *loginom* service and remove the application using one of the following methods:
 
 * Use the "Programs and Features" window in Windows
 * Run the product installer, pressing the**"Remove"** button

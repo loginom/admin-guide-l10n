@@ -1,10 +1,10 @@
-# Loginom Server
+# The Loginom Server
 
-It is an analytical server responsible for loading tasks, calculations, model training, visualisation, rights management, etc. Loginom Server is a key platform element required for the team work.
+It is an analytical server responsible for loading tasks, calculations, model training, visualisation, rights management, etc. The Loginom Server is a key platform element required for teamwork.
 
- [Loginom Studio](../studio/README.md) provides for the server management, configuration, visualisation and other operations. Other platform components, with the exception of the [Desktop](../desktop/README.md) component, can interact with Loginom Server.
+The [Loginom Studio](../studio/README.md) provides for server management, configuration, visualisation and other operations. Other platform components, with the exception of the [Desktop](../desktop/README.md) component, can interact with the Loginom Server.
 
-Loginom Server is designated for deployment in the internal network when the work of more than one user from different working places is anticipated.
+The Loginom Server is designated for deployment in the internal network when the work of more than one user from different working places is anticipated.
 
 ## System Requirements
 

@@ -8,7 +8,7 @@
 
 Нажатие на кнопку **"Обновить"** выполняет обновление установленного экземпляра Loginom Integrator.
 
-Pressing the **"Reinstall"** button will open the new product [installation](./setup.md) dialog. The earlier version will be removed without saved parameters.
+Pressing the **"Reinstall"** button will open a new product [installation](./setup.md) dialog. The earlier version will be removed without saved parameters.
 
 ## Command Line
 

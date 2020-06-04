@@ -93,7 +93,7 @@ msiexec /i "LoginomIntegrator_6.x.x.msi" ключи_msi параметры_integ
 ```
 
 * `msi_options` — it is possible to find allowable values executing the following command in the command line: `msiexec /?`. The following commands can be especially useful:
-   * `/l* "%TEMP%\loginom.msi.log"` — activation of the installation logging.
+   * `/l* "%TEMP%\loginom.msi.log"` — activation of installation logging.
    * `/qn` — "silent" installation without graphic interface mapping.
 * `параметры_integrator` в виде `КЛЮЧ=значение`:
 

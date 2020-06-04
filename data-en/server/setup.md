@@ -4,20 +4,20 @@
 
 The installer file name versions:
 
-* LoginomTeam_6.x.x.msi – the installer for Team editing
-* LoginomStandard_6.x.x.msi – the installer for Standard editing
-* LoginomEnterprise_6.x.x.msi – the installer for Enterprise editing
+* LoginomTeam_6.x.x.msi – the installer for Team edition
+* LoginomStandard_6.x.x.msi – the installer for Standard edition
+* LoginomEnterprise_6.x.x.msi – the installer for Enterprise edition
 
 where 6.x.x – figures denoting software version and release.
 
 Web server is mandatory for work with [Loginom Studio](../studio/README.md) (web interface for Loginom Server).
 
-It is allowed to use the following web server types:
+The following web server types are permitted:
 
 * **Apache** – standard installation, web server is included into the distribution kit
-* **Microsoft IIS** is not included into the distribution kit. It must be [installed and configured](./iis.md) separately.
+* **Microsoft IIS** is not included in the distribution kit. It must be [installed and configured](./iis.md) separately.
 
-Loginom Server is installed in a different way using Apache or Microsoft IIS. When installing by default, Loginom Studio is used by means of the Apache web server.
+The Installation method for the Loginom Server is different, depending on whether Apache or Microsoft IIS is selected. The default installation setting for the Loginom Studio is through use of the Apache web server.
 
 ### Graphic Interface
 
@@ -29,7 +29,7 @@ It is required to press the **Custom** button for installation with nonstandard 
 
 * **Loginom Server** is compulsory for the *Loginom server* installation.
 * **Loginom Studio** installs the web interface.
-* The **Documentation** enables to add the platform operation reference section to the web interface.
+* The **Documentation** enables addition of the platform operation reference section to the web interface.
 * The **web server** installs the embedded Apache Httpd web server. If the third-party server is to be used, the component must be disabled.
 
 ![](../images/server_msi_features_default.png)
@@ -42,28 +42,28 @@ This dialog is available only on condition of the *Loginom Server* component ins
 
 ![](../images/server_msi_server.png)
 
-* The **Server port** defines the port number for Loginom Integrator and BatchLauncher connection.
+* The **Server port** defines the port number for the Loginom Integrator and BatchLauncher connection.
 * The **WS port** defines the port number for Loginom Studio connection according to the websocket (ws) protocol.
-* **Use WebSocket secure** enables to set the ssl parameters for websocket:
-   * The **WSS port** defines the port number for Loginom Studio connection according to the websocket secure (wss) protocol.
+* **Use WebSocket secure** enables the setting of ssl parameters for the websocket:
+   * The **WSS port** defines the port number for the Loginom Studio connection according to the websocket secure (wss) protocol.
    * The **SSL certificate**, **SSL key** are the full paths to the certificate file and SSL key in the *pem* format.
-* **Install the Guardant x64 driver** enables to start the installation in the automatic driver mode for the software protection dongle operation.
+* **Install the Guardant x64 driver** enables the installation to start in the automatic driver mode for the software protection dongle operation.
 
 #### Apache Httpd Web Server Parameters
 
-The dialog is available only on condition of the *Web server* component installation.
+The dialog is available only on condition of *Web server* component installation.
 
 ![](../images/server_msi_httpd.png)
 
 * The **HTTP port** defines the number of the web server http port.
-* **Use WebSocket proxy** activates proxying of the websocket connections.
-* **Use HTTPS** enables the setting of sssl parameters for http:
+* **Use WebSocket proxy** activates the proxying of websocket connections.
+* **Use HTTPS** enables the setting of ssl parameters for http:
    * The **HTTPS port** defines the number of the web server https port.
    * The **SSL certificate**, **SSL key** are the full paths to the certificate file and SSL key in the *pem* format.
 
 #### Loginom Studio Parameters
 
-The dialog is available only on condition of the Loginom Studio component installation without the Web server component installation.
+The dialog is available only on condition of Loginom Studio component installation without the Web server component installation.
 
 ![](../images/server_msi_studio.png)
 
@@ -83,7 +83,7 @@ msiexec /i "path_to_package" msi_options loginom_options
 ```
 
 * `msi_options` — it is possible to find allowable values executing the following command in the command line: `msiexec /?`. The following commands can be especially useful:
-   * `/l* "%TEMP%\loginom.msi.log"` — activation of the installation logging.
+   * `/l* "%TEMP%\loginom.msi.log"` — activation of installation logging.
    * `/qn` — "silent" installation without graphic interface mapping.
 
 %spoiler%Loginom_options in the form of `KEY=Value`%spoiler%
@@ -128,7 +128,7 @@ msiexec /i ".\LoginomEnterprise.msi" /qn SERVER_USE_SSL=1 SERVER_KEY_PATH="%ALLU
 
 ## Licenses
 
-To start the **LoginomServer** service it is required to configure the licensing keys (refer to [Licensing Keys](../licenses/README.md)).
+To start the **LoginomServer** service, it is required to configure the licensing keys (refer to [Licensing Keys](../licenses/README.md)).
 
 To use the network dongles server, it is required to create the [GnClient.ini](https://dev.guardant.ru/pages/viewpage.action?pageId=1277980) file in the `"C:\ProgramData\BaseGroup\Loginom 6\Server"` directory
 
@@ -136,7 +136,7 @@ To use the network dongles server, it is required to create the [GnClient.ini](h
 
 LoginomServer and LoginomHttpd services are not started in the installation process automatically.
 
-When installing the product in the "Start" Windows menu (`All programs\Loginom 6\Server`) the **"The Loginom server start"** and **"Web server start" shortcuts are added**.
+When installing the product in the "Start" Windows menu (`All programs\Loginom 6\Server`), the **"Loginom server start"** and **"Web server start" shortcuts are added**.
 
 To start the services using the shortcut, it is required to select the **"Run as an administrator"** item in the context menu. When the start is successful, the following text will appear in the console window: `The "LoginomServer" service was started successfully`.
 
@@ -158,7 +158,7 @@ The host with the web server must allow for connections:
 
 * To the TCP port `80|443` (http(s)) for the client hosts (browsers)
 
-Make sure that the installed antivirus software and network firewalls allow for such connections.
+Make sure that installed antivirus software and network firewalls allow for such connections.
 
 %spoiler%Examples of Windows Firewall configuring:%spoiler%
 
@@ -180,7 +180,7 @@ netsh advfirewall firewall add rule name="Allow Loginom WebSocket" dir=in action
 netsh advfirewall firewall add rule name="Allow Loginom Port" dir=in action=allow protocol=TCP localport=4850 remoteip=%lgi_host_ip%
 ```
 
-* Allow connections to the network dongles server for Loginom Server
+* Allow connections to the network dongles server for the Loginom Server
 
 ```cmd
 netsh advfirewall firewall add rule name="Allow Guardant Net" dir=out action=allow protocol=TCP remoteport=3186-3187 remoteip=%guardant_net_host_ip%
@@ -191,13 +191,13 @@ netsh advfirewall firewall add rule name="Allow Guardant Net" dir=out action=all
 
 ## Accounts
 
-When Loginom Server installing, the following user accounts are created:
+When the Loginom Server is installing, the following user accounts are created:
 
-* `user` with blank password — for work with the Loginom workflows
-* `admin` with the `admin` password — for the Loginom server administration
-* `service` with the `service` password — for connection of the external applications (Integrator and BatchLauncher)
+* `user` with blank password — for work with Loginom workflows
+* `admin` with the `admin` password — for Loginom server administration
+* `service` with the `service` password — for connection of external applications (Integrator and BatchLauncher)
 
-> **Note:** Upon installation it is required to change the administrator account (admin) password.
+> **Note:** Upon installation, it is required to change the administrator account (admin) password.
 
 
 ## Function Test

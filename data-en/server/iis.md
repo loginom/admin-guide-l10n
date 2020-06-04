@@ -10,7 +10,7 @@ In the command line running as an administrator:
 dism /online /enable-feature /FeatureName:IIS-WebServerRole /FeatureName:IIS-WebServer /FeatureName:IIS-WebServerManagementTools /FeatureName:IIS-ManagementScriptingTools
 ```
 
-## Enable IIS Components for Loginom Studio
+## Enable IIS Components for the Loginom Studio
 
 In the command line running as an administrator:
 
@@ -49,7 +49,7 @@ It is required to place the `web.config` file with the following content into th
 > The module is required for the Loginom Studio operation in Internet Explorer v11+ / Edge browsers. It is also required for wsproxy usage.
 
 * It is required to download and install the [URL Rewrite](https://www.iis.net/downloads/microsoft/url-rewrite) module.
-* It is added to `web.config`:
+* It is to be added to `web.config`:
 
 ```xml
 <system.webServer>
@@ -111,9 +111,9 @@ dism /online /enable-feature /FeatureName:IIS-WebSockets
 </configuration>
 ```
 
-### Creation of the Virtual Directory for Loginom Studio
+### Creation of the Virtual Directory for the Loginom Studio
 
-The following command enables to add the `/app` virtual directory on the `Default Web Site`:
+The following command enables addition of the `/app` virtual directory on the `Default Web Site`:
 
 ```cmd
 "%windir%\system32\inetsrv\appcmd.exe" add vdir /app.name:"Default Web Site/" / /path:/app /physicalPath:"%ProgramFiles%\BaseGroup\Loginom 6\Client"
