@@ -3347,14 +3347,16 @@ Vasiliy M: Может быть здесь - To start the services from the comma
       </tuv>
     </tu>
     <tu>
-      <note>To start the services using the shortcut, it is required to select the "Launch as administrator" item in the context menu. To start the services using the shortcut, it is required to select the "Launch as administrator" item in the context menu. 
+      <note>To start the services using the shortcut, it is required to select the "Launch as administrator" item in the context menu. 
+M: Done
 
-Vasiliy M: вместо launch, наверное, надо написать run. </note>
+Vasiliy M: вместо launch, наверное, надо написать run. 
+M: Поменяла </note>
       <tuv lang="RU">
         <seg>Для запуска служб с помощью ярлыка требуется выбрать в его контекстном меню пункт &lt;x1/&gt;"Запуск от имени администратора"&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T102736Z" creationid="Марианна" creationdate="20200520T090308Z">
-        <seg>To start the services using the shortcut it is required to select the &lt;x1/&gt;"Launch as administrator"&lt;x2/&gt; item in the context menu.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T085918Z" creationid="Марианна" creationdate="20200520T090308Z">
+        <seg>To start the services using the shortcut, it is required to select the &lt;x1/&gt;"Run as an administrator"&lt;x2/&gt; item in the context menu.</seg>
       </tuv>
     </tu>
     <tu>
