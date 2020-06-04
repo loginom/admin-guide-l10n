@@ -964,12 +964,13 @@ M: Done</note>
       </tuv>
     </tu>
     <tu>
-      <note>LogFileRewrite - if the attribute has been set, the log file will be rewritten while the Loginom Server is starting.</note>
+      <note>A: LogFileRewrite - if the attribute has been set, the log file will be rewritten while the Loginom Server is starting.
+M: Done </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;LogFileRewrite&lt;x2/&gt; - если атрибут установлен, при старте Loginom Server файл журнала будет перезаписан.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T102634Z" creationid="Марианна" creationdate="20200514T053440Z">
-        <seg>&lt;x1/&gt;LogFileRewrite&lt;x2/&gt; - if the attribute has been set, the log file will be rewritten while Loginom Server starting.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T212409Z" creationid="Марианна" creationdate="20200514T053440Z">
+        <seg>&lt;x1/&gt;LogFileRewrite&lt;x2/&gt; - if the attribute has been set, the log file will be rewritten while the Loginom Server is starting.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4933,12 +4934,13 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
-      <note>By default, 10485760 (10 Mb). </note>
+      <note>A: By default, 10485760 (10 Mb). 
+M: Done</note>
       <tuv lang="RU">
         <seg>По умолчанию 10485760 (10Mb).</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200514T053558Z" creationid="Марианна" creationdate="20200514T053558Z">
-        <seg>By default 10485760 (10 Mb).</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T212453Z" creationid="Марианна" creationdate="20200514T053558Z">
+        <seg>By default, 10485760 (10 Mb).</seg>
       </tuv>
     </tu>
     <tu>
