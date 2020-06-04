@@ -6036,6 +6036,14 @@ M: Done</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>При установке продукта для этих URL в меню "Пуск" Windows &lt;x1/&gt;Все программы\Loginom 6\Integrator&lt;x2/&gt; добавляются ярлыки &lt;x3/&gt;"Описание WSDL сервиса"&lt;x4/&gt; и &lt;x5/&gt;"Описание REST сервиса"&lt;x6/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T232713Z" creationid="Марианна" creationdate="20200604T232713Z">
+        <seg>When installing the product for these URL in the "Start" menu Windows &lt;x1/&gt;All programs\Loginom 6\Integrator&lt;x2/&gt; the following shortcuts are added: the &lt;x3/&gt;"WSDL service description"&lt;x4/&gt; and &lt;x5/&gt;"REST service description"&lt;x6/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>При этом запросы, полученные &lt;x5/&gt;Адаптером&lt;x6/&gt; до этого, будут завершены со старыми настройками.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T215934Z" creationid="Марианна" creationdate="20200203T073751Z">
