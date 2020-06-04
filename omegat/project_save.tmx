@@ -3067,8 +3067,8 @@ M: Done. </note>
       <tuv lang="RU">
         <seg>Включение компонентов IIS для Loginom Studio</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T103749Z" creationid="Марианна" creationdate="20200519T140627Z">
-        <seg>Enable IIS Components for Loginom Studio</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T212612Z" creationid="Марианна" creationdate="20200519T140627Z">
+        <seg>Enable IIS Components for the Loginom Studio</seg>
       </tuv>
     </tu>
     <tu>
@@ -3571,12 +3571,13 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
-      <note>It is to be added to web.config:</note>
+      <note>A: It is to be added to web.config:
+M: Done</note>
       <tuv lang="RU">
         <seg>Добавляем в &lt;x1/&gt;web.config&lt;x2/&gt;:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T141419Z" creationid="Марианна" creationdate="20200519T141419Z">
-        <seg>It is added to &lt;x1/&gt;web.config&lt;x2/&gt;:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T212641Z" creationid="Марианна" creationdate="20200519T141419Z">
+        <seg>It is to be added to &lt;x1/&gt;web.config&lt;x2/&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5631,12 +5632,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>The following command enables addition of the /app virtual directory on the Default Web Site: </note>
+      <note>A: The following command enables addition of the /app virtual directory on the Default Web Site: 
+M: Done</note>
       <tuv lang="RU">
         <seg>Следующая команда добавляет виртуальный каталог &lt;x1/&gt;/app&lt;x2/&gt; в сайте &lt;x3/&gt;Default Web Site&lt;x4/&gt;:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T142354Z" creationid="Марианна" creationdate="20200519T142354Z">
-        <seg>The following command enables to add the &lt;x1/&gt;/app&lt;x2/&gt; virtual directory on the &lt;x3/&gt;Default Web Site&lt;x4/&gt;:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T212832Z" creationid="Марианна" creationdate="20200519T142354Z">
+        <seg>The following command enables addition of the &lt;x1/&gt;/app&lt;x2/&gt; virtual directory on the &lt;x3/&gt;Default Web Site&lt;x4/&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5708,12 +5710,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Creation of the Virtual Directory for the Loginom Studio</note>
+      <note>A: Creation of the Virtual Directory for the Loginom Studio
+M: Done </note>
       <tuv lang="RU">
         <seg>Создание виртуального каталога для Loginom Studio</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T142216Z" creationid="Марианна" creationdate="20200519T142216Z">
-        <seg>Creation of the Virtual Directory for Loginom Studio</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T212711Z" creationid="Марианна" creationdate="20200519T142216Z">
+        <seg>Creation of the Virtual Directory for the Loginom Studio</seg>
       </tuv>
     </tu>
     <tu>
