@@ -83,12 +83,13 @@ A: "while the command" is placed in a different part of the segment in Github, a
       </tuv>
     </tu>
     <tu>
-      <note>Vasiliy M.: Loginom_options in the form of KEY=Value</note>
+      <note>Vasiliy M.: Loginom_options in the form of KEY=Value
+М: Поменяла</note>
       <tuv lang="RU">
         <seg>%spoiler%Параметры_loginom в виде &lt;x1/&gt;КЛЮЧ=значение&lt;x2/&gt;%spoiler%</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T084552Z" creationid="Марианна" creationdate="20200520T084552Z">
-        <seg>%spoiler%Параметры_loginom in the form of &lt;x1/&gt;КЛЮЧ=значение&lt;x2/&gt;%spoiler%</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T085349Z" creationid="Марианна" creationdate="20200520T084552Z">
+        <seg>%spoiler%Loginom_options in the form of &lt;x1/&gt;KEY=Value&lt;x2/&gt;%spoiler%</seg>
       </tuv>
     </tu>
     <tu>
@@ -1972,13 +1973,15 @@ Ok, corrected in 2 segments. </note>
     </tu>
     <tu>
       <note>Vasiliy M. msi_options
+М: Поменяла (ключи)
 
-Andrew R: keys_msi — it is possible to find allowable values executing the following command in the command line: msiexec /? </note>
+Andrew R: keys_msi — it is possible to find allowable values executing the following command in the command line: msiexec /? 
+М: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;ключи_msi&lt;x2/&gt; — допустимые значения можно узнать, выполнив в командной строке &lt;x3/&gt;msiexec /?&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T101244Z" creationid="Марианна" creationdate="20200520T084324Z">
-        <seg>&lt;x1/&gt;keys_msi&lt;x2/&gt; — it is possible to find the allowable values executing the following command in the command line: &lt;x3/&gt;msiexec /?&lt;x4/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T085254Z" creationid="Марианна" creationdate="20200520T084324Z">
+        <seg>&lt;x1/&gt;msi_options&lt;x2/&gt; — it is possible to find allowable values executing the following command in the command line: &lt;x3/&gt;msiexec /?&lt;x4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
