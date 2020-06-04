@@ -1439,14 +1439,15 @@ all else okay</note>
     </tu>
     <tu>
       <note>Use HTTPS enables the setting of sssl parameters for http:
-М: Поменяла
+М: Done
 
-Vasiliy M.: опечатка. наверное, ssl </note>
+Vasiliy M.: опечатка. наверное, ssl 
+М: Поменяла</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Использовать HTTPS&lt;x2/&gt; — включает возможность задать параметры ssl для http:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T085016Z" creationid="Марианна" creationdate="20200520T081916Z">
-        <seg>&lt;x1/&gt;Use HTTPS&lt;x2/&gt; enables the setting of sssl parameters for http:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T214803Z" creationid="Марианна" creationdate="20200520T081916Z">
+        <seg>&lt;x1/&gt;Use HTTPS&lt;x2/&gt; enables the setting of ssl parameters for http:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1458,12 +1459,13 @@ Vasiliy M.: опечатка. наверное, ssl </note>
       </tuv>
     </tu>
     <tu>
-      <note>Use WebSocket proxy activates the proxying of websocket connections.</note>
+      <note>A: Use WebSocket proxy activates the proxying of websocket connections.
+M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Использовать WebSocket proxy&lt;x2/&gt; — включает проксирование websocket соединений.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T081848Z" creationid="Марианна" creationdate="20200520T081848Z">
-        <seg>&lt;x1/&gt;Use WebSocket proxy&lt;x2/&gt; activates proxying of the websocket connections.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T214711Z" creationid="Марианна" creationdate="20200520T081848Z">
+        <seg>&lt;x1/&gt;Use WebSocket proxy&lt;x2/&gt; activates the proxying of websocket connections.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1655,12 +1657,13 @@ A: Okay</note>
       </tuv>
     </tu>
     <tu>
-      <note>The WSS port defines the port number for the Loginom Studio connection according to the websocket secure (wss) protocol. </note>
+      <note>A: The WSS port defines the port number for the Loginom Studio connection according to the websocket secure (wss) protocol. 
+M: Done</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Порт WSS&lt;x2/&gt; — определяет номер порта для подключения Loginom Studio по протоколу websocket secure (wss).</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T075814Z" creationid="Марианна" creationdate="20200520T075814Z">
-        <seg>The &lt;x1/&gt;WSS port&lt;x2/&gt; defines the port number for Loginom Studio connection according to the websocket secure (wss) protocol.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T214523Z" creationid="Марианна" creationdate="20200520T075814Z">
+        <seg>The &lt;x1/&gt;WSS port&lt;x2/&gt; defines the port number for the Loginom Studio connection according to the websocket secure (wss) protocol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1933,12 +1936,13 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Install the Guardant x64 driver enables the installation to start in the automatic driver mode for the software protection dongle operation.</note>
+      <note>A: Install the Guardant x64 driver enables the installation to start in the automatic driver mode for the software protection dongle operation.
+M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Установить драйвера Guardant x64&lt;x2/&gt; — запускает установку в автоматическом режиме драйверов для работы электронного ключа защиты.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T102643Z" creationid="Марианна" creationdate="20200520T081543Z">
-        <seg>&lt;x1/&gt;Install the Guardant x64 driver&lt;x2/&gt; enables to start the installation in the automatic driver mode for the software protection dongle operation.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T214603Z" creationid="Марианна" creationdate="20200520T081543Z">
+        <seg>&lt;x1/&gt;Install the Guardant x64 driver&lt;x2/&gt; enables the installation to start in the automatic driver mode for the software protection dongle operation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3330,12 +3334,13 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>The dialog is available only on condition of Web server component installation.</note>
+      <note>A: The dialog is available only on condition of Web server component installation.
+M: Done</note>
       <tuv lang="RU">
         <seg>Диалог доступен только при установке компонента &lt;x1/&gt;Веб-сервер&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T081644Z" creationid="Марианна" creationdate="20200520T081644Z">
-        <seg>The dialog is available only on condition of the &lt;x1/&gt;Web server&lt;x2/&gt; component installation.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T214632Z" creationid="Марианна" creationdate="20200520T081644Z">
+        <seg>The dialog is available only on condition of &lt;x1/&gt;Web server&lt;x2/&gt; component installation.</seg>
       </tuv>
     </tu>
     <tu>
