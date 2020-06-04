@@ -429,8 +429,8 @@ dism /online /enable-feature /FeatureName:IIS-ApplicationDevelopment /FeatureNam
 :: Для windows 2008/7/2012/8/2012r2/8.1 разрешаем исполнение модулей ISAPI:
 "%windir%\system32\inetsrv\appcmd.exe" set config /section:isapiCgiRestriction /[path='%WinDir%\Microsoft.NET\Framework64\v4.0.30319\aspnet_isapi.dll'].allowed:True</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T223842Z" creationid="Марианна" creationdate="20200604T223842Z">
-        <seg>For: Для windows 2008/7/2012/8:
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T233009Z" creationid="Марианна" creationdate="20200604T223842Z">
+        <seg>:: For windows 2008/7/2012/8:
 dism /online /enable-feature /FeatureName:IIS-ApplicationDevelopment /FeatureName:IIS-ISAPIExtensions /FeatureName:WAS-WindowsActivationService /FeatureName:WAS-ProcessModel /FeatureName:IIS-NetFxExtensibility /FeatureName:WAS-NetFxEnvironment /FeatureName:WAS-ConfigurationAPI /FeatureName:WCF-HTTP-Activation
 
 :: For windows 2012r2/8.1/2016/10:
