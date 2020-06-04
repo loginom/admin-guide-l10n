@@ -1427,13 +1427,14 @@ all else okay</note>
     </tu>
     <tu>
       <note>Use HTTPS enables the setting of sssl parameters for http:
+М: Поменяла
 
 Vasiliy M.: опечатка. наверное, ssl </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Использовать HTTPS&lt;x2/&gt; — включает возможность задать параметры ssl для http:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T081916Z" creationid="Марианна" creationdate="20200520T081916Z">
-        <seg>&lt;x1/&gt;Use HTTPS&lt;x2/&gt; enables to set the sssl parameters for http:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T085016Z" creationid="Марианна" creationdate="20200520T081916Z">
+        <seg>&lt;x1/&gt;Use HTTPS&lt;x2/&gt; enables the setting of sssl parameters for http:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2232,13 +2233,14 @@ Host: stend-057</seg>
     </tu>
     <tu>
       <note>LoginomEnterprise_6.x.x.msi – the installer for Enterprise editing
+М: Поменяла
 
 Vasiliy M.: Могу ошибаться, но может быть - Edition?</note>
       <tuv lang="RU">
         <seg>LoginomEnterprise_6.x.x.msi – инсталлятор для редакции Enterprise</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T152313Z" creationid="Марианна" creationdate="20200519T152313Z">
-        <seg>LoginomEnterprise_6.x.x.msi – the installer for the Enterprise editing</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T084926Z" creationid="Марианна" creationdate="20200519T152313Z">
+        <seg>LoginomEnterprise_6.x.x.msi – the installer for Enterprise editing</seg>
       </tuv>
     </tu>
     <tu>
@@ -2259,6 +2261,7 @@ Vasiliy M.: Могу ошибаться, но может быть - Edition?</no
     </tu>
     <tu>
       <note>LoginomStandard_6.x.x.msi – the installer for Standard editing
+М: Поменяла
 
 Vasiliy M.: Могу ошибаться, но может быть - Edition?
 
@@ -2266,19 +2269,20 @@ M: Да, правильно, поменяла, спасибо!</note>
       <tuv lang="RU">
         <seg>LoginomStandard_6.x.x.msi – инсталлятор для редакции Standard</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200529T111721Z" creationid="Марианна" creationdate="20200519T152253Z">
-        <seg>LoginomStandard_6.x.x.msi – the installer for the Standard edition</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T084859Z" creationid="Марианна" creationdate="20200519T152253Z">
+        <seg>LoginomStandard_6.x.x.msi – the installer for Standard editing</seg>
       </tuv>
     </tu>
     <tu>
       <note>LoginomTeam_6.x.x.msi – the installer for Team editing
+М: Поменяла
 
 Vasiliy M.: Могу ошибаться, но может быть - Edition?</note>
       <tuv lang="RU">
         <seg>LoginomTeam_6.x.x.msi – инсталлятор для редакции Team</seg>
       </tuv>
-      <tuv lang="EN" changeid="dell" changedate="20200521T082832Z" creationid="Марианна" creationdate="20200519T152235Z">
-        <seg>LoginomTeam_6.x.x.msi – the installer for the Team editing </seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T084825Z" creationid="Марианна" creationdate="20200519T152235Z">
+        <seg>LoginomTeam_6.x.x.msi – the installer for Team editing </seg>
       </tuv>
     </tu>
     <tu>
@@ -2600,12 +2604,13 @@ M: Done.</note>
     <tu>
       <note>/l* "%TEMP%\loginom.msi.log" — activation of installation logging.
 
-Vasiliy M.: msiexec /i "path_to_package" msi_options loginom_options</note>
+Vasiliy M.: msiexec /i "path_to_package" msi_options loginom_options
+М: Поменяла</note>
       <tuv lang="RU">
         <seg>msiexec /i "путь_к_msi_файлу" ключи_msi параметры_loginom</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T084029Z" creationid="Марианна" creationdate="20200520T084029Z">
-        <seg>msiexec /i "путь_к_msi_файлу" ключи_msi параметры_loginom</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T085129Z" creationid="Марианна" creationdate="20200520T084029Z">
+        <seg>msiexec /i "path_to_package" msi_options loginom_options</seg>
       </tuv>
     </tu>
     <tu>
