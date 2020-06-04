@@ -3141,8 +3141,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Выполнить в командной строке от имени администратора:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200502T202916Z" creationid="Марианна" creationdate="20200502T202916Z">
-        <seg>To execute the following command in the command line as the administrator:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T085940Z" creationid="Марианна" creationdate="20200502T202916Z">
+        <seg>To execute the following command in the command line as an administrator:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3342,8 +3342,8 @@ Vasiliy M: Может быть здесь - To start the services from the comma
       <tuv lang="RU">
         <seg>Для запуска служб из командной строки требутся выполнить от имени администратора следующие команды:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T102811Z" creationid="Марианна" creationdate="20200520T090636Z">
-        <seg>To start the services by means if the command line it is required to run the following commands as administrator:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T090014Z" creationid="Марианна" creationdate="20200520T090636Z">
+        <seg>To start the services by means if the command line it is required to run the following commands as an administrator:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5274,13 +5274,15 @@ M: Done. </note>
     </tu>
     <tu>
       <note>When the start is successful, the following text will appear in the console window: The "LoginomServer" service was successfully started.
+M: Done
 
-Vasiliy M: порядок слов немного другой. Выводится The "LoginomServer" service was started successfully.</note>
+Vasiliy M: порядок слов немного другой. Выводится The "LoginomServer" service was started successfully.
+М: Поменяла</note>
       <tuv lang="RU">
         <seg>При успешном запуске в окне консоли появится надпись &lt;x3/&gt;Служба "LoginomServer" успешно запущена&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T102803Z" creationid="Марианна" creationdate="20200520T090426Z">
-        <seg>In the case of the successful start the following text will appear in the console window: &lt;x3/&gt;The "LoginomServer" service was successfully started&lt;x4/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T090214Z" creationid="Марианна" creationdate="20200520T090426Z">
+        <seg>When the start is successful, the following text will appear in the console window: &lt;x3/&gt;The "LoginomServer" service was started successfully&lt;x4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
