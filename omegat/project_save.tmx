@@ -2599,6 +2599,14 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Loginom Integrator должен отдать страницу описания работы с REST сервисом.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T232446Z" creationid="Марианна" creationdate="20200604T232446Z">
+        <seg>Loginom Integrator must give the page with the REST service operation description.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A: The Loginom Server
 M: Done</note>
       <tuv lang="RU">
@@ -3561,6 +3569,14 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200427T135742Z" creationid="Марианна" creationdate="20200427T135742Z">
         <seg>The timeout period is expressed in seconds in the &lt;x3/&gt;Timeout&lt;x4/&gt; parameter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Второй вариант проверки — перейти по URL: &lt;x1/&gt;http://&lt;Server&gt;/lgi/service.svc/rest/help&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T232349Z" creationid="Марианна" creationdate="20200604T232349Z">
+        <seg>The second variant of checking — go to the following URL: &lt;x1/&gt;http://&lt;Server&gt;/lgi/service.svc/rest/help&lt;x2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
