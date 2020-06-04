@@ -8,7 +8,7 @@ The installer file name versions:
 * LoginomStandard_6.x.x.msi – the installer for Standard editing
 * LoginomEnterprise_6.x.x.msi – the installer for Enterprise editing
 
-where 6.x.x – figures denoting the software version and release.
+where 6.x.x – figures denoting software version and release.
 
 Web server is mandatory for work with [Loginom Studio](../studio/README.md) (web interface for Loginom Server).
 

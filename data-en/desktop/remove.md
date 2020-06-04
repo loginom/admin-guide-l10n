@@ -1,6 +1,6 @@
 # Uninstalling Loginom Desktop
 
-It is possible to uninstall **Loginom Desktop** in several ways:
+**Loginom Desktop** can be uninstalled in several ways:
 
 * To uninstall the application from the "Applications and Components" window in Windows
 * Run the product installer, pressing the**"Remove"** button

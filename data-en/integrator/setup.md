@@ -60,7 +60,7 @@ dism /online /enable-feature /FeatureName:IIS-ApplicationDevelopment /FeatureNam
 
 #### Run the Installer
 
-It is required to press the  **Custom** button for installation with nonstandard parameters in the **Installation type** dialog. Для получения параметров существующих сайтов IIS в интерфейсе инсталлятора требуется запустить его с правами администратора.
+It is required to click the  **Custom** button for installation with nonstandard parameters in the **Installation type** dialog. Для получения параметров существующих сайтов IIS в интерфейсе инсталлятора требуется запустить его с правами администратора.
 
 #### Installation directory
 
