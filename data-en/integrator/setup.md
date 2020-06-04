@@ -1,57 +1,57 @@
-# Установка Loginom Integrator
+# Loginom Integrator Installation
 
-Имя файла инсталлятора: `LoginomIntegrator_6.x.x.msi`, где 6.x.x – цифры, обозначающие версию и релиз программы.
+The installer file name: `LoginomIntegrator_6.x.x.msi`, where 6.x.x – figures denoting software version and release.
 
-> **Примечание:** Версия Loginom Integrator должна соответствовать версии используемого сервера Loginom.
+> **Note:** The Loginom Integrator version must comply with the used Loginom server version.
 
 ## Enable IIS Components
 
-Необходимо выполнить в командной строке от имени администратора:
+It is required to execute the following command in the command line as an administrator:
 
 ```cmd
 dism /online /enable-feature /FeatureName:IIS-WebServerRole /FeatureName:IIS-WebServer /FeatureName:IIS-WebServerManagementTools /FeatureName:IIS-ManagementScriptingTools
 ```
 
-## Включение компонентов IIS для Loginom Integrator
+## Enable IIS Components for Loginom Integrator
 
-Для корректной работы Loginom Integrator требуется установленный NetFramework v4.5+.
+Installed NetFramework v4.5+ is required for the proper Loginom Integrator operation.
 
-Необходимо установить следующие компоненты:
+It is required to install the following components:
 
-Необходимо выполнить в командной строке от имени администратора:
+It is required to execute the following command in the command line as an administrator:
 
 ```cmd
-:: Для windows 2008/7/2012/8:
+For: Для windows 2008/7/2012/8:
 dism /online /enable-feature /FeatureName:IIS-ApplicationDevelopment /FeatureName:IIS-ISAPIExtensions /FeatureName:WAS-WindowsActivationService /FeatureName:WAS-ProcessModel /FeatureName:IIS-NetFxExtensibility /FeatureName:WAS-NetFxEnvironment /FeatureName:WAS-ConfigurationAPI /FeatureName:WCF-HTTP-Activation
 
-:: Для windows 2012r2/8.1/2016/10:
+:: For windows 2012r2/8.1/2016/10:
 dism /online /enable-feature /FeatureName:IIS-ApplicationDevelopment /FeatureName:IIS-ISAPIExtensions /FeatureName:WAS-WindowsActivationService /FeatureName:WAS-ProcessModel /FeatureName:IIS-ASPNET45 /FeatureName:IIS-NetFxExtensibility45 /FeatureName:NetFx4Extended-ASPNET45 /FeatureName:WCF-Services45 /FeatureName:IIS-ISAPIFilter /FeatureName:WCF-HTTP-Activation45 /all
 
-:: Для windows 2008/7/2012/8/2012r2/8.1 регистрируем ASP.NET:
+::It is required to register ASP.NET for windows 2008/7/2012/8/2012r2/8.1:
 "%WinDir%\Microsoft.NET\Framework64\v4.0.30319\Aspnet_regiis.exe" -iru
 
-:: Для windows 2008/7/2012/8/2012r2/8.1 разрешаем исполнение модулей ISAPI:
+:: It is required to allow execution of ISAPI modules for windows 2008/7/2012/8/2012r2/8.1:
 "%windir%\system32\inetsrv\appcmd.exe" set config /section:isapiCgiRestriction /[path='%WinDir%\Microsoft.NET\Framework64\v4.0.30319\aspnet_isapi.dll'].allowed:True
 ```
 
 ***
 
-Минимально должны быть установлены следующие роли сервера (windows 2016):
+The following server roles (windows 2016) must be installed at a minimum:
 
 ```txt
-Веб Сервер (IIS) (Установлено 8 из 43)
-- Веб сервер (Установлено 8 из 34)
-   - Безопасность (Установлено 1 из 9)
-        * Фильтрация запросов
-   - Общие функции HTTP (Установлено 3 из 6)
-        * Документ по умолчанию
-        * Обзор Каталога
-        * Статическое содержимое
-   - Разработка приложений (Установлено 4 из 11)
+Web server (IIS) (8 installed of 43)
+- Web server (8 installed of 34)
+   - Safety (1 installed of 9)
+        * Request filtering
+   - General HTTP functions (3 installed of 6)
+        * Default document
+        * Directory Overview
+        *Static content
+   - Applications development (4 installed of 11)
         * ASP.NET 4.6
-        * Расширения ISAPI
-        * Расширяемость .NET4.
-        * Фильтры ISAPI
+        * ISAPI extensions
+        * Extensibility .NET4.
+        * ISAPI filters
 ```
 
 ## MSI Installation
@@ -60,31 +60,31 @@ dism /online /enable-feature /FeatureName:IIS-ApplicationDevelopment /FeatureNam
 
 #### Run the Installer
 
-It is required to click the  **Custom** button for installation with nonstandard parameters in the **Installation type** dialog. Для получения параметров существующих сайтов IIS в интерфейсе инсталлятора требуется запустить его с правами администратора.
+It is required to click the  **Custom** button for installation with nonstandard parameters in the **Installation type** dialog. To receive parameters of the existing IIS sites in the installer interface, it is required to run it with the administrator rights.
 
 #### Installation directory
 
-По умолчанию установка производится в каталог `%ProgramFiles%\BaseGroup\`;
+By default, installation is performed in the `%ProgramFiles%\BaseGroup\` directory;
 
 ![](../images/integrator_msi_path.png)
 
-#### Параметры установки
+#### Installation Parameters
 
 ![](../images/integrator_msi_parameters.png)
 
-Блок **IIS**:
+**IIS** block:
 
-* **Сайт** — имя существующего сайта IIS, на котором будет развернут Loginom Integrator.
-* **IP**, **Порт** — параметры привязки сайта IIS.
-* **Приложение** — имя web-приложения.
-* **Пул приложений** — имя пула приложений, обслуживающего Loginom Integrator. Если пул не существует, он будет создан.
+* **Site** is a name of the existing IIS site on which Loginom Integrator will be deployed.
+* **IP**, **Port** — binding parameters of the IIS site.
+* **Application** — web application name.
+* **Application pool** — name of the application pool supporting Loginom Integrator. If the pool does not exist, it will be created.
 
-Блок **Подключение к Loginom Server**:
+**Connection to the Loginom Server** block:
 
-* **Хост** — адрес хоста сервера Loginom.
-* **Порт** — порт сервера Loginom.
-* **Логин**, **Пароль** — реквизиты для [подключения к серверу Loginom](../server/setup.md#uchetnye-zapisi).
-* **Показать пароль** — переключает режим отображения пароля.
+* **Host** — the Loginom server host address.
+* **Port** — the Loginom server port.
+* **Login**, **Password** — credentials for [connection to the Loginom server](../server/setup.md#uchetnye-zapisi).
+* **Show password** switches the password display mode.
 
 ### Command Line
 
@@ -99,42 +99,39 @@ msiexec /i "LoginomIntegrator_6.x.x.msi" ключи_msi параметры_integ
 
 | Key | Default value | Description |
 |:--------- |:-------------|:------------- |
-| IIS_APPNAME | `lgi` | Имя web-приложения IIS |
-| IIS_POOLNAME | `LGI_POOL` | Имя создаваемого пула приложений IIS |
-| IIS_WEBSITENAME | `Default Web Site` | Имя сайта IIS |
-| IIS_WEBSITEIPADDRESS | `0.0.0.0` | Адрес привязки сайта IIS |
-| IIS_WEBSITEPORT | `80` | Порт привязки сайта IIS |
-| LGS_HOST | `localhost` | Хост Loginom Server |
-| LGS_PORT | `4580` | Порт Loginom Server |
-| LGS_USER | `service` | Имя учетной записи Loginom Server |
-| LGS_PASS | `service` | Пароль учетной записи Loginom Server |
+| IIS_APPNAME | `lgi` | IIS web application name |
+| IIS_POOLNAME | `LGI_POOL` | Name of the created IIS application pool |
+| IIS_WEBSITENAME | `Default Web Site` | IIS site name |
+| IIS_WEBSITEIPADDRESS | `0.0.0.0` | IIS site binding address |
+| IIS_WEBSITEPORT | `80` | IIS site binding port |
+| LGS_HOST | `localhost` | Loginom Server host |
+| LGS_PORT | `4580` | Loginom Server port |
+| LGS_USER | `service` | Loginom Server account name |
+| LGS_PASS | `service` | Loginom Server account password |
 
-## Ручная установка
+## Manual installation
 
-* Поместить содержимое каталога Integrator в требуемое расположение
-* Скорректировать содержимое [web.config](./config.md)
-* Создать в IIS пул приложений в режиме `Integrated` и версией среды CLR `v4.0`
-* Создать в IIS web-приложение в новом пуле, указав путь к расположению файлов Integrator
+* To place the Integrator directory content to the required location
+* To correct the [web.config](./config.md) content
+* To create application pool in IIS in the`Integrated` mode and CLR `v4.0` environment version
+* To create web application in IIS in the new pool, having specified the path to the Integrator files location
 
 ## Function Test
 
-Для проверки работоспособности необходимо в браузере перейти по URL: `http://<Server>/lgi/service.svc?wsdl`, где `<Server>` — имя хоста Loginom Integrator.
+To check the operability, it is required to go to the following URL using the browser: `http://<Server>/lgi/service.svc?wsdl`, where `<Server>` — name of the Loginom Integrator host.
 
-Пример: `http://localhost/lgi/service.svc?wsdl`
+Example: `http://localhost/lgi/service.svc?wsdl`
 
-Loginom Integrator должен отдать WSDL SOAP веб-сервиса с
-предупреждением:
+Loginom Integrator must give WSDL of the SOAP web service with the following warning:
 
 ```xml
 <wsdl:documentation>
-В настоящий момент не опубликовано ни одного пакета. Для
-использования пакетов в качестве веб-сервиса необходимо
-предварительно опубликовать их в Loginom Server.
+No package published at the present moment. To use the packages as a web service, it is required to publish them in advance in the Loginom Server.
 </wsdl:documentation>
 ```
 
-Второй вариант проверки — перейти по URL: `http://<Server>/lgi/service.svc/rest/help`.
+The second variant of checking — go to the following URL: `http://<Server>/lgi/service.svc/rest/help`.
 
-Loginom Integrator должен отдать страницу описания работы с REST сервисом.
+Loginom Integrator must give the page with the REST service operation description.
 
-При установке продукта для этих URL в меню "Пуск" Windows `Все программы\Loginom 6\Integrator` добавляются ярлыки *"Описание WSDL сервиса"* и *"Описание REST сервиса"*.
+When installing the product for these URL in the "Start" menu Windows `All programs\Loginom 6\Integrator` the following shortcuts are added: the *"WSDL service description"* and *"REST service description"*.
