@@ -233,6 +233,14 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>2 GB</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T221422Z" creationid="Марианна" creationdate="20200604T221422Z">
+        <seg>2 GB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>2 core</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200529T105808Z" creationid="Марианна" creationdate="20200529T105808Z">
@@ -2065,6 +2073,14 @@ Andrew R: keys_msi — it is possible to find allowable values executing the fo
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>CPU</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T221413Z" creationid="Марианна" creationdate="20200604T221413Z">
+        <seg>CPU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>CPU x64</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T144303Z" creationid="Марианна" creationdate="20200519T144303Z">
@@ -2147,6 +2163,14 @@ Host: stend-057</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T153633Z" creationid="Марианна" creationdate="20200519T153633Z">
         <seg>Web server HTTPS port</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>IIS 8.0 и выше, DotNet 4.5</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T221410Z" creationid="Марианна" creationdate="20200604T221410Z">
+        <seg>IIS 8.0 and higher, DotNet 4.5</seg>
       </tuv>
     </tu>
     <tu>
@@ -2443,6 +2467,14 @@ Vasiliy M.: Могу ошибаться, но может быть - Edition?
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T144214Z" creationid="Марианна" creationdate="20200519T144214Z">
         <seg>Server x64</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Software</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T221359Z" creationid="Марианна" creationdate="20200604T221359Z">
+        <seg>Software</seg>
       </tuv>
     </tu>
     <tu>
