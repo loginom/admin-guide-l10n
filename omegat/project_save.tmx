@@ -2667,6 +2667,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>msiexec /i "LoginomIntegrator.msi" /qn DOUPGRADE=1</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T222603Z" creationid="Марианна" creationdate="20200604T222603Z">
+        <seg>msiexec /i "LoginomIntegrator.msi" /qn DOUPGRADE=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>msiexec /i "LoginomPersonal_6.x.x_x64.msi" ключи_msi</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200529T112419Z" creationid="Марианна" creationdate="20200529T112419Z">
@@ -4481,6 +4489,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200512T095352Z" creationid="Марианна" creationdate="20200426T124440Z">
         <seg>At the stage of the package sending during the HTTPS connection implementation, encryption with the cerificate usage is applied.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Нажатие на кнопку &lt;x1/&gt;"Обновить"&lt;x2/&gt; выполняет обновление установленного экземпляра Loginom Integrator.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T222548Z" creationid="Марианна" creationdate="20200604T222548Z">
+        <seg>Pressing the &lt;x1/&gt;"Upgrade"&lt;x2/&gt; button will enable the upgrade of the installed Loginom Integrator.</seg>
       </tuv>
     </tu>
     <tu>
