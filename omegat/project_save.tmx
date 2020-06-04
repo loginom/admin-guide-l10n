@@ -857,12 +857,13 @@ xmlns:ded="http://www.basegroup.ru/DeductorIntegrationServer"&gt;
       </tuv>
     </tu>
     <tu>
-      <note>3. After the upgrade, it is required to start the loginom service </note>
+      <note>A: 3. After the upgrade, it is required to start the loginom service 
+M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;3.&lt;x2/&gt; После обновления запускаем службу &lt;x3/&gt;loginom&lt;x4/&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T102948Z" creationid="Марианна" creationdate="20200519T150936Z">
-        <seg>&lt;x1/&gt;3.&lt;x2/&gt; After the upgrade it is required to start the&lt;x3/&gt;loginom&lt;x4/&gt; service</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T213651Z" creationid="Марианна" creationdate="20200519T150936Z">
+        <seg>&lt;x1/&gt;3.&lt;x2/&gt; After the upgrade, it is required to start the&lt;x3/&gt;loginom&lt;x4/&gt; service</seg>
       </tuv>
     </tu>
     <tu>
@@ -2291,14 +2292,15 @@ M: Да, правильно, поменяла, спасибо!</note>
     </tu>
     <tu>
       <note>LoginomTeam_6.x.x.msi – the installer for Team editing
-М: Поменяла
+М: Done.
 
-Vasiliy M.: Могу ошибаться, но может быть - Edition?</note>
+Vasiliy M.: Могу ошибаться, но может быть - Edition?
+М: Поменяла.</note>
       <tuv lang="RU">
         <seg>LoginomTeam_6.x.x.msi – инсталлятор для редакции Team</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T084825Z" creationid="Марианна" creationdate="20200519T152235Z">
-        <seg>LoginomTeam_6.x.x.msi – the installer for Team editing </seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T213744Z" creationid="Марианна" creationdate="20200519T152235Z">
+        <seg>LoginomTeam_6.x.x.msi – the installer for Team edition </seg>
       </tuv>
     </tu>
     <tu>
@@ -4401,12 +4403,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Pressing the "Reinstall" button will open a new product installation dialog. The earlier version will be removed without saved parameters.</note>
+      <note>A: Pressing the "Reinstall" button will open a new product installation dialog. The earlier version will be removed without saved parameters.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Нажатие на кнопку &lt;x1/&gt;"Переустановить"&lt;x2/&gt; запускает диалог новой &lt;x3/&gt;установки&lt;x4/&gt; продукта.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200519T151610Z" creationid="Марианна" creationdate="20200519T150737Z">
-        <seg>Pressing the &lt;x1/&gt;"Reinstall"&lt;x2/&gt; button will open the new product &lt;x3/&gt;installation&lt;x4/&gt; dialog.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T213518Z" creationid="Марианна" creationdate="20200519T150737Z">
+        <seg>Pressing the &lt;x1/&gt;"Reinstall"&lt;x2/&gt; button will open a new product &lt;x3/&gt;installation&lt;x4/&gt; dialog.</seg>
       </tuv>
     </tu>
     <tu>
