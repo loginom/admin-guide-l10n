@@ -5482,23 +5482,26 @@ M: Done. </note>
     <tu>
       <note>Connections to the Loginom Server websocket are allowed
 
-Vasiliy M: Больше вопрос, почему не так: Allow connections to Loginom Server websocket. Могу опять же ошибаться</note>
+Vasiliy M: Больше вопрос, почему не так: Allow connections to Loginom Server websocket. Могу опять же ошибаться
+М: Поменяла. Думаю, ты чаще встречался с подобными конструкциями. </note>
       <tuv lang="RU">
         <seg>Разрешаем подключения к Loginom Server websocket</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T091826Z" creationid="Марианна" creationdate="20200520T091826Z">
-        <seg>Connections to Loginom Server websocket are allowed</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T091048Z" creationid="Марианна" creationdate="20200520T091826Z">
+        <seg>Allow connections to the Loginom Server websocket</seg>
       </tuv>
     </tu>
     <tu>
       <note>Connections to the Loginom Server for Integrator are allowed 
+М: Done. 
 
-Vasiliy M: Больше вопрос, почему не так: Allowing connections to Loginom Server for Integrator. Могу опять же ошибаться</note>
+Vasiliy M: Больше вопрос, почему не так: Allowing connections to Loginom Server for Integrator. Могу опять же ошибаться
+М: Поменяла на allow, чтобы был единый стиль с предыдущими сегментами. </note>
       <tuv lang="RU">
         <seg>Разрешаем подключения к Loginom Server для Integrator</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T091857Z" creationid="Марианна" creationdate="20200520T091857Z">
-        <seg>Connections to Loginom Server for Integrator are allowed</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T091217Z" creationid="Марианна" creationdate="20200520T091857Z">
+        <seg>Allow connections to the Loginom Server for Integrator</seg>
       </tuv>
     </tu>
     <tu>
