@@ -1731,8 +1731,8 @@ OK
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Логин&lt;x2/&gt;, &lt;x3/&gt;Пароль&lt;x4/&gt; — реквизиты для &lt;x5/&gt;подключения к серверу Loginom&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T230615Z" creationid="Марианна" creationdate="20200604T230615Z">
-        <seg>&lt;x1/&gt;Login&lt;x2/&gt;, &lt;x3/&gt;Password&lt;x4/&gt; — credentials for &lt;x5/&gt;connection to the Loginom server&lt;x6/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T233234Z" creationid="Марианна" creationdate="20200604T230615Z">
+        <seg>&lt;x1/&gt;Login&lt;x2/&gt;, &lt;x3/&gt;password&lt;x4/&gt; — credentials for &lt;x5/&gt;connection to the Loginom server&lt;x6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
