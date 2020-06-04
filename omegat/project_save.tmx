@@ -4925,12 +4925,13 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
-      <note>By default, 10.</note>
+      <note>A: By default, 10.
+M: Done.</note>
       <tuv lang="RU">
         <seg>По умолчанию 10.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200514T053702Z" creationid="Марианна" creationdate="20200514T053702Z">
-        <seg>By default 10.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200604T212511Z" creationid="Марианна" creationdate="20200514T053702Z">
+        <seg>By default, 10.</seg>
       </tuv>
     </tu>
     <tu>
