@@ -1075,6 +1075,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;:exception&lt;x2/&gt; - текст ошибки;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T211951Z" creationid="Марианна" creationdate="20200605T211951Z">
+        <seg>&lt;x1/&gt;:exception&lt;x2/&gt; - error text;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;:level&lt;x2/&gt; - уровень события;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T211727Z" creationid="Марианна" creationdate="20200605T211727Z">
@@ -1087,6 +1095,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T211752Z" creationid="Марианна" creationdate="20200605T211752Z">
         <seg>&lt;x1/&gt;:machinename&lt;x2/&gt; - NetBIOS name of the host on which Integrator runs;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;:message&lt;x2/&gt; - текст события;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T211941Z" creationid="Марианна" creationdate="20200605T211941Z">
+        <seg>&lt;x1/&gt;:message&lt;x2/&gt; - event text;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4715,6 +4731,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T205248Z" creationid="Марианна" creationdate="20200605T205248Z">
         <seg>File record</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Запись событий логирования</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T212008Z" creationid="Марианна" creationdate="20200605T212008Z">
+        <seg>Logging events record</seg>
       </tuv>
     </tu>
     <tu>
