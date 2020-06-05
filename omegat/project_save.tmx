@@ -1059,6 +1059,54 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;:appdomain&lt;x2/&gt; - идентификатор домена приложения;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T211909Z" creationid="Марианна" creationdate="20200605T211909Z">
+        <seg>&lt;x1/&gt;:appdomain&lt;x2/&gt; - application domain identifier;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;:date&lt;x2/&gt; - время события;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T211717Z" creationid="Марианна" creationdate="20200605T211717Z">
+        <seg>&lt;x1/&gt;:date&lt;x2/&gt; - event time;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;:level&lt;x2/&gt; - уровень события;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T211727Z" creationid="Марианна" creationdate="20200605T211727Z">
+        <seg>&lt;x1/&gt;:level&lt;x2/&gt; - event level;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;:machinename&lt;x2/&gt; - NetBIOS имя хоста, на котором запущен Integrator;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T211752Z" creationid="Марианна" creationdate="20200605T211752Z">
+        <seg>&lt;x1/&gt;:machinename&lt;x2/&gt; - NetBIOS name of the host on which Integrator runs;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;:requestid&lt;x2/&gt; - уникальный идентификатор запроса;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T211931Z" creationid="Марианна" creationdate="20200605T211931Z">
+        <seg>&lt;x1/&gt;:requestid&lt;x2/&gt; - unique request identifier;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;:username&lt;x2/&gt; - имя пользователя, от имени которого запущен процесс Integrator;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T211837Z" creationid="Марианна" creationdate="20200605T211837Z">
+        <seg>&lt;x1/&gt;:username&lt;x2/&gt; - name of the user on whose behalf the Integrator process was initiated;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T145607Z" creationid="Марианна" creationdate="20200519T145607Z">
