@@ -1417,6 +1417,14 @@ M: Done. But still I do not feel the diffrerence. We need to discuss it and chec
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;appDomainColumn&lt;x2/&gt; - имя поля для записи идентификатора домена приложения;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T211126Z" creationid="Марианна" creationdate="20200605T211126Z">
+        <seg>&lt;x1/&gt;appDomainColumn&lt;x2/&gt; - field name for the application domain identifier record;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;connectionString&lt;x2/&gt; - строка подключения к базе данных.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T210204Z" creationid="Марианна" creationdate="20200605T210204Z">
@@ -1561,6 +1569,14 @@ M: Done. But still I do not feel the diffrerence. We need to discuss it and chec
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;machineNameColumn&lt;x2/&gt; - имя поля для записи NetBIOS имени хоста, на котором запущен Integrator;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T210904Z" creationid="Марианна" creationdate="20200605T210904Z">
+        <seg>&lt;x1/&gt;machineNameColumn&lt;x2/&gt; - field name for NetBIOS record of the host name on which Integrator runs;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;maxArchiveFiles&lt;x2/&gt; - максимальное количество архивных журналов.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T205502Z" creationid="Марианна" creationdate="20200605T205502Z">
@@ -1659,6 +1675,14 @@ M: Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T202857Z" creationid="Марианна" creationdate="20200605T202857Z">
         <seg>&lt;x1/&gt;userName&lt;x2/&gt; - account name with login right as a service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;userNameColumn&lt;x2/&gt; - имя поля для записи пользователя, от имени которого запущен процесс Integrator;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T211046Z" creationid="Марианна" creationdate="20200605T211023Z">
+        <seg>&lt;x1/&gt;userNameColumn&lt;x2/&gt; - field name for the user record on whose behalf the Integrator process was initiated;</seg>
       </tuv>
     </tu>
     <tu>
