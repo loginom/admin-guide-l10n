@@ -6857,8 +6857,8 @@ M: Done. </note>
       <tuv lang="RU">
         <seg>Рабочий каталог</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T203758Z" creationid="Марианна" creationdate="20200605T203758Z">
-        <seg>Working directory</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T212443Z" creationid="Марианна" creationdate="20200605T203758Z">
+        <seg>Working Directory</seg>
       </tuv>
     </tu>
     <tu>
