@@ -64,7 +64,7 @@ New files are created once a day, old log files receive names of the `log.yyyy-M
 
 ### Windows Events Log Record
 
-Windows event log record parameters are specified in the `configuration/log/eventLog` element:
+Windows events log record parameters are specified in the `configuration/log/eventLog` element:
 
 * **level** - minimum logging level. Default value: `All`.
 
