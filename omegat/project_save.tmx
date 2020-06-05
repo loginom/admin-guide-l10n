@@ -1369,6 +1369,22 @@ M: Done. But still I do not feel the diffrerence. We need to discuss it and chec
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;eventLog&lt;x2/&gt; - запись в журнал событий Windows;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T204342Z" creationid="Марианна" creationdate="20200605T204342Z">
+        <seg>&lt;x1/&gt;eventLog&lt;x2/&gt; - Windows event log record;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;fileSystem&lt;x2/&gt; - запись в файл;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T204254Z" creationid="Марианна" creationdate="20200605T204254Z">
+        <seg>&lt;x1/&gt;fileSystem&lt;x2/&gt; - file record;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;lgi&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T230010Z" creationid="Марианна" creationdate="20200604T230010Z">
@@ -3621,6 +3637,14 @@ M: Done. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Возможно включение следующих режимов:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T204246Z" creationid="Марианна" creationdate="20200605T204246Z">
+        <seg>It is possible to enable the following modes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Возможные значения:</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200514T052820Z" creationid="Марианна" creationdate="20200514T052820Z">
@@ -4270,6 +4294,14 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Если используется несколько экземпляров Loginom Integrator, рабочие каталоги у них должны быть разными.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T204139Z" creationid="Марианна" creationdate="20200605T204139Z">
+        <seg>If several Loginom Integrator instances are used, the working directories must be different.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Andrew:
 If the client certificate has a private key, it is placed into one of the certificate stores - into the local machine store (&lt;x9/&gt;localMachine&lt;x10/&gt;), or the current user store (&lt;x11/&gt;currentUser&lt;x12/&gt;).&lt;segment 0043&gt;
 
@@ -4610,6 +4642,14 @@ OK, I have got it. The WSDL description everywhere. And the names (name). Three 
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200514T054503Z" creationid="Марианна" creationdate="20200514T051839Z">
         <seg>The value can be a full or relative path (from the working directory).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Значением может быть полный или относительный (от файла конфигурации) путь.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T204053Z" creationid="Марианна" creationdate="20200605T204053Z">
+        <seg>The value cab be both full and relative (from the configuration file) path.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5551,6 +5591,14 @@ M:Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T081605Z" creationid="Марианна" creationdate="20200520T081605Z">
         <seg>Apache Httpd Web Server Parameters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Параметры журналирования задаются в элементе &lt;x1/&gt;configuration/log&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T204210Z" creationid="Марианна" creationdate="20200605T204210Z">
+        <seg>The logging parameters must be specified in the &lt;x1/&gt;configuration/log&lt;x2/&gt; element.</seg>
       </tuv>
     </tu>
     <tu>
