@@ -3908,6 +3908,14 @@ M: Done. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Взаимодействие между всеми компонентами платформы осуществляется через Loginom Server.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T214405Z" creationid="Марианна" creationdate="20200605T214405Z">
+        <seg>Interaction of all platform components is performed by means of the Loginom Server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Взаимодействие с &lt;x3/&gt;Адаптером&lt;x4/&gt; из сценария Loginom происходит по стандартному SOAP-протоколу при помощи узла &lt;x5/&gt;Вызов веб-сервиса&lt;x6/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T193721Z" creationid="Марианна" creationdate="20200502T193721Z">
@@ -5335,6 +5343,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Ключевой элемент платформы.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T214235Z" creationid="Марианна" creationdate="20200605T214235Z">
+        <seg>Key platform element.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Коллективная работа</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T213949Z" creationid="Марианна" creationdate="20200605T213750Z">
@@ -5391,6 +5407,22 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T221615Z" creationid="Марианна" creationdate="20200604T221141Z">
         <seg>It is a platform component running as an application for Internet Information Services (IIS) and allowing for publication of the own web services.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Компонент, необходимый для интеграции с нестандартными веб-сервисами.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T214545Z" creationid="Марианна" creationdate="20200605T214545Z">
+        <seg>The component required for integration with nonstandard web services.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Компонент, необходимый для публикации веб-сервисов.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T214429Z" creationid="Марианна" creationdate="20200605T214429Z">
+        <seg>The component required for publication of web services.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6927,6 +6959,14 @@ M: Done. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Работает совместно с Loginom Server.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T214441Z" creationid="Марианна" creationdate="20200605T214441Z">
+        <seg>It is operated with the Loginom Server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Рабочий каталог</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T212443Z" creationid="Марианна" creationdate="20200605T203758Z">
@@ -7345,6 +7385,22 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T194423Z" creationid="Марианна" creationdate="20200502T194423Z">
         <seg>Typical scheme of interaction of the system components using the Adapter&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Требует инсталляции и функционирует в виде службы Microsoft IIS.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T214502Z" creationid="Марианна" creationdate="20200605T214502Z">
+        <seg>It must be installed and can be used as Microsoft IIS service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Требует инсталляции и функционирует в виде службы Windows.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T214314Z" creationid="Марианна" creationdate="20200605T214314Z">
+        <seg>It must be installed and can be used as Windows service.</seg>
       </tuv>
     </tu>
     <tu>
