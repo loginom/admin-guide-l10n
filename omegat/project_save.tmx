@@ -2950,6 +2950,14 @@ M: Done</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Loginom — руководство администратора</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T213705Z" creationid="Марианна" creationdate="20200605T213705Z">
+        <seg>Loginom — Administrator Manual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>LoginomAcademic_6.x.x.msi — инсталлятор для редакции Academic</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200529T114404Z" creationid="Марианна" creationdate="20200529T111853Z">
