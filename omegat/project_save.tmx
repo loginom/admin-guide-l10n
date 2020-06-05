@@ -2381,6 +2381,14 @@ M:Done. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Редакции для персональной работы.&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T214940Z" creationid="Марианна" creationdate="20200605T214940Z">
+        <seg>&lt;x1/&gt;Editions for Personal Work.&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Режим отладки&lt;x2/&gt; — флаг, указывающий, что при ошибках в работе &lt;x3/&gt;Адаптера&lt;x4/&gt; следует выдавать отладочную информацию.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200510T213215Z" creationid="Марианна" creationdate="20200225T123115Z">
@@ -4582,6 +4590,14 @@ M: Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T213922Z" creationid="Марианна" creationdate="20200519T152816Z">
         <seg>The following web server types are permitted:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Доступны 32-х и 64-х разрядные редакции.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T215118Z" creationid="Марианна" creationdate="20200605T215118Z">
+        <seg>The 32-bit and 64-bit versions are available.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7441,6 +7457,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T214314Z" creationid="Марианна" creationdate="20200605T214314Z">
         <seg>It must be installed and can be used as Windows service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Требуют инсталляции и функционируют в виде Windows приложения.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T215008Z" creationid="Марианна" creationdate="20200605T215008Z">
+        <seg>They must be installed and can be used as Windows applications.</seg>
       </tuv>
     </tu>
     <tu>
