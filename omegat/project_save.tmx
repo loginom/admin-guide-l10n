@@ -1342,6 +1342,14 @@ OK</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;address&lt;x2/&gt; - сетевой адрес хоста Loginom Server.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T202624Z" creationid="Марианна" creationdate="20200605T202624Z">
+        <seg>&lt;x1/&gt;address&lt;x2/&gt; - network address of the Loginom Server host.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A: admin with the admin password — for Loginom server administration 
 M: Done. But still I do not feel the diffrerence. We need to discuss it and check the whole text.</note>
       <tuv lang="RU">
@@ -3907,6 +3915,14 @@ M: Done
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Для каждого используемого экземпляра Loginom Server в элементе &lt;x1/&gt;configuration/loginom&lt;x2/&gt; требуется добавить элемент &lt;x3/&gt;server&lt;x4/&gt; со следующими атрибутами:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T202557Z" creationid="Марианна" creationdate="20200605T202557Z">
+        <seg>It is required to add the &lt;x3/&gt;server&lt;x4/&gt; element for each used Loginom Server instance in the &lt;x1/&gt;configuration/loginom&lt;x2/&gt; element with the following attributes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Для корректной работы Loginom Integrator требуется установленный NetFramework v4.5+.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T223614Z" creationid="Марианна" creationdate="20200604T223614Z">
@@ -4514,6 +4530,14 @@ OK, I have got it. The WSDL description everywhere. And the names (name). Three 
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200514T052255Z" creationid="Марианна" creationdate="20200514T052255Z">
         <seg>Default value: &lt;x1/&gt;8080&lt;x2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Значение по умолчанию: localhost.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T202736Z" creationid="Марианна" creationdate="20200605T202736Z">
+        <seg>Default value: localhost.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5281,6 +5305,14 @@ Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200510T212712Z" creationid="Марианна" creationdate="20200502T195159Z">
         <seg>Required Software</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Обязательный атрибут.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T202715Z" creationid="Марианна" creationdate="20200605T202715Z">
+        <seg>The required attribute.</seg>
       </tuv>
     </tu>
     <tu>
