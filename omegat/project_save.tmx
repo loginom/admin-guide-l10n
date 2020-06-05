@@ -1263,6 +1263,30 @@ M: Done </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Loginom Adapter&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T215826Z" creationid="Марианна" creationdate="20200605T215826Z">
+        <seg>&lt;x1/&gt;Loginom Adapter&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Loginom Desktop&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T220003Z" creationid="Марианна" creationdate="20200605T220003Z">
+        <seg>&lt;x1/&gt;Loginom Desktop&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Loginom Integrator&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T215956Z" creationid="Марианна" creationdate="20200605T215956Z">
+        <seg>&lt;x1/&gt;Loginom Integrator&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Loginom Server&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T215704Z" creationid="Марианна" creationdate="20200605T215704Z">
@@ -1275,6 +1299,14 @@ M: Done </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T074635Z" creationid="Марианна" creationdate="20200520T074635Z">
         <seg>&lt;x1/&gt;Loginom Server&lt;x2/&gt; is compulsory for the &lt;x3/&gt;Loginom server&lt;x4/&gt; installation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Loginom Studio&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T215819Z" creationid="Марианна" creationdate="20200605T215819Z">
+        <seg>&lt;x1/&gt;Loginom Studio&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2121,6 +2153,30 @@ OK
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Настройка IIS&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T215911Z" creationid="Марианна" creationdate="20200605T215911Z">
+        <seg>&lt;x1/&gt;IIS configuration&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Настройка&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T215950Z" creationid="Марианна" creationdate="20200605T215950Z">
+        <seg>&lt;x1/&gt;Configuration&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Обновление&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T215755Z" creationid="Марианна" creationdate="20200605T215755Z">
+        <seg>&lt;x1/&gt;Upgrade&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Описание веб-сервиса&lt;x2/&gt; — произвольное описание веб-сервиса.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200429T105203Z" creationid="Марианна" creationdate="20200225T125514Z">
@@ -2133,6 +2189,22 @@ OK
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200311T142847Z" creationid="Марианна" creationdate="20200227T162556Z">
         <seg>&lt;x1/&gt;Method description&lt;x2/&gt; — an arbitrary method description.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Описание параметров&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T215925Z" creationid="Марианна" creationdate="20200605T215925Z">
+        <seg>&lt;x1/&gt;Descriptio of parameters&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Особая учетная запись&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T215853Z" creationid="Марианна" creationdate="20200605T215853Z">
+        <seg>&lt;x1/&gt;Special Login Account&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2568,6 +2640,14 @@ Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200426T112033Z" creationid="Марианна" creationdate="20200426T112033Z">
         <seg>&lt;x1/&gt;Message body (Entity Body):&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Удаление&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T215815Z" creationid="Марианна" creationdate="20200605T215815Z">
+        <seg>&lt;x1/&gt;Uninstalling&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
