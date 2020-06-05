@@ -5335,6 +5335,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Клиентское веб-приложение, реализующее пользовательский интерфейс работы с платформой.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T214638Z" creationid="Марианна" creationdate="20200605T214638Z">
+        <seg>The client web application implementing the user interface of the platform operation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Ключ</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T153945Z" creationid="Марианна" creationdate="20200519T153945Z">
@@ -5682,6 +5690,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Настольные компоненты, предназначенные для автономной обработки данных на персональном компьютере, доступны в редакциях Academic и Personal.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T214847Z" creationid="Марианна" creationdate="20200605T214847Z">
+        <seg>Desktop components designated for stand-alone data processing using personal computers. Academic and Personal editions are available.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Настройка IIS</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T210038Z" creationid="Марианна" creationdate="20200502T204111Z">
@@ -5771,6 +5787,14 @@ The desktop version of the platform is designated for installation on the local 
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T205728Z" creationid="Марианна" creationdate="20200529T104651Z">
         <seg>The desktop version of the platform is designated for installation on the local computer when only one user operation is anticipated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Не требует инсталляции, т.к. взаимодействие осуществляется через браузер.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T214711Z" creationid="Марианна" creationdate="20200605T214711Z">
+        <seg>It is not required to install it as interaction is provided by means of browser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6254,6 +6278,14 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200311T113219Z" creationid="Марианна" creationdate="20200225T124345Z">
         <seg>The list of (content of the &lt;x1/&gt;Key&lt;x2/&gt; column) parameters is the same for connections to all services, and it includes the following parameters:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Персональная аналитика</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T214721Z" creationid="Марианна" creationdate="20200605T214721Z">
+        <seg>Personal Analytics</seg>
       </tuv>
     </tu>
     <tu>
