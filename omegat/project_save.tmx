@@ -1467,8 +1467,8 @@ M: Done. But still I do not feel the diffrerence. We need to discuss it and chec
       <tuv lang="RU">
         <seg>&lt;x1/&gt;reserved&lt;x2/&gt; - атрибут со значением "true" помечает сервер как резервный.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T203134Z" creationid="Марианна" creationdate="20200605T203134Z">
-        <seg>&lt;x1/&gt;reserved&lt;x2/&gt; - the attribute with the "true" value marks the server as the reserve one.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T203537Z" creationid="Марианна" creationdate="20200605T203134Z">
+        <seg>&lt;x1/&gt;reserved&lt;x2/&gt; - the attribute with the "true" value marks the server as the standby one.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6093,6 +6093,14 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200512T095837Z" creationid="Марианна" creationdate="20200426T125547Z">
         <seg>In the case of a response receipt from the external service, the succession of the transformation stages is reverse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>При поступлении запроса сервер выбирается случайным образом среди доступных основных (не резервных) серверов, предоставляющих требуемый пакет.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T203556Z" creationid="Марианна" creationdate="20200605T203531Z">
+        <seg>Upon the request receipt, the server is randomly selected among the available primary (not standby) servers providing the required package.</seg>
       </tuv>
     </tu>
     <tu>
