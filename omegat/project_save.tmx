@@ -1529,10 +1529,26 @@ M: Done. But still I do not feel the diffrerence. We need to discuss it and chec
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;maxArchiveFiles&lt;x2/&gt; - максимальное количество архивных журналов.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T205502Z" creationid="Марианна" creationdate="20200605T205502Z">
+        <seg>&lt;x1/&gt;maxArchiveFiles&lt;x2/&gt; - maximum number of archive logs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;password&lt;x2/&gt; - пароль учетной записи с правом на вход в качестве службы.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T203004Z" creationid="Марианна" creationdate="20200605T203004Z">
         <seg>&lt;x1/&gt;password&lt;x2/&gt; - account password with login right as a service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;path&lt;x2/&gt; - полный или относительный (от рабочего каталога) путь к каталогу журналов.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T205410Z" creationid="Марианна" creationdate="20200605T205410Z">
+        <seg>&lt;x1/&gt;path&lt;x2/&gt; - full or relative (from the working directory) path to the log directory.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4495,6 +4511,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Запись в файл</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T205248Z" creationid="Марианна" creationdate="20200605T205248Z">
+        <seg>File record</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Заполняется сформированным SOAP-пакетом или телом REST-сообщения в зависимости от значения параметра &lt;x1/&gt;Формат сообщения&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T230254Z" creationid="Марианна" creationdate="20200426T111712Z">
@@ -4706,6 +4730,14 @@ OK, I have got it. The WSDL description everywhere. And the names (name). Three 
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T205033Z" creationid="Марианна" creationdate="20200605T205033Z">
         <seg>Default value: &lt;x3/&gt;All&lt;x4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Значение по умолчанию: &lt;x3/&gt;Logs&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T205418Z" creationid="Марианна" creationdate="20200605T205418Z">
+        <seg>Default value: &lt;x3/&gt;Logs&lt;x4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5699,6 +5731,14 @@ M:Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Параметры записи в файл задаются в элементе &lt;x1/&gt;configuration/log/fileSystem&lt;x2/&gt;:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T205322Z" creationid="Марианна" creationdate="20200605T205322Z">
+        <seg>The file record parameters are specified in the &lt;x1/&gt;configuration/log/fileSystem&lt;x2/&gt; element:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Параметры каталогов задаются в атрибутах элемента &lt;x1/&gt;Settings/Directories&lt;x2/&gt;:</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200514T051741Z" creationid="Марианна" creationdate="20200514T051741Z">
@@ -6147,6 +6187,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200512T095133Z" creationid="Марианна" creationdate="20200426T111031Z">
         <seg>While filling in the HTTP/HTTPS package sections sent to the external service, the following parameters of the &lt;x9/&gt;Configurator&lt;x10/&gt; are also used:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>При значении "0" количество файлов не ограничено.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T205558Z" creationid="Марианна" creationdate="20200605T205558Z">
+        <seg>In the case of "0" value number of files is not limited.</seg>
       </tuv>
     </tu>
     <tu>
