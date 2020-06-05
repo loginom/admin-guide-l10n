@@ -50,7 +50,7 @@ It is possible to assign the minimum level of detail to each mode:
 
 In the case of the default setup, file record with the Info detailing level is enabled, logs are recorded in the `%ALLUSERSPROFILE%\BaseGroup\Loginom 6\Integrator\Logs\` directory.
 
-### File record
+### File Record
 
 The file record parameters are specified in the `configuration/log/fileSystem` element:
 
