@@ -5674,6 +5674,14 @@ From now on, I will only mention the sections of text that I require a tweak.
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Переопределить значение можно в атрибуте &lt;x3/&gt;workDir&lt;x4/&gt; элемента &lt;x5/&gt;configuration/loginom&lt;x6/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T204021Z" creationid="Марианна" creationdate="20200605T204021Z">
+        <seg>It is possible to redefine the value in the &lt;x3/&gt;workDir&lt;x4/&gt; attribute of the &lt;x5/&gt;configuration/loginom&lt;x6/&gt; element.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Перечень (содержание столбца &lt;x1/&gt;Key&lt;x2/&gt;) параметров одинаков для подключений ко всем сервисам, и включает в себя следующие параметры:</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200311T113219Z" creationid="Марианна" creationdate="20200225T124345Z">
@@ -6295,6 +6303,14 @@ M: Done. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Путь к каталогу по умолчанию - &lt;x1/&gt;%ALLUSERSPROFILE%\BaseGroup\Loginom 6\Integrator&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T203910Z" creationid="Марианна" creationdate="20200605T203910Z">
+        <seg>Default path to the directory - &lt;x1/&gt;%ALLUSERSPROFILE%\BaseGroup\Loginom 6\Integrator&lt;x2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Путь к ключу SSL</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T153458Z" creationid="Марианна" creationdate="20200519T153458Z">
@@ -6347,6 +6363,22 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200512T095631Z" creationid="Марианна" creationdate="20200426T124906Z">
         <seg>Certificates Usage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Рабочий каталог</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T203758Z" creationid="Марианна" creationdate="20200605T203758Z">
+        <seg>Working directory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Рабочий каталог содержит временные данные, требующиеся для работы приложения.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T203853Z" creationid="Марианна" creationdate="20200605T203853Z">
+        <seg>The working directory contains the temporary data required for the application operation.</seg>
       </tuv>
     </tu>
     <tu>
