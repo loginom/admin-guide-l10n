@@ -1,24 +1,24 @@
-# Loginom — руководство администратора
+# Loginom — Administrator Manual
 
-Аналитическая платформа [Loginom](https://loginom.ru) может функционировать в серверном режиме для коллективной работы и в виде настольного приложения для персональной аналитики.
+The analytical [Loginom](https://loginom.ru) platform can be operated in the server mode for the teamwork and as a desktop application for the personal analytics.
 
-## Коллективная работа
+## Teamwork
 
-Серверный режим доступен в редакциях Team, Standard и Enterprise.
+The server mode is available in Team, Standard and Enterprise editions.
 
-![Редакции для коллективной работы](./lg_group.svg)
+![Editions for the teamwork](./lg_group.svg)
 
-| Component | Назначение |
+| Component | Designation |
 |:----------|:-----------|
-| [Server](./server/README.md) | Ключевой элемент платформы. Требует инсталляции и функционирует в виде службы Windows. Взаимодействие между всеми компонентами платформы осуществляется через Loginom Server. |
-| [Integrator](./integrator/README.md) | Компонент, необходимый для публикации веб-сервисов. Работает совместно с Loginom Server. Требует инсталляции и функционирует в виде службы Microsoft IIS. |
-| [Adapter](./adapter/README.md) | Компонент, необходимый для интеграции с нестандартными веб-сервисами. Требует инсталляции и функционирует в виде службы Microsoft IIS. |
-| [Studio](./studio/README.md) | Клиентское веб-приложение, реализующее пользовательский интерфейс работы с платформой. Не требует инсталляции, т.к. взаимодействие осуществляется через браузер. |
+| [Server](./server/README.md) | Key platform element. It must be installed and can be used as Windows service. Interaction of all platform components is performed by means of the Loginom Server. |
+| [Integrator](./integrator/README.md) | The component required for publication of web services. It is operated with the Loginom Server. It must be installed and can be used as Microsoft IIS service. |
+| [Adapter](./adapter/README.md) | The component required for integration with nonstandard web services. It must be installed and can be used as Microsoft IIS service. |
+| [Studio](./studio/README.md) | The client web application implementing the user interface of the platform operation. It is not required to install it as interaction is provided by means of browser. |
 
-## Персональная аналитика
+## Personal Analytics
 
-Настольные компоненты, предназначенные для автономной обработки данных на персональном компьютере, доступны в редакциях Academic и Personal. Содержат единственный компонент [Loginom Desktop](./desktop/README.md).
+Desktop components designated for stand-alone data processing using personal computers. Academic and Personal editions are available. They contain only one component - [Loginom Desktop](./desktop/README.md).
 
-![Редакции для персональной работы.](./lg_personal.svg)
+![Editions for Personal Work.](./lg_personal.svg)
 
-Требуют инсталляции и функционируют в виде Windows приложения. Доступны 32-х и 64-х разрядные редакции.
+They must be installed and can be used as Windows applications. The 32-bit and 64-bit versions are available.
