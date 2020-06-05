@@ -1433,6 +1433,14 @@ M: Done. But still I do not feel the diffrerence. We need to discuss it and chec
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;dateColumn&lt;x2/&gt; - имя поля для записи времени;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T210700Z" creationid="Марианна" creationdate="20200605T210633Z">
+        <seg>&lt;x1/&gt;dateColumn&lt;x2/&gt; - field name for the time record;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;eventLog&lt;x2/&gt; - запись в журнал событий Windows;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T204342Z" creationid="Марианна" creationdate="20200605T204342Z">
@@ -1461,6 +1469,14 @@ M: Done. But still I do not feel the diffrerence. We need to discuss it and chec
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T205630Z" creationid="Марианна" creationdate="20200605T205630Z">
         <seg>&lt;x1/&gt;level&lt;x2/&gt; - minimum logging level.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;levelColumn&lt;x2/&gt; - имя поля для записи уровня события;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T210655Z" creationid="Марианна" creationdate="20200605T210655Z">
+        <seg>&lt;x1/&gt;levelColumn&lt;x2/&gt; - field name for the event level record;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1599,6 +1615,14 @@ M: Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T215558Z" creationid="Марианна" creationdate="20200520T092454Z">
         <seg>&lt;x1/&gt;service&lt;x2/&gt; with the &lt;x3/&gt;service&lt;x4/&gt; password — for connection of external applications (Integrator and BatchLauncher)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;table&lt;x2/&gt; - имя таблицы;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T210540Z" creationid="Марианна" creationdate="20200605T210540Z">
+        <seg>&lt;x1/&gt;table&lt;x2/&gt; - table name;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4176,6 +4200,14 @@ M: Done. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Для привязки требуется задать следующие атрибуты:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T210533Z" creationid="Марианна" creationdate="20200605T210533Z">
+        <seg>It is required to set the following attributes for binding:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Для проверки работоспособности необходимо в браузере перейти по URL: &lt;x1/&gt;http://&lt;Server&gt;/lgi/service.svc?wsdl&lt;x2/&gt;, где &lt;x3/&gt;&lt;Server&gt;&lt;x4/&gt; — имя хоста Loginom Integrator.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T231949Z" creationid="Марианна" creationdate="20200604T231949Z">
@@ -4939,6 +4971,14 @@ M:Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T205657Z" creationid="Марианна" creationdate="20200605T205657Z">
         <seg>Log file name - &lt;x1/&gt;log.log&lt;x2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Имя файла журнала - &lt;x1/&gt;logger-internal.log&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T210738Z" creationid="Марианна" creationdate="20200605T210738Z">
+        <seg>Log file name - &lt;x1/&gt;logger-internal.log&lt;x2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
