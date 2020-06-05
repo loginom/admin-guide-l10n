@@ -1319,6 +1319,14 @@ M: Done </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Loginom в Яндекс.Облако&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T220425Z" creationid="Марианна" creationdate="20200605T220425Z">
+        <seg>&lt;x1/&gt;Loginom in Yandex.Cloud&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Microsoft IIS&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T215722Z" creationid="Марианна" creationdate="20200605T215722Z">
@@ -1943,6 +1951,14 @@ M: Not done. The Russian source is different.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T215644Z" creationid="Марианна" creationdate="20200605T215644Z">
         <seg>&lt;x1/&gt;Home&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Диагностика ключей Guardant&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T220409Z" creationid="Марианна" creationdate="20200605T220409Z">
+        <seg>&lt;x1/&gt;Guardant dongles diagnostics&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
