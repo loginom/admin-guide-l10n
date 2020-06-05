@@ -1263,6 +1263,14 @@ M: Done </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Loginom Server&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T215704Z" creationid="Марианна" creationdate="20200605T215704Z">
+        <seg>&lt;x1/&gt;Loginom Server&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Loginom Server&lt;x2/&gt; обязателен для установки &lt;x3/&gt;сервера Loginom&lt;x4/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T074635Z" creationid="Марианна" creationdate="20200520T074635Z">
@@ -1275,6 +1283,14 @@ M: Done </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T074655Z" creationid="Марианна" creationdate="20200520T074655Z">
         <seg>&lt;x1/&gt;Loginom Studio&lt;x2/&gt; installs the web interface.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Microsoft IIS&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T215722Z" creationid="Марианна" creationdate="20200605T215722Z">
+        <seg>&lt;x1/&gt;Microsoft IIS&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1851,10 +1867,26 @@ M: Not done. The Russian source is different.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Взаимодействие компонентов&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T215700Z" creationid="Марианна" creationdate="20200605T215700Z">
+        <seg>&lt;x1/&gt;Interaction of components&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Всегда использовать безопасное подключение&lt;x2/&gt; — включает параметр &lt;x3/&gt;secure&lt;x4/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T083930Z" creationid="Марианна" creationdate="20200520T083930Z">
         <seg>&lt;x1/&gt;Always use secure connection&lt;x2/&gt; activates the &lt;x3/&gt;secure&lt;x4/&gt; parameter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Главная&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T215644Z" creationid="Марианна" creationdate="20200605T215644Z">
+        <seg>&lt;x1/&gt;Home&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2045,6 +2077,14 @@ OK
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200226T110522Z" creationid="Марианна" creationdate="20200226T110456Z">
         <seg>&lt;x1/&gt;Message encoding&lt;x2/&gt; — the message encoding applied by the external service is specified.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Конфигурация&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T215736Z" creationid="Марианна" creationdate="20200605T215736Z">
+        <seg>&lt;x1/&gt;Configuration&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2538,6 +2578,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T214603Z" creationid="Марианна" creationdate="20200520T081543Z">
         <seg>&lt;x1/&gt;Install the Guardant x64 driver&lt;x2/&gt; enables the installation to start in the automatic driver mode for the software protection dongle operation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Установка&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T215717Z" creationid="Марианна" creationdate="20200605T215717Z">
+        <seg>&lt;x1/&gt;Installation&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3194,6 +3242,14 @@ Vasiliy M.: Могу ошибаться, но может быть - Edition?
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T211502Z" creationid="Марианна" creationdate="20200605T211502Z">
         <seg>SQL query is specified in the &lt;x1/&gt;sqlCommand&lt;x2/&gt; attribute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>SUMMARY</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T215616Z" creationid="Марианна" creationdate="20200605T215616Z">
+        <seg>SUMMARY</seg>
       </tuv>
     </tu>
     <tu>
