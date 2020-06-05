@@ -1,122 +1,122 @@
-# Конфигурация Loginom Integrator
+# Loginom Integrator Configuration
 
-Loginom Integrator настраивается с помощью xml файла [Web.config](https://ru.wikipedia.org/wiki/Web.config). Расположение файла по умолчанию - `%ProgramFiles%\BaseGroup\Loginom 6\Integrator`.
+Loginom Integrator is configured by means of the xml [Web.config](https://ru.wikipedia.org/wiki/Web.config) file. The file is located by default - `%ProgramFiles%\BaseGroup\Loginom 6\Integrator`.
 
-## Соединение с Loginom Server
+## Connection with Loginom Server
 
-Loginom Integrator может поддерживать соединения с несколькими экземплярами Loginom Server одновременно.
+Loginom Integrator can support connections with several Loginom Server instances simultaneously.
 
-Для каждого используемого экземпляра Loginom Server в элементе `configuration/loginom` требуется добавить элемент `server` со следующими атрибутами:
+It is required to add the `server` element for each used Loginom Server instance in the `configuration/loginom` element with the following attributes:
 
-* **address** - сетевой адрес хоста Loginom Server. Обязательный атрибут. Значение по умолчанию: localhost.
-* **port** - TCP [порт сервера](../server/setup.md#parametry-loginom-server). Значение по умолчанию: 4850.
-* **userName** - имя учетной записи с правом на вход в качестве службы. Если атрибут не задан, используются логин и пароль пользователя service.
-* **password** - пароль учетной записи с правом на вход в качестве службы. По умолчанию пустая строка.
-* **reserved** - атрибут со значением "true" помечает сервер как резервный.
+* **address** - network address of the Loginom Server host. The required attribute. Default value: localhost.
+* **port** - TCP [server port](../server/setup.md#parametry-loginom-server). Default value: 4850.
+* **userName** - account name with login right as a service. If the attribute is not specified, it is required to use the service user login and password.
+* **password** - account password with login right as a service. Default blank row.
+* **reserved** - the attribute with the "true" value marks the server as the standby one.
 
-Loginom Integrator поддерживает информацию о работоспособности серверов и опубликованных на них пакетах.
+Loginom Integrator maintains the information on operability of servers and packages published on them.
 
-При поступлении запроса сервер выбирается случайным образом среди доступных основных (не резервных) серверов, предоставляющих требуемый пакет.
+Upon the request receipt, the server is randomly selected among the available primary (not standby) servers providing the required package.
 
-Если таких нет, то сервер выбирается случайным образом среди доступных резервных серверов.
+If there are no such servers, it is randomly selected among the available standby servers.
 
-## Рабочий каталог
+## Working directory
 
-Рабочий каталог содержит временные данные, требующиеся для работы приложения.
+The working directory contains the temporary data required for the application operation.
 
-Путь к каталогу по умолчанию - `%ALLUSERSPROFILE%\BaseGroup\Loginom 6\Integrator`. Переопределить значение можно в атрибуте `workDir` элемента `configuration/loginom`. Значением может быть полный или относительный (от файла конфигурации) путь.
+Default path to the directory - `%ALLUSERSPROFILE%\BaseGroup\Loginom 6\Integrator`. It is possible to redefine the value in the `workDir` attribute of the `configuration/loginom` element. The value cab be both full and relative (from the configuration file) path.
 
-Если используется несколько экземпляров Loginom Integrator, рабочие каталоги у них должны быть разными.
+If several Loginom Integrator instances are used, the working directories must be different.
 
 ## Logging
 
-Параметры журналирования задаются в элементе `configuration/log`.
+The logging parameters must be specified in the `configuration/log` element.
 
-Возможно включение следующих режимов:
+It is possible to enable the following modes:
 
-* **fileSystem** - запись в файл;
-* **eventLog** - запись в журнал событий Windows;
-* **database** - запись в базу данных;
-* **internal** - запись в файл событий логирования (к примеру, ошибок при записи логов в базу данных).
+* **fileSystem** - file record;
+* **eventLog** - Windows event log record;
+* **database** - database record;
+* **internal** - logging events file record (for example, errors while log recording in the database).
 
-Каждому режиму можно задать минимальный уровень детализации:
+It is possible to assign the minimum level of detail to each mode:
 
-* **All** - трассировка;
-* **Info** - информация;
-* **Warn** - предупреждения;
-* **Error**- ошибки;
-* **Fatal** - критические ошибки;
-* **Off** - журналирование отключено.
+* **All** - trace;
+* **Info** - info;
+* **Warn** - warnings;
+* **Error**- errors;
+* **Fatal** - fatal errors;
+* **Off** - logging off.
 
-При установке по умолчанию включена запись в файл с уровнем детализации Info, журналы пишутся в каталог `%ALLUSERSPROFILE%\BaseGroup\Loginom 6\Integrator\Logs\`.
+In the case of the default setup, file record with the Info detailing level is enabled, logs are recorded in the `%ALLUSERSPROFILE%\BaseGroup\Loginom 6\Integrator\Logs\` directory.
 
-### Запись в файл
+### File record
 
-Параметры записи в файл задаются в элементе `configuration/log/fileSystem`:
+The file record parameters are specified in the `configuration/log/fileSystem` element:
 
-* **path** - полный или относительный (от рабочего каталога) путь к каталогу журналов. Значение по умолчанию: `Logs`.
-* **maxArchiveFiles** - максимальное количество архивных журналов. При значении "0" количество файлов не ограничено. Значение по умолчанию: 0;
-* **level** - минимальный уровень журналирования. Значение по умолчанию: `All`.
+* **path** - full or relative (from the working directory) path to the log directory. Default value: `Logs`.
+* **maxArchiveFiles** - maximum number of archive logs. In the case of "0" value number of files is not limited. Default value: 0;
+* **level** - minimum logging level. Default value: `All`.
 
-Имя файла журнала - `log.log`.
+Log file name - `log.log`.
 
-Новые файлы создаются раз в сутки, старые лог-файлы получают имена вида `log.yyyy-MM-dd.log`.
+New files are created once a day, old log files receive names of the `log.yyyy-MM-dd.log` type.
 
-### Запись в журнал событий Windows
+### Windows event log record
 
-Параметры записи в журнал событий Windows задаются в элементе `configuration/log/eventLog`:
+Windows event log record parameters are specified in the `configuration/log/eventLog` element:
 
-* **level** - минимальный уровень журналирования. Значение по умолчанию: `All`.
+* **level** - minimum logging level. Default value: `All`.
 
-Источник событий в журнале Windows: `Loginom Integrator`.
+Event source in Windows log: `Loginom Integrator`.
 
-### Запись в базу данных
+### Database record
 
-Параметры записи в базу данных задаются в элементе `configuration/log/database`:
+Database record parameters are specified in the `configuration/log/database` element:
 
-* **connectionString** - строка подключения к базе данных. Обязательный атрибут.
-* **level** - минимальный уровень журналирования. Значение по умолчанию: `All`.
+* **connectionString** - database connection string. The required attribute.
+* **level** - minimum logging level. Default value: `All`.
 
-Целевые поля для записи данных события можно задать двумя способами: привязать поля журнала к полям таблицы, либо задать SQL запрос.
+Target fields for the event data record can be specified in two ways: it is possible to bind the log fields to the table fields or to send SQL query.
 
-#### Привязка к полям таблицы
+#### Binding to the table fields
 
-Для привязки требуется задать следующие атрибуты:
+It is required to set the following attributes for binding:
 
-* **table** - имя таблицы;
-* **dateColumn** - имя поля для записи времени;
-* **levelColumn** - имя поля для записи уровня события;
-* **machineNameColumn** - имя поля для записи NetBIOS имени хоста, на котором запущен Integrator;
-* **userNameColumn** - имя поля для записи пользователя, от имени которого запущен процесс Integrator;
-* **appDomainColumn** - имя поля для записи идентификатора домена приложения;
-* **requestIdColumn** - имя поля для записи уникального идентификатора запроса;
-* **messageColumn** - имя поля для записи текста события;
-* **exceptionColumn** - имя поля для записи текста ошибки;
+* **table** - table name;
+* **dateColumn** - field name for the time record;
+* **levelColumn** - field name for the event level record;
+* **machineNameColumn** - field name for NetBIOS record of the host name on which Integrator runs;
+* **userNameColumn** - field name for the user record on whose behalf the Integrator process was initiated;
+* **appDomainColumn** - field name for the application domain identifier record;
+* **requestIdColumn** - field name for the unique identifier request record;
+* **messageColumn** - field name for the event text record;
+* **exceptionColumn** - field name for the error text record;
 
-Атрибуты с именами полей могут отсутствовать или содержать пустые значения. В этом случае соответствующие данные не логируются.
+Attributes with field names can be absent or contain blank values. In this regard, corresponding data must not be logged.
 
-#### SQL запрос
+#### SQL query
 
-SQL запрос задается в атрибуте `sqlCommand`.
+SQL query is specified in the `sqlCommand` attribute.
 
-Если задан атрибут `table`, `sqlCommand` будет проигнорирован.
+If the `table` attribute is specified, `sqlCommand` will be ignored.
 
-В качестве устанавливаемых значений в запросе требуется указывать следующие параметры:
+It is required to specify the following parameters in the query as set values:
 
-* **:date** - время события;
-* **:level** - уровень события;
-* **:machinename** - NetBIOS имя хоста, на котором запущен Integrator;
-* **:username** - имя пользователя, от имени которого запущен процесс Integrator;
-* **:appdomain** - идентификатор домена приложения;
-* **:requestid** - уникальный идентификатор запроса;
-* **:message** - текст события;
-* **:exception** - текст ошибки;
+* **:date** - event time;
+* **:level** - event level;
+* **:machinename** - NetBIOS name of the host on which Integrator runs;
+* **:username** - name of the user on whose behalf the Integrator process was initiated;
+* **:appdomain** - application domain identifier;
+* **:requestid** - unique request identifier;
+* **:message** - event text;
+* **:exception** - error text;
 
-### Запись событий логирования
+### Logging events record
 
-Параметры записи событий логирования задаются в элементе `configuration/log/internal`:
+Parameters of logging events record are specified in the `configuration/log/internal` element:
 
-* **path** - полный или относительный (от рабочего каталога) путь к каталогу журналов. Значение по умолчанию: `Logs`.
-* **level** - минимальный уровень журналирования. Значение по умолчанию: `All`.
+* **path** - full or relative (from the working directory) path to the log directory. Default value: `Logs`.
+* **level** - minimum logging level. Default value: `All`.
 
-Имя файла журнала - `logger-internal.log`.
+Log file name - `logger-internal.log`.
