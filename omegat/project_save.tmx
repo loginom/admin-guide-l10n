@@ -4721,8 +4721,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Запись в журнал событий Windows</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T205820Z" creationid="Марианна" creationdate="20200605T205820Z">
-        <seg>Windows event log record</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T212728Z" creationid="Марианна" creationdate="20200605T205820Z">
+        <seg>Windows Events Log Record</seg>
       </tuv>
     </tu>
     <tu>
