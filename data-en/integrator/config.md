@@ -20,7 +20,7 @@ Upon the request receipt, the server is randomly selected among the available pr
 
 If there are no such servers, it is randomly selected among the available standby servers.
 
-## Working directory
+## Working Directory
 
 The working directory contains the temporary data required for the application operation.
 
