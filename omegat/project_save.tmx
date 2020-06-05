@@ -6005,8 +6005,8 @@ M:Done.</note>
       <tuv lang="RU">
         <seg>Параметры записи в журнал событий Windows задаются в элементе &lt;x1/&gt;configuration/log/eventLog&lt;x2/&gt;:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T205937Z" creationid="Марианна" creationdate="20200605T205937Z">
-        <seg>Windows event log record parameters are specified in the &lt;x1/&gt;configuration/log/eventLog&lt;x2/&gt; element:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T212804Z" creationid="Марианна" creationdate="20200605T205937Z">
+        <seg>Windows events log record parameters are specified in the &lt;x1/&gt;configuration/log/eventLog&lt;x2/&gt; element:</seg>
       </tuv>
     </tu>
     <tu>
