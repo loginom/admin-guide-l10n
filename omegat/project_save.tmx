@@ -2958,6 +2958,14 @@ Vasiliy M.: Могу ошибаться, но может быть - Edition?
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>SQL запрос</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T205015Z" creationid="Марианна" creationdate="20200605T205015Z">
+        <seg>SQL query</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Server x64</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T144214Z" creationid="Марианна" creationdate="20200519T144214Z">
@@ -4694,6 +4702,14 @@ OK, I have got it. The WSDL description everywhere. And the names (name). Three 
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Значение по умолчанию: &lt;x3/&gt;All&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T205033Z" creationid="Марианна" creationdate="20200605T205033Z">
+        <seg>Default value: &lt;x3/&gt;All&lt;x4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Значение по умолчанию: localhost.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T202736Z" creationid="Марианна" creationdate="20200605T202736Z">
@@ -6276,6 +6292,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200324T065246Z" creationid="Марианна" creationdate="20200203T072917Z">
         <seg>When installing by default, the &lt;x7/&gt;Configurator&lt;x8/&gt; is in the following folder: &lt;x9/&gt;C:\inetpub\wwwroot\LoginomAdapter\Configurator\&lt;x10/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>При установке по умолчанию включена запись в файл с уровнем детализации Info, журналы пишутся в каталог &lt;x1/&gt;%ALLUSERSPROFILE%\BaseGroup\Loginom 6\Integrator\Logs\&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T205233Z" creationid="Марианна" creationdate="20200605T205233Z">
+        <seg>In the case of the default setup, file record with the Info detailing level is enabled, logs are recorded in the &lt;x1/&gt;%ALLUSERSPROFILE%\BaseGroup\Loginom 6\Integrator\Logs\&lt;x2/&gt; directory.</seg>
       </tuv>
     </tu>
     <tu>
