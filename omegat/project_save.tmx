@@ -4519,6 +4519,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Запись в базу данных</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T210030Z" creationid="Марианна" creationdate="20200605T210030Z">
+        <seg>Database record</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Запись в журнал событий Windows</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T205820Z" creationid="Марианна" creationdate="20200605T205820Z">
@@ -5001,6 +5009,14 @@ A: I understand. Company name</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200227T160213Z" creationid="Марианна" creationdate="20200227T160213Z">
         <seg>It is used in the process of work with credit reference bureau "UNITED CREDIT BUREAU". </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Источник событий в журнале Windows: &lt;x1/&gt;Loginom Integrator&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T210014Z" creationid="Марианна" creationdate="20200605T210014Z">
+        <seg>Event source in Windows log: &lt;x1/&gt;Loginom Integrator&lt;x2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5767,6 +5783,22 @@ M:Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200514T052621Z" creationid="Марианна" creationdate="20200514T052621Z">
         <seg>Logging parameters are kept in the XML &lt;x1/&gt;Logs.cfg&lt;x2/&gt; file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Параметры записи в базу данных задаются в элементе &lt;x1/&gt;configuration/log/database&lt;x2/&gt;:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T210121Z" creationid="Марианна" creationdate="20200605T210121Z">
+        <seg>Database record parameters are specified in the &lt;x1/&gt;configuration/log/database&lt;x2/&gt; element:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Параметры записи в журнал событий Windows задаются в элементе &lt;x1/&gt;configuration/log/eventLog&lt;x2/&gt;:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T205937Z" creationid="Марианна" creationdate="20200605T205937Z">
+        <seg>Windows event log record parameters are specified in the &lt;x1/&gt;configuration/log/eventLog&lt;x2/&gt; element:</seg>
       </tuv>
     </tu>
     <tu>
