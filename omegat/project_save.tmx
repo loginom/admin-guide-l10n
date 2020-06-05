@@ -1417,6 +1417,14 @@ M: Done. But still I do not feel the diffrerence. We need to discuss it and chec
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;connectionString&lt;x2/&gt; - строка подключения к базе данных.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T210204Z" creationid="Марианна" creationdate="20200605T210204Z">
+        <seg>&lt;x1/&gt;connectionString&lt;x2/&gt; - database connection string.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;database&lt;x2/&gt; - запись в базу данных;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T204404Z" creationid="Марианна" creationdate="20200605T204404Z">
