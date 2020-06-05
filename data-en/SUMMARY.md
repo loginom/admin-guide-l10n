@@ -12,7 +12,7 @@
    * [Configuration](./studio/config.md)
 * [Loginom Adapter](./adapter/README.md)
    * [Installation](./adapter/setup/README.md)
-      * [Special Login Account](./adapter/setup/special-user.md)
+      * [Special login account](./adapter/setup/special-user.md)
       * [IIS configuration](./adapter/setup/iis-config.md)
    * [Configuration](./adapter/config/README.md)
       * [Descriptio of parameters](./adapter/config/parameters.md)
