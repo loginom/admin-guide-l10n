@@ -6019,6 +6019,14 @@ M:Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Параметры записи событий логирования задаются в элементе &lt;x1/&gt;configuration/log/internal&lt;x2/&gt;:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T212213Z" creationid="Марианна" creationdate="20200605T212213Z">
+        <seg>Parameters of logging events record are specified in the &lt;x1/&gt;configuration/log/internal&lt;x2/&gt; element:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Параметры каталогов задаются в атрибутах элемента &lt;x1/&gt;Settings/Directories&lt;x2/&gt;:</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200514T051741Z" creationid="Марианна" creationdate="20200514T051741Z">
