@@ -2607,6 +2607,22 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Loginom Integrator может поддерживать соединения с несколькими экземплярами Loginom Server одновременно.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T202329Z" creationid="Марианна" creationdate="20200605T202329Z">
+        <seg>Loginom Integrator can support connections with several Loginom Server instances simultaneously.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Loginom Integrator настраивается с помощью xml файла &lt;x1/&gt;Web.config&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T202136Z" creationid="Марианна" creationdate="20200605T202136Z">
+        <seg>Loginom Integrator is configured by means of the xml &lt;x1/&gt;Web.config&lt;x2/&gt; file.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A: The Loginom Server
 M: Done</note>
       <tuv lang="RU">
@@ -4845,6 +4861,14 @@ M: Done. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Конфигурация Loginom Integrator</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T202050Z" creationid="Марианна" creationdate="20200605T202050Z">
+        <seg>Loginom Integrator Configuration</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Корневой элемент &lt;x1/&gt;Настройки&lt;x2/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200205T060409Z" creationid="Марианна" creationdate="20200205T060409Z">
@@ -6270,6 +6294,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Расположение файла по умолчанию - &lt;x3/&gt;%ProgramFiles%\BaseGroup\Loginom 6\Integrator&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T202201Z" creationid="Марианна" creationdate="20200605T202201Z">
+        <seg>The file is located by default - &lt;x3/&gt;%ProgramFiles%\BaseGroup\Loginom 6\Integrator&lt;x4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Рекомендуемые</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T194543Z" creationid="Марианна" creationdate="20200502T194543Z">
@@ -6436,6 +6468,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T220606Z" creationid="Марианна" creationdate="20200205T060719Z">
         <seg>contains parameters of the general settings of the &lt;x3/&gt;Adapter&lt;x4/&gt; represented in the following section: &lt;x5/&gt;Parameters of the General Settings&lt;x6/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Соединение с Loginom Server</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T202211Z" creationid="Марианна" creationdate="20200605T202211Z">
+        <seg>Connection with Loginom Server</seg>
       </tuv>
     </tu>
     <tu>
