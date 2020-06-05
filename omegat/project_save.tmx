@@ -2663,6 +2663,14 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Loginom Integrator поддерживает информацию о работоспособности серверов и опубликованных на них пакетах.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T203239Z" creationid="Марианна" creationdate="20200605T203239Z">
+        <seg>Loginom Integrator maintains the information on operability of servers and packages published on them.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A: The Loginom Server
 M: Done</note>
       <tuv lang="RU">
