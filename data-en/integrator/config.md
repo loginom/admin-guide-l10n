@@ -95,7 +95,7 @@ It is required to set the following attributes for binding:
 
 Attributes with field names can be absent or contain blank values. In this regard, corresponding data must not be logged.
 
-#### SQL query
+#### SQL Query
 
 SQL query is specified in the `sqlCommand` attribute.
 
