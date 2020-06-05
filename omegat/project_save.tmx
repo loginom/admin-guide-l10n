@@ -1449,6 +1449,14 @@ M: Done. But still I do not feel the diffrerence. We need to discuss it and chec
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;level&lt;x2/&gt; - минимальный уровень журналирования.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T205630Z" creationid="Марианна" creationdate="20200605T205630Z">
+        <seg>&lt;x1/&gt;level&lt;x2/&gt; - minimum logging level.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;lgi&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T230010Z" creationid="Марианна" creationdate="20200604T230010Z">
@@ -4511,6 +4519,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Запись в журнал событий Windows</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T205820Z" creationid="Марианна" creationdate="20200605T205820Z">
+        <seg>Windows event log record</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Запись в файл</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T205248Z" creationid="Марианна" creationdate="20200605T205248Z">
@@ -4690,6 +4706,14 @@ OK, I have got it. The WSDL description everywhere. And the names (name). Three 
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200514T054646Z" creationid="Марианна" creationdate="20200514T052916Z">
         <seg>Default value.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Значение по умолчанию: 0;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T205610Z" creationid="Марианна" creationdate="20200605T205610Z">
+        <seg>Default value: 0;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4891,6 +4915,14 @@ M:Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T231054Z" creationid="Марианна" creationdate="20200604T231054Z">
         <seg>Loginom Server account name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Имя файла журнала - &lt;x1/&gt;log.log&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T205657Z" creationid="Марианна" creationdate="20200605T205657Z">
+        <seg>Log file name - &lt;x1/&gt;log.log&lt;x2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5448,6 +5480,14 @@ Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200510T212547Z" creationid="Марианна" creationdate="20200502T193256Z">
         <seg>But some web services, for example, CRB, use the individual protocols and data encryption which preclude interaction using the standard Loginom means.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Новые файлы создаются раз в сутки, старые лог-файлы получают имена вида &lt;x1/&gt;log.yyyy-MM-dd.log&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T205750Z" creationid="Марианна" creationdate="20200605T205750Z">
+        <seg>New files are created once a day, old log files receive names of the &lt;x1/&gt;log.yyyy-MM-dd.log&lt;x2/&gt; type.</seg>
       </tuv>
     </tu>
     <tu>
