@@ -1369,6 +1369,14 @@ M: Done. But still I do not feel the diffrerence. We need to discuss it and chec
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;database&lt;x2/&gt; - запись в базу данных;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T204404Z" creationid="Марианна" creationdate="20200605T204404Z">
+        <seg>&lt;x1/&gt;database&lt;x2/&gt; - database record;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;eventLog&lt;x2/&gt; - запись в журнал событий Windows;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T204342Z" creationid="Марианна" creationdate="20200605T204342Z">
@@ -1381,6 +1389,14 @@ M: Done. But still I do not feel the diffrerence. We need to discuss it and chec
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T204254Z" creationid="Марианна" creationdate="20200605T204254Z">
         <seg>&lt;x1/&gt;fileSystem&lt;x2/&gt; - file record;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;internal&lt;x2/&gt; - запись в файл событий логирования (к примеру, ошибок при записи логов в базу данных).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T204551Z" creationid="Марианна" creationdate="20200605T204551Z">
+        <seg>&lt;x1/&gt;internal&lt;x2/&gt; - logging events file record (for example, errors while log recording in the database).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4857,6 +4873,14 @@ A: I understand. Company name</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200227T160213Z" creationid="Марианна" creationdate="20200227T160213Z">
         <seg>It is used in the process of work with credit reference bureau "UNITED CREDIT BUREAU". </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Каждому режиму можно задать минимальный уровень детализации:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T204658Z" creationid="Марианна" creationdate="20200605T204658Z">
+        <seg>It is possible to assign the minimum level of detail to each mode:</seg>
       </tuv>
     </tu>
     <tu>
