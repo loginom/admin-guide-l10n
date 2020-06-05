@@ -6468,6 +6468,14 @@ M: Done</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Привязка к полям таблицы</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T210505Z" creationid="Марианна" creationdate="20200605T210505Z">
+        <seg>Binding to the table fields</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Применение Loginom Integrator позволяет реализовать архитектуру решения, обеспечивающую отказоустойчивость, балансировку нагрузки и горизонтальное масштабирование.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T221342Z" creationid="Марианна" creationdate="20200604T221342Z">
@@ -7298,6 +7306,14 @@ Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200510T210502Z" creationid="Марианна" creationdate="20200502T061604Z">
         <seg>The certificate store must be available for a user who operates the &lt;x1/&gt;Adapter&lt;x2/&gt; application pool in IIS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Целевые поля для записи данных события можно задать двумя способами: привязать поля журнала к полям таблицы, либо задать SQL запрос.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T210447Z" creationid="Марианна" creationdate="20200605T210447Z">
+        <seg>Target fields for the event data record can be specified in two ways: it is possible to bind the log fields to the table fields or to send SQL query.</seg>
       </tuv>
     </tu>
     <tu>
