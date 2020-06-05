@@ -1870,6 +1870,22 @@ M: Done</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Активация SP-ключа (offline)&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T220322Z" creationid="Марианна" creationdate="20200605T220322Z">
+        <seg>&lt;x1/&gt;Activation of SP key (offline)&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Активация SP-ключа (online)&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T220315Z" creationid="Марианна" creationdate="20200605T220315Z">
+        <seg>&lt;x1/&gt;Activation of SP key (online)&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A: IMPORTANT: The Capacity of used RAM is limited by 2 GB (platform limit x86).
 M: Done. </note>
       <tuv lang="RU">
@@ -1887,6 +1903,14 @@ M: Not done. The Russian source is different.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200427T135138Z" creationid="Марианна" creationdate="20200427T135138Z">
         <seg>&lt;x1/&gt;Important&lt;x2/&gt;: incompliance of the resulting XML response with its description in the XSD schema will cause the &lt;x3/&gt;Adapter&lt;x4/&gt; web service operation error.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Варианты исполнения ключа&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T220126Z" creationid="Марианна" creationdate="20200605T220126Z">
+        <seg>&lt;x1/&gt;Key versions&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2121,6 +2145,14 @@ OK
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Лицензионные ключи&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T220053Z" creationid="Марианна" creationdate="20200605T220053Z">
+        <seg>&lt;x1/&gt;Licensing Keys&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Логин&lt;x2/&gt;, &lt;x3/&gt;Пароль&lt;x4/&gt; — реквизиты для &lt;x5/&gt;подключения к серверу Loginom&lt;x6/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T233234Z" creationid="Марианна" creationdate="20200604T230615Z">
@@ -2165,6 +2197,14 @@ OK
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T215950Z" creationid="Марианна" creationdate="20200605T215950Z">
         <seg>&lt;x1/&gt;Configuration&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Обновление USB-ключа&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T220337Z" creationid="Марианна" creationdate="20200605T220337Z">
+        <seg>&lt;x1/&gt;USB key upgrade&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5660,6 +5700,14 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T084959Z" creationid="Марианна" creationdate="20200520T084959Z">
         <seg>Licenses</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Лицензионные ключи</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T220039Z" creationid="Марианна" creationdate="20200605T220039Z">
+        <seg>Licensing Keys</seg>
       </tuv>
     </tu>
     <tu>
