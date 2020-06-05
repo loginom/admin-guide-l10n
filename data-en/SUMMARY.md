@@ -15,7 +15,7 @@
       * [Special login account](./adapter/setup/special-user.md)
       * [IIS configuration](./adapter/setup/iis-config.md)
    * [Configuration](./adapter/config/README.md)
-      * [Descriptio of parameters](./adapter/config/parameters.md)
+      * [Description of parameters](./adapter/config/parameters.md)
       * [Configuration](./adapter/config/tuning-principles.md)
       * The [Certificates Usage](./adapter/config/work-with-certificates.md)
    * [Uninstalling](./adapter/remove.md)
