@@ -3070,6 +3070,14 @@ Vasiliy M.: Могу ошибаться, но может быть - Edition?
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>SQL запрос задается в атрибуте &lt;x1/&gt;sqlCommand&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T211502Z" creationid="Марианна" creationdate="20200605T211502Z">
+        <seg>SQL query is specified in the &lt;x1/&gt;sqlCommand&lt;x2/&gt; attribute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Server x64</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T144214Z" creationid="Марианна" creationdate="20200519T144214Z">
@@ -3468,6 +3476,14 @@ M: Done. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Атрибуты с именами полей могут отсутствовать или содержать пустые значения.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T211351Z" creationid="Марианна" creationdate="20200605T211351Z">
+        <seg>Attributes with field names can be absent or contain blank values.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Блок &lt;x1/&gt;IIS&lt;x2/&gt;:</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T225154Z" creationid="Марианна" creationdate="20200604T225154Z">
@@ -3519,6 +3535,14 @@ Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T140906Z" creationid="Марианна" creationdate="20200519T140856Z">
         <seg>It is required to place the &lt;x3/&gt;web.config&lt;x4/&gt; file with the following content into the &lt;x1/&gt;Loginom 6\Client&lt;x2/&gt; directory:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>В качестве устанавливаемых значений в запросе требуется указывать следующие параметры:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T211709Z" creationid="Марианна" creationdate="20200605T211709Z">
+        <seg>It is required to specify the following parameters in the query as set values:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3710,6 +3734,14 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200421T110951Z" creationid="Марианна" creationdate="20200227T161543Z">
         <seg>In this regard, the parameter value is subject to the rules of naming of the XML elements under &lt;x7/&gt; W3C specification&lt;x8/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>В этом случае соответствующие данные не логируются.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T211436Z" creationid="Марианна" creationdate="20200605T211436Z">
+        <seg>In this regard, corresponding data must not be logged.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4459,6 +4491,14 @@ Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T092713Z" creationid="Марианна" creationdate="20200520T092713Z">
         <seg>If the port was changed in the web server settings, the following URL is used: &lt;x3/&gt;http://localhost:&lt;HTTP port&gt;/app/&lt;x4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Если задан атрибут &lt;x1/&gt;table&lt;x2/&gt;, &lt;x3/&gt;sqlCommand&lt;x4/&gt; будет проигнорирован.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T211546Z" creationid="Марианна" creationdate="20200605T211546Z">
+        <seg>If the &lt;x1/&gt;table&lt;x2/&gt; attribute is specified, &lt;x3/&gt;sqlCommand&lt;x4/&gt; will be ignored.</seg>
       </tuv>
     </tu>
     <tu>
