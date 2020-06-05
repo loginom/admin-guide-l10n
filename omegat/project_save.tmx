@@ -1067,6 +1067,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;All&lt;x2/&gt; - трассировка;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T204725Z" creationid="Марианна" creationdate="20200605T204725Z">
+        <seg>&lt;x1/&gt;All&lt;x2/&gt; - trace;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Apache&lt;x2/&gt; – стандартная установка, web-сервер входит в состав дистрибутива;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T152902Z" creationid="Марианна" creationdate="20200519T152902Z">
@@ -1101,10 +1109,34 @@ M: Done</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Error&lt;x2/&gt;- ошибки;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T204806Z" creationid="Марианна" creationdate="20200605T204806Z">
+        <seg>&lt;x1/&gt;Error&lt;x2/&gt;- errors;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Fatal&lt;x2/&gt; - критические ошибки;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T204837Z" creationid="Марианна" creationdate="20200605T204815Z">
+        <seg>&lt;x1/&gt;Fatal&lt;x2/&gt; - fatal errors;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;IP&lt;x2/&gt;, &lt;x3/&gt;Порт&lt;x4/&gt; — параметры привязки сайта IIS.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T230213Z" creationid="Марианна" creationdate="20200604T225742Z">
         <seg>&lt;x1/&gt;IP&lt;x2/&gt;, &lt;x3/&gt;Port&lt;x4/&gt; — binding parameters of the IIS site.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Info&lt;x2/&gt; - информация;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T204731Z" creationid="Марианна" creationdate="20200605T204731Z">
+        <seg>&lt;x1/&gt;Info&lt;x2/&gt; - info;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1197,6 +1229,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200428T123840Z" creationid="Марианна" creationdate="20200428T123840Z">
         <seg>&lt;x1/&gt;Namespace of the root element of the SOAP response&lt;x2/&gt;;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Off&lt;x2/&gt; - журналирование отключено.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T204857Z" creationid="Марианна" creationdate="20200605T204857Z">
+        <seg>&lt;x1/&gt;Off&lt;x2/&gt; - logging off.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1308,6 +1348,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T212055Z" creationid="Марианна" creationdate="20200514T052330Z">
         <seg>&lt;x1/&gt;WSSPort&lt;x2/&gt; - port number for the Loginom Studio connection according to the websocket secure (wss) protocol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Warn&lt;x2/&gt; - предупреждения;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T204845Z" creationid="Марианна" creationdate="20200605T204758Z">
+        <seg>&lt;x1/&gt;Warn&lt;x2/&gt; - warnings;</seg>
       </tuv>
     </tu>
     <tu>
