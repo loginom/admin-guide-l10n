@@ -2259,8 +2259,8 @@ OK
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Особая учетная запись&lt;x2/&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T215853Z" creationid="Марианна" creationdate="20200605T215853Z">
-        <seg>&lt;x1/&gt;Special Login Account&lt;x2/&gt;</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T220537Z" creationid="Марианна" creationdate="20200605T215853Z">
+        <seg>&lt;x1/&gt;Special login account&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
