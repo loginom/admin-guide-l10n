@@ -1205,6 +1205,14 @@ M: Done</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Integrator&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T213809Z" creationid="Марианна" creationdate="20200605T213809Z">
+        <seg>&lt;x1/&gt;Integrator&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;LGI_POOL&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T225938Z" creationid="Марианна" creationdate="20200604T225938Z">
@@ -1354,10 +1362,26 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Server&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T213802Z" creationid="Марианна" creationdate="20200605T213802Z">
+        <seg>&lt;x1/&gt;Server&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;SessionBackup&lt;x2/&gt; - расположение каталога резервных копий сессий.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200514T051954Z" creationid="Марианна" creationdate="20200514T051954Z">
         <seg>&lt;x1/&gt;SessionBackup&lt;x2/&gt; - location of the backup session copies directory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Studio&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T213814Z" creationid="Марианна" creationdate="20200605T213814Z">
+        <seg>&lt;x1/&gt;Studio&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5287,6 +5311,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Коллективная работа</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T213750Z" creationid="Марианна" creationdate="20200605T213750Z">
+        <seg>Team Work</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Командная строка</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T151009Z" creationid="Марианна" creationdate="20200519T151009Z">
@@ -5552,6 +5584,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T213518Z" creationid="Марианна" creationdate="20200519T150737Z">
         <seg>Pressing the &lt;x1/&gt;"Reinstall"&lt;x2/&gt; button will open a new product &lt;x3/&gt;installation&lt;x4/&gt; dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Назначение</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T213759Z" creationid="Марианна" creationdate="20200605T213759Z">
+        <seg>Designation</seg>
       </tuv>
     </tu>
     <tu>
@@ -6982,6 +7022,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200426T111043Z" creationid="Марианна" creationdate="20200426T111043Z">
         <seg>Sections of the HTTP/HTTPS Package</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Серверный режим доступен в редакциях Team, Standard и Enterprise.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T213913Z" creationid="Марианна" creationdate="20200605T213913Z">
+        <seg>The server mode is available in Team, Standard and Enterprise editions.</seg>
       </tuv>
     </tu>
     <tu>
