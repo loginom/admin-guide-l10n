@@ -1131,6 +1131,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Adapter&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T214004Z" creationid="Марианна" creationdate="20200605T214004Z">
+        <seg>&lt;x1/&gt;Adapter&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;All&lt;x2/&gt; - трассировка;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T204725Z" creationid="Марианна" creationdate="20200605T204725Z">
@@ -2365,6 +2373,14 @@ M:Done. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Редакции для коллективной работы&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T214001Z" creationid="Марианна" creationdate="20200605T213943Z">
+        <seg>&lt;x1/&gt;Editions for the teamwork&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Режим отладки&lt;x2/&gt; — флаг, указывающий, что при ошибках в работе &lt;x3/&gt;Адаптера&lt;x4/&gt; следует выдавать отладочную информацию.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200510T213215Z" creationid="Марианна" creationdate="20200225T123115Z">
@@ -3540,6 +3556,14 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200512T095804Z" creationid="Марианна" creationdate="20200426T125325Z">
         <seg>The algorithm of Actions at the Stage of the Response Receipt from the External Service&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аналитическая платформа &lt;x1/&gt;Loginom&lt;x2/&gt; может функционировать в серверном режиме для коллективной работы и в виде настольного приложения для персональной аналитики.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T214211Z" creationid="Марианна" creationdate="20200605T214211Z">
+        <seg>The analytical &lt;x1/&gt;Loginom&lt;x2/&gt; platform can be operated in the server mode for the teamwork and as a desktop application for the personal analytics.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5313,8 +5337,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Коллективная работа</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T213750Z" creationid="Марианна" creationdate="20200605T213750Z">
-        <seg>Team Work</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T213949Z" creationid="Марианна" creationdate="20200605T213750Z">
+        <seg>Teamwork</seg>
       </tuv>
     </tu>
     <tu>
