@@ -7232,6 +7232,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Содержат единственный компонент &lt;x1/&gt;Loginom Desktop&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200605T214918Z" creationid="Марианна" creationdate="20200605T214918Z">
+        <seg>They contain only one component - &lt;x1/&gt;Loginom Desktop&lt;x2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Содержат параметры настроек, представленных в разделе &lt;x7/&gt;Параметры настроек методов взаимодействия с внешними сервисами&lt;x8/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200324T070027Z" creationid="Марианна" creationdate="20200206T065310Z">
