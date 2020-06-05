@@ -62,7 +62,7 @@ Log file name - `log.log`.
 
 New files are created once a day, old log files receive names of the `log.yyyy-MM-dd.log` type.
 
-### Windows event log record
+### Windows Events Log Record
 
 Windows event log record parameters are specified in the `configuration/log/eventLog` element:
 
