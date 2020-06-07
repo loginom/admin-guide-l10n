@@ -3122,6 +3122,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Loginom Integrator must give a page with the REST service operation description.</note>
       <tuv lang="RU">
         <seg>Loginom Integrator должен отдать страницу описания работы с REST сервисом.</seg>
       </tuv>
@@ -7021,6 +7022,7 @@ M: Done</note>
       </tuv>
     </tu>
     <tu>
+      <note>When installing a product for these URLs in the "Start" menu Windows All programs\Loginom 6\Integrator the following shortcuts are added: the "WSDL service description" and "REST service description".</note>
       <tuv lang="RU">
         <seg>При установке продукта для этих URL в меню "Пуск" Windows &lt;x1/&gt;Все программы\Loginom 6\Integrator&lt;x2/&gt; добавляются ярлыки &lt;x3/&gt;"Описание WSDL сервиса"&lt;x4/&gt; и &lt;x5/&gt;"Описание REST сервиса"&lt;x6/&gt;.</seg>
       </tuv>
