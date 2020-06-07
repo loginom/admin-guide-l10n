@@ -2399,6 +2399,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Note: The Loginom Integrator version must comply with the Loginom server version being used.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание:&lt;x2/&gt; Версия Loginom Integrator должна соответствовать версии используемого сервера Loginom.</seg>
       </tuv>
@@ -5414,6 +5415,7 @@ M:Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>The installer file name: LoginomIntegrator_6.x.x.msi, where 6.x.x – figures denote software version and release.</note>
       <tuv lang="RU">
         <seg>Имя файла инсталлятора: &lt;x1/&gt;LoginomIntegrator_6.x.x.msi&lt;x2/&gt;, где 6.x.x – цифры, обозначающие версию и релиз программы.</seg>
       </tuv>
