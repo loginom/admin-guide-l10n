@@ -6019,6 +6019,7 @@ The desktop version of the platform is designated for installation on the local 
       </tuv>
     </tu>
     <tu>
+      <note>Execute the following command in the command line as an administrator:</note>
       <tuv lang="RU">
         <seg>Необходимо выполнить в командной строке от имени администратора:</seg>
       </tuv>
