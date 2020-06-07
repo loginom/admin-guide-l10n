@@ -4524,6 +4524,7 @@ M: Done
       </tuv>
     </tu>
     <tu>
+      <note>Installed NetFramework v4.5+ is required for proper Loginom Integrator operation.</note>
       <tuv lang="RU">
         <seg>Для корректной работы Loginom Integrator требуется установленный NetFramework v4.5+.</seg>
       </tuv>
@@ -6026,6 +6027,7 @@ The desktop version of the platform is designated for installation on the local 
       </tuv>
     </tu>
     <tu>
+      <note>Installation of the following components is required:</note>
       <tuv lang="RU">
         <seg>Необходимо установить следующие компоненты:</seg>
       </tuv>
