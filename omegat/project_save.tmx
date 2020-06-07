@@ -1785,6 +1785,7 @@ M: Done. But still I do not feel the diffrerence. We need to discuss it and chec
       </tuv>
     </tu>
     <tu>
+      <note>reserved - the attribute with the "true" value marks the server as the standby unit.reserved - the attribute with the "true" value marks the server as the standby unit.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;reserved&lt;x2/&gt; - атрибут со значением "true" помечает сервер как резервный.</seg>
       </tuv>
@@ -3149,6 +3150,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Loginom Integrator maintains the information on operability of servers and packages published in them.</note>
       <tuv lang="RU">
         <seg>Loginom Integrator поддерживает информацию о работоспособности серверов и опубликованных на них пакетах.</seg>
       </tuv>
