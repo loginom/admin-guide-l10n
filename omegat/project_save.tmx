@@ -2637,6 +2637,7 @@ M:Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>Site is a name of the existing IIS site in which Loginom Integrator will be deployed.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Сайт&lt;x2/&gt; — имя существующего сайта IIS, на котором будет развернут Loginom Integrator.</seg>
       </tuv>
@@ -4592,6 +4593,7 @@ A: Slight typo here. I had "connection" in the Plural.</note>
       </tuv>
     </tu>
     <tu>
+      <note>To receive parameters of existing IIS sites in the installer interface, it is required to run it with administrator rights.</note>
       <tuv lang="RU">
         <seg>Для получения параметров существующих сайтов IIS в интерфейсе инсталлятора требуется запустить его с правами администратора.</seg>
       </tuv>
