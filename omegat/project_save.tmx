@@ -1752,6 +1752,7 @@ M: Done. But still I do not feel the diffrerence. We need to discuss it and chec
       </tuv>
     </tu>
     <tu>
+      <note>password - account password with service login rights.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;password&lt;x2/&gt; - пароль учетной записи с правом на вход в качестве службы.</seg>
       </tuv>
