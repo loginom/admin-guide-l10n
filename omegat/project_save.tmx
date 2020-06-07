@@ -4140,7 +4140,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
-      <note>Enable IIS Components for the Loginom Studio</note>
+      <note>Enabling IIS Components</note>
       <tuv lang="RU">
         <seg>Включение компонентов IIS</seg>
       </tuv>
@@ -4149,6 +4149,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>Enabling IIS Components for the Loginom Integrator</note>
       <tuv lang="RU">
         <seg>Включение компонентов IIS для Loginom Integrator</seg>
       </tuv>
