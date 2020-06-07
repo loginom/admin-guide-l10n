@@ -4200,6 +4200,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>For the second test option — go to the following link: URL: http://&lt;Server&gt;/lgi/service.svc/rest/help.</note>
       <tuv lang="RU">
         <seg>Второй вариант проверки — перейти по URL: &lt;x1/&gt;http://&lt;Server&gt;/lgi/service.svc/rest/help&lt;x2/&gt;.</seg>
       </tuv>
