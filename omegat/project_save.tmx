@@ -3112,6 +3112,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>The Loginom Integrator must give WSDL of the SOAP web service with the following warning:</note>
       <tuv lang="RU">
         <seg>Loginom Integrator должен отдать WSDL SOAP веб-сервиса с
 предупреждением:</seg>
@@ -7514,6 +7515,7 @@ M: Done </note>
       </tuv>
     </tu>
     <tu>
+      <note>To create application pool in IIS in the Integrated mode and CLR v4.0 environment version</note>
       <tuv lang="RU">
         <seg>Создать в IIS пул приложений в режиме &lt;x1/&gt;Integrated&lt;x2/&gt; и версией среды CLR &lt;x3/&gt;v4.0&lt;x4/&gt;</seg>
       </tuv>
