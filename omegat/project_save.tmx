@@ -1846,6 +1846,7 @@ M: Done</note>
       </tuv>
     </tu>
     <tu>
+      <note>userName - account name with service login rights.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;userName&lt;x2/&gt; - имя учетной записи с правом на вход в качестве службы.</seg>
       </tuv>
