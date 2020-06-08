@@ -1035,6 +1035,15 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;3.&lt;x2/&gt; Этот файл необходимо перенести на компьютер, где есть доступ в интернет, запустить
+Мастер активации (GuardantActivationWizard.exe), нажать кнопку "Указать файл лицензии…" и в выпадающем списке окна навигации указать в поле "Тип файлов:" параметр "Файлы для передачи на сервер активации (*toserver)":</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T095046Z" creationid="Марианна" creationdate="20200608T095046Z">
+        <seg>&lt;x1/&gt;3.&lt;x2/&gt;It is required to transfer this file to the computer with net access, to run Activation Wizard (GuardantActivationWizard.exe), to press the "Specify the license file..." button and to specify the "Files for transfer to the activation server (*toserver)" parameter in the drop-down list of the navigation window in the "Files type:" field:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;443&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T153616Z" creationid="Марианна" creationdate="20200519T153616Z">
