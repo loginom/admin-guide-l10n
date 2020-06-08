@@ -7367,8 +7367,8 @@ M: Done</note>
       <tuv lang="RU">
         <seg>При этом, помимо прочего, происходит проверка введенного серийного номера, а также перешифрование файла софтверного ключа с использованием контрольных значений комплектующих компьютера.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T104452Z" creationid="Марианна" creationdate="20200608T104452Z">
-        <seg>In this respect, among other issues, the entered serial number is checked, and superencryption of the software dongle file is performed using contol values of the computer components.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T104945Z" creationid="Марианна" creationdate="20200608T104452Z">
+        <seg>In this respect, among other issues, the entered serial number is checked, and superencryption of the software dongle file is performed using control values of the computer components.</seg>
       </tuv>
     </tu>
     <tu>
