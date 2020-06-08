@@ -1070,8 +1070,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;5.&lt;x2/&gt; На компьютере конечного пользователя запустить Мастер активации (GuardantActivationWizard.exe) (&lt;x3/&gt;Важно&lt;x4/&gt;: опцию "Режим offline" (внизу слева) не устанавливать), нажать кнопку "Указать файл лицензии" и, в открывшемся диалоге выбора файлов, указав тип файла "Файлы, полученные с сервера активации (*.fromserver)" выбрать нужный файл:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T100434Z" creationid="Марианна" creationdate="20200608T095312Z">
-        <seg>&lt;x1/&gt;5.&lt;x2/&gt; It is required to run the Activation Wizard (GuardantActivationWizard.exe) on the final user computer (&lt;x3/&gt;Important&lt;x4/&gt;: the "Offline mode" option (at the bottom, leftward) must not be installed), to press the "Specify the license file..." button and to select the required file in the opened file selection dialog hafing specified the file type "FIles received from the activation server (*.fromserver)":</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T100840Z" creationid="Марианна" creationdate="20200608T095312Z">
+        <seg>&lt;x1/&gt;5.&lt;x2/&gt; It is required to run the Activation Wizard (GuardantActivationWizard.exe) on the final user computer (&lt;x3/&gt;Important&lt;x4/&gt;: the "Offline mode" option (at the bottom, leftward) must not be installed), to press the "Specify the license file..." button and to select the required file in the opened file selection dialog having specified the file type "FIles received from the activation server (*.fromserver)":</seg>
       </tuv>
     </tu>
     <tu>
