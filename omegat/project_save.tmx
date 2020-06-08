@@ -4648,6 +4648,22 @@ A: Slight typo here. I had "connection" in the Plural.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Для передачи отчета в техническую поддержку его требуется сохранить в html или txt формате и отправить по &lt;x1/&gt;e-mail&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T073417Z" creationid="Марианна" creationdate="20200608T073417Z">
+        <seg>To transfer the report to the help desk, it is required to save it in html or txt format and to send it using the following e-mail: &lt;x1/&gt;e-mail&lt;x2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Для получения отчёта нажмите кнопку "Полный отчёт", после чего в браузере откроется html-файл с подробным описанием всех ключей, установленных в системе, а также конфигурации системы.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T073232Z" creationid="Марианна" creationdate="20200608T073232Z">
+        <seg>To retrieve the report, it is required to press the "Full Report" button; then HTML file with detailed description of all dongles installed in the system and system configuration will be opened in the browser.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>To receive parameters of existing IIS sites in the installer interface, it is required to run it with administrator rights.</note>
       <tuv lang="RU">
         <seg>Для получения параметров существующих сайтов IIS в интерфейсе инсталлятора требуется запустить его с правами администратора.</seg>
