@@ -3192,8 +3192,8 @@ M: Done</note>
       <tuv lang="RU">
         <seg>Loginom может запускаться только там, где установлен ключ;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T061939Z" creationid="Марианна" creationdate="20200608T061939Z">
-        <seg>Loginom will be started only on computer with the installed key.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T064152Z" creationid="Марианна" creationdate="20200608T061939Z">
+        <seg>Loginom will be started only on computer with the installed dongle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4568,8 +4568,8 @@ M: Done
       <tuv lang="RU">
         <seg>Для локального ключа доступны оба варианта исполнения, но сетевой ключ доступен только в стандартном форм-факторе.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T060922Z" creationid="Марианна" creationdate="20200608T060922Z">
-        <seg>Both versions are available for the local key, but the network dongle is available only in the standard form factor.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T064111Z" creationid="Марианна" creationdate="20200608T060922Z">
+        <seg>Both versions are available for the local dongle, but the network dongle is available only in the standard form factor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4704,8 +4704,8 @@ Done.</note>
       <tuv lang="RU">
         <seg>Для работы локального ключа необходимо установить только драйвер, тогда как при использовании сетевого ключа нужен выделенный сервер, на который необходимо проинсталлировать сервер ключей.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T062727Z" creationid="Марианна" creationdate="20200608T062727Z">
-        <seg>It is required to install only a driver for the local key operation, whereas a dedicated server is used for the network dongle and a key server must be installed on it.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T064216Z" creationid="Марианна" creationdate="20200608T062727Z">
+        <seg>It is required to install only a driver for the local dongle operation, whereas a dedicated server is used for the network dongle and a key server must be installed on it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4788,8 +4788,8 @@ Done.</note>
       <tuv lang="RU">
         <seg>Для физических ключей доступны два варианта исполнения: стандартный и микро.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T060653Z" creationid="Марианна" creationdate="20200608T060653Z">
-        <seg>Only two versions are available for physical keys: standard and micro.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T064102Z" creationid="Марианна" creationdate="20200608T060653Z">
+        <seg>Only two versions are available for physical dongles: standard and micro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5839,8 +5839,8 @@ M: Done. </note>
       <tuv lang="RU">
         <seg>Локальный USB-ключ</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T061318Z" creationid="Марианна" creationdate="20200608T061318Z">
-        <seg>Local USB key</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T064129Z" creationid="Марианна" creationdate="20200608T061318Z">
+        <seg>Local USB Dongle</seg>
       </tuv>
     </tu>
     <tu>
@@ -7174,8 +7174,8 @@ M: Done</note>
       <tuv lang="RU">
         <seg>Привязка программного обеспечения осуществляется не к параметрам компьютера, а только к ключу;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T061754Z" creationid="Марианна" creationdate="20200608T061754Z">
-        <seg>Software is bound not to the computer parameters, but to the key.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T064136Z" creationid="Марианна" creationdate="20200608T061754Z">
+        <seg>Software is bound not to the computer parameters, but to the dongle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7687,8 +7687,8 @@ M: Done </note>
       <tuv lang="RU">
         <seg>Сравнение вариантов физических ключей</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T061208Z" creationid="Марианна" creationdate="20200608T061208Z">
-        <seg>Comparison of the Physical Keys Versions</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T064118Z" creationid="Марианна" creationdate="20200608T061208Z">
+        <seg>Comparison of the Physical Dongles Versions</seg>
       </tuv>
     </tu>
     <tu>
