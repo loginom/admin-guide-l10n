@@ -4470,6 +4470,14 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Диагностика ключей Guardant</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T072309Z" creationid="Марианна" creationdate="20200608T072309Z">
+        <seg>Guardant Dongles Diagnostics</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A: The dialog is available only on condition of Web server component installation.
 M: Done</note>
       <tuv lang="RU">
