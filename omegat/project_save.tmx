@@ -7644,6 +7644,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Серийный номер вида &lt;x1/&gt;9XZrwR-XXXXX-7NGDyS-XXXXX-qZGBcW-XXXXX-XoLBXF-xwqwXv-8oEO0o-XXXXX&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T103104Z" creationid="Марианна" creationdate="20200608T103104Z">
+        <seg>Serial number of the following type: &lt;x1/&gt;9XZrwR-XXXXX-7NGDyS-XXXXX-qZGBcW-XXXXX-XoLBXF-xwqwXv-8oEO0o-XXXXX&lt;x2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Сертификат из хранилища необходимо экспортировать в файл &lt;x1/&gt;.CER&lt;x2/&gt; в DER-кодировке &lt;x3/&gt;X.509&lt;x4/&gt; без закрытого ключа,  а в параметре настроек &lt;x5/&gt;Адаптера&lt;x6/&gt; – &lt;x7/&gt;Путь к сертификату&lt;x8/&gt; указывается путь к данному файлу.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T064747Z" creationid="Марианна" creationdate="20200502T064747Z">
