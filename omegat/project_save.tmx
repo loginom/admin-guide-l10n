@@ -5756,8 +5756,8 @@ M: Done. </note>
       <tuv lang="RU">
         <seg>Конкурентные лицензии позволяют приобретать меньшее количество ПО в связи с тем, что количество одновременно запущенных приложений ограничивается.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T063453Z" creationid="Марианна" creationdate="20200608T063453Z">
-        <seg>Competitive licenses enable acquisition of less software, as the number of simaltaneously started applications is limited.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T064927Z" creationid="Марианна" creationdate="20200608T063453Z">
+        <seg>Competitive licenses enable acquisition of less software, as the number of simultaneously started applications is limited.</seg>
       </tuv>
     </tu>
     <tu>
