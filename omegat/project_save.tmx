@@ -1040,6 +1040,14 @@ M: Done</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;3.&lt;x2/&gt; Если активация прошла успешно, мастер выдает завершающее диалоговое окно:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T104915Z" creationid="Марианна" creationdate="20200608T104915Z">
+        <seg>&lt;x1/&gt;3.&lt;x2/&gt; If activation is a success, the wizard shows the final dialog window:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A: 3. After the upgrade, it is required to start the loginom service 
 M: Done.</note>
       <tuv lang="RU">
