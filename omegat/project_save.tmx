@@ -5865,6 +5865,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Компьютер, где будет выполняться активация, должен иметь доступ к серверу активации по адресу &lt;x1/&gt;https://sp.guardant.ru&lt;x2/&gt; в процессе инициализации ключа.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T103616Z" creationid="Марианна" creationdate="20200608T103616Z">
+        <seg>It is required to provide access to the activation server for the computer used for activation at the following address: &lt;x1/&gt;https://sp.guardant.ru&lt;x2/&gt; in the process of the dongle initialization.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Конечным результатом этапов трансформации XML-запроса является формирование запроса в индивидуальном формате, заданном в описании внешнего сервиса, и может представлять собой XML, JSON, двоичные данные, текст и т.д.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T223346Z" creationid="Марианна" creationdate="20200426T110202Z">
