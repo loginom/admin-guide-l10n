@@ -3190,6 +3190,22 @@ M: Done</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Loginom может запускаться только там, где установлен ключ;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T061939Z" creationid="Марианна" creationdate="20200608T061939Z">
+        <seg>Loginom will be started only on computer with the installed key.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Loginom не работает при подключении к системе в режиме RDP-сессии.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T062104Z" creationid="Марианна" creationdate="20200608T062104Z">
+        <seg>Loginom cannot be used when connecting to the system in the mode of RDP session.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Loginom — руководство администратора</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T213705Z" creationid="Марианна" creationdate="20200605T213705Z">
@@ -4805,8 +4821,8 @@ M: Done</note>
       <tuv lang="RU">
         <seg>Должен быть вставлен в USB-порт того компьютера, на котором будет запускаться Loginom;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T061605Z" creationid="Марианна" creationdate="20200608T061517Z">
-        <seg>It must be inserted into the USB port of the computer used for Loginom operation;</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T061904Z" creationid="Марианна" creationdate="20200608T061517Z">
+        <seg>It must be inserted into the USB port of the computer used for Loginom start;</seg>
       </tuv>
     </tu>
     <tu>
