@@ -4873,6 +4873,14 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Для успешной активации ключа требуется:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T102826Z" creationid="Марианна" creationdate="20200608T102826Z">
+        <seg>The following conditions are required for the successful dongle activation:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>It is required to click the Custom button for installation with non-standard parameters in the Installation type dialog. </note>
       <tuv lang="RU">
         <seg>Для установки с нестандартными параметрами в диалоге &lt;x1/&gt;"Тип установки"&lt;x2/&gt; нажимаем кнопку &lt;x3/&gt;"Выборочная"&lt;x4/&gt;.</seg>
@@ -5223,6 +5231,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T230254Z" creationid="Марианна" creationdate="20200426T111712Z">
         <seg>is filled in by the formed SOAP package or REST message body according to the value of the &lt;x1/&gt;Message format&lt;x2/&gt; parameter/ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Запрограммированный шаблон ключа Guardant SP (файл вида *.grdvd).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T103043Z" creationid="Марианна" creationdate="20200608T103043Z">
+        <seg>Programed template of Guardant SP dongle (*.grdvd file).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8102,6 +8118,22 @@ M: Done </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T141150Z" creationid="Марианна" creationdate="20200519T141150Z">
         <seg>Installation of the Rewrite Module</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Установленный драйвер Guardant версии не ниже 6.0.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T102916Z" creationid="Марианна" creationdate="20200608T102916Z">
+        <seg>Installed Guardant driver, version 6.0 or higher.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Утилита GuardantActivationWizard.exe, поставляющаяся в комплекте с SP-ключом.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T102947Z" creationid="Марианна" creationdate="20200608T102947Z">
+        <seg>GuardantActivationWizard.exe utility supplied with SP dongle.</seg>
       </tuv>
     </tu>
     <tu>
