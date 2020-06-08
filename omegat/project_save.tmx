@@ -3805,6 +3805,14 @@ net start loginom</seg>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Активация программного SP-ключа</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T102539Z" creationid="Марианна" creationdate="20200608T102539Z">
+        <seg>Activation of Software SP Dongle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Активация программного SP-ключа для систем без доступа к интернету</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200608T100612Z" creationid="Марианна" creationdate="20200608T093118Z">
