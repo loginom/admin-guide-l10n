@@ -5513,11 +5513,12 @@ OK, I have got it. The WSDL description everywhere. And the names (name). Three 
       </tuv>
     </tu>
     <tu>
+      <note>The value can be both a full and a relative (from the configuration file) path.</note>
       <tuv lang="RU">
         <seg>Значением может быть полный или относительный (от файла конфигурации) путь.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T204053Z" creationid="Марианна" creationdate="20200605T204053Z">
-        <seg>The value cab be both full and relative (from the configuration file) path.</seg>
+      <tuv lang="EN" changeid="dell" changedate="20200608T203600Z" creationid="Марианна" creationdate="20200605T204053Z">
+        <seg>The value cab be both full and relative (from the configuration file) path. </seg>
       </tuv>
     </tu>
     <tu>
