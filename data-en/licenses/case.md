@@ -23,7 +23,7 @@ Advantages:
 * License cannot be suspended due to the fact that a user didn't close Loginom on other computer.
 * It is required to install only a driver for the local dongle operation, whereas a dedicated server is used for the network dongle and a key server must be installed on it.
 
-### Network USB dongle
+### Network USB Dongle
 
 Features:
 
