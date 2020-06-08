@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4082,6 +4082,14 @@ M: Done. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Варианты исполнения ключа</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T060523Z" creationid="Марианна" creationdate="20200608T060523Z">
+        <seg>Key Versions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Веб Сервер (IIS) (Установлено 8 из 43)
 - Веб сервер (Установлено 8 из 34)</seg>
       </tuv>
@@ -4542,6 +4550,14 @@ M: Done
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Для локального ключа доступны оба варианта исполнения, но сетевой ключ доступен только в стандартном форм-факторе.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T060922Z" creationid="Марианна" creationdate="20200608T060922Z">
+        <seg>Both versions are available for the local key, but the network dongle is available only in the standard form factor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Для обновления Loginom Integrator необходимо запустить инсталлятор новой версии:</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T222421Z" creationid="Марианна" creationdate="20200604T222421Z">
@@ -4734,6 +4750,14 @@ Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T074517Z" creationid="Марианна" creationdate="20200520T074517Z">
         <seg>It is required to press the &lt;x3/&gt;Custom&lt;x4/&gt; button for installation with nonstandard parameters in the &lt;x1/&gt;Installation type&lt;x2/&gt; dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Для физических ключей доступны два варианта исполнения: стандартный и микро.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T060653Z" creationid="Марианна" creationdate="20200608T060653Z">
+        <seg>Only two versions are available for physical keys: standard and micro.</seg>
       </tuv>
     </tu>
     <tu>
