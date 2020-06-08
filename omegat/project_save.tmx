@@ -4845,6 +4845,14 @@ M: Done</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Достоинства:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T062113Z" creationid="Марианна" creationdate="20200608T062113Z">
+        <seg>Advantages:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Доступны 32-х и 64-х разрядные редакции.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T215118Z" creationid="Марианна" creationdate="20200605T215118Z">
@@ -6076,6 +6084,14 @@ The desktop version of the platform is designated for installation on the local 
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Не может произойти ситуация блокировки лицензии из-за того, что пользователь на другой машине не закрыл приложение Loginom;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T062443Z" creationid="Марианна" creationdate="20200608T062443Z">
+        <seg>License cannot be suspended due to the fact that a user didn't close Loginom on other computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Не требует инсталляции, т.к. взаимодействие осуществляется через браузер.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T214711Z" creationid="Марианна" creationdate="20200605T214711Z">
@@ -7292,6 +7308,14 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200512T095631Z" creationid="Марианна" creationdate="20200426T124906Z">
         <seg>Certificates Usage</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Работает более стабильно и надежно;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T062211Z" creationid="Марианна" creationdate="20200608T062211Z">
+        <seg>It is distinguished by higher level of stability and reliability.</seg>
       </tuv>
     </tu>
     <tu>
