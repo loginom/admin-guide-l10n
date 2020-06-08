@@ -5805,6 +5805,14 @@ M: Done. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Лицензии конкурентные, то есть ограничивается количество компьютеров (или сессий терминала), на которых запущены приложения Loginom.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T063139Z" creationid="Марианна" creationdate="20200608T063139Z">
+        <seg>The licenses are competitive. It means that the number of computers (or terminal sessions) on which Loginom applications have been started is limited.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Лицензионные ключи</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T220039Z" creationid="Марианна" creationdate="20200605T220039Z">
