@@ -1,6 +1,6 @@
 # Activation of Software SP Dongle for Offline Systems
 
- [Activation is possible in the offline mode](https://dev.guardant.ru/pages/viewpage.action?pageId=1278815) in the case of network unavailability ([online-mode](./sp-key-activate.md)) for the final user computer at the moment of SP dongle activation. For that purpose it is required to perform a number of actions.
+ [Activation is possible in the offline mode](https://dev.guardant.ru/pages/viewpage.action?pageId=1278815) in the case of network unavailability ([online-mode](./sp-key-activate.md)) for the final user computer at the moment of SP dongle activation. For that purpose, it is required to perform a number of actions.
 
 __1.__ To run Guardant Activation Wizard (GuardantActivationWizard.exe), to install the "Offline mode" option (at the bottom, leftward) and to press the "Next" button:
 
