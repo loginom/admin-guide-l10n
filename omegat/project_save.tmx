@@ -1884,16 +1884,16 @@ M: Done</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Активация SP-ключа (offline)&lt;x2/&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T220322Z" creationid="Марианна" creationdate="20200605T220322Z">
-        <seg>&lt;x1/&gt;Activation of SP key (offline)&lt;x2/&gt;</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T064535Z" creationid="Марианна" creationdate="20200605T220322Z">
+        <seg>&lt;x1/&gt;Activation of SP dongle (offline)&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Активация SP-ключа (online)&lt;x2/&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T220315Z" creationid="Марианна" creationdate="20200605T220315Z">
-        <seg>&lt;x1/&gt;Activation of SP key (online)&lt;x2/&gt;</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T064530Z" creationid="Марианна" creationdate="20200605T220315Z">
+        <seg>&lt;x1/&gt;Activation of SP dongle (online)&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1920,8 +1920,8 @@ M: Not done. The Russian source is different.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Варианты исполнения ключа&lt;x2/&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T220126Z" creationid="Марианна" creationdate="20200605T220126Z">
-        <seg>&lt;x1/&gt;Key versions&lt;x2/&gt;</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T064525Z" creationid="Марианна" creationdate="20200605T220126Z">
+        <seg>&lt;x1/&gt;Dongle versions&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2222,8 +2222,8 @@ OK
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Обновление USB-ключа&lt;x2/&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T220337Z" creationid="Марианна" creationdate="20200605T220337Z">
-        <seg>&lt;x1/&gt;USB key upgrade&lt;x2/&gt;</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T064546Z" creationid="Марианна" creationdate="20200605T220337Z">
+        <seg>&lt;x1/&gt;USB dongle upgrade&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4100,8 +4100,8 @@ M: Done. </note>
       <tuv lang="RU">
         <seg>Варианты исполнения ключа</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T060523Z" creationid="Марианна" creationdate="20200608T060523Z">
-        <seg>Key Versions</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T064458Z" creationid="Марианна" creationdate="20200608T060523Z">
+        <seg>Dongle Versions</seg>
       </tuv>
     </tu>
     <tu>
