@@ -1009,6 +1009,14 @@ M: Done</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;1.&lt;x2/&gt; При помощи кнопки "Указать файл лицензии" выберите путь к файлу вида *.grdvd.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T103959Z" creationid="Марианна" creationdate="20200608T103959Z">
+        <seg>&lt;x1/&gt;1.&lt;x2/&gt; Using the "Specify the license file" button, select the path to *.grdvd file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;2.&lt;x2/&gt; Ввести серийный номер программного ключа.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200608T094550Z" creationid="Марианна" creationdate="20200608T094550Z">
@@ -7417,6 +7425,14 @@ M: Done. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Проверьте настройки Интернет-соединения и нажмите на кнопку "Далее":</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T104031Z" creationid="Марианна" creationdate="20200608T104031Z">
+        <seg>Check the Internet connections settings and press the "Next" button:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Процедура получения сертификата и порядок его использования для каждого из внешних веб-сервисов (например - БКИ) описывается в документации, предоставляемой поставщиком услуг соответствующего веб-сервиса.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T065817Z" creationid="Марианна" creationdate="20200502T060630Z">
@@ -8310,6 +8326,14 @@ Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T210447Z" creationid="Марианна" creationdate="20200605T210447Z">
         <seg>Target fields for the event data record can be specified in two ways: it is possible to bind the log fields to the table fields or to send SQL query.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Чтобы активировать ключ Guardant SP, запустите мастер активации GuardantActivationWizard.exe и следуйте его указаниям:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T103825Z" creationid="Марианна" creationdate="20200608T103825Z">
+        <seg>To activate Guardant SP dongle, it is required to run GuardantActivationWizard.exe  activation wizard and to follow its instructions:</seg>
       </tuv>
     </tu>
     <tu>
