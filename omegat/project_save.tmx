@@ -993,6 +993,14 @@ M: Done</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;1.&lt;x2/&gt; Запустить Мастер активации Guardant (GuardantActivationWizard.exe), установить опцию "Режим offline" (внизу слева) и нажать кнопку "Далее":</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T094030Z" creationid="Марианна" creationdate="20200608T094030Z">
+        <seg>&lt;x1/&gt;1.&lt;x2/&gt; To run Guardant Activation Wizard (GuardantActivationWizard.exe), to install the "Offline mode" option (at the bottom, leftward) and to press the "Next" button:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;1.&lt;x2/&gt; Останавливаем службу &lt;x3/&gt;loginom&lt;x4/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T150256Z" creationid="Марианна" creationdate="20200519T150256Z">
