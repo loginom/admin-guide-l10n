@@ -1044,6 +1044,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;4.&lt;x2/&gt; Программа соединится с сервером активации и сгенерирует еще один файл, который нужно перенести на компьютер конечного пользователя для завершения активации:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T095221Z" creationid="Марианна" creationdate="20200608T095221Z">
+        <seg>&lt;x1/&gt;4.&lt;x2/&gt; The program will connect with the activation server and generate one more file to be transferred to the final user computer to finish the activation process:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;443&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T153616Z" creationid="Марианна" creationdate="20200519T153616Z">
