@@ -4693,6 +4693,14 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Для работы локального ключа необходимо установить только драйвер, тогда как при использовании сетевого ключа нужен выделенный сервер, на который необходимо проинсталлировать сервер ключей.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T062727Z" creationid="Марианна" creationdate="20200608T062727Z">
+        <seg>It is required to install only a driver for the local key operation, whereas a dedicated server is used for the network dongle and a key server must be installed on it.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A:
 The external cryptography service providers (Cryptography Service Provider, CSP) and Java Runtime Environment (JRE) can be used for work with some web services.
 
@@ -4823,6 +4831,14 @@ M: Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200608T061904Z" creationid="Марианна" creationdate="20200608T061517Z">
         <seg>It must be inserted into the USB port of the computer used for Loginom start;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Должен быть установлен на выделенном сервере, на котором необходимо дополнительно проинсталлировать сервер ключей;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T062901Z" creationid="Марианна" creationdate="20200608T062901Z">
+        <seg>It must be installed on a dedicated server and a key server must be additionally installed on it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7471,6 +7487,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T060956Z" creationid="Марианна" creationdate="20200225T132849Z">
         <seg>The certificates without a private key can be placed into a separate file in the file system location specified by the &lt;x13/&gt;Certificate path&lt;x14/&gt; parameter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Сетевой USB-ключ</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T062747Z" creationid="Марианна" creationdate="20200608T062747Z">
+        <seg>Network USB dongle</seg>
       </tuv>
     </tu>
     <tu>
