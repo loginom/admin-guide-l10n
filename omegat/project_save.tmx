@@ -2166,8 +2166,8 @@ OK
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Лицензионные ключи&lt;x2/&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T220053Z" creationid="Марианна" creationdate="20200605T220053Z">
-        <seg>&lt;x1/&gt;Licensing Keys&lt;x2/&gt;</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T064401Z" creationid="Марианна" creationdate="20200605T220053Z">
+        <seg>&lt;x1/&gt;Licensing Dongles&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2806,8 +2806,8 @@ Andrew R: keys_msi — it is possible to find allowable values executing the fo
       <tuv lang="RU">
         <seg>&lt;x3/&gt;Лицензионные ключи&lt;x4/&gt;).</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T085139Z" creationid="Марианна" creationdate="20200520T085139Z">
-        <seg>&lt;x3/&gt;Licensing Keys&lt;x4/&gt;).</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T064335Z" creationid="Марианна" creationdate="20200520T085139Z">
+        <seg>&lt;x3/&gt;Licensing Dongles&lt;x4/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5831,8 +5831,8 @@ M: Done. </note>
       <tuv lang="RU">
         <seg>Лицензионные ключи</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T220039Z" creationid="Марианна" creationdate="20200605T220039Z">
-        <seg>Licensing Keys</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T064349Z" creationid="Марианна" creationdate="20200605T220039Z">
+        <seg>Licensing Dongles</seg>
       </tuv>
     </tu>
     <tu>
