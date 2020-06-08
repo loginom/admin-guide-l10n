@@ -7517,8 +7517,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Сетевой USB-ключ</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T062747Z" creationid="Марианна" creationdate="20200608T062747Z">
-        <seg>Network USB dongle</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T064738Z" creationid="Марианна" creationdate="20200608T062747Z">
+        <seg>Network USB Dongle</seg>
       </tuv>
     </tu>
     <tu>
