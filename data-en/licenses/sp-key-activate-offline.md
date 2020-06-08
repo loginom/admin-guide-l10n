@@ -19,7 +19,7 @@ __4.__ The program will connect with the activation server and generate one more
 ![](./off-scr4.png)
 
 
-__5.__ It is required to run the Activation Wizard (GuardantActivationWizard.exe) on the final user computer (**Important**: the "Offline mode" option (at the bottom, leftward) must not be installed), to press the "Specify the license file..." button and to select the required file in the opened file selection dialog hafing specified the file type "FIles received from the activation server (*.fromserver)":
+__5.__ It is required to run the Activation Wizard (GuardantActivationWizard.exe) on the final user computer (**Important**: the "Offline mode" option (at the bottom, leftward) must not be installed), to press the "Specify the license file..." button and to select the required file in the opened file selection dialog having specified the file type "FIles received from the activation server (*.fromserver)":
 
 ![](./off-scr5.png)
 
