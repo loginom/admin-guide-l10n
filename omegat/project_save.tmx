@@ -8162,8 +8162,8 @@ Done.</note>
       <tuv lang="RU">
         <seg>Это особенно удобно при работе в корпоративной сети, так как чаще всего Loginom запускают сразу не все пользователи, у которых он установлен.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T063641Z" creationid="Марианна" creationdate="20200608T063641Z">
-        <seg>It is particularly convenient in case of the corporate network usage when Loginom is typically started not by all users who installed it.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T065031Z" creationid="Марианна" creationdate="20200608T063641Z">
+        <seg>It is particularly convenient in the case of the corporate network usage when Loginom is typically started not by all users who installed it.</seg>
       </tuv>
     </tu>
     <tu>
