@@ -33,4 +33,4 @@ Features:
 Advantages:
 
 * It is not required to install driver on each computer. It is sufficient just to install the program.
-* Competitive licenses enable acquisition of less software, as the number of simaltaneously started applications is limited. It is particularly convenient in case of the corporate network usage when Loginom is typically started not by all users who installed it.
+* Competitive licenses enable acquisition of less software, as the number of simultaneously started applications is limited. It is particularly convenient in case of the corporate network usage when Loginom is typically started not by all users who installed it.
