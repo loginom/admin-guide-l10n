@@ -4518,6 +4518,14 @@ M: OK, done. Still i would prefer to preserve the universal style of the text. <
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Для запуска диагностики требуется открыть файл &lt;x1/&gt;%ProgramFiles%\Common Files\Guardant\Drivers\grddiag.exe&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T072829Z" creationid="Марианна" creationdate="20200608T072829Z">
+        <seg>It is required to open &lt;x1/&gt;%ProgramFiles%\Common Files\Guardant\Drivers\grddiag.exe&lt;x2/&gt; file to start the diagnostic process.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>To start the services by means of the command line, it is required to run the following commands as administrator: 
 M: Done
 
@@ -7777,6 +7785,14 @@ M:Done. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Также утилиту можно запустить из апплета панели управления "Драйверы Guardant" кнопкой "Диагностика".</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T073006Z" creationid="Марианна" creationdate="20200608T073006Z">
+        <seg>The ulility can be also started from the applet of the "Guardant Drivers" control panel using the "Diagnostics" button.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Таким образом, XSD-схема описания сервиса должна содержать эти элементы и задавать их структуру (&lt;x1/&gt;tipe&lt;x2/&gt;), а из настроек &lt;x3/&gt;Адаптера&lt;x4/&gt; должно быть понятно, какое именно сообщение описывается определенным элементом импортируемой схемы.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200428T122438Z" creationid="Марианна" creationdate="20200428T122438Z">
@@ -7989,6 +8005,14 @@ M: Done </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200608T072719Z" creationid="Марианна" creationdate="20200608T072719Z">
         <seg>The diagnostic utility automatically collects information on the system, tests electronic Guardant dongles and draws help desk report.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Утилита устанавливается вместе с драйверами Guardant.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T072744Z" creationid="Марианна" creationdate="20200608T072744Z">
+        <seg>The utility is installed with Guardant drivers.</seg>
       </tuv>
     </tu>
     <tu>
