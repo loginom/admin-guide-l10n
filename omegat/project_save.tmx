@@ -1964,6 +1964,14 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Важно&lt;x2/&gt;: Особенностью Guardant SP является криптографическая привязка к оборудованию, т.е. активированный ключ нельзя использовать на другом компьютере.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T103732Z" creationid="Марианна" creationdate="20200608T103732Z">
+        <seg>&lt;x1/&gt;Important&lt;x2/&gt;: Guardant SP is distinguished by the cryptographic binding to the equipment, namely it is not possible to use the activated dongle on the other computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A; Important: in compliance with the resulting XML response with its description in the XSD schema will cause the Adapter web service operation error. 
 M: Not done. The Russian source is different.</note>
       <tuv lang="RU">
