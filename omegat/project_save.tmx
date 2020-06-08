@@ -1009,6 +1009,14 @@ M: Done</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;2.&lt;x2/&gt; Ввести серийный номер программного ключа.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T094550Z" creationid="Марианна" creationdate="20200608T094550Z">
+        <seg>&lt;x1/&gt;2.&lt;x2/&gt; To enter the software dongle serial number.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;2.&lt;x2/&gt; Запускаем инсталлятор Loginom новой версии:</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T102846Z" creationid="Марианна" creationdate="20200519T150434Z">
