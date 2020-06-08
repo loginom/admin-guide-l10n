@@ -6957,6 +6957,14 @@ Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>После этого программа сгенерирует специальный файл для отправки на сервер активации:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T094653Z" creationid="Марианна" creationdate="20200608T094653Z">
+        <seg>Then the program will generate a special file to be sent to the activation server:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Последующие запросы к &lt;x7/&gt;Адаптеру&lt;x8/&gt; будут выполнены с учетом новых настроек.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T220031Z" creationid="Марианна" creationdate="20200203T073932Z">
