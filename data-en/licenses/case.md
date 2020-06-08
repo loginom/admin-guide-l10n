@@ -1,36 +1,36 @@
-# Варианты исполнения ключа
+# Key Versions
 
-Для физических ключей доступны два варианта исполнения: стандартный и микро.
+Only two versions are available for physical keys: standard and micro.
 
 ![](../images/license-key.png)
 
-Для локального ключа доступны оба варианта исполнения, но сетевой ключ доступен только в стандартном форм-факторе.
+Both versions are available for the local key, but the network dongle is available only in the standard form factor.
 
-## Сравнение вариантов физических ключей
+## Comparison of the Physical Keys Versions
 
-### Локальный USB-ключ
+### Local USB key
 
-Особенности:
+Features:
 
-* Должен быть вставлен в USB-порт того компьютера, на котором будет запускаться Loginom;
-* Привязка программного обеспечения осуществляется не к параметрам компьютера, а только к ключу;
-* Loginom может запускаться только там, где установлен ключ;
-* Loginom не работает при подключении к системе в режиме RDP-сессии.
+* It must be inserted into the USB port of the computer used for Loginom start;
+* Software is bound not to the computer parameters, but to the key.
+* Loginom will be started only on computer with the installed key.
+* Loginom cannot be used when connecting to the system in the mode of RDP session.
 
-Достоинства:
+Advantages:
 
-* Работает более стабильно и надежно;
-* Не может произойти ситуация блокировки лицензии из-за того, что пользователь на другой машине не закрыл приложение Loginom;
-* Для работы локального ключа необходимо установить только драйвер, тогда как при использовании сетевого ключа нужен выделенный сервер, на который необходимо проинсталлировать сервер ключей.
+* It is distinguished by higher level of stability and reliability.
+* License cannot be suspended due to the fact that a user didn't close Loginom on other computer.
+* It is required to install only a driver for the local key operation, whereas a dedicated server is used for the network dongle and a key server must be installed on it.
 
-### Сетевой USB-ключ
+### Network USB dongle
 
-Особенности:
+Features:
 
-* Должен быть установлен на выделенном сервере, на котором необходимо дополнительно проинсталлировать сервер ключей;
-* Лицензии конкурентные, то есть ограничивается количество компьютеров (или сессий терминала), на которых запущены приложения Loginom.
+* It must be installed on a dedicated server and a key server must be additionally installed on it.
+* The licenses are competitive. It means that the number of computers (or terminal sessions) on which Loginom applications have been started is limited.
 
-Достоинства:
+Advantages:
 
-* Для работы Loginom нет необходимости устанавливать драйвер на каждую машину, достаточно просто инсталлировать программу;
-* Конкурентные лицензии позволяют приобретать меньшее количество ПО в связи с тем, что количество одновременно запущенных приложений ограничивается. Это особенно удобно при работе в корпоративной сети, так как чаще всего Loginom запускают сразу не все пользователи, у которых он установлен.
+* It is not required to install driver on each computer. It is sufficient just to install the program.
+* Competitive licenses enable acquisition of less software, as the number of simaltaneously started applications is limited. It is particularly convenient in case of the corporate network usage when Loginom is typically started not by all users who installed it.
