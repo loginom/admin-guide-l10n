@@ -12,4 +12,4 @@ To retrieve the report, it is required to press the "Full Report" button; then H
 
 ![](../images/guardant-diag-report.png)
 
-To transfer the report to the help desk, it is required to save it in html or txt format and send it using the following e-mail: [e-mail](mailto:support@loginom.ru).
+To transfer the report to the help desk, it is required to save it in html or txt format and send it by the following e-mail: [e-mail](mailto:support@loginom.ru).
