@@ -7977,6 +7977,14 @@ M: Done </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Утилита диагностики Guardant предназначена для тестирования ключей защиты на предмет наличия и работоспособности.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T072525Z" creationid="Марианна" creationdate="20200608T072525Z">
+        <seg>Guardant diagnostic utility is required for dongles testing to check availability and operability.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Учетные записи</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T085817Z" creationid="Марианна" creationdate="20200520T085817Z">
