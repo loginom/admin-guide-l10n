@@ -1,27 +1,27 @@
 # Key Versions
 
-Only two versions are available for physical keys: standard and micro.
+Only two versions are available for physical dongles: standard and micro.
 
 ![](../images/license-key.png)
 
-Both versions are available for the local key, but the network dongle is available only in the standard form factor.
+Both versions are available for the local dongle, but the network dongle is available only in the standard form factor.
 
-## Comparison of the Physical Keys Versions
+## Comparison of the Physical Dongles Versions
 
-### Local USB key
+### Local USB Dongle
 
 Features:
 
 * It must be inserted into the USB port of the computer used for Loginom start;
-* Software is bound not to the computer parameters, but to the key.
-* Loginom will be started only on computer with the installed key.
+* Software is bound not to the computer parameters, but to the dongle.
+* Loginom will be started only on computer with the installed dongle.
 * Loginom cannot be used when connecting to the system in the mode of RDP session.
 
 Advantages:
 
 * It is distinguished by higher level of stability and reliability.
 * License cannot be suspended due to the fact that a user didn't close Loginom on other computer.
-* It is required to install only a driver for the local key operation, whereas a dedicated server is used for the network dongle and a key server must be installed on it.
+* It is required to install only a driver for the local dongle operation, whereas a dedicated server is used for the network dongle and a key server must be installed on it.
 
 ### Network USB dongle
 
