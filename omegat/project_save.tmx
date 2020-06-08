@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7272,6 +7272,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>Upon receipt of request, the server is randomly selected among the available primary (not standby) servers providing the required package. </note>
       <tuv lang="RU">
         <seg>При поступлении запроса сервер выбирается случайным образом среди доступных основных (не резервных) серверов, предоставляющих требуемый пакет.</seg>
       </tuv>
@@ -7504,11 +7505,12 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>The default path to the directory - %ALLUSERSPROFILE%\BaseGroup\Loginom 6\Integrator. </note>
       <tuv lang="RU">
         <seg>Путь к каталогу по умолчанию - &lt;x1/&gt;%ALLUSERSPROFILE%\BaseGroup\Loginom 6\Integrator&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T203910Z" creationid="Марианна" creationdate="20200605T203910Z">
-        <seg>Default path to the directory - &lt;x1/&gt;%ALLUSERSPROFILE%\BaseGroup\Loginom 6\Integrator&lt;x2/&gt;.</seg>
+      <tuv lang="EN" changeid="dell" changedate="20200608T203232Z" creationid="Марианна" creationdate="20200605T203910Z">
+        <seg>Default path to the directory - &lt;x1/&gt;%ALLUSERSPROFILE%\BaseGroup\Loginom 6\Integrator&lt;x2/&gt;. </seg>
       </tuv>
     </tu>
     <tu>
