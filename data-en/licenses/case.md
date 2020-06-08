@@ -1,4 +1,4 @@
-# Key Versions
+# Dongle Versions
 
 Only two versions are available for physical dongles: standard and micro.
 
