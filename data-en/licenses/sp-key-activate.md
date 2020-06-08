@@ -22,6 +22,6 @@ To activate Guardant SP dongle, it is required to run GuardantActivationWizard.e
 
 The wizard will perform the required exchange of information with the dongle driver and activation server. In this respect, among other issues, the entered serial number is checked, and superencryption of the software dongle file is performed using contol values of the computer components.
 
-**3.** Если активация прошла успешно, мастер выдает завершающее диалоговое окно:
+**3.** If activation is a success, the wizard shows the final dialog window:
 
 ![](../images/guardant-sp-activate-3.png)
