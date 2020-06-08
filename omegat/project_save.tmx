@@ -4803,6 +4803,14 @@ M: Done</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Должен быть вставлен в USB-порт того компьютера, на котором будет запускаться Loginom;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T061605Z" creationid="Марианна" creationdate="20200608T061517Z">
+        <seg>It must be inserted into the USB port of the computer used for Loginom operation;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Дополнительные файлы</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200324T070732Z" creationid="Марианна" creationdate="20200206T075207Z">
@@ -5100,8 +5108,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Запустить диспетчер служб IIS можно командой &lt;x3/&gt;inetmgr&lt;x4/&gt; через меню &lt;x5/&gt;Выполнить&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T102619Z" creationid="Марианна" creationdate="20200502T204447Z">
-        <seg>It is possible to start the IIS service manager by the &lt;x3/&gt;inetmgr&lt;x4/&gt; command using the &lt;x5/&gt;Run&lt;x6/&gt; menu.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T061542Z" creationid="Марианна" creationdate="20200502T204447Z">
+        <seg>It is possible to run the IIS service manager by the &lt;x3/&gt;inetmgr&lt;x4/&gt; command using the &lt;x5/&gt;Run&lt;x6/&gt; menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7088,6 +7096,14 @@ M: Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T210505Z" creationid="Марианна" creationdate="20200605T210505Z">
         <seg>Binding to the table fields</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Привязка программного обеспечения осуществляется не к параметрам компьютера, а только к ключу;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T061754Z" creationid="Марианна" creationdate="20200608T061754Z">
+        <seg>Software is bound not to the computer parameters, but to the key.</seg>
       </tuv>
     </tu>
     <tu>
