@@ -7565,6 +7565,14 @@ M: Done </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Сравнение вариантов физических ключей</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T061208Z" creationid="Марианна" creationdate="20200608T061208Z">
+        <seg>Comparison of the Physical Keys Versions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Строка запроса (&lt;x1/&gt;Request Line&lt;x2/&gt;)</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200426T111130Z" creationid="Марианна" creationdate="20200426T111130Z">
