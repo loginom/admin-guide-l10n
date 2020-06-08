@@ -4651,8 +4651,8 @@ A: Slight typo here. I had "connection" in the Plural.</note>
       <tuv lang="RU">
         <seg>Для передачи отчета в техническую поддержку его требуется сохранить в html или txt формате и отправить по &lt;x1/&gt;e-mail&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T073417Z" creationid="Марианна" creationdate="20200608T073417Z">
-        <seg>To transfer the report to the help desk, it is required to save it in html or txt format and to send it using the following e-mail: &lt;x1/&gt;e-mail&lt;x2/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T073707Z" creationid="Марианна" creationdate="20200608T073417Z">
+        <seg>To transfer the report to the help desk, it is required to save it in html or txt format and send it using the following e-mail: &lt;x1/&gt;e-mail&lt;x2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
