@@ -3748,6 +3748,14 @@ net start loginom</seg>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Активация программного SP-ключа для систем без доступа к интернету</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200608T093118Z" creationid="Марианна" creationdate="20200608T093118Z">
+        <seg>Activation of Software SP Dongle for the Offline Systems</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Алгоритм действий на этапе отправки запроса внешнему сервису представлен на рисунке 8.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T100132Z" creationid="Марианна" creationdate="20200424T100009Z">
