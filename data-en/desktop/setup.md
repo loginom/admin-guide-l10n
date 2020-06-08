@@ -37,6 +37,6 @@ msiexec /i "LoginomPersonal_6.x.x_x64.msi" ключи_msi
 
 ## Licenses
 
-To start the **Loginom Desktop** it is required to configure the licensing keys (refer to  [Licensing Keys](../licenses/README.md)).
+To start the **Loginom Desktop** it is required to configure the licensing keys (refer to  [Licensing Dongles](../licenses/README.md)).
 
 To use network dongles server, it is required to create the [GnClient.ini](https://dev.guardant.ru/pages/viewpage.action?pageId=1277980) file in the `"C:\ProgramData\BaseGroup\Loginom 6\Personal"` directory

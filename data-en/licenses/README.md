@@ -1,4 +1,4 @@
-# Licensing Keys
+# Licensing Dongles
 
 Лицензирование продуктов Loginom осуществляется с помощью ключей Guardant:
 

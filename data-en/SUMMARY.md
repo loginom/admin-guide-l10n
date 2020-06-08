@@ -28,7 +28,7 @@
    * [Installation](./desktop/setup.md)
    * [Upgrade](./desktop/upgrade.md)
    * [Uninstalling](./desktop/remove.md)
-* [Licensing Keys](./licenses/README.md)
+* [Licensing Dongles](./licenses/README.md)
    * [Key versions](./licenses/case.md)
    * [Activation of SP key (online)](./licenses/sp-key-activate.md)
    * [Activation of SP key (offline)](./licenses/sp-key-activate-offline.md)
