@@ -6485,6 +6485,14 @@ Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Обновление аппаратных USB-ключей</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200609T094850Z" creationid="Марианна" creationdate="20200609T094850Z">
+        <seg>Upgrade of Hardware USB Dongles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Общие настройки задаются в атрибутах элемента &lt;x1/&gt;Logging/Common&lt;x2/&gt;:</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200514T052756Z" creationid="Марианна" creationdate="20200514T052756Z">
