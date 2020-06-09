@@ -1996,6 +1996,14 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Важно&lt;x2/&gt;: Особенностью программного SP-ключа является криптографическая привязка к оборудованию, т.е. после активаци SP-ключ нельзя повторно автивировать или пренести на другой компьютер.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200609T094143Z" creationid="Марианна" creationdate="20200609T094143Z">
+        <seg>&lt;x1/&gt;Important&lt;x2/&gt;: SP dongle is distinguished by the cryptographic binding to the equipment, namely it is not possible to reactivate SP dongle after its activation or transfer it to the other computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A; Important: in compliance with the resulting XML response with its description in the XSD schema will cause the Adapter web service operation error. 
 M: Not done. The Russian source is different.</note>
       <tuv lang="RU">
@@ -7028,6 +7036,14 @@ Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200427T141016Z" creationid="Марианна" creationdate="20200427T141016Z">
         <seg>It is possible to get the WSDL description using the computer browser with the deployed &lt;x3/&gt;Adapter&lt;x4/&gt; at the following URL: &lt;x5/&gt;http://localhost/LoginomAdapter/Service.svc?wsdl&lt;x6/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Пользователю доступны несколько &lt;x1/&gt;вариантов исполнения физического ключа&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200609T094216Z" creationid="Марианна" creationdate="20200609T094216Z">
+        <seg>Several &lt;x1/&gt;physical dongle versions&lt;x2/&gt; are avilable to users.</seg>
       </tuv>
     </tu>
     <tu>
