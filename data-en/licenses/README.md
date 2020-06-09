@@ -1,6 +1,6 @@
 # Licensing Dongles
 
-Loginom products are licensed by Guardant dongles:
+Loginom products are licensed by means of Guardant dongles:
 
 * **Local USB dongle** is a physical dongle that is recommended for one-off Loginom instances on the servers with physical access to USB ports. [Guardant drivers](https://www.guardant.ru/support/download/drivers/) version 7.0 or higher are required.
 
