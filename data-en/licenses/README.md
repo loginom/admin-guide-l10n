@@ -25,7 +25,7 @@ It is required to activate SP dongle before usage of the platform components.
 
 [Software SP Dongle Activation Manual](./sp-key-activate.md).
 
-## >Software SP Dongle Activation for Offline Systems
+## Software SP Dongle Activation for Offline Systems
 
 It is required to activate the software SP dongle before usage of the platform components, but without net access on the final user computer.
 
