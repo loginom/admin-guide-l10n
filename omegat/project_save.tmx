@@ -8084,6 +8084,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Требует установки &lt;x3/&gt;драйверов Guardant&lt;x4/&gt; версии не ниже 7.0.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200609T092241Z" creationid="Марианна" creationdate="20200609T092241Z">
+        <seg>&lt;x3/&gt;Guardant drivers&lt;x4/&gt; version 7.0 or higher are required.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Требуют инсталляции и функционируют в виде Windows приложения.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T215008Z" creationid="Марианна" creationdate="20200605T215008Z">
