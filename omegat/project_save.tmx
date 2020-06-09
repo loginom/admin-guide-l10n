@@ -3935,8 +3935,8 @@ net start loginom</seg>
       <tuv lang="RU">
         <seg>Активация программного SP-ключа для систем без интернета</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200609T094530Z" creationid="Марианна" creationdate="20200609T094530Z">
-        <seg>&gt;Software SP Dongle Activation for Offline Systems </seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200609T095723Z" creationid="Марианна" creationdate="20200609T094530Z">
+        <seg>Software SP Dongle Activation for Offline Systems </seg>
       </tuv>
     </tu>
     <tu>
