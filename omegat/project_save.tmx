@@ -2156,6 +2156,22 @@ all else okay</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Использование локального ключа в персональной версии&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200609T092403Z" creationid="Марианна" creationdate="20200609T092403Z">
+        <seg>&lt;x1/&gt;Local dongle (personal version) usage&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Использование локального ключа в серверной версии&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200609T092425Z" creationid="Марианна" creationdate="20200609T092425Z">
+        <seg>&lt;x1/&gt;Local dongle (server version) usage&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Use HTTPS enables the setting of sssl parameters for http:
 М: Done
 
@@ -2751,6 +2767,14 @@ M:Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T075939Z" creationid="Марианна" creationdate="20200520T075939Z">
         <seg>The &lt;x1/&gt;SSL certificate&lt;x2/&gt;, &lt;x3/&gt;SSL key&lt;x4/&gt; are the full paths to the certificate file and SSL key in the &lt;x5/&gt;pem&lt;x6/&gt; format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Сетевой USB-ключ&lt;x2/&gt; — физический ключ, который рекомендуется для использования большого количества экземпляров Loginom в локальной сети.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200609T092625Z" creationid="Марианна" creationdate="20200609T092625Z">
+        <seg>&lt;x1/&gt;Network USB dongle&lt;x2/&gt; is a physical dongle that is recommended for many Loginom instances in the local network.</seg>
       </tuv>
     </tu>
     <tu>
