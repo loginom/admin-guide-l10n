@@ -1,38 +1,38 @@
 # Licensing Dongles
 
-Лицензирование продуктов Loginom осуществляется с помощью ключей Guardant:
+Loginom products are licensed by Guardant dongles:
 
-* **Локальный USB-ключ** — физический ключ, который рекомендуется для использования единичных экземпляров Loginom на серверах с физическим доступом к usb портам. Требует установки [драйверов Guardant](https://www.guardant.ru/support/download/drivers/) версии не ниже 7.0.
+* **Local USB dongle** is a physical dongle that is recommended for one-off Loginom instances on the servers with physical access to USB ports. [Guardant drivers](https://www.guardant.ru/support/download/drivers/) version 7.0 or higher are required.
 
-![Использование локального ключа в персональной версии](./scheme_1.svg)
+![Local dongle (personal version) usage](./scheme_1.svg)
 
-![Использование локального ключа в серверной версии](./scheme_2.svg)
+![Local dongle (server version) usage](./scheme_2.svg)
 
-* **Сетевой USB-ключ** — физический ключ, который рекомендуется для использования большого количества экземпляров Loginom в локальной сети. Требует развертывания [сервера сетевых ключей](https://www.guardant.ru/support/download/server/) версии не ниже 7.0.
+* **Network USB dongle** is a physical dongle that is recommended for a number of Loginom instances in the local network. Deployment of [network dongles server](https://www.guardant.ru/support/download/server/) version 7.0 or higher is required.
 
-![Использование сетевого ключа](./scheme_3.svg)
+![Network dongle usage](./scheme_3.svg)
 
-* **Программный SP-ключ** — программный ключ, рекомендуемый для использования единичных экземпляров Loginom в виртуальных средах без физического доступа к usb портам.
+* **Software SP dongle** is a software dongle that is recommended for one-off Loginom instances in the virtual environments without physical access to USB ports.
 
-> **Важно**: Особенностью программного SP-ключа является криптографическая привязка к оборудованию, т.е. после активаци SP-ключ нельзя повторно автивировать или пренести на другой компьютер.
+> **Important**: SP dongle is distinguished by the cryptographic binding to the equipment, namely it is not possible to reactivate SP dongle after its activation or transfer it to the other computer.
 
 
-Пользователю доступны несколько [вариантов исполнения физического ключа](./case.md).
+Several [physical dongle versions](./case.md) are avilable to users.
 
 ## Activation of Software SP Dongle
 
-Перед использованием компонентов платформы программый SP-ключ необходимо активировать.
+It is required to activate SP dongle before usage of the platform components.
 
-[Инструкция по активации программного SP-ключа](./sp-key-activate.md).
+[Software SP Dongle Activation Manual](./sp-key-activate.md).
 
-## Активация программного SP-ключа для систем без интернета
+## >Software SP Dongle Activation for Offline Systems
 
-Перед использованием компонентов платформы программый SP-ключ необходимо активировать, но интернет на компьютере конечного пользователя недоступен.
+It is required to activate the software SP dongle before usage of the platform components, but without net access on the final user computer.
 
-[Инструкция по активации программного SP-ключа без интернета](./sp-key-activate-offline.md).
+[Software SP Dongle Activation Manual without Net Access](./sp-key-activate-offline.md).
 
-## Обновление аппаратных USB-ключей
+## Upgrade of Hardware USB Dongles
 
-Необходимость перепрограммирования USB-ключа возникает при покупке дополнительных лицензий на компоненты или опции Loginom, — в этом случае выполняется дистанционное изменение содержимого памяти ключа с обменом специальными кодами по электронной почте.
+It is required to reprogram USB dongle in the case of acquisition of additional licenses for Loginom components or options. In that case, remote changing of the dongle memory content with exchange of special codes by e-mail is required.
 
-[Инструкция по обновлению USB-ключей](./usb-upgrade.md).
+[USB Dongles Upgrade Manual](./usb-upgrade.md).

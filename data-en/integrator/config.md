@@ -24,7 +24,7 @@ If there are no such servers, it is randomly selected among the available standb
 
 The working directory contains the temporary data required for the application operation.
 
-Default path to the directory - `%ALLUSERSPROFILE%\BaseGroup\Loginom 6\Integrator`. It is possible to redefine the value in the `workDir` attribute of the `configuration/loginom` element. The value cab be both full and relative (from the configuration file) path.
+Default path to the directory - `%ALLUSERSPROFILE%\BaseGroup\Loginom 6\Integrator`.  It is possible to redefine the value in the `workDir` attribute of the `configuration/loginom` element. The value cab be both full and relative (from the configuration file) path.
 
 If several Loginom Integrator instances are used, the working directories must be different.
 
