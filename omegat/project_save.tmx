@@ -2172,6 +2172,14 @@ all else okay</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Использование сетевого ключа&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200609T092804Z" creationid="Марианна" creationdate="20200609T092804Z">
+        <seg>&lt;x1/&gt;Network dongle usage&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Use HTTPS enables the setting of sssl parameters for http:
 М: Done
 
@@ -8104,6 +8112,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T214314Z" creationid="Марианна" creationdate="20200605T214314Z">
         <seg>It must be installed and can be used as Windows service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Требует развертывания &lt;x3/&gt;сервера сетевых ключей&lt;x4/&gt; версии не ниже 7.0.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200609T092749Z" creationid="Марианна" creationdate="20200609T092749Z">
+        <seg>Deployment of &lt;x3/&gt;network dongles server&lt;x4/&gt; version 7.0 or higher is required.</seg>
       </tuv>
     </tu>
     <tu>
