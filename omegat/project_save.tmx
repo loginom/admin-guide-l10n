@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1705,6 +1705,7 @@ M: Done. But still I do not feel the diffrerence. We need to discuss it and chec
       </tuv>
     </tu>
     <tu>
+      <note>internal - logging events file record (for example, errors while writing logs to the database).</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;internal&lt;x2/&gt; - запись в файл событий логирования (к примеру, ошибок при записи логов в базу данных).</seg>
       </tuv>
