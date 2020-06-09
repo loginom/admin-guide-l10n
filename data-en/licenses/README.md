@@ -14,7 +14,7 @@ Loginom products are licensed by means of Guardant dongles:
 
 * **Software SP dongle** is a software dongle that is recommended for one-off Loginom instances in the virtual environments without physical access to USB ports.
 
-> **Important**: SP dongle is distinguished by the cryptographic binding to the equipment, namely it is not possible to reactivate SP dongle after its activation or transfer it to the other computer.
+> **Important**: SP dongle is distinguished by the cryptographic binding to the equipment, namely it is not possible to reactivate SP dongle after its activation or transfer it to another computer.
 
 
 Several [physical dongle versions](./case.md) are avilable to users.
