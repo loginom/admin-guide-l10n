@@ -2642,6 +2642,14 @@ M:Done. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Программный SP-ключ&lt;x2/&gt; — программный ключ, рекомендуемый для использования единичных экземпляров Loginom в виртуальных средах без физического доступа к usb портам.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200609T093820Z" creationid="Марианна" creationdate="20200609T093820Z">
+        <seg>&lt;x1/&gt;Software SP dongle&lt;x2/&gt; — программный ключ, рекомендуемый для использования единичных экземпляров Loginom в виртуальных средах без физического доступа к usb портам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Пул приложений&lt;x2/&gt; — имя пула приложений, обслуживающего Loginom Integrator.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T230350Z" creationid="Марианна" creationdate="20200604T230350Z">
