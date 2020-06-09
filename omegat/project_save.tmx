@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6003,6 +6003,14 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200608T064349Z" creationid="Марианна" creationdate="20200605T220039Z">
         <seg>Licensing Dongles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Лицензирование продуктов Loginom осуществляется с помощью ключей Guardant:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200609T091727Z" creationid="Марианна" creationdate="20200609T091727Z">
+        <seg>Loginom products are licensed by Guardant dongles:</seg>
       </tuv>
     </tu>
     <tu>
