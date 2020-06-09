@@ -2165,6 +2165,14 @@ all else okay</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Инструкция по активации программного SP-ключа&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200609T094451Z" creationid="Марианна" creationdate="20200609T094451Z">
+        <seg>&lt;x1/&gt;Software SP Dongle Activation Manual&lt;x2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Использование локального ключа в персональной версии&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200609T092403Z" creationid="Марианна" creationdate="20200609T092403Z">
@@ -3905,6 +3913,14 @@ net start loginom</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200608T100612Z" creationid="Марианна" creationdate="20200608T093118Z">
         <seg>Activation of Software SP Dongle for Offline Systems</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Активация программного SP-ключа для систем без интернета</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200609T094530Z" creationid="Марианна" creationdate="20200609T094530Z">
+        <seg>&gt;Software SP Dongle Activation for Offline Systems </seg>
       </tuv>
     </tu>
     <tu>
@@ -6847,6 +6863,14 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200424T101638Z" creationid="Марианна" creationdate="20200424T101638Z">
         <seg>The first stage of the XML request transformation can be the XSLT transformation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Перед использованием компонентов платформы программый SP-ключ необходимо активировать, но интернет на компьютере конечного пользователя недоступен.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200609T094659Z" creationid="Марианна" creationdate="20200609T094659Z">
+        <seg>It is required to activate the software SP dongle before usage of the platform components, but without net access on the final user computer.</seg>
       </tuv>
     </tu>
     <tu>
