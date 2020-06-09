@@ -2165,6 +2165,14 @@ all else okay</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Инструкция по активации программного SP-ключа без интернета&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200609T094758Z" creationid="Марианна" creationdate="20200609T094758Z">
+        <seg>&lt;x1/&gt;Software SP Dongle Activation Manual without Net Access&lt;x2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Инструкция по активации программного SP-ключа&lt;x2/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200609T094451Z" creationid="Марианна" creationdate="20200609T094451Z">
