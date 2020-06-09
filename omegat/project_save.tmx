@@ -1999,8 +1999,8 @@ M: Done. </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Важно&lt;x2/&gt;: Особенностью программного SP-ключа является криптографическая привязка к оборудованию, т.е. после активаци SP-ключ нельзя повторно автивировать или пренести на другой компьютер.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200609T094143Z" creationid="Марианна" creationdate="20200609T094143Z">
-        <seg>&lt;x1/&gt;Important&lt;x2/&gt;: SP dongle is distinguished by the cryptographic binding to the equipment, namely it is not possible to reactivate SP dongle after its activation or transfer it to the other computer.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200609T095626Z" creationid="Марианна" creationdate="20200609T094143Z">
+        <seg>&lt;x1/&gt;Important&lt;x2/&gt;: SP dongle is distinguished by the cryptographic binding to the equipment, namely it is not possible to reactivate SP dongle after its activation or transfer it to another computer.</seg>
       </tuv>
     </tu>
     <tu>
