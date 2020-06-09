@@ -6432,6 +6432,14 @@ The desktop version of the platform is designated for installation on the local 
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Необходимость перепрограммирования USB-ключа возникает при покупке дополнительных лицензий на компоненты или опции Loginom, — в этом случае выполняется дистанционное изменение содержимого памяти ключа с обменом специальными кодами по электронной почте.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200609T095241Z" creationid="Марианна" creationdate="20200609T095241Z">
+        <seg>It is required to reprogram USB dongle in the case of acquisition of additional licenses for Loginom components or options. In that case, remote changing of the dongle memory content with exchange of special codes by e-mail is required.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Необязательный параметр.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200311T143030Z" creationid="Марианна" creationdate="20200225T125538Z">
