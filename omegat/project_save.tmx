@@ -6851,6 +6851,14 @@ From now on, I will only mention the sections of text that I require a tweak.
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Перед использованием компонентов платформы программый SP-ключ необходимо активировать.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200609T094303Z" creationid="Марианна" creationdate="20200609T094303Z">
+        <seg>It is required to activate SP dongle before usage of the platform components.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Перед началом выполнения команды ОС результат предыдущих этапов преобразования представляется в виде файла с именем, указанным в параметре &lt;x1/&gt;Исходное имя файла запроса&lt;x2/&gt;, и записывается на диск.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200426T100247Z" creationid="Марианна" creationdate="20200426T094939Z">
