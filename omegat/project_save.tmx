@@ -112,6 +112,14 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>"wsproxy": true,</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T194834Z" creationid="Марианна" creationdate="20200610T194834Z">
+        <seg>"wsproxy": true,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>"wssport": 9443,</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200610T194642Z" creationid="Марианна" creationdate="20200610T194642Z">
@@ -2147,6 +2155,14 @@ M: Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200610T102747Z" creationid="Марианна" creationdate="20200610T102747Z">
         <seg>&lt;x1/&gt;ws://loginom-server-host:8080/ws&lt;x2/&gt; - URL connections if websocket encryption &lt;x3/&gt;is disabled&lt;x4/&gt;;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;ws://web-server-host:443/ws/&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T194841Z" creationid="Марианна" creationdate="20200610T194841Z">
+        <seg>&lt;x1/&gt;ws://web-server-host:443/ws/&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4721,6 +4737,14 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200512T094513Z" creationid="Марианна" creationdate="20200426T095814Z">
         <seg>Full paths to the files or only the files' names can be stated in these parameters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>В этом случае &lt;x1/&gt;host&lt;x2/&gt; и &lt;x3/&gt;wsport|wssport&lt;x4/&gt; будут равны адресу хоста и порту веб-сервера.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T194829Z" creationid="Марианна" creationdate="20200610T194829Z">
+        <seg>In that case &lt;x1/&gt;host&lt;x2/&gt; and &lt;x3/&gt;wsport|wssport&lt;x4/&gt; will be equal to the host address web server port.</seg>
       </tuv>
     </tu>
     <tu>
