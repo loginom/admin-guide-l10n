@@ -8194,6 +8194,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>It must be installed and can be used as a Microsoft IIS service.</note>
       <tuv lang="RU">
         <seg>Требует инсталляции и функционирует в виде службы Microsoft IIS.</seg>
       </tuv>
@@ -8202,6 +8203,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>It must be installed and can be used as a Windows service.</note>
       <tuv lang="RU">
         <seg>Требует инсталляции и функционирует в виде службы Windows.</seg>
       </tuv>
