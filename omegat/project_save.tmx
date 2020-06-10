@@ -805,6 +805,14 @@ dism /online /enable-feature /FeatureName:IIS-ApplicationDevelopment /FeatureNam
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;g1&gt;&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T200941Z" creationid="Марианна" creationdate="20200610T200941Z">
+        <seg>&lt;g1&gt;&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;httpProtocol&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T140923Z" creationid="Марианна" creationdate="20200519T140923Z">
@@ -3710,6 +3718,14 @@ M: Done</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Loginom в Яндекс.Облако</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T200935Z" creationid="Марианна" creationdate="20200610T200935Z">
+        <seg>Loginom in Yandex.Cloud</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Loginom will only run on a computer with an installed dongle.</note>
       <tuv lang="RU">
         <seg>Loginom может запускаться только там, где установлен ключ;</seg>
@@ -5726,6 +5742,14 @@ M: Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200608T062113Z" creationid="Марианна" creationdate="20200608T062113Z">
         <seg>Advantages:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Доступ к аналитической платформе предоставляется ресурсами сервиса Yandex Compute Cloud.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T202239Z" creationid="Марианна" creationdate="20200610T202239Z">
+        <seg>Access to the analytical platform is provided by resources of Yandex Compute Cloud service.</seg>
       </tuv>
     </tu>
     <tu>
