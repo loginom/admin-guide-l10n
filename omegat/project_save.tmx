@@ -8196,6 +8196,14 @@ M: Done </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Сообщите записанное "число-вопрос" компании Loginom Company по электронной почте &lt;x1/&gt;support@loginom.ru&lt;x2/&gt; с названием темы "Обновление Loginom: число-вопрос" и указанием оснований причин модификации состава лицензий.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T080355Z" creationid="Марианна" creationdate="20200610T080355Z">
+        <seg>It is required to send the recorded .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Список устанавливаемых компонентов</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T101446Z" creationid="Марианна" creationdate="20200519T154058Z">
