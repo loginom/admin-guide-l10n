@@ -76,6 +76,16 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>"host": "lg.domain.org"
+}</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T152634Z" creationid="Марианна" creationdate="20200610T152634Z">
+        <seg>"host": "lg.domain.org"
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>"host": null
 }</seg>
       </tuv>
@@ -4250,6 +4260,14 @@ net start loginom</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Адрес хоста сервера Loginom.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T152530Z" creationid="Марианна" creationdate="20200610T152530Z">
+        <seg>Loginom server host address.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>The following conditions are required for successful dongle activation:</note>
       <tuv lang="RU">
         <seg>Активация программного SP-ключа</seg>
@@ -7860,6 +7878,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T205558Z" creationid="Марианна" creationdate="20200605T205558Z">
         <seg>In the case of "0" value number of files is not limited.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>При значении &lt;x1/&gt;null&lt;x2/&gt; используется адрес хоста веб-сервера.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T152626Z" creationid="Марианна" creationdate="20200610T152626Z">
+        <seg>In the case of the &lt;x1/&gt;null&lt;x2/&gt; value the web server host address is used.</seg>
       </tuv>
     </tu>
     <tu>
