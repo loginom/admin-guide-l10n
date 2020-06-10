@@ -7867,8 +7867,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>При установке по умолчанию websocket proxy отключен.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T101924Z" creationid="Марианна" creationdate="20200610T101924Z">
-        <seg>In the case of default installation websocket proxy is disabled.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T103138Z" creationid="Марианна" creationdate="20200610T101924Z">
+        <seg>In the case of the default installation websocket proxy is disabled.</seg>
       </tuv>
     </tu>
     <tu>
