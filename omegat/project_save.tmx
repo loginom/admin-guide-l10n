@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1095,6 +1095,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;4.&lt;x2/&gt; После отправки "числа-вопроса" можно завершить работу программы нажав кнопку Завершить.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T080805Z" creationid="Марианна" creationdate="20200610T080805Z">
+        <seg>&lt;x1/&gt;4.&lt;x2/&gt; Upon the "number-question" sending, it is allowed to finish the software operation pressing the "Finish" button.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;4.&lt;x2/&gt; Программа соединится с сервером активации и сгенерирует еще один файл, который нужно перенести на компьютер конечного пользователя для завершения активации:</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200608T095221Z" creationid="Марианна" creationdate="20200608T095221Z">
@@ -1124,6 +1132,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200608T100840Z" creationid="Марианна" creationdate="20200608T095312Z">
         <seg>&lt;x1/&gt;5.&lt;x2/&gt; It is required to run the Activation Wizard (GuardantActivationWizard.exe) on the final user computer (&lt;x3/&gt;Important&lt;x4/&gt;: the "Offline mode" option (at the bottom, leftward) must not be installed), to press the "Specify the license file..." button and to select the required file in the opened file selection dialog having specified the file type "FIles received from the activation server (*.fromserver)":</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;5.&lt;x2/&gt; После того как вы получите число-ответ (в письме будет содержаться "файл-обновления ключа"), снова запустите программу GrdTRU.exe.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T080935Z" creationid="Марианна" creationdate="20200610T080935Z">
+        <seg>&lt;x1/&gt;5.&lt;x2/&gt; Upon the "number-question" receipt ("dongle upgrade file" will be in the letter), it is required to run GrdTRU.exe once again.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2641,6 +2657,14 @@ Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200510T212756Z" creationid="Марианна" creationdate="20200502T195538Z">
         <seg>&lt;x1/&gt;Note&lt;x2/&gt;: Loginom Adapter uses .Net Framework, version 3.5 in the work process.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: Программу GrdTRU.exe не следует повторно запускать до получения "файла-ответа", иначе всю процедуру будет необходимо повторить заново.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T081212Z" creationid="Марианна" creationdate="20200610T081212Z">
+        <seg>&lt;x1/&gt;Note&lt;x2/&gt;: Программу GrdTRU.exe не следует повторно запускать до получения "файла-ответа", иначе всю процедуру будет необходимо повторить заново.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7415,6 +7439,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200512T095133Z" creationid="Марианна" creationdate="20200426T111031Z">
         <seg>While filling in the HTTP/HTTPS package sections sent to the external service, the following parameters of the &lt;x9/&gt;Configurator&lt;x10/&gt; are also used:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>При запуске программы нужно выбрать пункт "Продолжить операцию обновления ключа, инициализированную во время предыдущего сеанса" и нажать на кнопку "Далее".</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T081143Z" creationid="Марианна" creationdate="20200610T081143Z">
+        <seg>Running the software, it is required to select "Continue the dongle upgrade operation initiated during the previous session" and press the "Next" button.</seg>
       </tuv>
     </tu>
     <tu>
