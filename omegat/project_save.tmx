@@ -112,6 +112,14 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>"wssport": 9443,</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T194642Z" creationid="Марианна" creationdate="20200610T194642Z">
+        <seg>"wssport": 9443,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>%/spoiler%</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T153908Z" creationid="Марианна" creationdate="20200519T153908Z">
@@ -2163,6 +2171,14 @@ M: Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200610T102510Z" creationid="Марианна" creationdate="20200610T102510Z">
         <seg>&lt;x1/&gt;wss://web-server-host:443/ws&lt;x2/&gt;  - URL connections if http or websocket encryption is enabled.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;wss://web-server-host:9443&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T194649Z" creationid="Марианна" creationdate="20200610T194649Z">
+        <seg>&lt;x1/&gt;wss://web-server-host:9443&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4281,6 +4297,22 @@ net start loginom</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200610T152657Z" creationid="Марианна" creationdate="20200610T152657Z">
         <seg>wsport</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>wsproxy</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T194654Z" creationid="Марианна" creationdate="20200610T194654Z">
+        <seg>wsproxy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>wssport</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T194554Z" creationid="Марианна" creationdate="20200610T194554Z">
+        <seg>wssport</seg>
       </tuv>
     </tu>
     <tu>
@@ -7650,6 +7682,14 @@ M: Done</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Подключение к серверу Loginom через websocket прокси.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T194722Z" creationid="Марианна" creationdate="20200610T194722Z">
+        <seg>Connection to Loginom server by means of websocket proxy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Подобная структура предполагает, что внешних сервисов, с которыми работает &lt;x1/&gt;Адаптер&lt;x2/&gt;, может быть несколько, и для каждого внешнего сервиса может быть определено несколько методов.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200324T070643Z" creationid="Марианна" creationdate="20200206T065605Z">
@@ -7770,6 +7810,14 @@ Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T084621Z" creationid="Марианна" creationdate="20200520T084621Z">
         <seg>The websocket port of the Loginom server</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Порт для подключения по протоколу &lt;x1/&gt;websocket secure&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T194613Z" creationid="Марианна" creationdate="20200610T194613Z">
+        <seg>Port for connection using &lt;x1/&gt;websocket secure&lt;x2/&gt; protocol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7950,6 +7998,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200610T194347Z" creationid="Марианна" creationdate="20200610T194347Z">
         <seg>In case of the &lt;x3/&gt;null&lt;x4/&gt; value, &lt;x5/&gt;8080&lt;x6/&gt; port is used.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>При значении &lt;x3/&gt;null&lt;x4/&gt; используется порт &lt;x5/&gt;8443&lt;x6/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T194636Z" creationid="Марианна" creationdate="20200610T194636Z">
+        <seg>In the case of the &lt;x3/&gt;null&lt;x4/&gt; value, &lt;x5/&gt;8443&lt;x6/&gt; port is used.</seg>
       </tuv>
     </tu>
     <tu>
