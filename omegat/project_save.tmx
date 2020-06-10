@@ -1161,6 +1161,14 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;7.&lt;x2/&gt; В случае правильного следования предшествующих инструкций вы должны увидеть следующее окно – программирование ключа прошло успешно.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T085839Z" creationid="Марианна" creationdate="20200610T085839Z">
+        <seg>&lt;x1/&gt;7.&lt;x2/&gt; In the case of the proper observance of the instructions mentioned above, you will see the next window - Dongle programming successfully completed.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>The activation process is complete:</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;7.&lt;x2/&gt; Процесс активации завершен:</seg>
