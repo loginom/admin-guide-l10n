@@ -8,7 +8,7 @@ Procedure of USB dongle upgrade is required in the following cases:
 
 ## Upgrade of the Electronic Dongle Memory
 
-The most convinient way of the electronic dongle memory upgrade is the remote programming of the dongle memory using GrdTRU.exe software.
+The most convenient way of the electronic dongle memory upgrade is the remote programming of the dongle memory using GrdTRU.exe software.
 
 > **Important**: It is required to cllose all Loginom modules before the dongle memory upgrade.
 
