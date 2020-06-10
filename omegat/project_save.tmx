@@ -5079,6 +5079,7 @@ M: Done</note>
       </tuv>
     </tu>
     <tu>
+      <note>It must be inserted into the USB port of the computer on which Loginom will run;</note>
       <tuv lang="RU">
         <seg>Должен быть вставлен в USB-порт того компьютера, на котором будет запускаться Loginom;</seg>
       </tuv>
@@ -8059,6 +8060,7 @@ M: Done </note>
       </tuv>
     </tu>
     <tu>
+      <note>Comparison of Dongles Versions</note>
       <tuv lang="RU">
         <seg>Сравнение вариантов физических ключей</seg>
       </tuv>
