@@ -4107,10 +4107,26 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>http: &lt;x1/&gt;ws://lg.domain.org:8080&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T152648Z" creationid="Марианна" creationdate="20200610T152648Z">
+        <seg>http: &lt;x1/&gt;ws://lg.domain.org:8080&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>http: &lt;x1/&gt;ws://web-server-host:8080&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200610T152251Z" creationid="Марианна" creationdate="20200610T152251Z">
         <seg>http: &lt;x1/&gt;ws://web-server-host:8080&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>https: &lt;x1/&gt;wss://lg.domain.org:8443&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T152652Z" creationid="Марианна" creationdate="20200610T152652Z">
+        <seg>https: &lt;x1/&gt;wss://lg.domain.org:8443&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4233,6 +4249,14 @@ net start loginom</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T091831Z" creationid="Марианна" creationdate="20200520T091831Z">
         <seg>netsh advfirewall firewall add rule name="Allow Loginom WebSocket" dir=in action=allow protocol=TCP localport=8080</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>wsport</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T152657Z" creationid="Марианна" creationdate="20200610T152657Z">
+        <seg>wsport</seg>
       </tuv>
     </tu>
     <tu>
