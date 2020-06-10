@@ -1017,6 +1017,7 @@ M: Done</note>
       </tuv>
     </tu>
     <tu>
+      <note>1. Using the "Specify the license file" button, select a path to *.grdvd file. :</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;1.&lt;x2/&gt; При помощи кнопки "Указать файл лицензии" выберите путь к файлу вида *.grdvd.</seg>
       </tuv>
