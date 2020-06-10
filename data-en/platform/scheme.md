@@ -10,7 +10,7 @@ Websocket proxy enables to provide access to Loginom Server via http(s) port of 
 
 To enable wsproxy on the imbedded web server, it is sufficient to select "Use WebSocket proxy" [in the course of installation](../server/setup.md#parametry-web-servera-apache-httpd), IIS will require more complicated [configuration](../server/iis.md#nastroyka-websocket-proxy).
 
-In the case of default installation websocket proxy is disabled.
+In the case of the default installation websocket proxy is disabled.
 
 ### Without wsproxy
 
