@@ -4878,6 +4878,8 @@ A: Slight typo here. I had "connection" in the Plural.</note>
       </tuv>
     </tu>
     <tu>
+      <note>To transfer a report to the help desk, it is required to save it in html or txt format and send it by the following e-mail: e-mail.
+</note>
       <tuv lang="RU">
         <seg>Для передачи отчета в техническую поддержку его требуется сохранить в html или txt формате и отправить по &lt;x1/&gt;e-mail&lt;x2/&gt;.</seg>
       </tuv>
