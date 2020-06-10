@@ -6,7 +6,7 @@ Procedure of USB dongle upgrade is required in the following cases:
 * Change of the number of the product components users
 * Extension of the time limits
 
-## Upgrade of the elecronic dongle memory
+## Upgrade of the Electronic Dongle Memory
 
 The most convinient way of the electronic dongle memory upgrade is the remote programming of the dongle memory using GrdTRU.exe software.
 
