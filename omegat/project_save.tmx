@@ -4634,8 +4634,8 @@ Done.</note>
       <tuv lang="RU">
         <seg>В зависимости от сложности вычислений можно определить необходимое число ядер, объём памяти, размер и количество дисков, а также зона доступности виртуальной машины.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T202611Z" creationid="Марианна" creationdate="20200610T202611Z">
-        <seg>Depending on the complexity of computations, it is possible to define the required number of cores, storage capacity, size and amount of disks and accessibility zone of the virtual machine.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T205146Z" creationid="Марианна" creationdate="20200610T202611Z">
+        <seg>Depending on the complexity of computations, it is possible to define the required number of cores, storage capacity, size and amount of discs and accessibility zone of the virtual machine.</seg>
       </tuv>
     </tu>
     <tu>
