@@ -5768,6 +5768,14 @@ M: Done</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Дополнительная помощь</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T204643Z" creationid="Марианна" creationdate="20200610T204643Z">
+        <seg>Additional Support</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Дополнительные файлы</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200324T070732Z" creationid="Марианна" creationdate="20200206T075207Z">
@@ -9232,6 +9240,14 @@ Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200426T111518Z" creationid="Марианна" creationdate="20200426T111518Z">
         <seg>Message body (&lt;x1/&gt;Entity Body&lt;x2/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Техподдержка по вопросам развертывания, запуска и использования доступна по адресу  help@loginom.ru.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T204801Z" creationid="Марианна" creationdate="20200610T204801Z">
+        <seg>The technical support service concerning the deployment, start and usage issues is avaiable by the following e-mal: help@loginom.ru.</seg>
       </tuv>
     </tu>
     <tu>
