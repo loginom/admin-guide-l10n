@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -997,6 +997,14 @@ M: Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200608T094030Z" creationid="Марианна" creationdate="20200608T094030Z">
         <seg>&lt;x1/&gt;1.&lt;x2/&gt; To run Guardant Activation Wizard (GuardantActivationWizard.exe), to install the "Offline mode" option (at the bottom, leftward) and to press the "Next" button:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;1.&lt;x2/&gt; На том компьютере, на котором установлен usb-ключ Loginom, запустить программу GrdTRU.exe.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T072442Z" creationid="Марианна" creationdate="20200610T072442Z">
+        <seg>&lt;x1/&gt;1.&lt;x2/&gt; To run GrdTRU.exe software on the computer on which Loginom USB dongle is installed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2611,6 +2619,14 @@ Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200510T212756Z" creationid="Марианна" creationdate="20200502T195538Z">
         <seg>&lt;x1/&gt;Note&lt;x2/&gt;: Loginom Adapter uses .Net Framework, version 3.5 in the work process.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: Электронный ключ во время работы программы GrdTRU.exe должен быть подсоединен к компьютеру.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T072546Z" creationid="Марианна" creationdate="20200610T072546Z">
+        <seg>&lt;x1/&gt;Note&lt;x2/&gt;: The electronic dongle must be connected with the computer during GrdTRU.exe software operation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4713,6 +4729,14 @@ M: OK, done. Still i would prefer to preserve the universal style of the text. <
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T232232Z" creationid="Марианна" creationdate="20200604T232232Z">
         <seg>To use the packages as a web service, it is required to publish them in advance in the Loginom Server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Для дистанционного программирования памяти ключа при помощи программы GrdTRU.exe, пользователю Loginom необходимо выполнить следующие шаги:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T072359Z" creationid="Марианна" creationdate="20200610T072359Z">
+        <seg>Loginom user must perform the following actions prior to the remote programming of the dongle memory using GrdTRU.exe software:</seg>
       </tuv>
     </tu>
     <tu>
