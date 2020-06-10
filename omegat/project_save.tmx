@@ -2676,8 +2676,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;:  Код подтверждения операции необходимо обязательно сообщить компании Loginom Company по электронной почте &lt;x3/&gt;support@loginom.ru&lt;x4/&gt; с названием темы "Обновление Loginom: код подтверждения".</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T090206Z" creationid="Марианна" creationdate="20200610T090042Z">
-        <seg>&lt;x1/&gt;Note&lt;x2/&gt;:  It is required to send the operation confirmation code to Loginom Company by the following e-mail &lt;x3/&gt;support@loginom.ru&lt;x4/&gt; with "Loginom upgrade: confirmation code" topic.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T090656Z" creationid="Марианна" creationdate="20200610T090042Z">
+        <seg>&lt;x1/&gt;Note&lt;x2/&gt;: It is required to send the operation confirmation code to Loginom Company by the following e-mail &lt;x3/&gt;support@loginom.ru&lt;x4/&gt; with "Loginom upgrade: confirmation code" topic.</seg>
       </tuv>
     </tu>
     <tu>
