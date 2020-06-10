@@ -86,6 +86,14 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>"host": "loginom-server-host",</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T200140Z" creationid="Марианна" creationdate="20200610T200140Z">
+        <seg>"host": "loginom-server-host",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>"host": null
 }</seg>
       </tuv>
@@ -100,6 +108,16 @@ A: "while the command" is placed in a different part of the segment in Github, a
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200610T195102Z" creationid="Марианна" creationdate="20200610T195102Z">
         <seg>"path": "any/",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>"secure": true
+}</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T200145Z" creationid="Марианна" creationdate="20200610T200145Z">
+        <seg>"secure": true
+}</seg>
       </tuv>
     </tu>
     <tu>
@@ -9552,6 +9570,14 @@ M: Done. Вася, посмотрю еще раз в сети, все помен
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>без wsproxy: &lt;x1/&gt;wss://loginom-server-host:8443&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T200200Z" creationid="Марианна" creationdate="20200610T200200Z">
+        <seg>without wsproxy: &lt;x1/&gt;wss://loginom-server-host:8443&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>в разделе &lt;x3/&gt;Установка&lt;x4/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T195908Z" creationid="Марианна" creationdate="20200502T195908Z">
@@ -9685,6 +9711,14 @@ Done
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200227T160651Z" creationid="Марианна" creationdate="20200227T160651Z">
         <seg>Figure 6).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>с wsproxy: &lt;x1/&gt;wss://web-server-host:443/ws/&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T200208Z" creationid="Марианна" creationdate="20200610T200208Z">
+        <seg>with wsproxy: &lt;x1/&gt;wss://web-server-host:443/ws/&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
