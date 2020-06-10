@@ -3555,8 +3555,8 @@ M: Done</note>
       <tuv lang="RU">
         <seg>Loginom Studio создает подключение на хост сервера Loginom по протоколу &lt;x1/&gt;websocket&lt;x2/&gt;:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T102213Z" creationid="Марианна" creationdate="20200610T102213Z">
-        <seg>Loginom Studio enables connection to the Loginim server host using &lt;x1/&gt;websocket&lt;x2/&gt; protocol:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T103259Z" creationid="Марианна" creationdate="20200610T102213Z">
+        <seg>Loginom Studio enables connection to the Loginom server host using &lt;x1/&gt;websocket&lt;x2/&gt; protocol:</seg>
       </tuv>
     </tu>
     <tu>
