@@ -5844,8 +5844,16 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Если параметр не указан, при подключении к веб-серверу по &lt;x1/&gt;http&lt;x2/&gt; подключение к серверу Loginom будет выполняться без шифрования.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T195326Z" creationid="Марианна" creationdate="20200610T195326Z">
-        <seg>If parameter is not specified, in the case of connection to the web server &lt;x1/&gt;http&lt;x2/&gt; connection to Loginom server will be performed without encryption.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T195403Z" creationid="Марианна" creationdate="20200610T195326Z">
+        <seg>If the parameter is not specified, in the case of connection to the web server &lt;x1/&gt;http&lt;x2/&gt; connection to Loginom server will be performed without encryption.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Если параметр указан и установлен в &lt;x1/&gt;true&lt;x2/&gt;, подключение всегда будет выполняться с шифрованием — по протоколу &lt;x3/&gt;websocket secure&lt;x4/&gt; на порт &lt;x5/&gt;wssport&lt;x6/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T195447Z" creationid="Марианна" creationdate="20200610T195358Z">
+        <seg>If the parameter is specified and set in &lt;x1/&gt;true&lt;x2/&gt;, connection will be always performed with encryption — using &lt;x3/&gt;websocket secure&lt;x4/&gt; protocol for &lt;x5/&gt;wssport&lt;x6/&gt; port.</seg>
       </tuv>
     </tu>
     <tu>
