@@ -2005,6 +2005,14 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Важно&lt;x2/&gt;: Перед началом выполнения обновления памяти ключа необходимо закрыть все модули программы Loginom.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T072221Z" creationid="Марианна" creationdate="20200610T072221Z">
+        <seg>&lt;x1/&gt;Important&lt;x2/&gt;: It is required to cllose all Loginom modules before the dongle memory upgrade.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A; Important: in compliance with the resulting XML response with its description in the XSD schema will cause the Adapter web service operation error. 
 M: Not done. The Russian source is different.</note>
       <tuv lang="RU">
