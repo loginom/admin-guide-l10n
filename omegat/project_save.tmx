@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1084,6 +1084,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>It is required to transfer this file to a computer with net access. To run the Activation Wizard (GuardantActivationWizard.exe), press the "Specify the license file..." button and to specify the "Files for transfer to the activation server (*toserver)" parameter in the drop-down list of the navigation window in the "Files type:" field:</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;3.&lt;x2/&gt; Этот файл необходимо перенести на компьютер, где есть доступ в интернет, запустить
 Мастер активации (GuardantActivationWizard.exe), нажать кнопку "Указать файл лицензии…" и в выпадающем списке окна навигации указать в поле "Тип файлов:" параметр "Файлы для передачи на сервер активации (*toserver)":</seg>
@@ -1117,6 +1118,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>It is required to run the Activation Wizard (GuardantActivationWizard.exe) on the final user computer (Important: the "Offline mode" option (shown on the bottom left) must not be installed), to press the "Specify the license file..." button and to select the required file in the opened file selection dialog having specified the file type "FIles received from the activation server (*.fromserver)":</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;5.&lt;x2/&gt; На компьютере конечного пользователя запустить Мастер активации (GuardantActivationWizard.exe) (&lt;x3/&gt;Важно&lt;x4/&gt;: опцию "Режим offline" (внизу слева) не устанавливать), нажать кнопку "Указать файл лицензии" и, в открывшемся диалоге выбора файлов, указав тип файла "Файлы, полученные с сервера активации (*.fromserver)" выбрать нужный файл:</seg>
       </tuv>
@@ -1125,6 +1127,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Press the "Next" button:</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;6.&lt;x2/&gt; Нажать кнопку "Далее":</seg>
       </tuv>
@@ -1133,6 +1136,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>The activation process is complete:</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;7.&lt;x2/&gt; Процесс активации завершен:</seg>
       </tuv>
@@ -3962,6 +3966,7 @@ net start loginom</seg>
       </tuv>
     </tu>
     <tu>
+      <note>The following conditions are required for successful dongle activation:</note>
       <tuv lang="RU">
         <seg>Активация программного SP-ключа</seg>
       </tuv>
@@ -5418,6 +5423,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Programmed template of Guardant SP dongle (*.grdvd file).</note>
       <tuv lang="RU">
         <seg>Запрограммированный шаблон ключа Guardant SP (файл вида *.grdvd).</seg>
       </tuv>
