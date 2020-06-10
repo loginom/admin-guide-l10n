@@ -5887,6 +5887,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>The client web application implementing user interface of the platform operation.</note>
       <tuv lang="RU">
         <seg>Клиентское веб-приложение, реализующее пользовательский интерфейс работы с платформой.</seg>
       </tuv>
