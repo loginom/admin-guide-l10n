@@ -4886,6 +4886,7 @@ A: Slight typo here. I had "connection" in the Plural.</note>
       </tuv>
     </tu>
     <tu>
+      <note>To retrieve a report, it is required to press the "Full Report" button; then HTML file with a detailed description of all dongles installed in the system and system configuration will be opened in the browser. </note>
       <tuv lang="RU">
         <seg>Для получения отчёта нажмите кнопку "Полный отчёт", после чего в браузере откроется html-файл с подробным описанием всех ключей, установленных в системе, а также конфигурации системы.</seg>
       </tuv>
