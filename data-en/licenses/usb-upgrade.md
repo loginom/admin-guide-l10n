@@ -48,6 +48,6 @@ Note. It is required to send the recorded "number-question" to Loginom Company b
 
 > **Note**: It is required to send the operation confirmation code to Loginom Company by the following e-mail [support@loginom.ru](mailto:support@loginom.ru) with "Loginom upgrade: confirmation code" topic.
 
-If Loginom modules were opened before reprogramming, it is required to close them before the new project start and to open them once again, otherwise the project start error will occur.
+If Loginom modules were opened before reprogramming, it is required to close them before the new project start and open them once again, otherwise the project start error will occur.
 
 > **Important**: Upon the network dongle upgrade, it is required to restart the license server service "Guardant Dongle License Service".
