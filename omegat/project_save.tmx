@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4963,6 +4963,7 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Driver installation is only required for local dongle operation, whereas a dedicated server is used for the network dongle and a key server must be installed on it.</note>
       <tuv lang="RU">
         <seg>Для работы локального ключа необходимо установить только драйвер, тогда как при использовании сетевого ключа нужен выделенный сервер, на который необходимо проинсталлировать сервер ключей.</seg>
       </tuv>
@@ -5121,6 +5122,7 @@ M: Done</note>
       </tuv>
     </tu>
     <tu>
+      <note>It must be installed on a dedicated server and a key server must also be installed on it.</note>
       <tuv lang="RU">
         <seg>Должен быть установлен на выделенном сервере, на котором необходимо дополнительно проинсталлировать сервер ключей;</seg>
       </tuv>
