@@ -4089,6 +4089,30 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>host</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T152355Z" creationid="Марианна" creationdate="20200610T152355Z">
+        <seg>host</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>http: &lt;x1/&gt;ws://web-server-host:8080&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T152251Z" creationid="Марианна" creationdate="20200610T152251Z">
+        <seg>http: &lt;x1/&gt;ws://web-server-host:8080&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>https: &lt;x1/&gt;wss://web-server-host:8443&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T152256Z" creationid="Марианна" creationdate="20200610T152256Z">
+        <seg>https: &lt;x1/&gt;wss://web-server-host:8443&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>msiexec /i "LoginomIntegrator.msi" /qn DOUPGRADE=1</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T222603Z" creationid="Марианна" creationdate="20200604T222603Z">
@@ -7215,6 +7239,14 @@ Settled in correspondence)
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Параметры</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T152351Z" creationid="Марианна" creationdate="20200610T152351Z">
+        <seg>Parameters</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A: The web service name, Method name, Method name in the Loginom Adapter parameters participate in the formation of the elements' name of the service WSDL description.  
 M:Done.</note>
       <tuv lang="RU">
@@ -9154,6 +9186,14 @@ Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200608T103825Z" creationid="Марианна" creationdate="20200608T103825Z">
         <seg>To activate Guardant SP dongle, it is required to run GuardantActivationWizard.exe  activation wizard and to follow its instructions:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Шифрование протокола &lt;x1/&gt;ws&lt;x2/&gt; определяется наличием шифрования &lt;x3/&gt;http&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T152342Z" creationid="Марианна" creationdate="20200610T152342Z">
+        <seg>Encryption of &lt;x1/&gt;ws&lt;x2/&gt; protocol is defined by the availability of &lt;x3/&gt;http&lt;x4/&gt; encryption.</seg>
       </tuv>
     </tu>
     <tu>
