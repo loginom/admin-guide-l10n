@@ -1,6 +1,6 @@
 # Studio
 
-It is a client web application designated for design of processing workflows, data visualization, server configuration, user rights management. Data processing is performed by [Loginom Server](../server/README.md)-ом.
+It is a client web application designated for design of processing workflows, data visualization, server configuration, user rights management. Data processing is performed by [Loginom Server](../server/README.md).
 
 Studio is the main working place of analysts and users implementing [user interface](https://help.loginom.ru) of the platform operation.
 
