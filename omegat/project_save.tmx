@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2035,6 +2035,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>Important: Guardant SP is distinguished by cryptographic binding to the equipment, namely it is not possible to use the activated dongle on another computer. </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Важно&lt;x2/&gt;: Особенностью Guardant SP является криптографическая привязка к оборудованию, т.е. активированный ключ нельзя использовать на другом компьютере.</seg>
       </tuv>
