@@ -3727,6 +3727,14 @@ M: Done</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Loginom Web Admin Password: пароль пользователя "admin" – администратора веб-приложения Loginom</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T203052Z" creationid="Марианна" creationdate="20200610T203052Z">
+        <seg>Loginom Web Admin Password: "admin" user password – administrator of Loginom web application</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Loginom в Яндекс.Облако</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200610T200935Z" creationid="Марианна" creationdate="20200610T200935Z">
@@ -3860,6 +3868,14 @@ Vasiliy M.: Могу ошибаться, но может быть - Edition?
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T142926Z" creationid="Марианна" creationdate="20200519T142926Z">
         <seg>POST https://stend-sup-29/DIS/Service.svc/ServiceClass HTTP/1.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Password for system user .\loginom: пароль пользователя ОС Windows, от имени которого запускаются и работают службы Loginom Server и веб-сервера</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T203210Z" creationid="Марианна" creationdate="20200610T203210Z">
+        <seg>Password for system user .\loginom: password of the Windows OS user, on whose behalf Loginom Server services and web servers are started and used</seg>
       </tuv>
     </tu>
     <tu>
