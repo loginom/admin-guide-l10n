@@ -2052,6 +2052,14 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Важно&lt;x2/&gt;:  После обновления сетевого ключа, в обязательном порядке необходимо перезапустить службу сервера лицензий "Guardant Dongle License Service".</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T090635Z" creationid="Марианна" creationdate="20200610T090635Z">
+        <seg>&lt;x1/&gt;Important&lt;x2/&gt;: Upon the network dongle upgrade, it is required to restart the license server service "Guardant Dongle License Service".</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Important: Guardant SP is distinguished by cryptographic binding to the equipment, namely it is not possible to use the activated dongle on another computer. </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Важно&lt;x2/&gt;: Особенностью Guardant SP является криптографическая привязка к оборудованию, т.е. активированный ключ нельзя использовать на другом компьютере.</seg>
@@ -5400,8 +5408,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Если при перепрограммировании ключа были открыты модули Loginom, то перед запуском нового проекта их необходимо закрыть и заново открыть иначе может возникнуть ошибка запуска проекта.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T090343Z" creationid="Марианна" creationdate="20200610T090343Z">
-        <seg>If Loginom modules were opened before reprogramming, it is required to close them before the new project launch and to opent them once again, otherwise the project launch error will occur.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T090506Z" creationid="Марианна" creationdate="20200610T090343Z">
+        <seg>If Loginom modules were opened before reprogramming, it is required to close them before the new project start and to open them once again, otherwise the project start error will occur.</seg>
       </tuv>
     </tu>
     <tu>
