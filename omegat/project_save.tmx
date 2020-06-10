@@ -7852,6 +7852,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Server mode is available in Team, Standard and Enterprise editions.</note>
       <tuv lang="RU">
         <seg>Серверный режим доступен в редакциях Team, Standard и Enterprise.</seg>
       </tuv>
