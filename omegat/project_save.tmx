@@ -2051,10 +2051,26 @@ M: Done</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;ws://web-server-host:80/ws&lt;x2/&gt; - URL подключения, если не включено шифрование ни http, ни websocket;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T102441Z" creationid="Марианна" creationdate="20200610T102441Z">
+        <seg>&lt;x1/&gt;ws://web-server-host:80/ws&lt;x2/&gt; - URL connections if neither http, nor websocket encryption is enabled;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;wss://loginom-server-host:8443/ws&lt;x2/&gt; - URL подключения, если шифрование websocket &lt;x3/&gt;включено&lt;x4/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200610T102311Z" creationid="Марианна" creationdate="20200610T102311Z">
         <seg>&lt;x1/&gt;wss://loginom-server-host:8443/ws&lt;x2/&gt; - URL connections if websocket encryption &lt;x3/&gt;is enabled&lt;x4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;wss://web-server-host:443/ws&lt;x2/&gt;  - URL подключения, если включено шифрование http либо websocket.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T102510Z" creationid="Марианна" creationdate="20200610T102510Z">
+        <seg>&lt;x1/&gt;wss://web-server-host:443/ws&lt;x2/&gt;  - URL connections if http or websocket encryption is enabled.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3513,6 +3529,14 @@ M: Done</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Loginom Studio подключается к хосту web-сервера по протоколу &lt;x1/&gt;websocket&lt;x2/&gt;:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T102358Z" creationid="Марианна" creationdate="20200610T102358Z">
+        <seg>Loginom Studio enables connection to the web server host using &lt;x1/&gt;websocket&lt;x2/&gt; protocol:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Loginom Studio создает подключение на хост сервера Loginom по протоколу &lt;x1/&gt;websocket&lt;x2/&gt;:</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200610T102213Z" creationid="Марианна" creationdate="20200610T102213Z">
@@ -3883,6 +3907,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T135847Z" creationid="Марианна" creationdate="20200519T135847Z">
         <seg>IIS Web Server</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Web-сервер создает подключение на хост сервера Loginom по протоколу &lt;x1/&gt;websocket&lt;x2/&gt; и перенаправляет в него траффик соединения с Loginom Studio:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T102721Z" creationid="Марианна" creationdate="20200610T102721Z">
+        <seg>The web server enables connection to the Loginom server host using &lt;x1/&gt;websocket&lt;x2/&gt; protocol and retransfer to it traffic of connection with Loginom Studio:</seg>
       </tuv>
     </tu>
     <tu>
