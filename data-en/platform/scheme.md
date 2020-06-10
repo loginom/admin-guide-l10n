@@ -20,7 +20,7 @@ In the case of the default installation websocket proxy is disabled.
    * `http://web-server-host:80/app` - URL connections if http encryption is not enabled;
    * `https://web-server-host:443/app` - URL connections if http encryption is enabled.
 * [server.json](../studio/config.md) configuration enables URL formation for connection to Loginom server;
-* Loginom Studio enables connection to the Loginim server host using `websocket` protocol:
+* Loginom Studio enables connection to the Loginom server host using `websocket` protocol:
    * `ws://loginom-server-host:8080/ws` - URL connections if websocket encryption [is not enabled](../server/setup.md#parametry-loginom-server). In the case of http encryption connection is forbidden.
    * `wss://loginom-server-host:8443/ws` - URL connections if websocket encryption [is enabled](../server/setup.md#parametry-loginom-server).
 
