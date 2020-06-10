@@ -992,6 +992,7 @@ M: Done</note>
       </tuv>
     </tu>
     <tu>
+      <note>Run Guardant Activation Wizard (GuardantActivationWizard.exe) to install the "Offline mode" option by checking the box on the bottom left, then press the "Next" button:</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;1.&lt;x2/&gt; Запустить Мастер активации Guardant (GuardantActivationWizard.exe), установить опцию "Режим offline" (внизу слева) и нажать кнопку "Далее":</seg>
       </tuv>
