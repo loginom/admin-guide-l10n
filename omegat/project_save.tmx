@@ -1549,6 +1549,14 @@ M: Done </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Loginom Platform в Яндекс.Облаке&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T202720Z" creationid="Марианна" creationdate="20200610T202720Z">
+        <seg>&lt;x1/&gt;Loginom Platform in Yandex.Cloud&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Loginom Server&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T215704Z" creationid="Марианна" creationdate="20200605T215704Z">
@@ -5992,6 +6000,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Зайти на удаленный рабочий стол системы по протоколу RDP</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T202927Z" creationid="Марианна" creationdate="20200610T202927Z">
+        <seg>Go to the remote desktop using RDP protocol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Запись в базу данных</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T210030Z" creationid="Марианна" creationdate="20200605T210030Z">
@@ -7133,6 +7149,14 @@ The desktop version of the platform is designated for installation on the local 
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Начало работы</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T202753Z" creationid="Марианна" creationdate="20200610T202753Z">
+        <seg>Operation Start</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>License cannot be suspended due to a user not having closed Loginom on another computer. </note>
       <tuv lang="RU">
         <seg>Не может произойти ситуация блокировки лицензии из-за того, что пользователь на другой машине не закрыл приложение Loginom;</seg>
@@ -7447,6 +7471,14 @@ Settled in correspondence)
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T084417Z" creationid="Марианна" creationdate="20200520T084417Z">
         <seg>The following commands can be especially useful:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Открыть файл &lt;x1/&gt;ReadMe.txt&lt;x2/&gt; (ярлык находится на рабочем столе).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T202953Z" creationid="Марианна" creationdate="20200610T202953Z">
+        <seg>Open &lt;x1/&gt;ReadMe.txt&lt;x2/&gt; file (the shortcut is on the desktop).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8004,6 +8036,14 @@ Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T223209Z" creationid="Марианна" creationdate="20200426T125809Z">
         <seg>Upon receipt of the response message, it is decrypted (based on the HTTPS connection) and the response content is selected.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>После развертывания и запуска виртуальной машины в Яндекс.Облаке необходимо выполнить следующие действия:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T202839Z" creationid="Марианна" creationdate="20200610T202839Z">
+        <seg>Upon deployment and start of the virtual machine in Yandex.Cloud, it is required to perform the following actions:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9365,6 +9405,14 @@ M: Done </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T085817Z" creationid="Марианна" creationdate="20200520T085817Z">
         <seg>Accounts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Файл содержит следующую информацию:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T203008Z" creationid="Марианна" creationdate="20200610T203008Z">
+        <seg>The file contains the following information:</seg>
       </tuv>
     </tu>
     <tu>
