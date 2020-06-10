@@ -16,7 +16,7 @@ In the case of the default installation websocket proxy is disabled.
 
 ![](../images/without-proxy.svg)
 
-* Browser is connected to the web server using `http` protocol and enables Loginom Studio loading:
+* Browser is connected to the web server using `http` protocol; it enables Loginom Studio loading:
    * `http://web-server-host:80/app` - URL connections if http encryption is not enabled;
    * `https://web-server-host:443/app` - URL connections if http encryption is enabled.
 * [server.json](../studio/config.md) configuration enables URL formation for connection to Loginom server;
@@ -28,7 +28,7 @@ In the case of the default installation websocket proxy is disabled.
 
 ![](../images/proxy.svg)
 
-* Browser is connected to the web server using `http` protocol and enables Loginom Studio loading:
+* Browser is connected to the web server using `http` protocol; it enables Loginom Studio loading:
    * `http://web-server-host:80/app` - URL connections if http encryption is not enabled;
    * `https://web-server-host:443/app` - URL connections if http encryption is enabled.
 * [server.json](../studio/config.md) configuration enables URL formation for connection to Loginom server;
