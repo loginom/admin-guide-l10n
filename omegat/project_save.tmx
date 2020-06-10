@@ -6136,6 +6136,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>The licenses are competitive, meaning that the number of computers (or terminal sessions) on which Loginom applications can run is limited.</note>
       <tuv lang="RU">
         <seg>Лицензии конкурентные, то есть ограничивается количество компьютеров (или сессий терминала), на которых запущены приложения Loginom.</seg>
       </tuv>
