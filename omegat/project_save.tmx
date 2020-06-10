@@ -6541,6 +6541,14 @@ Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Обновление памяти электронного ключа</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T072002Z" creationid="Марианна" creationdate="20200610T072002Z">
+        <seg>Upgrade of the elecronic dongle memory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Общие настройки задаются в атрибутах элемента &lt;x1/&gt;Logging/Common&lt;x2/&gt;:</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200514T052756Z" creationid="Марианна" creationdate="20200514T052756Z">
@@ -7647,6 +7655,14 @@ M: Done. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Продление времени действия временных ограничений</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T071938Z" creationid="Марианна" creationdate="20200610T071938Z">
+        <seg>Extension of the time limits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Процедура обновления электронного usb-ключа может потребоваться в следующих случаях:</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200610T071635Z" creationid="Марианна" creationdate="20200610T071635Z">
@@ -7879,6 +7895,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200512T092533Z" creationid="Марианна" creationdate="20200424T095123Z">
         <seg>At the same time, serving as a client, the &lt;x5/&gt;Adapter&lt;x6/&gt; provides transformation of these messages from the SOAP format to the individual formats of the external services, and backwards. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Самый удобный вариант обновления памяти электронного ключа – это дистанционное программирование памяти ключа при помощи программы GrdTRU.exe.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T072130Z" creationid="Марианна" creationdate="20200610T072130Z">
+        <seg>The most convinient way of the electronic dongle memory upgrade is the remote programming of the dongle memory using GrdTRU.exe software.</seg>
       </tuv>
     </tu>
     <tu>
