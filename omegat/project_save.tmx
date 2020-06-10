@@ -6918,6 +6918,14 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Может потребоваться при необходимости задать новый пароль, например в случае потери действующего.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T204059Z" creationid="Марианна" creationdate="20200610T204059Z">
+        <seg>New password can be required, for example, in the case of the current password loss.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Andrew:
 It can take the following values: &lt;x3/&gt;default&lt;x4/&gt;, and &lt;x5/&gt;experianEncoding&lt;x6/&gt;.&lt;segment 0056&gt;
 
@@ -9712,6 +9720,14 @@ https://help.loginom.ru/adminguide/licenses/sp-activate.html</seg>
       <tuv lang="EN" changeid="Марианна" changedate="20200610T203810Z" creationid="Марианна" creationdate="20200610T203810Z">
         <seg>&lt;x1/&gt;GuardantActivationWizard&lt;x2/&gt; shortcut is an application for activation of the software SP dongle for Loginom software, &lt;x3/&gt;manual&lt;x4/&gt; concerning the activation process is in "Activation of SP dongles" file.
 https://help.loginom.ru/adminguide/licenses/sp-activate.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Ярлык &lt;x1/&gt;Loginom Studio&lt;x2/&gt; - открывает страницу c веб-приложением Loginom Studio.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T204140Z" creationid="Марианна" creationdate="20200610T204140Z">
+        <seg>&lt;x1/&gt;Loginom Studio&lt;x2/&gt; shortcut enables opening of the page with Loginom Studio web application.</seg>
       </tuv>
     </tu>
     <tu>
