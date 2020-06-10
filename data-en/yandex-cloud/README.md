@@ -1,40 +1,40 @@
-# Loginom в Яндекс.Облако
+# Loginom in Yandex.Cloud
 
 <p><iframe allowfullscreen="" frameborder="0" height="472" src="https://www.youtube.com/embed/rOYXRR-Lzow" width="835"></iframe></p>
 
 
-Доступ к аналитической платформе предоставляется ресурсами сервиса Yandex Compute Cloud. Сервис позволяет использовать виртуальные машины в инфраструктуре Яндекс.Облака для работы с Loginom. В зависимости от сложности вычислений можно определить необходимое число ядер, объём памяти, размер и количество дисков, а также зона доступности виртуальной машины. А при необходимости эти параметры можно изменить без переустановки системы.
+Access to the analytical platform is provided by resources of Yandex Compute Cloud service. The service enables usage of virtual machines in Yandex.Clouds infrastructure for Loginom operation. Depending on the complexity of computations, it is possible to define the required number of cores, storage capacity, size and amount of disks and accessibility zone of the virtual machine. As appropriate, these parameters can be changed without the system reinstallation.
 
-[Loginom Platform в Яндекс.Облаке](https://cloud.yandex.ru/marketplace/products/f2esjn14f4ekcb53igdt)
+[Loginom Platform in Yandex.Cloud](https://cloud.yandex.ru/marketplace/products/f2esjn14f4ekcb53igdt)
 
-## Начало работы
+## Operation Start
 
-После развертывания и запуска виртуальной машины в Яндекс.Облаке необходимо выполнить следующие действия:
+Upon deployment and start of the virtual machine in Yandex.Cloud, it is required to perform the following actions:
 
-1. Зайти на удаленный рабочий стол системы по протоколу RDP
+1. Go to the remote desktop using RDP protocol
 
-2. Открыть файл `ReadMe.txt` (ярлык находится на рабочем столе). Файл содержит следующую информацию:
+2. Open `ReadMe.txt` file (the shortcut is on the desktop). The file contains the following information:
 
-* Loginom Web Admin Password: пароль пользователя "admin" – администратора веб-приложения Loginom
-* Password for system user .\loginom: пароль пользователя ОС Windows, от имени которого запускаются и работают службы Loginom Server и веб-сервера
+* Loginom Web Admin Password: "admin" user password – administrator of Loginom web application
+* Password for system user .\loginom: password of the Windows OS user, on whose behalf Loginom Server services and web servers are started and used
 
-Если Loginom Studio не удается запустить, необходимо воспользоваться [инструкцией](https://help.loginom.ru/adminguide/server/setup.html#zapusk-sluzhb) и проверить наличие запущенных служб.
-Ярлыки `Запуск веб-сервера` и `Запуск сервера Loginom` (на рабочем столе) - запускают службы, необходимые для работы Loginom Studio.
+If Loginom Studio start failed, it is required to use the [manual](https://help.loginom.ru/adminguide/server/setup.html#zapusk-sluzhb) and check availability of the started services.
+`Web server start` and `Loginom server start` shortcuts (on the desktop) enable start of the services required for Loginom Studio operation.
 
-## Продолжение работ
+## Operation Continuation
 
-На рабочем столе в RDP-сессии есть дополнительные ярлыки:
+There are additional shortcuts on the desktop in RDP session:
 
-1. Ярлык `GuardantActivationWizard` - приложение для активации программного SP-ключа ПО Loginom, [инструкция](https://help.loginom.ru/adminguide/licenses/sp-activate.html) по активации в файле "Активация SP-ключей"
+1. `GuardantActivationWizard` shortcut is an application for activation of the software SP dongle for Loginom software, [manual](https://help.loginom.ru/adminguide/licenses/sp-activate.html) concerning the activation process is in "Activation of SP dongles" file.
    https://help.loginom.ru/adminguide/licenses/sp-activate.html
 
-2. Ярлык `Задать пароль admin` - запускает скрипт принудительного задания и обновления пароля пользователя `admin`. Может потребоваться при необходимости задать новый пароль, например в случае потери действующего.
+2. `Set admin password` shortcut runs script of the forced setting and upgrading of the user `admin` password. New password can be required, for example, in the case of the current password loss.
 
-3. Ярлык `Loginom Studio` - открывает страницу c веб-приложением Loginom Studio. Рекомендуется использовать для работы браузер Google Сhrome.
+3. `Loginom Studio` shortcut enables opening of the page with Loginom Studio web application. Google Сhrome browser is recommended for work.
 
-> Внимание: Версия Loginom расположенная в образе имеет ограниченный срок действия, и для полноценной продолжительной работы необходимо запросить продление лицензии по адресу help@loginom.ru.
+> Attention: Loginom version located in the software image has the limited effective period, and it is required to request the licence renewal for the effective continuous work by the following e-mail: help@loginom.ru.
 
-## Дополнительная помощь
+## Additional Support
 
-Техподдержка по вопросам развертывания, запуска и использования доступна по адресу  help@loginom.ru.
+The technical support service concerning the deployment, start and usage issues is avaiable by the following e-mal: help@loginom.ru.
 
