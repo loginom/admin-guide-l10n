@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1141,6 +1141,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200610T080935Z" creationid="Марианна" creationdate="20200610T080935Z">
         <seg>&lt;x1/&gt;5.&lt;x2/&gt; Upon the "number-question" receipt ("dongle upgrade file" will be in the letter), it is required to run GrdTRU.exe once again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;6.&lt;x2/&gt; На следующем шаге вводится полученное "число-ответ".</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T085530Z" creationid="Марианна" creationdate="20200610T085530Z">
+        <seg>&lt;x1/&gt;6.&lt;x2/&gt; The received "number-question" is entered at the next stage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2665,8 +2673,8 @@ Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: Программу GrdTRU.exe не следует повторно запускать до получения "файла-ответа", иначе всю процедуру будет необходимо повторить заново.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T081212Z" creationid="Марианна" creationdate="20200610T081212Z">
-        <seg>&lt;x1/&gt;Note&lt;x2/&gt;: Программу GrdTRU.exe не следует повторно запускать до получения "файла-ответа", иначе всю процедуру будет необходимо повторить заново.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T085459Z" creationid="Марианна" creationdate="20200610T081212Z">
+        <seg>&lt;x1/&gt;Note&lt;x2/&gt;: It is not allowed to run GrdTRU.exe once again before "number-question" receipt, otherwise the whole procedure will be repeated from the very beginning.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4786,6 +4794,14 @@ M: OK, done. Still i would prefer to preserve the universal style of the text. <
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200610T072359Z" creationid="Марианна" creationdate="20200610T072359Z">
         <seg>Loginom user must perform the following actions prior to the remote programming of the dongle memory using GrdTRU.exe software:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Для его ввода можно воспользоваться кнопками вставки "Из буфера" или "Из файла".</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T085700Z" creationid="Марианна" creationdate="20200610T085700Z">
+        <seg>It is required to use "From clipboard" or "From file" buttons for its entry.</seg>
       </tuv>
     </tu>
     <tu>
