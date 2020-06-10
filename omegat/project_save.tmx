@@ -4968,6 +4968,14 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Всегда использовать шифрование при подключении к серверу Loginom.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T195214Z" creationid="Марианна" creationdate="20200610T195214Z">
+        <seg>Encryption is always required in the case of connection to Loginom server.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>For the second test option — go to the following link: URL: http://&lt;Server&gt;/lgi/service.svc/rest/help.</note>
       <tuv lang="RU">
         <seg>Второй вариант проверки — перейти по URL: &lt;x1/&gt;http://&lt;Server&gt;/lgi/service.svc/rest/help&lt;x2/&gt;.</seg>
