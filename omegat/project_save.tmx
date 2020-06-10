@@ -3567,6 +3567,7 @@ Vasiliy M.: Могу ошибаться, но может быть - Edition?
       </tuv>
     </tu>
     <tu>
+      <note>An SQL query is specified in the sqlCommand attribute.</note>
       <tuv lang="RU">
         <seg>SQL запрос задается в атрибуте &lt;x1/&gt;sqlCommand&lt;x2/&gt;.</seg>
       </tuv>
