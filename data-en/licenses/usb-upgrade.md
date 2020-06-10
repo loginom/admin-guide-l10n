@@ -42,7 +42,7 @@ Note. It is required to send the recorded "number-question" to Loginom Company b
 
 ![](../images/guardant-usb-upgrade-4.png)
 
-**7.** In the case of the proper observance of the instructions mentioned above, you will see the next window - Dongle programming successfully completed. There is the operation confirmation code to be resent to the supplier at the bottom of the window. To finish the operations press the "Finish" button.
+**7.** In the case of the proper observance of the instructions mentioned above, you will see the next window - Dongle programming successfully completed. There is operation confirmation code to be resent to the supplier at the bottom of the window. To finish the operations press the "Finish" button.
 
 ![](../images/guardant-usb-upgrade-5.png)
 
