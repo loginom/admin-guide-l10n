@@ -1776,6 +1776,22 @@ M: Done. But still I do not feel the diffrerence. We need to discuss it and chec
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;http://web-server-host:80/app&lt;x2/&gt; - URL подключения, если шифрование http не включено;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T092234Z" creationid="Марианна" creationdate="20200610T092234Z">
+        <seg>&lt;x1/&gt;http://web-server-host:80/app&lt;x2/&gt; - URL connections if http encryption is not enabled;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;https://web-server-host:443/app&lt;x2/&gt; - URL подключения, если шифрование http включено.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T092250Z" creationid="Марианна" creationdate="20200610T092250Z">
+        <seg>&lt;x1/&gt;https://web-server-host:443/app&lt;x2/&gt; - URL connections if http encryption is enabled.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>internal - logging events file record (for example, errors while writing logs to the database).</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;internal&lt;x2/&gt; - запись в файл событий логирования (к примеру, ошибок при записи логов в базу данных).</seg>
@@ -2023,6 +2039,14 @@ M: Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T153857Z" creationid="Марианна" creationdate="20200519T153857Z">
         <seg>&lt;x1/&gt;ws/&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;ws://loginom-server-host:8080/ws&lt;x2/&gt; - URL подключения, если шифрование websocket &lt;x3/&gt;не включено&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T092347Z" creationid="Марианна" creationdate="20200610T092347Z">
+        <seg>&lt;x1/&gt;ws://loginom-server-host:8080/ws&lt;x2/&gt; - URL connections if websocket encryption &lt;x3/&gt;is not enabled&lt;x4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3293,6 +3317,14 @@ Host: stend-057</seg>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Integrator</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T092406Z" creationid="Марианна" creationdate="20200610T092406Z">
+        <seg>Integrator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Intel Core 2 Duo</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T194609Z" creationid="Марианна" creationdate="20200502T194609Z">
@@ -4143,6 +4175,14 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T211351Z" creationid="Марианна" creationdate="20200605T211351Z">
         <seg>Attributes with field names can be absent or contain blank values.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Без wsproxy</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T092155Z" creationid="Марианна" creationdate="20200610T092155Z">
+        <seg>Without wsproxy</seg>
       </tuv>
     </tu>
     <tu>
@@ -8117,6 +8157,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200512T092533Z" creationid="Марианна" creationdate="20200424T095123Z">
         <seg>At the same time, serving as a client, the &lt;x5/&gt;Adapter&lt;x6/&gt; provides transformation of these messages from the SOAP format to the individual formats of the external services, and backwards. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>С использованием wsproxy</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T092355Z" creationid="Марианна" creationdate="20200610T092355Z">
+        <seg>With wsproxy</seg>
       </tuv>
     </tu>
     <tu>
