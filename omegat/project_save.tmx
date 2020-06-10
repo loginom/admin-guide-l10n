@@ -1594,6 +1594,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Studio&lt;x2/&gt; обменивается данными с Loginom Server по протоколу &lt;x3/&gt;websocket&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T092139Z" creationid="Марианна" creationdate="20200610T092139Z">
+        <seg>&lt;x1/&gt;Studio&lt;x2/&gt; enables data exchange with Loginom Server using &lt;x3/&gt;websocket&lt;x4/&gt; protocol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;URL веб-приложения&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T083349Z" creationid="Марианна" creationdate="20200520T083349Z">
@@ -3707,6 +3715,14 @@ Vasiliy M.: Могу ошибаться, но может быть - Edition?
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Studio</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T092057Z" creationid="Марианна" creationdate="20200610T092057Z">
+        <seg>Studio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>URI websocket proxy</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T153903Z" creationid="Марианна" creationdate="20200519T153903Z">
@@ -4439,6 +4455,22 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T195414Z" creationid="Марианна" creationdate="20200502T195414Z">
         <seg>Version 5.1 or higher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Взаимодействие компонентов</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T092022Z" creationid="Марианна" creationdate="20200610T092022Z">
+        <seg>Interaction of Components</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Взаимодействие между Loginom Server и остальными компонентами платформы.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T092048Z" creationid="Марианна" creationdate="20200610T092048Z">
+        <seg>Interaction of Loginom Server and Other Platform Components</seg>
       </tuv>
     </tu>
     <tu>
