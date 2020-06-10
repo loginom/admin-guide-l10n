@@ -3978,6 +3978,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>The Loginom analytical platform can be operated in server mode for teamwork, and as a desktop application for personal analytics.</note>
       <tuv lang="RU">
         <seg>Аналитическая платформа &lt;x1/&gt;Loginom&lt;x2/&gt; может функционировать в серверном режиме для коллективной работы и в виде настольного приложения для персональной аналитики.</seg>
       </tuv>
