@@ -6417,6 +6417,7 @@ The desktop version of the platform is designated for installation on the local 
       </tuv>
     </tu>
     <tu>
+      <note>Installation is not required, as interaction is provided through use of a browser.</note>
       <tuv lang="RU">
         <seg>Не требует инсталляции, т.к. взаимодействие осуществляется через браузер.</seg>
       </tuv>
