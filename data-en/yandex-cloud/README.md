@@ -3,7 +3,7 @@
 <p><iframe allowfullscreen="" frameborder="0" height="472" src="https://www.youtube.com/embed/rOYXRR-Lzow" width="835"></iframe></p>
 
 
-Access to the analytical platform is provided by resources of Yandex Compute Cloud service. The service enables usage of virtual machines in Yandex.Clouds infrastructure for Loginom operation. Depending on the complexity of computations, it is possible to define the required number of cores, storage capacity, size and amount of disks and accessibility zone of the virtual machine. As appropriate, these parameters can be changed without the system reinstallation.
+Access to the analytical platform is provided by resources of Yandex Compute Cloud service. The service enables usage of virtual machines in Yandex.Clouds infrastructure for Loginom operation. Depending on the complexity of computations, it is possible to define the required number of cores, storage capacity, size and amount of discs and accessibility zone of the virtual machine. As appropriate, these parameters can be changed without the system reinstallation.
 
 [Loginom Platform in Yandex.Cloud](https://cloud.yandex.ru/marketplace/products/f2esjn14f4ekcb53igdt)
 
