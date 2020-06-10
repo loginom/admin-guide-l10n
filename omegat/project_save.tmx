@@ -96,6 +96,14 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>"wsport": 9999,</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T194351Z" creationid="Марианна" creationdate="20200610T194351Z">
+        <seg>"wsport": 9999,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>"wsport": null,</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200610T152158Z" creationid="Марианна" creationdate="20200610T152158Z">
@@ -4123,6 +4131,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>http: &lt;x1/&gt;ws://web-server-host:9999&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T194404Z" creationid="Марианна" creationdate="20200610T194404Z">
+        <seg>http: &lt;x1/&gt;ws://web-server-host:9999&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>https: &lt;x1/&gt;wss://lg.domain.org:8443&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200610T152652Z" creationid="Марианна" creationdate="20200610T152652Z">
@@ -4135,6 +4151,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200610T152256Z" creationid="Марианна" creationdate="20200610T152256Z">
         <seg>https: &lt;x1/&gt;wss://web-server-host:8443&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>https: незащищенные подключения &lt;x1/&gt;websocket&lt;x2/&gt; запрещены.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T194547Z" creationid="Марианна" creationdate="20200610T194547Z">
+        <seg>https: insecure &lt;x1/&gt;websocket&lt;x2/&gt; connections are forbidden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7750,6 +7774,14 @@ Done. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Порт для подключения по протоколу &lt;x1/&gt;websocket&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T194302Z" creationid="Марианна" creationdate="20200610T194302Z">
+        <seg>Port for connection using &lt;x1/&gt;websocket&lt;x2/&gt; protocol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Порт привязки сайта IIS</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T231023Z" creationid="Марианна" creationdate="20200604T231023Z">
@@ -7910,6 +7942,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200610T152626Z" creationid="Марианна" creationdate="20200610T152626Z">
         <seg>In the case of the &lt;x1/&gt;null&lt;x2/&gt; value the web server host address is used.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>При значении &lt;x3/&gt;null&lt;x4/&gt; используется порт &lt;x5/&gt;8080&lt;x6/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T194347Z" creationid="Марианна" creationdate="20200610T194347Z">
+        <seg>In case of the &lt;x3/&gt;null&lt;x4/&gt; value, &lt;x5/&gt;8080&lt;x6/&gt; port is used.</seg>
       </tuv>
     </tu>
     <tu>
