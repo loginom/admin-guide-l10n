@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5669,6 +5669,22 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Изменение количества пользователей компонентов продукта</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T071800Z" creationid="Марианна" creationdate="20200610T071800Z">
+        <seg>Change of the number of the product components users</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Изменение состава компонентов продукта</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T071738Z" creationid="Марианна" creationdate="20200610T071738Z">
+        <seg>Change of composistion of the product components</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A: The files names can be also specified as a template with usage of the %guid% construction. 
 M: Done.</note>
       <tuv lang="RU">
@@ -6505,6 +6521,14 @@ Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T150233Z" creationid="Марианна" creationdate="20200519T150233Z">
         <seg>Loginom Server Upgrade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Обновление USB-ключа</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T071559Z" creationid="Марианна" creationdate="20200610T071559Z">
+        <seg>USB Dongle Upgrade</seg>
       </tuv>
     </tu>
     <tu>
@@ -7619,6 +7643,14 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200608T104031Z" creationid="Марианна" creationdate="20200608T104031Z">
         <seg>Check the Internet connections settings and press the "Next" button:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Процедура обновления электронного usb-ключа может потребоваться в следующих случаях:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T071635Z" creationid="Марианна" creationdate="20200610T071635Z">
+        <seg>Procedure of USB dongle upgrade is required in the following cases:</seg>
       </tuv>
     </tu>
     <tu>
