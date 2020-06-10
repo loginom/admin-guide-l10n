@@ -1025,6 +1025,7 @@ M: Done</note>
       </tuv>
     </tu>
     <tu>
+      <note>Enter the software dongle serial number. </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;2.&lt;x2/&gt; Ввести серийный номер программного ключа.</seg>
       </tuv>
