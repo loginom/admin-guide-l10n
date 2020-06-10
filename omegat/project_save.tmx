@@ -6970,6 +6970,14 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>На рабочем столе в RDP-сессии есть дополнительные ярлыки:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T203632Z" creationid="Марианна" creationdate="20200610T203632Z">
+        <seg>There are additional shortcuts on the desktop in RDP session:</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A: At the next stage, the request received in the result of the previous transformations in case of the REST request formation is placed into the HTTP/HTTPS package body (Entity Body) sent to the external service. In case of the SOAP request, it is placed into the Body node of the SOAP package.
 M: Done.</note>
       <tuv lang="RU">
@@ -9694,6 +9702,24 @@ M: Done. Вася, посмотрю еще раз в сети, все помен
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200512T092349Z" creationid="Марианна" creationdate="20200424T084130Z">
         <seg>Being an intermediate web service, the &lt;x1/&gt;Adapter&lt;x2/&gt; serves both as a client concerning the external service (for example, concerning the Credit Reference Bureau – CRB), and the SOAP web service, with regard to Loginom workflow (or any other outside information user).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Ярлык &lt;x1/&gt;GuardantActivationWizard&lt;x2/&gt; - приложение для активации программного SP-ключа ПО Loginom, &lt;x3/&gt;инструкция&lt;x4/&gt; по активации в файле "Активация SP-ключей"
+https://help.loginom.ru/adminguide/licenses/sp-activate.html</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T203810Z" creationid="Марианна" creationdate="20200610T203810Z">
+        <seg>&lt;x1/&gt;GuardantActivationWizard&lt;x2/&gt; shortcut is an application for activation of the software SP dongle for Loginom software, &lt;x3/&gt;manual&lt;x4/&gt; concerning the activation process is in "Activation of SP dongles" file.
+https://help.loginom.ru/adminguide/licenses/sp-activate.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Ярлык &lt;x1/&gt;Задать пароль admin&lt;x2/&gt; - запускает скрипт принудительного задания и обновления пароля пользователя &lt;x3/&gt;admin&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T204023Z" creationid="Марианна" creationdate="20200610T204023Z">
+        <seg>&lt;x1/&gt;Set admin password&lt;x2/&gt; shortcut runs script of the forced setting and upgrading of the user &lt;x3/&gt;admin&lt;x4/&gt; password.</seg>
       </tuv>
     </tu>
     <tu>
