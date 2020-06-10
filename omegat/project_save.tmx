@@ -2051,6 +2051,14 @@ M: Done</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;ws://loginom-server-host:8080/ws&lt;x2/&gt; - URL подключения, если шифрование websocket &lt;x3/&gt;не включено&lt;x4/&gt;;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T102747Z" creationid="Марианна" creationdate="20200610T102747Z">
+        <seg>&lt;x1/&gt;ws://loginom-server-host:8080/ws&lt;x2/&gt; - URL connections if websocket encryption &lt;x3/&gt;is disabled&lt;x4/&gt;;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;ws://web-server-host:80/ws&lt;x2/&gt; - URL подключения, если не включено шифрование ни http, ни websocket;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200610T102441Z" creationid="Марианна" creationdate="20200610T102441Z">
