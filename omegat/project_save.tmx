@@ -5019,6 +5019,14 @@ M: Done. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Внимание: Версия Loginom расположенная в образе имеет ограниченный срок действия, и для полноценной продолжительной работы необходимо запросить продление лицензии по адресу help@loginom.ru.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T204631Z" creationid="Марианна" creationdate="20200610T204631Z">
+        <seg>Attention: Loginom version located in the software image has the limited effective period, and it is required to request the licence renewal for the effective continuous work by the following e-mail: help@loginom.ru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Возможно включение следующих режимов:</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T204246Z" creationid="Марианна" creationdate="20200605T204246Z">
@@ -8815,6 +8823,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200502T194543Z" creationid="Марианна" creationdate="20200502T194543Z">
         <seg>Recommended</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Рекомендуется использовать для работы браузер Google Сhrome.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T204207Z" creationid="Марианна" creationdate="20200610T204207Z">
+        <seg>Google Сhrome browser is recommended for work.</seg>
       </tuv>
     </tu>
     <tu>
