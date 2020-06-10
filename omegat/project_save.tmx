@@ -7422,6 +7422,14 @@ M: Done</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Поддерживаются браузеры:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T103750Z" creationid="Марианна" creationdate="20200610T103750Z">
+        <seg>The following browsers are supported:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Подобная структура предполагает, что внешних сервисов, с которыми работает &lt;x1/&gt;Адаптер&lt;x2/&gt;, может быть несколько, и для каждого внешнего сервиса может быть определено несколько методов.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200324T070643Z" creationid="Марианна" creationdate="20200206T065605Z">
