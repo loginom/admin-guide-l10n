@@ -76,6 +76,24 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>"host": null
+}</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T152211Z" creationid="Марианна" creationdate="20200610T152211Z">
+        <seg>"host": null
+}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>"wsport": null,</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T152158Z" creationid="Марианна" creationdate="20200610T152158Z">
+        <seg>"wsport": null,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>%/spoiler%</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200519T153908Z" creationid="Марианна" creationdate="20200519T153908Z">
@@ -4185,6 +4203,14 @@ net start loginom</seg>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>{</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T152204Z" creationid="Марианна" creationdate="20200610T152204Z">
+        <seg>{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Авторизоваться с учетной записью &lt;x1/&gt;user&lt;x2/&gt; с пустым паролем.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T092808Z" creationid="Марианна" creationdate="20200520T092808Z">
@@ -4547,6 +4573,14 @@ Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T221611Z" creationid="Марианна" creationdate="20200206T081300Z">
         <seg>The &lt;x19/&gt;Web.config&lt;x20/&gt; file will include references to such files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>В файле конфигурации задается URL подключения к &lt;x1/&gt;серверу Loginom&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T152125Z" creationid="Марианна" creationdate="20200610T152125Z">
+        <seg>URL connection to &lt;x1/&gt;Loginom server&lt;x2/&gt; is set in the configuration file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6026,6 +6060,14 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T232045Z" creationid="Марианна" creationdate="20200428T124400Z">
         <seg>Values of &lt;x1/&gt;The web service description&lt;x2/&gt; parameter are set by content of the &lt;x3/&gt;&lt;wsdl:documentation&gt;&lt;x4/&gt; WSDL nodes, and they are used for the arbitrary description of the services.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Значения по умолчанию:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T152150Z" creationid="Марианна" creationdate="20200610T152150Z">
+        <seg>Default values:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8206,6 +8248,14 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Путь к файлу конфигурации Loginom Studio: &lt;x1/&gt;%ProgramFiles%\BaseGroup\Loginom 6\Client\server.json&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T152051Z" creationid="Марианна" creationdate="20200610T152051Z">
+        <seg>Path to the Loginom Studio configuration file: &lt;x1/&gt;%ProgramFiles%\BaseGroup\Loginom 6\Client\server.json&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>The parameters application is similar to the request processing command, and it is described in the following section: &lt;x7/&gt;Configuration of the Client Role of the External Services&lt;x8/&gt;.&lt;segment 0104&gt;
 
 *comma added to separate clause
@@ -8329,6 +8379,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T202201Z" creationid="Марианна" creationdate="20200605T202201Z">
         <seg>The file is located by default - &lt;x3/&gt;%ProgramFiles%\BaseGroup\Loginom 6\Integrator&lt;x4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Результрующий url:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T152248Z" creationid="Марианна" creationdate="20200610T152248Z">
+        <seg>Resulting url:</seg>
       </tuv>
     </tu>
     <tu>
