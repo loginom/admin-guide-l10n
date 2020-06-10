@@ -36,5 +36,5 @@ There are additional shortcuts on the desktop in RDP session:
 
 ## Additional Support
 
-The technical support service concerning the deployment, start and usage issues is available by the following e-mal: help@loginom.ru.
+The technical support service concerning the deployment, start and usage issues is available by the following e-mail: help@loginom.ru.
 
