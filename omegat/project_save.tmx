@@ -7529,6 +7529,7 @@ M: Done</note>
       </tuv>
     </tu>
     <tu>
+      <note>Software is not bound to the computer parameters, but to the dongle.</note>
       <tuv lang="RU">
         <seg>Привязка программного обеспечения осуществляется не к параметрам компьютера, а только к ключу;</seg>
       </tuv>
