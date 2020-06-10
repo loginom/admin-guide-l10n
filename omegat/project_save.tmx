@@ -8729,6 +8729,7 @@ Done</note>
       </tuv>
     </tu>
     <tu>
+      <note>To activate Guardant SP dongle, it is required to run GuardantActivationWizard.exe activation wizard and to follow the instructions:</note>
       <tuv lang="RU">
         <seg>Чтобы активировать ключ Guardant SP, запустите мастер активации GuardantActivationWizard.exe и следуйте его указаниям:</seg>
       </tuv>
