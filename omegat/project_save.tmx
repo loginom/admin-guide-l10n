@@ -5824,6 +5824,14 @@ Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Если Loginom Studio не удается запустить, необходимо воспользоваться &lt;x1/&gt;инструкцией&lt;x2/&gt; и проверить наличие запущенных служб.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T203353Z" creationid="Марианна" creationdate="20200610T203353Z">
+        <seg>If Loginom Studio start failed, it is required to use the &lt;x1/&gt;manual&lt;x2/&gt; and check availability of the started services.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Если атрибут не задан, используются логин и пароль пользователя service.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T202937Z" creationid="Марианна" creationdate="20200605T202937Z">
@@ -8554,6 +8562,14 @@ M: Done. </note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Продолжение работ</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T203530Z" creationid="Марианна" creationdate="20200610T203530Z">
+        <seg>Operation Continuation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Процедура обновления электронного usb-ключа может потребоваться в следующих случаях:</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200610T071635Z" creationid="Марианна" creationdate="20200610T071635Z">
@@ -9678,6 +9694,14 @@ M: Done. Вася, посмотрю еще раз в сети, все помен
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200512T092349Z" creationid="Марианна" creationdate="20200424T084130Z">
         <seg>Being an intermediate web service, the &lt;x1/&gt;Adapter&lt;x2/&gt; serves both as a client concerning the external service (for example, concerning the Credit Reference Bureau – CRB), and the SOAP web service, with regard to Loginom workflow (or any other outside information user).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Ярлыки &lt;x3/&gt;Запуск веб-сервера&lt;x4/&gt; и &lt;x5/&gt;Запуск сервера Loginom&lt;x6/&gt; (на рабочем столе) - запускают службы, необходимые для работы Loginom Studio.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T203508Z" creationid="Марианна" creationdate="20200610T203508Z">
+        <seg>&lt;x3/&gt;Web server start&lt;x4/&gt; and &lt;x5/&gt;Loginom server start&lt;x6/&gt; shortcuts (on the desktop) enable start of the services required for Loginom Studio operation.</seg>
       </tuv>
     </tu>
     <tu>
