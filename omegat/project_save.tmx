@@ -4277,8 +4277,8 @@ M: Done. </note>
       <tuv lang="RU">
         <seg>Браузер подключается к web-серверу по протоколу &lt;x1/&gt;http&lt;x2/&gt; и загружает Loginom Studio:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T102033Z" creationid="Марианна" creationdate="20200610T102033Z">
-        <seg>Browser is connected to the web server using &lt;x1/&gt;http&lt;x2/&gt; protocol and enables Loginom Studio loading:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T103353Z" creationid="Марианна" creationdate="20200610T102033Z">
+        <seg>Browser is connected to the web server using &lt;x1/&gt;http&lt;x2/&gt; protocol; it enables Loginom Studio loading:</seg>
       </tuv>
     </tu>
     <tu>
