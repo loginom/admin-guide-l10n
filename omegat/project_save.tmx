@@ -96,6 +96,14 @@ A: "while the command" is placed in a different part of the segment in Github, a
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>"path": "any/",</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T195102Z" creationid="Марианна" creationdate="20200610T195102Z">
+        <seg>"path": "any/",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>"wsport": 9999,</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200610T194351Z" creationid="Марианна" creationdate="20200610T194351Z">
@@ -2179,6 +2187,14 @@ M: Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200610T102311Z" creationid="Марианна" creationdate="20200610T102311Z">
         <seg>&lt;x1/&gt;wss://loginom-server-host:8443/ws&lt;x2/&gt; - URL connections if websocket encryption &lt;x3/&gt;is enabled&lt;x4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;wss://web-server-host:443/any/&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T195112Z" creationid="Марианна" creationdate="20200610T195112Z">
+        <seg>&lt;x1/&gt;wss://web-server-host:443/any/&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4305,6 +4321,22 @@ net start loginom</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T091831Z" creationid="Марианна" creationdate="20200520T091831Z">
         <seg>netsh advfirewall firewall add rule name="Allow Loginom WebSocket" dir=in action=allow protocol=TCP localport=8080</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>path</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T195023Z" creationid="Марианна" creationdate="20200610T195023Z">
+        <seg>path</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>secure</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T195117Z" creationid="Марианна" creationdate="20200610T195117Z">
+        <seg>secure</seg>
       </tuv>
     </tu>
     <tu>
@@ -7658,6 +7690,14 @@ M: Done</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>По умолчанию &lt;x3/&gt;ws/&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T195056Z" creationid="Марианна" creationdate="20200610T195056Z">
+        <seg>By default &lt;x3/&gt;ws/&lt;x4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>По умолчанию используется &lt;x7/&gt;utf-8&lt;x8/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200226T110604Z" creationid="Марианна" creationdate="20200226T110604Z">
@@ -8455,6 +8495,14 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200610T152051Z" creationid="Марианна" creationdate="20200610T152051Z">
         <seg>Path to the Loginom Studio configuration file: &lt;x1/&gt;%ProgramFiles%\BaseGroup\Loginom 6\Client\server.json&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Путь подключения к WebSocket при использовании &lt;x1/&gt;wsproxy&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T195046Z" creationid="Марианна" creationdate="20200610T195046Z">
+        <seg>Connection path to WebSocket while &lt;x1/&gt;wsproxy&lt;x2/&gt; using.</seg>
       </tuv>
     </tu>
     <tu>
