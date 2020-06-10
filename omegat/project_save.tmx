@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5099,6 +5099,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>A number of actions are required to that end.</note>
       <tuv lang="RU">
         <seg>Для этого необходимо выполнить ряд действий.</seg>
       </tuv>
@@ -7451,6 +7452,7 @@ Vasiliy M: может быть, лезу не в своё дело. Мне ка�
       </tuv>
     </tu>
     <tu>
+      <note>Activation is possible in offline mode in the case of network unavailability (online-mode) for the final user computer at the moment of SP dongle activation.</note>
       <tuv lang="RU">
         <seg>При недоступности в момент активации SP-ключа сети интернет (&lt;x1/&gt;online-режим&lt;x2/&gt;) для компьютера конечного пользователя существует &lt;x3/&gt;возможность активации в offline-режиме&lt;x4/&gt;.</seg>
       </tuv>
