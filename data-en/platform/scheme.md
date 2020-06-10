@@ -1,47 +1,47 @@
-# Взаимодействие компонентов
+# Interaction of Components
 
-Взаимодействие между Loginom Server и остальными компонентами платформы.
+Interaction of Loginom Server and Other Platform Components
 
 ## Studio
 
-[Studio](../studio/README.md) обменивается данными с Loginom Server по протоколу [websocket](https://ru.wikipedia.org/wiki/WebSocket). Соединение может устанавливаться одним из двух способов - напрямую с сервером Loginom, либо через websocket proxy, настроенном на web-сервере.
+[Studio](../studio/README.md) enables data exchange with Loginom Server using [websocket](https://ru.wikipedia.org/wiki/WebSocket) protocol. Connection is provided using one of the following two methods - directly from Loginom server or using websocket proxy configured on the web server.
 
-Websocket proxy позволяет предоставлять доступ к Loginom Server через http(s) порт web-сервера, что упрощает конфигурацию сетевых экранов.
+Websocket proxy enables to provide access to Loginom Server via http(s) port of the web server that facilitates the firewall configuration.
 
-Для включения wsproxy на встроенном web-сервере достаточно отметить пункт "Использовать WebSocket proxy" [при установке](../server/setup.md#parametry-web-servera-apache-httpd), IIS требует более сложной [настройки](../server/iis.md#nastroyka-websocket-proxy).
+To enable wsproxy on the imbedded web server, it is sufficient to select "Use WebSocket proxy" [in the course of installation](../server/setup.md#parametry-web-servera-apache-httpd), IIS will require more complicated [configuration](../server/iis.md#nastroyka-websocket-proxy).
 
-При установке по умолчанию websocket proxy отключен.
+In the case of default installation websocket proxy is disabled.
 
-### Без wsproxy
+### Without wsproxy
 
 ![](../images/without-proxy.svg)
 
-* Браузер подключается к web-серверу по протоколу `http` и загружает Loginom Studio:
-   * `http://web-server-host:80/app` - URL подключения, если шифрование http не включено;
-   * `https://web-server-host:443/app` - URL подключения, если шифрование http включено.
-* Из конфигурации [server.json](../studio/config.md) формируется URL для подключения к серверу Loginom;
-* Loginom Studio создает подключение на хост сервера Loginom по протоколу `websocket`:
-   * `ws://loginom-server-host:8080/ws` - URL подключения, если шифрование websocket [не включено](../server/setup.md#parametry-loginom-server). При наличии шифрования http подключение запрещено.
-   * `wss://loginom-server-host:8443/ws` - URL подключения, если шифрование websocket [включено](../server/setup.md#parametry-loginom-server).
+* Browser is connected to the web server using `http` protocol and enables Loginom Studio loading:
+   * `http://web-server-host:80/app` - URL connections if http encryption is not enabled;
+   * `https://web-server-host:443/app` - URL connections if http encryption is enabled.
+* [server.json](../studio/config.md) configuration enables URL formation for connection to Loginom server;
+* Loginom Studio enables connection to the Loginim server host using `websocket` protocol:
+   * `ws://loginom-server-host:8080/ws` - URL connections if websocket encryption [is not enabled](../server/setup.md#parametry-loginom-server). In the case of http encryption connection is forbidden.
+   * `wss://loginom-server-host:8443/ws` - URL connections if websocket encryption [is enabled](../server/setup.md#parametry-loginom-server).
 
-### С использованием wsproxy
+### With wsproxy
 
 ![](../images/proxy.svg)
 
-* Браузер подключается к web-серверу по протоколу `http` и загружает Loginom Studio:
-   * `http://web-server-host:80/app` - URL подключения, если шифрование http не включено;
-   * `https://web-server-host:443/app` - URL подключения, если шифрование http включено.
-* Из конфигурации [server.json](../studio/config.md) формируется URL для подключения к серверу Loginom;
-* Loginom Studio подключается к хосту web-сервера по протоколу `websocket`:
-   * `ws://web-server-host:80/ws` - URL подключения, если не включено шифрование ни http, ни websocket;
-   * `wss://web-server-host:443/ws`  - URL подключения, если включено шифрование http либо websocket.
-* Web-сервер создает подключение на хост сервера Loginom по протоколу `websocket` и перенаправляет в него траффик соединения с Loginom Studio:
-   * `ws://loginom-server-host:8080/ws` - URL подключения, если шифрование websocket [не включено](../server/setup.md#parametry-loginom-server);
-   * `wss://loginom-server-host:8443/ws` - URL подключения, если шифрование websocket [включено](../server/setup.md#parametry-loginom-server).
+* Browser is connected to the web server using `http` protocol and enables Loginom Studio loading:
+   * `http://web-server-host:80/app` - URL connections if http encryption is not enabled;
+   * `https://web-server-host:443/app` - URL connections if http encryption is enabled.
+* [server.json](../studio/config.md) configuration enables URL formation for connection to Loginom server;
+* Loginom Studio enables connection to the web server host using `websocket` protocol:
+   * `ws://web-server-host:80/ws` - URL connections if neither http, nor websocket encryption is enabled;
+   * `wss://web-server-host:443/ws`  - URL connections if http or websocket encryption is enabled.
+* The web server enables connection to the Loginom server host using `websocket` protocol and retransfer to it traffic of connection with Loginom Studio:
+   * `ws://loginom-server-host:8080/ws` - URL connections if websocket encryption [is disabled](../server/setup.md#parametry-loginom-server);
+   * `wss://loginom-server-host:8443/ws` - URL connections if websocket encryption [is enabled](../server/setup.md#parametry-loginom-server).
 
 ## Integrator
 
 ![](../images/service.svg)
 
-* Внешний сервис подключается по протоколу http к web-серверу (IIS), на котором развернуто web-приложение [Loginom Integrator](../integrator/README.md);
-* Integrator обрабатывает запрос и создает подключение на TCP [порт сервера](../server/setup.md#parametry-loginom-server) к хосту сервера Loginom.
+* The external service is connected using http protocol to the web server (IIS) on which [Loginom Integrator](../integrator/README.md) web application is deployed;
+* Integrator enables request processing and creation of connection to TCP [server port](../server/setup.md#parametry-loginom-server) to the Loginom server host.
