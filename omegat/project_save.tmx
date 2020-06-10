@@ -5408,8 +5408,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Если при перепрограммировании ключа были открыты модули Loginom, то перед запуском нового проекта их необходимо закрыть и заново открыть иначе может возникнуть ошибка запуска проекта.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T090506Z" creationid="Марианна" creationdate="20200610T090343Z">
-        <seg>If Loginom modules were opened before reprogramming, it is required to close them before the new project start and to open them once again, otherwise the project start error will occur.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T091750Z" creationid="Марианна" creationdate="20200610T090343Z">
+        <seg>If Loginom modules were opened before reprogramming, it is required to close them before the new project start and open them once again, otherwise the project start error will occur.</seg>
       </tuv>
     </tu>
     <tu>
