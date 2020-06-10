@@ -24,7 +24,7 @@ Encryption of `ws` protocol is defined by the availability of `http` encryption.
 
 ### host
 
-Адрес хоста сервера Loginom. При значении `null` используется адрес хоста веб-сервера.
+Loginom server host address. In the case of the `null` value the web server host address is used.
 
 ```json
 {
@@ -40,7 +40,7 @@ Resulting url:
 
 ### wsport
 
-Порт для подключения по протоколу `websocket`. При значении `null` используется порт `8080`.
+Port for connection using `websocket` protocol. In case of the `null` value, `8080` port is used.
 
 ```json
 {
@@ -52,11 +52,11 @@ Resulting url:
 Resulting url:
 
 * http: `ws://web-server-host:9999`
-* https: незащищенные подключения `websocket` запрещены.
+* https: insecure `websocket` connections are forbidden.
 
 ### wssport
 
-Порт для подключения по протоколу `websocket secure`. При значении `null` используется порт `8443`.
+Port for connection using `websocket secure` protocol. In the case of the `null` value, `8443` port is used.
 
 ```json
 {
@@ -71,7 +71,7 @@ Resulting url:
 
 ### wsproxy
 
-Подключение к серверу Loginom через websocket прокси. В этом случае `host` и `wsport|wssport` будут равны адресу хоста и порту веб-сервера.
+Connection to Loginom server by means of websocket proxy. In that case `host` and `wsport|wssport` will be equal to the host address web server port.
 
 ```json
 {
@@ -86,7 +86,7 @@ Resulting url:
 
 ### path
 
-Путь подключения к WebSocket при использовании `wsproxy`. По умолчанию `ws/`.
+Connection path to WebSocket while `wsproxy` using. By default `ws/`.
 
 ```json
 {
@@ -102,11 +102,11 @@ Resulting url:
 
 ### secure
 
-Всегда использовать шифрование при подключении к серверу Loginom.
+Encryption is always required in the case of connection to Loginom server.
 
-Если параметр не указан, при подключении к веб-серверу по `http` подключение к серверу Loginom будет выполняться без шифрования.
+If the parameter is not specified, in the case of connection to the web server `http` connection to Loginom server will be performed without encryption.
 
-Если параметр указан и установлен в `true`, подключение всегда будет выполняться с шифрованием — по протоколу `websocket secure` на порт `wssport`.
+If the parameter is specified and set in `true`, connection will be always performed with encryption — using `websocket secure` protocol for `wssport` port.
 
 ```json
 {
@@ -117,5 +117,5 @@ Resulting url:
 
 Resulting url:
 
-* без wsproxy: `wss://loginom-server-host:8443`
-* с wsproxy: `wss://web-server-host:443/ws/`
+* without wsproxy: `wss://loginom-server-host:8443`
+* with wsproxy: `wss://web-server-host:443/ws/`
