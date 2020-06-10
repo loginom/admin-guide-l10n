@@ -4955,6 +4955,7 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Installation of drivers is not required on each computer. It is sufficient just to install the program.</note>
       <tuv lang="RU">
         <seg>Для работы Loginom нет необходимости устанавливать драйвер на каждую машину, достаточно просто инсталлировать программу;</seg>
       </tuv>
@@ -8705,6 +8706,7 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>It is particularly convenient in the case of the corporate network usage when Loginom is typically not started by all users who installed it.</note>
       <tuv lang="RU">
         <seg>Это особенно удобно при работе в корпоративной сети, так как чаще всего Loginom запускают сразу не все пользователи, у которых он установлен.</seg>
       </tuv>
