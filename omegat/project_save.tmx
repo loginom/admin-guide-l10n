@@ -6955,8 +6955,8 @@ Done.</note>
       <tuv lang="RU">
         <seg>Обработка данных выполняется &lt;x1/&gt;Loginom Server&lt;x2/&gt;-ом.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T104130Z" creationid="Марианна" creationdate="20200610T104130Z">
-        <seg>Data processing is performed by &lt;x1/&gt;Loginom Server&lt;x2/&gt;-ом.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T104353Z" creationid="Марианна" creationdate="20200610T104130Z">
+        <seg>Data processing is performed by &lt;x1/&gt;Loginom Server&lt;x2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
