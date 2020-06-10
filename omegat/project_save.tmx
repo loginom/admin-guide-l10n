@@ -1309,6 +1309,14 @@ M: Done</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Chrome&lt;x2/&gt; не ниже 39.0</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T103804Z" creationid="Марианна" creationdate="20200610T103804Z">
+        <seg>&lt;x1/&gt;Chrome&lt;x2/&gt; version 39.0 or higher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;ContentType для передачи в заголовке&lt;x2/&gt; — значение данного параметра передается в заголовке &lt;x3/&gt;Content-Type&lt;x4/&gt; пакета сообщения к внешнему сервису.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200227T160055Z" creationid="Марианна" creationdate="20200227T160055Z">
@@ -1325,6 +1333,14 @@ M: Done</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>&lt;x1/&gt;Edge&lt;x2/&gt; не ниже 14.0</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T103934Z" creationid="Марианна" creationdate="20200610T103934Z">
+        <seg>&lt;x1/&gt;Edge&lt;x2/&gt; version 14.0 or higher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>&lt;x1/&gt;Error&lt;x2/&gt;- ошибки;</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T204806Z" creationid="Марианна" creationdate="20200605T204806Z">
@@ -1337,6 +1353,14 @@ M: Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T204837Z" creationid="Марианна" creationdate="20200605T204815Z">
         <seg>&lt;x1/&gt;Fatal&lt;x2/&gt; - fatal errors;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Firefox&lt;x2/&gt; не ниже 52.0</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T103849Z" creationid="Марианна" creationdate="20200610T103849Z">
+        <seg>&lt;x1/&gt;Firefox&lt;x2/&gt; version 52.0 or higher</seg>
       </tuv>
     </tu>
     <tu>
@@ -1361,6 +1385,14 @@ M: Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200605T213809Z" creationid="Марианна" creationdate="20200605T213809Z">
         <seg>&lt;x1/&gt;Integrator&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Internet Explorer&lt;x2/&gt; не ниже 11.0</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T103914Z" creationid="Марианна" creationdate="20200610T103914Z">
+        <seg>&lt;x1/&gt;Internet Explorer&lt;x2/&gt; version 11.0 or higher</seg>
       </tuv>
     </tu>
     <tu>
@@ -1520,6 +1552,14 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Opera&lt;x2/&gt; не ниже 37.0</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T103826Z" creationid="Марианна" creationdate="20200610T103826Z">
+        <seg>&lt;x1/&gt;Opera&lt;x2/&gt; version 37.0 or higher</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Port - port number for the Loginom Integrator and the BatchLauncher connection.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Port&lt;x2/&gt; - номер порта для подключения Loginom Integrator и BatchLauncher.</seg>
@@ -1558,6 +1598,14 @@ M: Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200514T054055Z" creationid="Марианна" creationdate="20200514T052538Z">
         <seg>&lt;x1/&gt;SSLPrivateKeyFile&lt;x2/&gt; - a full or relative path (from the working directory) to the SSL key file in the &lt;x3/&gt;pem&lt;x4/&gt; format.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;Safari&lt;x2/&gt; не ниже 10.3</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T103902Z" creationid="Марианна" creationdate="20200610T103902Z">
+        <seg>&lt;x1/&gt;Safari&lt;x2/&gt; version 10.3 or higher</seg>
       </tuv>
     </tu>
     <tu>
@@ -6244,6 +6292,14 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Клиентское веб-приложение, предназначенное для проектирования сценариев обработки, визуализации данных, настройки сервера, управления правами пользователей.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T104113Z" creationid="Марианна" creationdate="20200610T104113Z">
+        <seg>It is a client web application designated for design of processing workflows, data visualization, server configuration, user rights management.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>The client web application implementing user interface of the platform operation.</note>
       <tuv lang="RU">
         <seg>Клиентское веб-приложение, реализующее пользовательский интерфейс работы с платформой.</seg>
@@ -7227,6 +7283,14 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200430T220458Z" creationid="Марианна" creationdate="20200221T071943Z">
         <seg>Parameters of the General Settings </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Параметры подключения к Loginom Server задаются в &lt;x1/&gt;файле конфигурации&lt;x2/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T104009Z" creationid="Марианна" creationdate="20200610T104009Z">
+        <seg>Parameters of connection to Loginom Server are set in the &lt;x1/&gt;configuration file&lt;x2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
