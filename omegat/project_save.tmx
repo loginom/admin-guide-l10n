@@ -8776,6 +8776,14 @@ M: Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Сервис позволяет использовать виртуальные машины в инфраструктуре Яндекс.Облака для работы с Loginom.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T202343Z" creationid="Марианна" creationdate="20200610T202343Z">
+        <seg>The service enables usage of virtual machines in Yandex.Clouds infrastructure for Loginom operation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Серийный номер вида &lt;x1/&gt;9XZrwR-XXXXX-7NGDyS-XXXXX-qZGBcW-XXXXX-XoLBXF-xwqwXv-8oEO0o-XXXXX&lt;x2/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200608T103104Z" creationid="Марианна" creationdate="20200608T103104Z">
