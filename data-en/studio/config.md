@@ -1,10 +1,10 @@
 # Configuration
 
-Путь к файлу конфигурации Loginom Studio: `%ProgramFiles%\BaseGroup\Loginom 6\Client\server.json`
+Path to the Loginom Studio configuration file: `%ProgramFiles%\BaseGroup\Loginom 6\Client\server.json`
 
-В файле конфигурации задается URL подключения к [серверу Loginom](../server/README.md).
+URL connection to [Loginom server](../server/README.md) is set in the configuration file.
 
-Значения по умолчанию:
+Default values:
 
 ```json
 {
@@ -13,14 +13,14 @@
 }
 ```
 
-Результрующий url:
+Resulting url:
 
 * http: `ws://web-server-host:8080`
 * https: `wss://web-server-host:8443`
 
-Шифрование протокола `ws` определяется наличием шифрования `http`.
+Encryption of `ws` protocol is defined by the availability of `http` encryption.
 
-## Параметры
+## Parameters
 
 ### host
 
@@ -33,7 +33,7 @@
 }
 ```
 
-Результрующий url:
+Resulting url:
 
 * http: `ws://lg.domain.org:8080`
 * https: `wss://lg.domain.org:8443`
@@ -49,7 +49,7 @@
 }
 ```
 
-Результрующий url:
+Resulting url:
 
 * http: `ws://web-server-host:9999`
 * https: незащищенные подключения `websocket` запрещены.
@@ -65,7 +65,7 @@
 }
 ```
 
-Результрующий url:
+Resulting url:
 
 * `wss://web-server-host:9443`
 
@@ -80,7 +80,7 @@
 }
 ```
 
-Результрующий url:
+Resulting url:
 
 * `ws://web-server-host:443/ws/`
 
@@ -96,7 +96,7 @@
 }
 ```
 
-Результрующий url:
+Resulting url:
 
 * `wss://web-server-host:443/any/`
 
@@ -115,7 +115,7 @@
 }
 ```
 
-Результрующий url:
+Resulting url:
 
 * без wsproxy: `wss://loginom-server-host:8443`
 * с wsproxy: `wss://web-server-host:443/ws/`
