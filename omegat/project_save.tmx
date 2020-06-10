@@ -4407,6 +4407,14 @@ net start loginom</seg>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>А при необходимости эти параметры можно изменить без переустановки системы.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T202708Z" creationid="Марианна" creationdate="20200610T202708Z">
+        <seg>As appropriate, these parameters can be changed without the system reinstallation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Авторизоваться с учетной записью &lt;x1/&gt;user&lt;x2/&gt; с пустым паролем.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T092808Z" creationid="Марианна" creationdate="20200520T092808Z">
@@ -4596,6 +4604,14 @@ Done.</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200510T211502Z" creationid="Марианна" creationdate="20200502T204312Z">
         <seg>It is required to create a new application pool in the IIS service manager that will work with the &lt;x1/&gt;Loginom Adapter&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>В зависимости от сложности вычислений можно определить необходимое число ядер, объём памяти, размер и количество дисков, а также зона доступности виртуальной машины.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T202611Z" creationid="Марианна" creationdate="20200610T202611Z">
+        <seg>Depending on the complexity of computations, it is possible to define the required number of cores, storage capacity, size and amount of disks and accessibility zone of the virtual machine.</seg>
       </tuv>
     </tu>
     <tu>
