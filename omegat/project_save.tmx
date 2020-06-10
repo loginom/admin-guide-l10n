@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1063,6 +1063,14 @@ M: Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200608T104915Z" creationid="Марианна" creationdate="20200608T104915Z">
         <seg>&lt;x1/&gt;3.&lt;x2/&gt; If activation is a success, the wizard shows the final dialog window:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;3.&lt;x2/&gt; На втором шаге мастера пользователю будет предоставлен "число-вопрос", которое необходимо будет переслать в службу техподдержки компании Loginom Company на адрес &lt;x3/&gt;support@loginom.ru&lt;x4/&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T074954Z" creationid="Марианна" creationdate="20200610T074954Z">
+        <seg>&lt;x1/&gt;3.&lt;x2/&gt;At the second wizard stage the user will be provided with "number-question" to be resent to Loginom Company support service at the following address: &lt;x3/&gt;support@loginom.ru&lt;x4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5735,6 +5743,14 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="RU">
+        <seg>Или сохранить для последующей отправки в буфере обмена или в текстовом файле.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T075738Z" creationid="Марианна" creationdate="20200610T075738Z">
+        <seg>It is also possible to save to the clipboard or in the text file to be sent later on.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>A: The files names can be also specified as a template with usage of the %guid% construction. 
 M: Done.</note>
       <tuv lang="RU">
@@ -7189,6 +7205,14 @@ Done.</note>
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Полученное "число-вопрос" можно сразу отправить по электронной почте воспользовавшись нижерасположенной кнопкой "По почте".</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T075234Z" creationid="Марианна" creationdate="20200610T075234Z">
+        <seg>It is allowed to send the received "number-question" by e-mail using "By e-mail" button below.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Получить WSDL-описание можно в браузере на компьютере с развернутым &lt;x3/&gt;Адаптером&lt;x4/&gt; по URL: &lt;x5/&gt;http://localhost/LoginomAdapter/Service.svc?wsdl&lt;x6/&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200427T141016Z" creationid="Марианна" creationdate="20200427T141016Z">
@@ -7679,6 +7703,14 @@ M: Done. </note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200604T225814Z" creationid="Марианна" creationdate="20200604T225814Z">
         <seg>Example: &lt;x1/&gt;http://localhost/lgi/service.svc?wsdl&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Примечание.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T075744Z" creationid="Марианна" creationdate="20200610T075744Z">
+        <seg>Note.</seg>
       </tuv>
     </tu>
     <tu>
