@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1037,6 +1037,14 @@ M: Done</note>
       </tuv>
       <tuv lang="EN" changeid="Марианна" changedate="20200520T102846Z" creationid="Марианна" creationdate="20200519T150434Z">
         <seg>&lt;x1/&gt;2.&lt;x2/&gt; Loginom installer (new version) is started:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>&lt;x1/&gt;2.&lt;x2/&gt; После запуска программы на первом шаге мастера нужно выбрать пункт "Начать новую операцию обновления ключа" и нажать на кнопку "Далее".</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Марианна" changedate="20200610T074647Z" creationid="Марианна" creationdate="20200610T074647Z">
+        <seg>&lt;x1/&gt;2.&lt;x2/&gt;Upon the software start at the first wizard stage, it is required to select "Start the new operation of the dongle upgrade" and press the "Next" button.</seg>
       </tuv>
     </tu>
     <tu>
