@@ -2307,6 +2307,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>Important: It is required to close all Loginom modules before a dongle memory upgrade.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Важно&lt;x2/&gt;: Перед началом выполнения обновления памяти ключа необходимо закрыть все модули программы Loginom.</seg>
       </tuv>
@@ -5347,6 +5348,7 @@ M: OK, done. Still i would prefer to preserve the universal style of the text. <
       </tuv>
     </tu>
     <tu>
+      <note>Loginom user must perform the following actions prior to remote programming of the dongle memory using GrdTRU.exe software:</note>
       <tuv lang="RU">
         <seg>Для дистанционного программирования памяти ключа при помощи программы GrdTRU.exe, пользователю Loginom необходимо выполнить следующие шаги:</seg>
       </tuv>
@@ -8884,6 +8886,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>The most convenient way to upgrade the electronic dongle memory is via remote programming of the dongle memory using GrdTRU.exe software.</note>
       <tuv lang="RU">
         <seg>Самый удобный вариант обновления памяти электронного ключа – это дистанционное программирование памяти ключа при помощи программы GrdTRU.exe.</seg>
       </tuv>
