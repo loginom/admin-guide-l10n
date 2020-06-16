@@ -5823,6 +5823,7 @@ M: Done</note>
       </tuv>
     </tu>
     <tu>
+      <note>Access to the analytical platform is provided by resources of the Yandex Cloud Computing service.</note>
       <tuv lang="RU">
         <seg>Доступ к аналитической платформе предоставляется ресурсами сервиса Yandex Compute Cloud.</seg>
       </tuv>
@@ -8942,6 +8943,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>The service enables usage of virtual machines in Yandex.Clouds infrastructure for operation on the Loginom platform. </note>
       <tuv lang="RU">
         <seg>Сервис позволяет использовать виртуальные машины в инфраструктуре Яндекс.Облака для работы с Loginom.</seg>
       </tuv>
