@@ -5038,6 +5038,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>Attention: The Loginom version in the software image has a limited period of effect, and you will need to request a licence renewal for effective operational continuity of the software by sending an e-mail to the following address: help@loginom.ru.</note>
       <tuv lang="RU">
         <seg>Внимание: Версия Loginom расположенная в образе имеет ограниченный срок действия, и для полноценной продолжительной работы необходимо запросить продление лицензии по адресу help@loginom.ru.</seg>
       </tuv>
@@ -8877,7 +8878,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Google Сhrome is recommended is the recommended browser.</note>
+      <note>Google Сhrome is the recommended browser.</note>
       <tuv lang="RU">
         <seg>Рекомендуется использовать для работы браузер Google Сhrome.</seg>
       </tuv>
