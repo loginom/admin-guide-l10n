@@ -1155,6 +1155,7 @@ M: Done</note>
       </tuv>
     </tu>
     <tu>
+      <note>**3.**At the second wizard stage the user will be provided with a "number-question" to be resent to the Loginom Company support service at the following address: support@loginom.ru.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;3.&lt;x2/&gt; На втором шаге мастера пользователю будет предоставлен "число-вопрос", которое необходимо будет переслать в службу техподдержки компании Loginom Company на адрес &lt;x3/&gt;support@loginom.ru&lt;x4/&gt;.</seg>
       </tuv>
@@ -6435,6 +6436,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>It is also possible to save it to the clipboard or in a text file to be sent later on.</note>
       <tuv lang="RU">
         <seg>Или сохранить для последующей отправки в буфере обмена или в текстовом файле.</seg>
       </tuv>
@@ -7986,6 +7988,7 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>It is permitted to send the received "number-question" by e-mail using the "By e-mail" button below.</note>
       <tuv lang="RU">
         <seg>Полученное "число-вопрос" можно сразу отправить по электронной почте воспользовавшись нижерасположенной кнопкой "По почте".</seg>
       </tuv>
