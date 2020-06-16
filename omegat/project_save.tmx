@@ -5356,6 +5356,7 @@ M: OK, done. Still i would prefer to preserve the universal style of the text. <
       </tuv>
     </tu>
     <tu>
+      <note>To enable wsproxy on the imbedded web server, it is sufficient to select "Use WebSocket proxy" in the course of installation, IIS will require a more complicated configuration.</note>
       <tuv lang="RU">
         <seg>Для включения wsproxy на встроенном web-сервере достаточно отметить пункт "Использовать WebSocket proxy" &lt;x1/&gt;при установке&lt;x2/&gt;, IIS требует более сложной &lt;x3/&gt;настройки&lt;x4/&gt;.</seg>
       </tuv>
@@ -8443,6 +8444,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>In the case of the default installation, websocket proxy is disabled.</note>
       <tuv lang="RU">
         <seg>При установке по умолчанию websocket proxy отключен.</seg>
       </tuv>
