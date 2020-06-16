@@ -3166,6 +3166,7 @@ M:Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>The Network USB dongle is a physical dongle that is recommended for a number of Loginom instances on the local network.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Сетевой USB-ключ&lt;x2/&gt; — физический ключ, который рекомендуется для использования большого количества экземпляров Loginom в локальной сети.</seg>
       </tuv>
