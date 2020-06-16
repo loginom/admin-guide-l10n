@@ -8338,6 +8338,7 @@ Vasiliy M: может быть, лезу не в своё дело. Мне ка�
       </tuv>
     </tu>
     <tu>
+      <note>In the case of http encryption, connection is forbidden.</note>
       <tuv lang="RU">
         <seg>При наличии шифрования http подключение запрещено.</seg>
       </tuv>
