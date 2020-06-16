@@ -4155,6 +4155,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Websocket proxy enables access to Loginom Server via http(s) port of the web server that facilitates the firewall configuration.</note>
       <tuv lang="RU">
         <seg>Websocket proxy позволяет предоставлять доступ к Loginom Server через http(s) порт web-сервера, что упрощает конфигурацию сетевых экранов.</seg>
       </tuv>
