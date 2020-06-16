@@ -2307,6 +2307,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>Important: An SP dongle is distinguished via cryptographic binding to the equipment, namely it is not possible to reactivate that SP dongle after its activation or transfer it to another computer.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Важно&lt;x2/&gt;: Особенностью программного SP-ключа является криптографическая привязка к оборудованию, т.е. после активаци SP-ключ нельзя повторно автивировать или пренести на другой компьютер.</seg>
       </tuv>
