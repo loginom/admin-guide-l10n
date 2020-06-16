@@ -4448,6 +4448,7 @@ net start loginom</seg>
       </tuv>
     </tu>
     <tu>
+      <note>As appropriate, these parameters can be changed without a system reinstallation.</note>
       <tuv lang="RU">
         <seg>А при необходимости эти параметры можно изменить без переустановки системы.</seg>
       </tuv>
@@ -7233,6 +7234,7 @@ The desktop version of the platform is designated for installation on the local 
       </tuv>
     </tu>
     <tu>
+      <note>Start Operation</note>
       <tuv lang="RU">
         <seg>Начало работы</seg>
       </tuv>
