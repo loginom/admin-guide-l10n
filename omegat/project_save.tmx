@@ -1253,6 +1253,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Once the instructions above have been properly observed, the next window will read - Dongle programming successfully completed.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;7.&lt;x2/&gt; В случае правильного следования предшествующих инструкций вы должны увидеть следующее окно – программирование ключа прошло успешно.</seg>
       </tuv>
