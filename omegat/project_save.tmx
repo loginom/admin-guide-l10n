@@ -2660,6 +2660,7 @@ OK
       </tuv>
     </tu>
     <tu>
+      <note>The Local USB dongle is a physical dongle that is recommended for one-off Loginom instances on servers with physical access to USB ports.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Локальный USB-ключ&lt;x2/&gt; — физический ключ, который рекомендуется для использования единичных экземпляров Loginom на серверах с физическим доступом к usb портам.</seg>
       </tuv>
