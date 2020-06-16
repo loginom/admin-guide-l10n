@@ -4139,6 +4139,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>The web server enables connection to the Loginom server host using websocket protocol and retransfer to it of connection traffic with Loginom Studio:</note>
       <tuv lang="RU">
         <seg>Web-сервер создает подключение на хост сервера Loginom по протоколу &lt;x1/&gt;websocket&lt;x2/&gt; и перенаправляет в него траффик соединения с Loginom Studio:</seg>
       </tuv>
