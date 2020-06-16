@@ -1235,6 +1235,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>6. Once received, the "number-question" is entered at the next stage.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;6.&lt;x2/&gt; На следующем шаге вводится полученное "число-ответ".</seg>
       </tuv>
@@ -2930,6 +2931,7 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Note: It is not permitted to rerun GrdTRU.exe before the receipt of the "number-question", otherwise the whole procedure will be repeated from the very beginning.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: Программу GrdTRU.exe не следует повторно запускать до получения "файла-ответа", иначе всю процедуру будет необходимо повторить заново.</seg>
       </tuv>
