@@ -4015,6 +4015,7 @@ Vasiliy M.: Могу ошибаться, но может быть - Edition?
       </tuv>
     </tu>
     <tu>
+      <note>Studio is the main working space for analysts and users implementing user interface of the platform operation.</note>
       <tuv lang="RU">
         <seg>Studio – основное рабочее место аналитика и конечного пользователя, реализующее &lt;x1/&gt;пользовательский интерфейс&lt;x2/&gt; работы с платформой.</seg>
       </tuv>
@@ -6683,6 +6684,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>It is a client web application designated for the design of processing workflows, data visualization, server configuration, and user rights management.</note>
       <tuv lang="RU">
         <seg>Клиентское веб-приложение, предназначенное для проектирования сценариев обработки, визуализации данных, настройки сервера, управления правами пользователей.</seg>
       </tuv>
@@ -7727,6 +7729,7 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
     </tu>
     <tu>
+      <note>Parameters for connection to the Loginom Server are set in the configuration file.</note>
       <tuv lang="RU">
         <seg>Параметры подключения к Loginom Server задаются в &lt;x1/&gt;файле конфигурации&lt;x2/&gt;.</seg>
       </tuv>
