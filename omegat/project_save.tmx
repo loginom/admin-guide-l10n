@@ -5019,6 +5019,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>There will be an operation confirmation code to be resent to the supplier at the bottom of the window.</note>
       <tuv lang="RU">
         <seg>Внизу окна отображается код подтверждения операции, который необходимо переслать поставщику.</seg>
       </tuv>
@@ -5373,6 +5374,7 @@ M: OK, done. Still i would prefer to preserve the universal style of the text. <
       </tuv>
     </tu>
     <tu>
+      <note>To complete the operation press the "Finish" button.</note>
       <tuv lang="RU">
         <seg>Для завершения программы нажмите кнопку "Готово".</seg>
       </tuv>
