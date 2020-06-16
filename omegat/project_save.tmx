@@ -7781,6 +7781,7 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
     </tu>
     <tu>
+      <note>It is required to activate the software SP dongle before use of platform components, but without net access on the computer of the end user.</note>
       <tuv lang="RU">
         <seg>Перед использованием компонентов платформы программый SP-ключ необходимо активировать, но интернет на компьютере конечного пользователя недоступен.</seg>
       </tuv>
@@ -7789,6 +7790,7 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
     </tu>
     <tu>
+      <note>It is required to activate SP dongle before use of the platform components.</note>
       <tuv lang="RU">
         <seg>Перед использованием компонентов платформы программый SP-ключ необходимо активировать.</seg>
       </tuv>
