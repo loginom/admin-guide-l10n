@@ -1087,6 +1087,7 @@ M: Done</note>
       </tuv>
     </tu>
     <tu>
+      <note>To run GrdTRU.exe software on a computer on which Loginom USB dongle is installed.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;1.&lt;x2/&gt; На том компьютере, на котором установлен usb-ключ Loginom, запустить программу GrdTRU.exe.</seg>
       </tuv>
@@ -1129,6 +1130,7 @@ M: Done</note>
       </tuv>
     </tu>
     <tu>
+      <note>**2.**Once the software has been booted up, and you are at the first wizard stage, it is required to select "Start new operation of the dongle upgrade" and press the "Next" button. </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;2.&lt;x2/&gt; После запуска программы на первом шаге мастера нужно выбрать пункт "Начать новую операцию обновления ключа" и нажать на кнопку "Далее".</seg>
       </tuv>
