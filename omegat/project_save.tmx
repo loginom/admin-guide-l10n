@@ -1184,6 +1184,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Upon submission of the "number-question", it is permitted to finish the software operation pressing by the "Finish" button.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;4.&lt;x2/&gt; После отправки "числа-вопроса" можно завершить работу программы нажав кнопку Завершить.</seg>
       </tuv>
@@ -1225,6 +1226,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>5. Upon receipt of the "number-question" ("dongle upgrade file" will be in the letter), it is required to run GrdTRU.exe once again. </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;5.&lt;x2/&gt; После того как вы получите число-ответ (в письме будет содержаться "файл-обновления ключа"), снова запустите программу GrdTRU.exe.</seg>
       </tuv>
@@ -8221,6 +8223,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>To run the software, it is required to select "Continue the dongle upgrade operation initiated during the previous session" and press the "Next" button.</note>
       <tuv lang="RU">
         <seg>При запуске программы нужно выбрать пункт "Продолжить операцию обновления ключа, инициализированную во время предыдущего сеанса" и нажать на кнопку "Далее".</seg>
       </tuv>
