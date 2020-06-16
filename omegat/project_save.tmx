@@ -6413,6 +6413,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>Change in the number of product component users</note>
       <tuv lang="RU">
         <seg>Изменение количества пользователей компонентов продукта</seg>
       </tuv>
@@ -6421,6 +6422,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>Change of product composition of product components</note>
       <tuv lang="RU">
         <seg>Изменение состава компонентов продукта</seg>
       </tuv>
@@ -7327,6 +7329,7 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Upgrade of Electronic Dongle Memory</note>
       <tuv lang="RU">
         <seg>Обновление памяти электронного ключа</seg>
       </tuv>
@@ -8587,6 +8590,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>Extension of time limits</note>
       <tuv lang="RU">
         <seg>Продление времени действия временных ограничений</seg>
       </tuv>
