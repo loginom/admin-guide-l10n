@@ -8634,6 +8634,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>Operational Continuity</note>
       <tuv lang="RU">
         <seg>Продолжение работ</seg>
       </tuv>
@@ -9789,6 +9790,7 @@ M: Done. Вася, посмотрю еще раз в сети, все помен
       </tuv>
     </tu>
     <tu>
+      <note>1. GuardantActivationWizard shortcut is an application for activation of the software SP dongle for Loginom software, manual concerning the activation process is in the "Activation of SP dongles" file. https://help.loginom.ru/adminguide/licenses/sp-activate.html</note>
       <tuv lang="RU">
         <seg>Ярлык &lt;x1/&gt;GuardantActivationWizard&lt;x2/&gt; - приложение для активации программного SP-ключа ПО Loginom, &lt;x3/&gt;инструкция&lt;x4/&gt; по активации в файле "Активация SP-ключей"
 https://help.loginom.ru/adminguide/licenses/sp-activate.html</seg>
