@@ -6963,6 +6963,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>A new password can be required, for example, in the case of current password loss.</note>
       <tuv lang="RU">
         <seg>Может потребоваться при необходимости задать новый пароль, например в случае потери действующего.</seg>
       </tuv>
