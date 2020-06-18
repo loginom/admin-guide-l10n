@@ -3323,6 +3323,7 @@ Andrew R: keys_msi — it is possible to find allowable values executing the fo
       </tuv>
     </tu>
     <tu>
+      <note>Vasiliy M.: здесь, наверное, надо использовать Keys</note>
       <tuv lang="RU">
         <seg>&lt;x3/&gt;Лицензионные ключи&lt;x4/&gt;).</seg>
       </tuv>
@@ -4303,6 +4304,7 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Vasiliy M.: ключи_msi будем называть msi_options</note>
       <tuv lang="RU">
         <seg>msiexec /i "LoginomPersonal_6.x.x_x64.msi" ключи_msi</seg>
       </tuv>
