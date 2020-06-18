@@ -2335,6 +2335,7 @@ M: Not done. The Russian source is different.</note>
       </tuv>
     </tu>
     <tu>
+      <note>Vasiliy M.: мне кажется, тут будет Dongle types, хотя могу и ошибаться</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Варианты исполнения ключа&lt;x2/&gt;</seg>
       </tuv>
