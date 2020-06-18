@@ -9413,7 +9413,10 @@ Done</note>
 To uninstall the application from the "Applications and Components" window in Windows 
 
 M:
-Done. </note>
+Done. 
+
+
+Vasiliy M.: Программы и компоненты в eng win называются Programs and Features. Точно ли нужна частица To? Она есть в 0525 и 0528 сегментах, но её нет в 0526. Не уверен в её необходимости</note>
       <tuv lang="RU">
         <seg>Удалить приложение из окна "Программы и компоненты" в Windows;</seg>
       </tuv>
