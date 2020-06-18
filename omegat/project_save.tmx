@@ -5077,6 +5077,7 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
+      <note>Vasiliy M.: Always use encryption when connecting to the Loginom server. - почему не вот так, например? Почему required, а не use?</note>
       <tuv lang="RU">
         <seg>Всегда использовать шифрование при подключении к серверу Loginom.</seg>
       </tuv>
@@ -8955,7 +8956,9 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>The service enables usage of virtual machines in Yandex.Clouds infrastructure for operation on the Loginom platform. </note>
+      <note>The service enables usage of virtual machines in Yandex.Clouds infrastructure for operation on the Loginom platform. 
+
+Vasiliy M.: просто Yandex.Cloud, наверное</note>
       <tuv lang="RU">
         <seg>Сервис позволяет использовать виртуальные машины в инфраструктуре Яндекс.Облака для работы с Loginom.</seg>
       </tuv>
