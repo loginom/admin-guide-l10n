@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6784,8 +6784,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Компонент платформы, функционирующий в виде приложения для Internet Information Services (IIS) и предоставляющий возможность публиковать собственные веб-сервисы.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T221615Z" creationid="Марианна" creationdate="20200604T221141Z">
-        <seg>It is a platform component running as an application for Internet Information Services (IIS) and allowing for publication of the own web services.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200624T100953Z" creationid="Марианна" creationdate="20200604T221141Z">
+        <seg>It is a platform component running as an application for Internet Information Services (IIS) and allowing for publication of the user's own web services.</seg>
       </tuv>
     </tu>
     <tu>
