@@ -8546,8 +8546,8 @@ M: Done</note>
       <tuv lang="RU">
         <seg>Применение Loginom Integrator позволяет реализовать архитектуру решения, обеспечивающую отказоустойчивость, балансировку нагрузки и горизонтальное масштабирование.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T221342Z" creationid="Марианна" creationdate="20200604T221342Z">
-        <seg>The Loginom Integrator usage allows for implementation of the solution architecture providing resilience, load balance and scaling out.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200624T110817Z" creationid="Марианна" creationdate="20200604T221342Z">
+        <seg>The Loginom Integrator usage allows for implementation of the solution architecture providing resilience, load balance and horizontal scaling.</seg>
       </tuv>
     </tu>
     <tu>
