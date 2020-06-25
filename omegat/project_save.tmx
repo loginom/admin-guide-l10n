@@ -7684,12 +7684,13 @@ M:Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>File record parameters are specified in the configuration/log/fileSystem element:</note>
+      <note>A: File record parameters are specified in the configuration/log/fileSystem element:
+M: Done.</note>
       <tuv lang="RU">
         <seg>Параметры записи в файл задаются в элементе &lt;x1/&gt;configuration/log/fileSystem&lt;x2/&gt;:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T205322Z" creationid="Марианна" creationdate="20200605T205322Z">
-        <seg>The file record parameters are specified in the &lt;x1/&gt;configuration/log/fileSystem&lt;x2/&gt; element:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T125404Z" creationid="Марианна" creationdate="20200605T205322Z">
+        <seg>File record parameters are specified in the &lt;x1/&gt;configuration/log/fileSystem&lt;x2/&gt; element:</seg>
       </tuv>
     </tu>
     <tu>
