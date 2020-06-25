@@ -2,32 +2,32 @@
 
 Loginom products are licensed by means of Guardant dongles:
 
-* **Local USB dongle** is a physical dongle that is recommended for one-off Loginom instances on the servers with physical access to USB ports. [Guardant drivers](https://www.guardant.ru/support/download/drivers/) version 7.0 or higher are required.
+* The **Local USB dongle** is a physical dongle that is recommended for one-off Loginom instances on servers with physical access to USB ports. [Guardant drivers](https://www.guardant.ru/support/download/drivers/) version 7.0 or higher are required.
 
 ![Local dongle (personal version) usage](./scheme_1.svg)
 
 ![Local dongle (server version) usage](./scheme_2.svg)
 
-* **Network USB dongle** is a physical dongle that is recommended for a number of Loginom instances in the local network. Deployment of [network dongles server](https://www.guardant.ru/support/download/server/) version 7.0 or higher is required.
+* The **Network USB dongle** is a physical dongle that is recommended for a number of Loginom instances on the local network. Deployment of [network dongles server](https://www.guardant.ru/support/download/server/) version 7.0 or higher is required.
 
 ![Network dongle usage](./scheme_3.svg)
 
-* **Software SP dongle** is a software dongle that is recommended for one-off Loginom instances in the virtual environments without physical access to USB ports.
+* The **Software SP dongle** is a software dongle that is recommended for one-off Loginom instances in virtual environments without physical access to USB ports.
 
-> **Important**: SP dongle is distinguished by the cryptographic binding to the equipment, namely it is not possible to reactivate SP dongle after its activation or transfer it to another computer.
+> **Important**: An SP dongle is distinguished via cryptographic binding to the equipment, namely it is not possible to reactivate SP dongle after its activation or transfer it to another computer.
 
 
-Several [physical dongle versions](./case.md) are avilable to users.
+Several [physical dongle versions](./case.md) are available to users.
 
 ## Activation of Software SP Dongle
 
-It is required to activate SP dongle before usage of the platform components.
+It is required to activate SP dongle before use of the platform components.
 
 [Software SP Dongle Activation Manual](./sp-key-activate.md).
 
 ## Software SP Dongle Activation for Offline Systems
 
-It is required to activate the software SP dongle before usage of the platform components, but without net access on the final user computer.
+It is required to activate the software SP dongle before use of platform components, but without net access on the computer of the end user.
 
 [Software SP Dongle Activation Manual without Net Access](./sp-key-activate-offline.md).
 
