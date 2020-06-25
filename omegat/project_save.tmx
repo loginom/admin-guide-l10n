@@ -3770,20 +3770,21 @@ M: Done</note>
       </tuv>
     </tu>
     <tu>
-      <note>Loginom will only run on a computer with an installed dongle.</note>
+      <note>A: Loginom will only run on a computer with an installed dongle.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Loginom может запускаться только там, где установлен ключ;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T064152Z" creationid="Марианна" creationdate="20200608T061939Z">
-        <seg>Loginom will be started only on computer with the installed dongle.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T175701Z" creationid="Марианна" creationdate="20200608T061939Z">
+        <seg>Loginom will only run on a computer with an installed dongle.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>Loginom не работает при подключении к системе в режиме RDP-сессии.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T062104Z" creationid="Марианна" creationdate="20200608T062104Z">
-        <seg>Loginom cannot be used when connecting to the system in the mode of RDP session.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T175739Z" creationid="Марианна" creationdate="20200608T062104Z">
+        <seg>Loginom cannot be used when connecting to the system in RDP session mode.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8800,12 +8801,13 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
-      <note>Higher level of stability and reliability.</note>
+      <note>A: Higher level of stability and reliability.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Работает более стабильно и надежно;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T062211Z" creationid="Марианна" creationdate="20200608T062211Z">
-        <seg>It is distinguished by higher level of stability and reliability.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T175833Z" creationid="Марианна" creationdate="20200608T062211Z">
+        <seg>Higher level of stability and reliability.</seg>
       </tuv>
     </tu>
     <tu>
