@@ -3667,17 +3667,18 @@ Vasiliy M.: Может быть, про разграничение прав на
         <seg>Loginom Integrator должен отдать WSDL SOAP веб-сервиса с
 предупреждением:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T232045Z" creationid="Марианна" creationdate="20200604T232045Z">
-        <seg>Loginom Integrator must give WSDL of the SOAP web service with the following warning:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T144305Z" creationid="Марианна" creationdate="20200604T232045Z">
+        <seg>The Loginom Integrator must give WSDL of the SOAP web service with the following warning:</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Loginom Integrator must give a page with the REST service operation description.</note>
+      <note>A: Loginom Integrator must give a page with the REST service operation description.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Loginom Integrator должен отдать страницу описания работы с REST сервисом.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T232446Z" creationid="Марианна" creationdate="20200604T232446Z">
-        <seg>Loginom Integrator must give the page with the REST service operation description.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T144440Z" creationid="Марианна" creationdate="20200604T232446Z">
+        <seg>Loginom Integrator must give a page with the REST service operation description.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5096,12 +5097,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>For the second test option — go to the following link: URL: http://&lt;Server&gt;/lgi/service.svc/rest/help.</note>
+      <note>A: For the second test option — go to the following link: URL: http://&lt;Server&gt;/lgi/service.svc/rest/help.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Второй вариант проверки — перейти по URL: &lt;x1/&gt;http://&lt;Server&gt;/lgi/service.svc/rest/help&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T232349Z" creationid="Марианна" creationdate="20200604T232349Z">
-        <seg>The second variant of checking — go to the following URL: &lt;x1/&gt;http://&lt;Server&gt;/lgi/service.svc/rest/help&lt;x2/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T144407Z" creationid="Марианна" creationdate="20200604T232349Z">
+        <seg>For the second test option — go to the following link: URL: &lt;x1/&gt;http://&lt;Server&gt;/lgi/service.svc/rest/help&lt;x2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8518,12 +8520,13 @@ M: Done</note>
       </tuv>
     </tu>
     <tu>
-      <note>When installing a product for these URLs in the "Start" menu Windows All programs\Loginom 6\Integrator the following shortcuts are added: the "WSDL service description" and "REST service description".</note>
+      <note>A: When installing a product for these URLs in the "Start" menu Windows All programs\Loginom 6\Integrator the following shortcuts are added: the "WSDL service description" and "REST service description".
+M: Done.</note>
       <tuv lang="RU">
         <seg>При установке продукта для этих URL в меню "Пуск" Windows &lt;x1/&gt;Все программы\Loginom 6\Integrator&lt;x2/&gt; добавляются ярлыки &lt;x3/&gt;"Описание WSDL сервиса"&lt;x4/&gt; и &lt;x5/&gt;"Описание REST сервиса"&lt;x6/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T232713Z" creationid="Марианна" creationdate="20200604T232713Z">
-        <seg>When installing the product for these URL in the "Start" menu Windows &lt;x1/&gt;All programs\Loginom 6\Integrator&lt;x2/&gt; the following shortcuts are added: the &lt;x3/&gt;"WSDL service description"&lt;x4/&gt; and &lt;x5/&gt;"REST service description"&lt;x6/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T144540Z" creationid="Марианна" creationdate="20200604T232713Z">
+        <seg>When installing a product for these URLs in the "Start" menu Windows &lt;x1/&gt;All programs\Loginom 6\Integrator&lt;x2/&gt; the following shortcuts are added: the &lt;x3/&gt;"WSDL service description"&lt;x4/&gt; and &lt;x5/&gt;"REST service description"&lt;x6/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
