@@ -1,24 +1,24 @@
 # Loginom Integrator Installation
 
-The installer file name: `LoginomIntegrator_6.x.x.msi`, where 6.x.x – figures denoting software version and release.
+The installer file name: `LoginomIntegrator_6.x.x.msi`, where 6.x.x – figures denote software version and release.
 
-> **Note:** The Loginom Integrator version must comply with the used Loginom server version.
+> **Note:** The Loginom Integrator version must comply with the Loginom server version being used.
 
-## Enable IIS Components
+## Enabling IIS Components
 
-It is required to execute the following command in the command line as an administrator:
+Execute the following command in the command line as an administrator:
 
 ```cmd
 dism /online /enable-feature /FeatureName:IIS-WebServerRole /FeatureName:IIS-WebServer /FeatureName:IIS-WebServerManagementTools /FeatureName:IIS-ManagementScriptingTools
 ```
 
-## Enable IIS Components for Loginom Integrator
+## Enabling IIS Components for the Loginom Integrator
 
-Installed NetFramework v4.5+ is required for the proper Loginom Integrator operation.
+Installed NetFramework v4.5+ is required for proper Loginom Integrator operation.
 
-It is required to install the following components:
+Installation of the following components is required:
 
-It is required to execute the following command in the command line as an administrator:
+Execute the following command in the command line as an administrator:
 
 ```cmd
 :: For windows 2008/7/2012/8:
@@ -60,7 +60,7 @@ Web server (IIS) (8 installed of 43)
 
 #### Run the Installer
 
-It is required to click the  **Custom** button for installation with nonstandard parameters in the **Installation type** dialog. To receive parameters of the existing IIS sites in the installer interface, it is required to run it with the administrator rights.
+It is required to click the  **Custom** button for installation with non-standard parameters in the **Installation type** dialog. To receive parameters of existing IIS sites in the installer interface, it is required to run it with administrator rights.
 
 #### Installation directory
 
@@ -74,7 +74,7 @@ By default, installation is performed in the `%ProgramFiles%\BaseGroup\` directo
 
 **IIS** block:
 
-* **Site** is a name of the existing IIS site on which Loginom Integrator will be deployed.
+* **Site** is a name of the existing IIS site in which Loginom Integrator will be deployed.
 * **IP**, **Port** — binding parameters of the IIS site.
 * **Application** — web application name.
 * **Application pool** — name of the application pool supporting Loginom Integrator. If the pool does not exist, it will be created.
@@ -122,7 +122,7 @@ To check the operability, it is required to go to the following URL using the br
 
 Example: `http://localhost/lgi/service.svc?wsdl`
 
-Loginom Integrator must give WSDL of the SOAP web service with the following warning:
+The Loginom Integrator must give WSDL of the SOAP web service with the following warning:
 
 ```xml
 <wsdl:documentation>
@@ -130,8 +130,8 @@ No package published at the present moment. To use the packages as a web service
 </wsdl:documentation>
 ```
 
-The second variant of checking — go to the following URL: `http://<Server>/lgi/service.svc/rest/help`.
+For the second test option — go to the following link: URL: `http://<Server>/lgi/service.svc/rest/help`.
 
-Loginom Integrator must give the page with the REST service operation description.
+Loginom Integrator must give a page with the REST service operation description.
 
-When installing the product for these URL in the "Start" menu Windows `All programs\Loginom 6\Integrator` the following shortcuts are added: the *"WSDL service description"* and *"REST service description"*.
+When installing a product for these URLs in the "Start" menu Windows `All programs\Loginom 6\Integrator` the following shortcuts are added: the *"WSDL service description"* and *"REST service description"*.

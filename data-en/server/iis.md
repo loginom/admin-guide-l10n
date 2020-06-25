@@ -2,7 +2,7 @@
 
 > IIS 8.5 Instructions
 
-## Enable IIS Components
+## Enabling IIS Components
 
 In the command line running as an administrator:
 

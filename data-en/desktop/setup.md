@@ -14,7 +14,7 @@ where 6.x.x – figures denoting software version and release.
 
 #### Run the Installer
 
-It is required to click the  **Custom** button for installation with nonstandard parameters in the **Installation type** dialog.
+It is required to click the  **Custom** button for installation with non-standard parameters in the **Installation type** dialog.
 
 #### Selection of Components for Installation
 

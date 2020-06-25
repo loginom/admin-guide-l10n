@@ -12,7 +12,7 @@ The server mode is available in Team, Standard and Enterprise editions.
 |:----------|:-----------|
 | [Server](./server/README.md) | Key platform element. It must be installed and can be used as Windows service. Interaction of all platform components is performed by means of the Loginom Server. |
 | [Integrator](./integrator/README.md) | The component required for publication of web services. It is operated with the Loginom Server. It must be installed and can be used as Microsoft IIS service. |
-| [Adapter](./adapter/README.md) | The component required for integration with nonstandard web services. It must be installed and can be used as Microsoft IIS service. |
+| [Adapter](./adapter/README.md) | The component required for integration with non-standard web services. It must be installed and can be used as Microsoft IIS service. |
 | [Studio](./studio/README.md) | The client web application implementing the user interface of the platform operation. It is not required to install it as interaction is provided by means of browser. |
 
 ## Personal Analytics

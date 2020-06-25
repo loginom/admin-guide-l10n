@@ -23,7 +23,7 @@ The Installation method for the Loginom Server is different, depending on whethe
 
 #### Run the Installer
 
-It is required to press the **Custom** button for installation with nonstandard parameters in the **Installation type** dialog.
+It is required to press the **Custom** button for installation with non-standard parameters in the **Installation type** dialog.
 
 #### Selection of Components for Installation
 
