@@ -2884,12 +2884,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Note: The Loginom Integrator version must comply with the Loginom server version being used.</note>
+      <note>A: Note: The Loginom Integrator version must comply with the Loginom server version being used.
+M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание:&lt;x2/&gt; Версия Loginom Integrator должна соответствовать версии используемого сервера Loginom.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T223303Z" creationid="Марианна" creationdate="20200604T223303Z">
-        <seg>&lt;x1/&gt;Note:&lt;x2/&gt; The Loginom Integrator version must comply with the used Loginom server version.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T143358Z" creationid="Марианна" creationdate="20200604T223303Z">
+        <seg>&lt;x1/&gt;Note:&lt;x2/&gt; The Loginom Integrator version must comply with the Loginom server version being used.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6572,12 +6573,13 @@ M:Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>The installer file name: LoginomIntegrator_6.x.x.msi, where 6.x.x – figures denote software version and release.</note>
+      <note>A: The installer file name: LoginomIntegrator_6.x.x.msi, where 6.x.x – figures denote software version and release.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Имя файла инсталлятора: &lt;x1/&gt;LoginomIntegrator_6.x.x.msi&lt;x2/&gt;, где 6.x.x – цифры, обозначающие версию и релиз программы.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T223205Z" creationid="Марианна" creationdate="20200604T223205Z">
-        <seg>The installer file name: &lt;x1/&gt;LoginomIntegrator_6.x.x.msi&lt;x2/&gt;, where 6.x.x – figures denoting software version and release.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T143252Z" creationid="Марианна" creationdate="20200604T223205Z">
+        <seg>The installer file name: &lt;x1/&gt;LoginomIntegrator_6.x.x.msi&lt;x2/&gt;, where 6.x.x – figures denote software version and release.</seg>
       </tuv>
     </tu>
     <tu>
