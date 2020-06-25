@@ -3984,12 +3984,13 @@ Vasiliy M.: Могу ошибаться, но может быть - Edition?
       </tuv>
     </tu>
     <tu>
-      <note>An SQL query is specified in the sqlCommand attribute.</note>
+      <note>A: An SQL query is specified in the sqlCommand attribute.
+M: Done.</note>
       <tuv lang="RU">
         <seg>SQL запрос задается в атрибуте &lt;x1/&gt;sqlCommand&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T211502Z" creationid="Марианна" creationdate="20200605T211502Z">
-        <seg>SQL query is specified in the &lt;x1/&gt;sqlCommand&lt;x2/&gt; attribute.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T125623Z" creationid="Марианна" creationdate="20200605T211502Z">
+        <seg>An SQL query is specified in the &lt;x1/&gt;sqlCommand&lt;x2/&gt; attribute.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7697,8 +7698,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Параметры записи событий логирования задаются в элементе &lt;x1/&gt;configuration/log/internal&lt;x2/&gt;:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T212213Z" creationid="Марианна" creationdate="20200605T212213Z">
-        <seg>Parameters of logging events record are specified in the &lt;x1/&gt;configuration/log/internal&lt;x2/&gt; element:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T125649Z" creationid="Марианна" creationdate="20200605T212213Z">
+        <seg>The parameters of logging events record are specified in the &lt;x1/&gt;configuration/log/internal&lt;x2/&gt; element:</seg>
       </tuv>
     </tu>
     <tu>
