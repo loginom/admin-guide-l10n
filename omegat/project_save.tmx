@@ -2763,8 +2763,8 @@ A: Okay</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Особый формат сообщения&lt;x2/&gt; — используется для веб-сервисов с нестандартным форматом сообщений, в частности для БКИ «ОКБ».</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200429T105249Z" creationid="Марианна" creationdate="20200226T110200Z">
-        <seg>&lt;x1/&gt;The special message format&lt;x2/&gt; is used for the web services with nonstandard message format, in particular, for credit reference bureau "UNITED CREDIT BUREAU".</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T143830Z" creationid="Марианна" creationdate="20200226T110200Z">
+        <seg>&lt;x1/&gt;The special message format&lt;x2/&gt; is used for the web services with non-standard message format, in particular, for credit reference bureau "UNITED CREDIT BUREAU".</seg>
       </tuv>
     </tu>
     <tu>
@@ -5568,12 +5568,13 @@ A: Slight typo here. I had "connection" in the Plural.</note>
       </tuv>
     </tu>
     <tu>
-      <note>To receive parameters of existing IIS sites in the installer interface, it is required to run it with administrator rights.</note>
+      <note>A: To receive parameters of existing IIS sites in the installer interface, it is required to run it with administrator rights.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Для получения параметров существующих сайтов IIS в интерфейсе инсталлятора требуется запустить его с правами администратора.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T224814Z" creationid="Марианна" creationdate="20200604T224814Z">
-        <seg>To receive parameters of the existing IIS sites in the installer interface, it is required to run it with the administrator rights.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T143947Z" creationid="Марианна" creationdate="20200604T224814Z">
+        <seg>To receive parameters of existing IIS sites in the installer interface, it is required to run it with administrator rights.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5714,20 +5715,21 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>It is required to click the Custom button for installation with non-standard parameters in the Installation type dialog. </note>
+      <note>A: It is required to click the Custom button for installation with non-standard parameters in the Installation type dialog. 
+M: Done.</note>
       <tuv lang="RU">
         <seg>Для установки с нестандартными параметрами в диалоге &lt;x1/&gt;"Тип установки"&lt;x2/&gt; нажимаем кнопку &lt;x3/&gt;"Выборочная"&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T210500Z" creationid="Марианна" creationdate="20200529T112156Z">
-        <seg>It is required to click the  &lt;x3/&gt;Custom&lt;x4/&gt; button for installation with nonstandard parameters in the &lt;x1/&gt;Installation type&lt;x2/&gt; dialog.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T143815Z" creationid="Марианна" creationdate="20200529T112156Z">
+        <seg>It is required to click the  &lt;x3/&gt;Custom&lt;x4/&gt; button for installation with non-standard parameters in the &lt;x1/&gt;Installation type&lt;x2/&gt; dialog.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>Для установки с нестандартными параметрами в диалоге &lt;x1/&gt;Тип установки&lt;x2/&gt; нажимаем кнопку &lt;x3/&gt;Выборочная&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T074517Z" creationid="Марианна" creationdate="20200520T074517Z">
-        <seg>It is required to press the &lt;x3/&gt;Custom&lt;x4/&gt; button for installation with nonstandard parameters in the &lt;x1/&gt;Installation type&lt;x2/&gt; dialog.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T143903Z" creationid="Марианна" creationdate="20200520T074517Z">
+        <seg>It is required to press the &lt;x3/&gt;Custom&lt;x4/&gt; button for installation with non-standard parameters in the &lt;x1/&gt;Installation type&lt;x2/&gt; dialog.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6803,8 +6805,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Компонент, необходимый для интеграции с нестандартными веб-сервисами.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T214545Z" creationid="Марианна" creationdate="20200605T214545Z">
-        <seg>The component required for integration with nonstandard web services.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T143842Z" creationid="Марианна" creationdate="20200605T214545Z">
+        <seg>The component required for integration with non-standard web services.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7281,12 +7283,13 @@ The desktop version of the platform is designated for installation on the local 
       </tuv>
     </tu>
     <tu>
-      <note>Execute the following command in the command line as an administrator:</note>
+      <note>A: Execute the following command in the command line as an administrator:
+M: Done.</note>
       <tuv lang="RU">
         <seg>Необходимо выполнить в командной строке от имени администратора:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T223345Z" creationid="Марианна" creationdate="20200604T223345Z">
-        <seg>It is required to execute the following command in the command line as an administrator:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T143729Z" creationid="Марианна" creationdate="20200604T223345Z">
+        <seg>Execute the following command in the command line as an administrator:</seg>
       </tuv>
     </tu>
     <tu>
