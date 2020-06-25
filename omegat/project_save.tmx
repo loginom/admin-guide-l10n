@@ -2311,12 +2311,13 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
-      <note>Important: An SP dongle is distinguished via cryptographic binding to the equipment, namely it is not possible to reactivate that SP dongle after its activation or transfer it to another computer.</note>
+      <note>A: Important: An SP dongle is distinguished via cryptographic binding to the equipment, namely it is not possible to reactivate that SP dongle after its activation or transfer it to another computer.
+M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Важно&lt;x2/&gt;: Особенностью программного SP-ключа является криптографическая привязка к оборудованию, т.е. после активаци SP-ключ нельзя повторно автивировать или пренести на другой компьютер.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200609T095626Z" creationid="Марианна" creationdate="20200609T094143Z">
-        <seg>&lt;x1/&gt;Important&lt;x2/&gt;: SP dongle is distinguished by the cryptographic binding to the equipment, namely it is not possible to reactivate SP dongle after its activation or transfer it to another computer.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T181212Z" creationid="Марианна" creationdate="20200609T094143Z">
+        <seg>&lt;x1/&gt;Important&lt;x2/&gt;: An SP dongle is distinguished via cryptographic binding to the equipment, namely it is not possible to reactivate SP dongle after its activation or transfer it to another computer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3029,12 +3030,13 @@ M:Done. </note>
       </tuv>
     </tu>
     <tu>
-      <note>The Software SP dongle is a software dongle that is recommended for one-off Loginom instances in virtual environments without physical access to USB ports.</note>
+      <note>A: The Software SP dongle is a software dongle that is recommended for one-off Loginom instances in virtual environments without physical access to USB ports.
+M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Программный SP-ключ&lt;x2/&gt; — программный ключ, рекомендуемый для использования единичных экземпляров Loginom в виртуальных средах без физического доступа к usb портам.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200609T093941Z" creationid="Марианна" creationdate="20200609T093820Z">
-        <seg>&lt;x1/&gt;Software SP dongle&lt;x2/&gt; is a software dongle that is recommended for one-off Loginom instances in the virtual environments without physical access to USB ports.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T181114Z" creationid="Марианна" creationdate="20200609T093820Z">
+        <seg>The &lt;x1/&gt;Software SP dongle&lt;x2/&gt; is a software dongle that is recommended for one-off Loginom instances in virtual environments without physical access to USB ports.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3177,12 +3179,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>The Network USB dongle is a physical dongle that is recommended for a number of Loginom instances on the local network.</note>
+      <note>A: The Network USB dongle is a physical dongle that is recommended for a number of Loginom instances on the local network.
+M: DONE.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Сетевой USB-ключ&lt;x2/&gt; — физический ключ, который рекомендуется для использования большого количества экземпляров Loginom в локальной сети.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200609T093833Z" creationid="Марианна" creationdate="20200609T092625Z">
-        <seg>&lt;x1/&gt;Network USB dongle&lt;x2/&gt; is a physical dongle that is recommended for a number of Loginom instances in the local network.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T181025Z" creationid="Марианна" creationdate="20200609T092625Z">
+        <seg>The &lt;x1/&gt;Network USB dongle&lt;x2/&gt; is a physical dongle that is recommended for a number of Loginom instances on the local network.</seg>
       </tuv>
     </tu>
     <tu>
