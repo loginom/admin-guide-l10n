@@ -2070,7 +2070,8 @@ M: Done. But still I do not feel the diffrerence. We need to discuss it and chec
       </tuv>
     </tu>
     <tu>
-      <note>password - account password with service login rights.</note>
+      <note>A: password - account password with service login rights.
+M: Done</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;password&lt;x2/&gt; - пароль учетной записи с правом на вход в качестве службы.</seg>
       </tuv>
@@ -2103,7 +2104,8 @@ M: Done. But still I do not feel the diffrerence. We need to discuss it and chec
       </tuv>
     </tu>
     <tu>
-      <note>reserved - the attribute with the "true" value marks the server as the standby unit.reserved - the attribute with the "true" value marks the server as the standby unit.</note>
+      <note>A: reserved - the attribute with the "true" value marks the server as the standby unit.reserved - the attribute with the "true" value marks the server as the standby unit.
+M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;reserved&lt;x2/&gt; - атрибут со значением "true" помечает сервер как резервный.</seg>
       </tuv>
@@ -2166,7 +2168,8 @@ M: Done</note>
       </tuv>
     </tu>
     <tu>
-      <note>userName - account name with service login rights.</note>
+      <note>A: userName - account name with service login rights.
+M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;userName&lt;x2/&gt; - имя учетной записи с правом на вход в качестве службы.</seg>
       </tuv>
@@ -8692,12 +8695,13 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
-      <note>The default path to the directory - %ALLUSERSPROFILE%\BaseGroup\Loginom 6\Integrator. </note>
+      <note>A: The default path to the directory - %ALLUSERSPROFILE%\BaseGroup\Loginom 6\Integrator. 
+M: Done.</note>
       <tuv lang="RU">
         <seg>Путь к каталогу по умолчанию - &lt;x1/&gt;%ALLUSERSPROFILE%\BaseGroup\Loginom 6\Integrator&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dell" changedate="20200608T203232Z" creationid="Марианна" creationdate="20200605T203910Z">
-        <seg>Default path to the directory - &lt;x1/&gt;%ALLUSERSPROFILE%\BaseGroup\Loginom 6\Integrator&lt;x2/&gt;. </seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T124746Z" creationid="Марианна" creationdate="20200605T203910Z">
+        <seg>The default path to the directory - &lt;x1/&gt;%ALLUSERSPROFILE%\BaseGroup\Loginom 6\Integrator&lt;x2/&gt;. </seg>
       </tuv>
     </tu>
     <tu>
@@ -9125,7 +9129,8 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Connection with the Loginom Server</note>
+      <note>A: Connection with the Loginom Server
+M: Done</note>
       <tuv lang="RU">
         <seg>Соединение с Loginom Server</seg>
       </tuv>
