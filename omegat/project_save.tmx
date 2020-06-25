@@ -2302,12 +2302,13 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
-      <note>Important: Guardant SP is distinguished by cryptographic binding to the equipment, namely it is not possible to use the activated dongle on another computer. </note>
+      <note>A: Important: Guardant SP is distinguished by cryptographic binding to the equipment, namely it is not possible to use the activated dongle on another computer. 
+M: Done. </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Важно&lt;x2/&gt;: Особенностью Guardant SP является криптографическая привязка к оборудованию, т.е. активированный ключ нельзя использовать на другом компьютере.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T103732Z" creationid="Марианна" creationdate="20200608T103732Z">
-        <seg>&lt;x1/&gt;Important&lt;x2/&gt;: Guardant SP is distinguished by the cryptographic binding to the equipment, namely it is not possible to use the activated dongle on the other computer.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T181830Z" creationid="Марианна" creationdate="20200608T103732Z">
+        <seg>&lt;x1/&gt;Important&lt;x2/&gt;: Guardant SP is distinguished by cryptographic binding to the equipment, namely it is not possible to use the activated dongle on another computer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5721,8 +5722,8 @@ Done.</note>
       <tuv lang="RU">
         <seg>Для успешной активации ключа требуется:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T102826Z" creationid="Марианна" creationdate="20200608T102826Z">
-        <seg>The following conditions are required for the successful dongle activation:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T181639Z" creationid="Марианна" creationdate="20200608T102826Z">
+        <seg>The following conditions are required for successful dongle activation:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6144,12 +6145,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Programmed template of Guardant SP dongle (*.grdvd file).</note>
+      <note>A: Programmed template of Guardant SP dongle (*.grdvd file).
+M: Done</note>
       <tuv lang="RU">
         <seg>Запрограммированный шаблон ключа Guardant SP (файл вида *.grdvd).</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T103043Z" creationid="Марианна" creationdate="20200608T103043Z">
-        <seg>Programed template of Guardant SP dongle (*.grdvd file).</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T181721Z" creationid="Марианна" creationdate="20200608T103043Z">
+        <seg>Programmed template of Guardant SP dongle (*.grdvd file).</seg>
       </tuv>
     </tu>
     <tu>
