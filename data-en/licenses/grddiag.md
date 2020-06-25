@@ -8,8 +8,8 @@ The ulility can be also started from the applet of the "Guardant Drivers" contro
 
 ![](../images/guardant-diag-util.png)
 
-To retrieve the report, it is required to press the "Full Report" button; then HTML file with detailed description of all dongles installed in the system and system configuration will be opened in the browser.
+To retrieve a report, it is required to press the "Full Report" button; then HTML file with a detailed description of all dongles installed in the system and system configuration will be opened in the browser.
 
 ![](../images/guardant-diag-report.png)
 
-To transfer the report to the help desk, it is required to save it in html or txt format and send it by the following e-mail: [e-mail](mailto:support@loginom.ru).
+To transfer a report to the help desk, it is required to save it in html or txt format and send it by the following e-mail: [e-mail](mailto:support@loginom.ru).
