@@ -5796,12 +5796,13 @@ M: Done</note>
       </tuv>
     </tu>
     <tu>
-      <note>It must be inserted into the USB port of the computer on which Loginom will run;</note>
+      <note>A: It must be inserted into the USB port of the computer on which Loginom will run;
+M: Done</note>
       <tuv lang="RU">
         <seg>Должен быть вставлен в USB-порт того компьютера, на котором будет запускаться Loginom;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T061904Z" creationid="Марианна" creationdate="20200608T061517Z">
-        <seg>It must be inserted into the USB port of the computer used for Loginom start;</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T175503Z" creationid="Марианна" creationdate="20200608T061517Z">
+        <seg>It must be inserted into the USB port of the computer on which Loginom will run;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8557,12 +8558,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Software is not bound to the computer parameters, but to the dongle.</note>
+      <note>A: Software is not bound to the computer parameters, but to the dongle.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Привязка программного обеспечения осуществляется не к параметрам компьютера, а только к ключу;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T064136Z" creationid="Марианна" creationdate="20200608T061754Z">
-        <seg>Software is bound not to the computer parameters, but to the dongle.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T175612Z" creationid="Марианна" creationdate="20200608T061754Z">
+        <seg>Software is not bound to the computer parameters, but to the dongle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9205,12 +9207,13 @@ M: No changes</note>
       </tuv>
     </tu>
     <tu>
-      <note>Comparison of Dongles Versions</note>
+      <note>A: Comparison of Dongles Versions
+M: Done</note>
       <tuv lang="RU">
         <seg>Сравнение вариантов физических ключей</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T064118Z" creationid="Марианна" creationdate="20200608T061208Z">
-        <seg>Comparison of the Physical Dongles Versions</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T175354Z" creationid="Марианна" creationdate="20200608T061208Z">
+        <seg>Comparison of Dongles Versions</seg>
       </tuv>
     </tu>
     <tu>
