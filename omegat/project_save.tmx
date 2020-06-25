@@ -1941,12 +1941,13 @@ M: Done. But still I do not feel the diffrerence. We need to discuss it and chec
       </tuv>
     </tu>
     <tu>
-      <note>internal - logging events file record (for example, errors while writing logs to the database).</note>
+      <note>A: internal - logging events file record (for example, errors while writing logs to the database).
+M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;internal&lt;x2/&gt; - запись в файл событий логирования (к примеру, ошибок при записи логов в базу данных).</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T204551Z" creationid="Марианна" creationdate="20200605T204551Z">
-        <seg>&lt;x1/&gt;internal&lt;x2/&gt; - logging events file record (for example, errors while log recording in the database).</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T125218Z" creationid="Марианна" creationdate="20200605T204551Z">
+        <seg>&lt;x1/&gt;internal&lt;x2/&gt; - logging events file record (for example, errors while writing logs to the database).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3694,7 +3695,8 @@ Vasiliy M.: Может быть, про разграничение прав на
       </tuv>
     </tu>
     <tu>
-      <note>Loginom Integrator maintains the information on operability of servers and packages published in them.</note>
+      <note>A: Loginom Integrator maintains the information on operability of servers and packages published in them.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Loginom Integrator поддерживает информацию о работоспособности серверов и опубликованных на них пакетах.</seg>
       </tuv>
@@ -6371,12 +6373,13 @@ OK, I have got it. The WSDL description everywhere. And the names (name). Three 
       </tuv>
     </tu>
     <tu>
-      <note>The value can be both a full and a relative (from the configuration file) path.</note>
+      <note>A: The value can be both a full and a relative (from the configuration file) path.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Значением может быть полный или относительный (от файла конфигурации) путь.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dell" changedate="20200608T203600Z" creationid="Марианна" creationdate="20200605T204053Z">
-        <seg>The value cab be both full and relative (from the configuration file) path. </seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T125131Z" creationid="Марианна" creationdate="20200605T204053Z">
+        <seg>The value can be both a full and a relative (from the configuration file) path. </seg>
       </tuv>
     </tu>
     <tu>
@@ -8416,7 +8419,8 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
-      <note>Upon receipt of request, the server is randomly selected among the available primary (not standby) servers providing the required package. </note>
+      <note>A: Upon receipt of request, the server is randomly selected among the available primary (not standby) servers providing the required package.
+M: Done  </note>
       <tuv lang="RU">
         <seg>При поступлении запроса сервер выбирается случайным образом среди доступных основных (не резервных) серверов, предоставляющих требуемый пакет.</seg>
       </tuv>
@@ -8473,12 +8477,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>In the case of default setup, file record with the Info detailing level is enabled. Logs are recorded in the %ALLUSERSPROFILE%\BaseGroup\Loginom 6\Integrator\Logs\ directory.</note>
+      <note>A: In the case of default setup, file record with the Info detailing level is enabled. Logs are recorded in the %ALLUSERSPROFILE%\BaseGroup\Loginom 6\Integrator\Logs\ directory.
+M: Done. </note>
       <tuv lang="RU">
         <seg>При установке по умолчанию включена запись в файл с уровнем детализации Info, журналы пишутся в каталог &lt;x1/&gt;%ALLUSERSPROFILE%\BaseGroup\Loginom 6\Integrator\Logs\&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T205233Z" creationid="Марианна" creationdate="20200605T205233Z">
-        <seg>In the case of the default setup, file record with the Info detailing level is enabled, logs are recorded in the &lt;x1/&gt;%ALLUSERSPROFILE%\BaseGroup\Loginom 6\Integrator\Logs\&lt;x2/&gt; directory.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T125323Z" creationid="Марианна" creationdate="20200605T205233Z">
+        <seg>In the case of default setup, file record with the Info detailing level is enabled. Logs are recorded in the &lt;x1/&gt;%ALLUSERSPROFILE%\BaseGroup\Loginom 6\Integrator\Logs\&lt;x2/&gt; directory.</seg>
       </tuv>
     </tu>
     <tu>
