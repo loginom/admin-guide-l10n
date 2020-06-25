@@ -7830,12 +7830,13 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
     </tu>
     <tu>
-      <note>It is required to activate the software SP dongle before use of platform components, but without net access on the computer of the end user.</note>
+      <note>A: It is required to activate the software SP dongle before use of platform components, but without net access on the computer of the end user.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Перед использованием компонентов платформы программый SP-ключ необходимо активировать, но интернет на компьютере конечного пользователя недоступен.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200609T094659Z" creationid="Марианна" creationdate="20200609T094659Z">
-        <seg>It is required to activate the software SP dongle before usage of the platform components, but without net access on the final user computer.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T181445Z" creationid="Марианна" creationdate="20200609T094659Z">
+        <seg>It is required to activate the software SP dongle before use of platform components, but without net access on the computer of the end user.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7843,8 +7844,8 @@ From now on, I will only mention the sections of text that I require a tweak.
       <tuv lang="RU">
         <seg>Перед использованием компонентов платформы программый SP-ключ необходимо активировать.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200609T094303Z" creationid="Марианна" creationdate="20200609T094303Z">
-        <seg>It is required to activate SP dongle before usage of the platform components.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T181337Z" creationid="Марианна" creationdate="20200609T094303Z">
+        <seg>It is required to activate SP dongle before use of the platform components.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8073,8 +8074,8 @@ Done.</note>
       <tuv lang="RU">
         <seg>Пользователю доступны несколько &lt;x1/&gt;вариантов исполнения физического ключа&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200609T094216Z" creationid="Марианна" creationdate="20200609T094216Z">
-        <seg>Several &lt;x1/&gt;physical dongle versions&lt;x2/&gt; are avilable to users.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T181305Z" creationid="Марианна" creationdate="20200609T094216Z">
+        <seg>Several &lt;x1/&gt;physical dongle versions&lt;x2/&gt; are available to users.</seg>
       </tuv>
     </tu>
     <tu>
