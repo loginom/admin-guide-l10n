@@ -5636,12 +5636,13 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Installation of drivers is not required on each computer. It is sufficient just to install the program.</note>
+      <note>A: Installation of drivers is not required on each computer. It is sufficient just to install the program.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Для работы Loginom нет необходимости устанавливать драйвер на каждую машину, достаточно просто инсталлировать программу;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T063246Z" creationid="Марианна" creationdate="20200608T063246Z">
-        <seg>It is not required to install driver on each computer. It is sufficient just to install the program.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T180459Z" creationid="Марианна" creationdate="20200608T063246Z">
+        <seg>Installation of drivers is not required on each computer. It is sufficient just to install the program.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6920,12 +6921,13 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
-      <note>The licenses are competitive, meaning that the number of computers (or terminal sessions) on which Loginom applications can run is limited.</note>
+      <note>A: The licenses are competitive, meaning that the number of computers (or terminal sessions) on which Loginom applications can run is limited.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Лицензии конкурентные, то есть ограничивается количество компьютеров (или сессий терминала), на которых запущены приложения Loginom.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T063139Z" creationid="Марианна" creationdate="20200608T063139Z">
-        <seg>The licenses are competitive. It means that the number of computers (or terminal sessions) on which Loginom applications have been started is limited.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T180333Z" creationid="Марианна" creationdate="20200608T063139Z">
+        <seg>The licenses are competitive, meaning that the number of computers (or terminal sessions) on which Loginom applications can run is limited.</seg>
       </tuv>
     </tu>
     <tu>
