@@ -1,8 +1,8 @@
 # Loginom Integrator
 
-It is a platform component running as an application for Internet Information Services (IIS) and allowing for publication of the own web services.
+It is a platform component running as an application for Internet Information Services (IIS) and allowing for publication of the user's own web services.
 
-The Loginom Integrator usage allows for implementation of the solution architecture providing resilience, load balance and scaling out.
+The Loginom Integrator usage allows for implementation of the solution architecture providing resilience, load balance and horizontal scaling.
 
 ## System Requirements
 
