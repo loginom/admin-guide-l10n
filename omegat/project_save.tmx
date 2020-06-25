@@ -3159,12 +3159,13 @@ M:Done. </note>
       </tuv>
     </tu>
     <tu>
-      <note>Site is a name of the existing IIS site in which Loginom Integrator will be deployed.</note>
+      <note>A: Site is a name of the existing IIS site in which Loginom Integrator will be deployed.
+M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Сайт&lt;x2/&gt; — имя существующего сайта IIS, на котором будет развернут Loginom Integrator.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T225726Z" creationid="Марианна" creationdate="20200604T225726Z">
-        <seg>&lt;x1/&gt;Site&lt;x2/&gt; is a name of the existing IIS site on which Loginom Integrator will be deployed.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T144031Z" creationid="Марианна" creationdate="20200604T225726Z">
+        <seg>&lt;x1/&gt;Site&lt;x2/&gt; is a name of the existing IIS site in which Loginom Integrator will be deployed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9172,7 +9173,8 @@ M: Done </note>
       </tuv>
     </tu>
     <tu>
-      <note>To create application pool in IIS in the Integrated mode and CLR v4.0 environment version</note>
+      <note>A: To create application pool in IIS in the Integrated mode and CLR v4.0 environment version
+M: No changes</note>
       <tuv lang="RU">
         <seg>Создать в IIS пул приложений в режиме &lt;x1/&gt;Integrated&lt;x2/&gt; и версией среды CLR &lt;x3/&gt;v4.0&lt;x4/&gt;</seg>
       </tuv>
