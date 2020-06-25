@@ -5645,12 +5645,13 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Driver installation is only required for local dongle operation, whereas a dedicated server is used for the network dongle and a key server must be installed on it.</note>
+      <note>A: Driver installation is only required for local dongle operation, whereas a dedicated server is used for the network dongle and a key server must be installed on it.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Для работы локального ключа необходимо установить только драйвер, тогда как при использовании сетевого ключа нужен выделенный сервер, на который необходимо проинсталлировать сервер ключей.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T064216Z" creationid="Марианна" creationdate="20200608T062727Z">
-        <seg>It is required to install only a driver for the local dongle operation, whereas a dedicated server is used for the network dongle and a key server must be installed on it.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T180110Z" creationid="Марианна" creationdate="20200608T062727Z">
+        <seg>Driver installation is only required for local dongle operation, whereas a dedicated server is used for the network dongle and a key server must be installed on it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5807,12 +5808,13 @@ M: Done</note>
       </tuv>
     </tu>
     <tu>
-      <note>It must be installed on a dedicated server and a key server must also be installed on it.</note>
+      <note>A: It must be installed on a dedicated server and a key server must also be installed on it.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Должен быть установлен на выделенном сервере, на котором необходимо дополнительно проинсталлировать сервер ключей;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T062901Z" creationid="Марианна" creationdate="20200608T062901Z">
-        <seg>It must be installed on a dedicated server and a key server must be additionally installed on it.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T180223Z" creationid="Марианна" creationdate="20200608T062901Z">
+        <seg>It must be installed on a dedicated server and a key server must also be installed on it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7272,12 +7274,13 @@ The desktop version of the platform is designated for installation on the local 
       </tuv>
     </tu>
     <tu>
-      <note>License cannot be suspended due to a user not having closed Loginom on another computer. </note>
+      <note>A: License cannot be suspended due to a user not having closed Loginom on another computer. 
+M: Done.</note>
       <tuv lang="RU">
         <seg>Не может произойти ситуация блокировки лицензии из-за того, что пользователь на другой машине не закрыл приложение Loginom;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T062443Z" creationid="Марианна" creationdate="20200608T062443Z">
-        <seg>License cannot be suspended due to the fact that a user didn't close Loginom on other computer.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T175944Z" creationid="Марианна" creationdate="20200608T062443Z">
+        <seg>License cannot be suspended due to a user not having closed Loginom on another computer.</seg>
       </tuv>
     </tu>
     <tu>
