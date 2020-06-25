@@ -5000,21 +5000,23 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
-      <note>Enabling IIS Components</note>
+      <note>A: Enabling IIS Components
+M: Done.</note>
       <tuv lang="RU">
         <seg>Включение компонентов IIS</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200520T103719Z" creationid="Марианна" creationdate="20200519T140318Z">
-        <seg>Enable IIS Components</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T143430Z" creationid="Марианна" creationdate="20200519T140318Z">
+        <seg>Enabling IIS Components</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Enabling IIS Components for the Loginom Integrator</note>
+      <note>A: Enabling IIS Components for the Loginom Integrator
+M: Done.</note>
       <tuv lang="RU">
         <seg>Включение компонентов IIS для Loginom Integrator</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T223411Z" creationid="Марианна" creationdate="20200604T223411Z">
-        <seg>Enable IIS Components for Loginom Integrator</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T143518Z" creationid="Марианна" creationdate="20200604T223411Z">
+        <seg>Enabling IIS Components for the Loginom Integrator</seg>
       </tuv>
     </tu>
     <tu>
@@ -5475,8 +5477,8 @@ M: Done
       <tuv lang="RU">
         <seg>Для корректной работы Loginom Integrator требуется установленный NetFramework v4.5+.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T223614Z" creationid="Марианна" creationdate="20200604T223614Z">
-        <seg>Installed NetFramework v4.5+ is required for the proper Loginom Integrator operation.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T143600Z" creationid="Марианна" creationdate="20200604T223614Z">
+        <seg>Installed NetFramework v4.5+ is required for proper Loginom Integrator operation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7288,12 +7290,13 @@ The desktop version of the platform is designated for installation on the local 
       </tuv>
     </tu>
     <tu>
-      <note>Installation of the following components is required:</note>
+      <note>A: Installation of the following components is required:
+M: Done.</note>
       <tuv lang="RU">
         <seg>Необходимо установить следующие компоненты:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T223503Z" creationid="Марианна" creationdate="20200604T223503Z">
-        <seg>It is required to install the following components:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T143642Z" creationid="Марианна" creationdate="20200604T223503Z">
+        <seg>Installation of the following components is required:</seg>
       </tuv>
     </tu>
     <tu>
