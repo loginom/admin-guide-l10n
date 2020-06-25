@@ -2170,8 +2170,8 @@ M: Done</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;userName&lt;x2/&gt; - имя учетной записи с правом на вход в качестве службы.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T202857Z" creationid="Марианна" creationdate="20200605T202857Z">
-        <seg>&lt;x1/&gt;userName&lt;x2/&gt; - account name with login right as a service.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T124321Z" creationid="Марианна" creationdate="20200605T202857Z">
+        <seg>&lt;x1/&gt;userName&lt;x2/&gt; - account name with service login rights.</seg>
       </tuv>
     </tu>
     <tu>
