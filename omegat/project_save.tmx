@@ -9129,8 +9129,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Соединение с Loginom Server</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T202211Z" creationid="Марианна" creationdate="20200605T202211Z">
-        <seg>Connection with Loginom Server</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200625T124125Z" creationid="Марианна" creationdate="20200605T202211Z">
+        <seg>Connection with the Loginom Server</seg>
       </tuv>
     </tu>
     <tu>
