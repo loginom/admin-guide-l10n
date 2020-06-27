@@ -4587,8 +4587,8 @@ M: Done. </note>
       <tuv lang="RU">
         <seg>Аналитическая платформа &lt;x1/&gt;Loginom&lt;x2/&gt; может функционировать в серверном режиме для коллективной работы и в виде настольного приложения для персональной аналитики.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T214211Z" creationid="Марианна" creationdate="20200605T214211Z">
-        <seg>The analytical &lt;x1/&gt;Loginom&lt;x2/&gt; platform can be operated in the server mode for the teamwork and as a desktop application for the personal analytics.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T110508Z" creationid="Марианна" creationdate="20200605T214211Z">
+        <seg>The &lt;x1/&gt;Loginom&lt;x2/&gt; analytical platform can be operated in server mode for teamwork, and as a desktop application for personal analytics.</seg>
       </tuv>
     </tu>
     <tu>
