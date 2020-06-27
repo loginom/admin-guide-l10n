@@ -1191,12 +1191,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Upon submission of the "number-question", it is permitted to finish the software operation pressing by the "Finish" button.</note>
+      <note>A: Upon submission of the "number-question", it is permitted to finish the software operation pressing by the "Finish" button.
+M: Done with corrections.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;4.&lt;x2/&gt; После отправки "числа-вопроса" можно завершить работу программы нажав кнопку Завершить.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T080805Z" creationid="Марианна" creationdate="20200610T080805Z">
-        <seg>&lt;x1/&gt;4.&lt;x2/&gt; Upon the "number-question" sending, it is allowed to finish the software operation pressing the "Finish" button.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T103512Z" creationid="Марианна" creationdate="20200610T080805Z">
+        <seg>&lt;x1/&gt;4.&lt;x2/&gt; Upon submission of the "number-question", it is permitted to finish the software operation by pressing the "Finish" button.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1234,12 +1235,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>5. Upon receipt of the "number-question" ("dongle upgrade file" will be in the letter), it is required to run GrdTRU.exe once again. </note>
+      <note>A: 5. Upon receipt of the "number-question" ("dongle upgrade file" will be in the letter), it is required to run GrdTRU.exe once again. 
+M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;5.&lt;x2/&gt; После того как вы получите число-ответ (в письме будет содержаться "файл-обновления ключа"), снова запустите программу GrdTRU.exe.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T080935Z" creationid="Марианна" creationdate="20200610T080935Z">
-        <seg>&lt;x1/&gt;5.&lt;x2/&gt; Upon the "number-question" receipt ("dongle upgrade file" will be in the letter), it is required to run GrdTRU.exe once again.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T103555Z" creationid="Марианна" creationdate="20200610T080935Z">
+        <seg>&lt;x1/&gt;5.&lt;x2/&gt; Upon receipt of the "number-question" ("dongle upgrade file" will be in the letter), it is required to run GrdTRU.exe once again.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8307,12 +8309,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>To run the software, it is required to select "Continue the dongle upgrade operation initiated during the previous session" and press the "Next" button.</note>
+      <note>A: To run the software, it is required to select "Continue the dongle upgrade operation initiated during the previous session" and press the "Next" button.
+M: Done.</note>
       <tuv lang="RU">
         <seg>При запуске программы нужно выбрать пункт "Продолжить операцию обновления ключа, инициализированную во время предыдущего сеанса" и нажать на кнопку "Далее".</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T081143Z" creationid="Марианна" creationdate="20200610T081143Z">
-        <seg>Running the software, it is required to select "Continue the dongle upgrade operation initiated during the previous session" and press the "Next" button.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T103642Z" creationid="Марианна" creationdate="20200610T081143Z">
+        <seg>To run the software, it is required to select "Continue the dongle upgrade operation initiated during the previous session" and press the "Next" button.</seg>
       </tuv>
     </tu>
     <tu>
