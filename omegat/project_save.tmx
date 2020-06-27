@@ -5083,12 +5083,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Attention: The Loginom version in the software image has a limited period of effect, and you will need to request a licence renewal for effective operational continuity of the software by sending an e-mail to the following address: help@loginom.ru.</note>
+      <note>A: Attention: The Loginom version in the software image has a limited period of effect, and you will need to request a licence renewal for effective operational continuity of the software by sending an e-mail to the following address: help@loginom.ru.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Внимание: Версия Loginom расположенная в образе имеет ограниченный срок действия, и для полноценной продолжительной работы необходимо запросить продление лицензии по адресу help@loginom.ru.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T204631Z" creationid="Марианна" creationdate="20200610T204631Z">
-        <seg>Attention: Loginom version located in the software image has the limited effective period, and it is required to request the licence renewal for the effective continuous work by the following e-mail: help@loginom.ru.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T111913Z" creationid="Марианна" creationdate="20200610T204631Z">
+        <seg>Attention: The Loginom version located in the software image has a limited period of effect, and you will need to request a licence renewal for effective operational continuity of the software by sending an e-mail to the following address: help@loginom.ru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7034,12 +7035,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>A new password can be required, for example, in the case of current password loss.</note>
+      <note>A: A new password can be required, for example, in the case of current password loss.
+M: Done. </note>
       <tuv lang="RU">
         <seg>Может потребоваться при необходимости задать новый пароль, например в случае потери действующего.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T204059Z" creationid="Марианна" creationdate="20200610T204059Z">
-        <seg>New password can be required, for example, in the case of the current password loss.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T111631Z" creationid="Марианна" creationdate="20200610T204059Z">
+        <seg>A new password can be required, for example, in the case of current password loss.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8970,12 +8972,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Google Сhrome is the recommended browser.</note>
+      <note>A: Google Сhrome is the recommended browser.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Рекомендуется использовать для работы браузер Google Сhrome.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T204207Z" creationid="Марианна" creationdate="20200610T204207Z">
-        <seg>Google Сhrome browser is recommended for work.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T111704Z" creationid="Марианна" creationdate="20200610T204207Z">
+        <seg>Google Сhrome is the recommended browser.</seg>
       </tuv>
     </tu>
     <tu>
