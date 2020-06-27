@@ -1160,12 +1160,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>**3.**At the second wizard stage the user will be provided with a "number-question" to be resent to the Loginom Company support service at the following address: support@loginom.ru.</note>
+      <note>A: **3.**At the second wizard stage the user will be provided with a "number-question" to be resent to the Loginom Company support service at the following address: support@loginom.ru.
+M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;3.&lt;x2/&gt; На втором шаге мастера пользователю будет предоставлен "число-вопрос", которое необходимо будет переслать в службу техподдержки компании Loginom Company на адрес &lt;x3/&gt;support@loginom.ru&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T074954Z" creationid="Марианна" creationdate="20200610T074954Z">
-        <seg>&lt;x1/&gt;3.&lt;x2/&gt;At the second wizard stage the user will be provided with "number-question" to be resent to Loginom Company support service at the following address: &lt;x3/&gt;support@loginom.ru&lt;x4/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T103112Z" creationid="Марианна" creationdate="20200610T074954Z">
+        <seg>&lt;x1/&gt;3.&lt;x2/&gt;At the second wizard stage the user will be provided with "number-question" to be resent to the Loginom Company support service at the following address: &lt;x3/&gt;support@loginom.ru&lt;x4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6505,12 +6506,13 @@ M: Done</note>
       </tuv>
     </tu>
     <tu>
-      <note>It is also possible to save it to the clipboard or in a text file to be sent later on.</note>
+      <note>A: It is also possible to save it to the clipboard or in a text file to be sent later on.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Или сохранить для последующей отправки в буфере обмена или в текстовом файле.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T080401Z" creationid="Марианна" creationdate="20200610T075738Z">
-        <seg>It is also possible to save it to the clipboard or in the text file to be sent later on.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T103251Z" creationid="Марианна" creationdate="20200610T075738Z">
+        <seg>It is also possible to save it to the clipboard or in a text file to be sent later on.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8071,12 +8073,13 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>It is permitted to send the received "number-question" by e-mail using the "By e-mail" button below.</note>
+      <note>A: It is permitted to send the received "number-question" by e-mail using the "By e-mail" button below.
+M: Done. </note>
       <tuv lang="RU">
         <seg>Полученное "число-вопрос" можно сразу отправить по электронной почте воспользовавшись нижерасположенной кнопкой "По почте".</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T075234Z" creationid="Марианна" creationdate="20200610T075234Z">
-        <seg>It is allowed to send the received "number-question" by e-mail using "By e-mail" button below.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T103203Z" creationid="Марианна" creationdate="20200610T075234Z">
+        <seg>It is permitted to send the received "number-question" by e-mail using the "By e-mail" button below.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9221,12 +9224,13 @@ M: No changes</note>
       </tuv>
     </tu>
     <tu>
-      <note>Note. It is required to send the recorded "number-question" to Loginom by submitting it to the following email address: support@loginom.ru with "Loginom upgrade: "number-question" topic and reasons for the license composition modification.</note>
+      <note>A: Note. It is required to send the recorded "number-question" to Loginom by submitting it to the following email address: support@loginom.ru with "Loginom upgrade: "number-question" topic and reasons for the license composition modification.
+M: Done. </note>
       <tuv lang="RU">
         <seg>Сообщите записанное "число-вопрос" компании Loginom Company по электронной почте &lt;x1/&gt;support@loginom.ru&lt;x2/&gt; с названием темы "Обновление Loginom: число-вопрос" и указанием оснований причин модификации состава лицензий.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T080650Z" creationid="Марианна" creationdate="20200610T080355Z">
-        <seg>It is required to send the recorded "number-question" to Loginom Company by the following e-mail: &lt;x1/&gt;support@loginom.ru&lt;x2/&gt; with "Loginom upgrade: "number-question" topic and reasons of the license composition modification.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T103406Z" creationid="Марианна" creationdate="20200610T080355Z">
+        <seg>It is required to send the recorded "number-question" to Loginom Company by submitting it to the following email address: &lt;x1/&gt;support@loginom.ru&lt;x2/&gt; with "Loginom upgrade: "number-question" topic and reasons for the license composition modification.</seg>
       </tuv>
     </tu>
     <tu>
