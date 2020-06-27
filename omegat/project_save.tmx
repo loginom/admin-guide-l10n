@@ -1083,8 +1083,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;1.&lt;x2/&gt; Запустить Мастер активации Guardant (GuardantActivationWizard.exe), установить опцию "Режим offline" (внизу слева) и нажать кнопку "Далее":</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200627T101848Z" creationid="Марианна" creationdate="20200608T094030Z">
-        <seg>&lt;x1/&gt;1.&lt;x2/&gt; To run Guardant Activation Wizard (GuardantActivationWizard.exe), to install the "Offline mode" option by checking the box on the bottom left, then press the "Next" button:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T101942Z" creationid="Марианна" creationdate="20200608T094030Z">
+        <seg>&lt;x1/&gt;1.&lt;x2/&gt; Run Guardant Activation Wizard (GuardantActivationWizard.exe), to install the "Offline mode" option by checking the box on the bottom left, then press the "Next" button:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1115,12 +1115,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Enter the software dongle serial number. </note>
+      <note>A: Enter the software dongle serial number. 
+M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;2.&lt;x2/&gt; Ввести серийный номер программного ключа.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T094550Z" creationid="Марианна" creationdate="20200608T094550Z">
-        <seg>&lt;x1/&gt;2.&lt;x2/&gt; To enter the software dongle serial number.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T101928Z" creationid="Марианна" creationdate="20200608T094550Z">
+        <seg>&lt;x1/&gt;2.&lt;x2/&gt; Enter the software dongle serial number.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1176,13 +1177,14 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>It is required to transfer this file to a computer with net access. To run the Activation Wizard (GuardantActivationWizard.exe), press the "Specify the license file..." button and to specify the "Files for transfer to the activation server (*toserver)" parameter in the drop-down list of the navigation window in the "Files type:" field:</note>
+      <note>A: It is required to transfer this file to a computer with net access. To run the Activation Wizard (GuardantActivationWizard.exe), press the "Specify the license file..." button and to specify the "Files for transfer to the activation server (*toserver)" parameter in the drop-down list of the navigation window in the "Files type:" field:
+M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;3.&lt;x2/&gt; Этот файл необходимо перенести на компьютер, где есть доступ в интернет, запустить
 Мастер активации (GuardantActivationWizard.exe), нажать кнопку "Указать файл лицензии…" и в выпадающем списке окна навигации указать в поле "Тип файлов:" параметр "Файлы для передачи на сервер активации (*toserver)":</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T095357Z" creationid="Марианна" creationdate="20200608T095046Z">
-        <seg>&lt;x1/&gt;3.&lt;x2/&gt;It is required to transfer this file to the computer with net access, to run the Activation Wizard (GuardantActivationWizard.exe), to press the "Specify the license file..." button and to specify the "Files for transfer to the activation server (*toserver)" parameter in the drop-down list of the navigation window in the "Files type:" field:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T102053Z" creationid="Марианна" creationdate="20200608T095046Z">
+        <seg>&lt;x1/&gt;3.&lt;x2/&gt;It is required to transfer this file to a computer with net access, to run the Activation Wizard (GuardantActivationWizard.exe), to press the "Specify the license file..." button and to specify the "Files for transfer to the activation server (*toserver)" parameter in the drop-down list of the navigation window in the "Files type:" field:</seg>
       </tuv>
     </tu>
     <tu>
