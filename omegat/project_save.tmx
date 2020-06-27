@@ -4178,12 +4178,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>The web server enables connection to the Loginom server host using websocket protocol and retransfer to it of connection traffic with Loginom Studio:</note>
+      <note>A: The web server enables connection to the Loginom server host using websocket protocol and retransfer to it of connection traffic with Loginom Studio:
+M: Done.</note>
       <tuv lang="RU">
         <seg>Web-сервер создает подключение на хост сервера Loginom по протоколу &lt;x1/&gt;websocket&lt;x2/&gt; и перенаправляет в него траффик соединения с Loginom Studio:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T102721Z" creationid="Марианна" creationdate="20200610T102721Z">
-        <seg>The web server enables connection to the Loginom server host using &lt;x1/&gt;websocket&lt;x2/&gt; protocol and retransfer to it traffic of connection with Loginom Studio:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T110407Z" creationid="Марианна" creationdate="20200610T102721Z">
+        <seg>The web server enables connection to the Loginom server host using &lt;x1/&gt;websocket&lt;x2/&gt; protocol and retransfer to it of connection traffic with Loginom Studio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8421,12 +8422,13 @@ Vasiliy M: может быть, лезу не в своё дело. Мне ка�
       </tuv>
     </tu>
     <tu>
-      <note>In the case of http encryption, connection is forbidden.</note>
+      <note>A: In the case of http encryption, connection is forbidden.
+M: Done.</note>
       <tuv lang="RU">
         <seg>При наличии шифрования http подключение запрещено.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T102240Z" creationid="Марианна" creationdate="20200610T102240Z">
-        <seg>In the case of http encryption connection is forbidden.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T105412Z" creationid="Марианна" creationdate="20200610T102240Z">
+        <seg>In the case of http encryption, connection is forbidden.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8529,12 +8531,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>In the case of the default installation, websocket proxy is disabled.</note>
+      <note>A: In the case of the default installation, websocket proxy is disabled.
+M: Done.</note>
       <tuv lang="RU">
         <seg>При установке по умолчанию websocket proxy отключен.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T103138Z" creationid="Марианна" creationdate="20200610T101924Z">
-        <seg>In the case of the default installation websocket proxy is disabled.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T105342Z" creationid="Марианна" creationdate="20200610T101924Z">
+        <seg>In the case of the default installation, websocket proxy is disabled.</seg>
       </tuv>
     </tu>
     <tu>
