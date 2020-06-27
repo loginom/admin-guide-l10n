@@ -1078,12 +1078,13 @@ M: Done</note>
       </tuv>
     </tu>
     <tu>
-      <note>Run Guardant Activation Wizard (GuardantActivationWizard.exe) to install the "Offline mode" option by checking the box on the bottom left, then press the "Next" button:</note>
+      <note>A: Run Guardant Activation Wizard (GuardantActivationWizard.exe) to install the "Offline mode" option by checking the box on the bottom left, then press the "Next" button:
+M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;1.&lt;x2/&gt; Запустить Мастер активации Guardant (GuardantActivationWizard.exe), установить опцию "Режим offline" (внизу слева) и нажать кнопку "Далее":</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T094030Z" creationid="Марианна" creationdate="20200608T094030Z">
-        <seg>&lt;x1/&gt;1.&lt;x2/&gt; To run Guardant Activation Wizard (GuardantActivationWizard.exe), to install the "Offline mode" option (at the bottom, leftward) and to press the "Next" button:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T101848Z" creationid="Марианна" creationdate="20200608T094030Z">
+        <seg>&lt;x1/&gt;1.&lt;x2/&gt; To run Guardant Activation Wizard (GuardantActivationWizard.exe), to install the "Offline mode" option by checking the box on the bottom left, then press the "Next" button:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1197,8 +1198,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;4.&lt;x2/&gt; Программа соединится с сервером активации и сгенерирует еще один файл, который нужно перенести на компьютер конечного пользователя для завершения активации:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T095221Z" creationid="Марианна" creationdate="20200608T095221Z">
-        <seg>&lt;x1/&gt;4.&lt;x2/&gt; The program will connect with the activation server and generate one more file to be transferred to the final user computer to finish the activation process:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T101557Z" creationid="Марианна" creationdate="20200608T095221Z">
+        <seg>&lt;x1/&gt;4.&lt;x2/&gt; The program will connect with the activation server and generate one more file to be transferred to the end user computer to finish the activation process:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1222,8 +1223,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;5.&lt;x2/&gt; На компьютере конечного пользователя запустить Мастер активации (GuardantActivationWizard.exe) (&lt;x3/&gt;Важно&lt;x4/&gt;: опцию "Режим offline" (внизу слева) не устанавливать), нажать кнопку "Указать файл лицензии" и, в открывшемся диалоге выбора файлов, указав тип файла "Файлы, полученные с сервера активации (*.fromserver)" выбрать нужный файл:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T100840Z" creationid="Марианна" creationdate="20200608T095312Z">
-        <seg>&lt;x1/&gt;5.&lt;x2/&gt; It is required to run the Activation Wizard (GuardantActivationWizard.exe) on the final user computer (&lt;x3/&gt;Important&lt;x4/&gt;: the "Offline mode" option (at the bottom, leftward) must not be installed), to press the "Specify the license file..." button and to select the required file in the opened file selection dialog having specified the file type "FIles received from the activation server (*.fromserver)":</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T101628Z" creationid="Марианна" creationdate="20200608T095312Z">
+        <seg>&lt;x1/&gt;5.&lt;x2/&gt; It is required to run the Activation Wizard (GuardantActivationWizard.exe) on the end user computer (&lt;x3/&gt;Important&lt;x4/&gt;: the "Offline mode" option (at the bottom, leftward) must not be installed), to press the "Specify the license file..." button and to select the required file in the opened file selection dialog having specified the file type "FIles received from the activation server (*.fromserver)":</seg>
       </tuv>
     </tu>
     <tu>
@@ -5777,12 +5778,13 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
-      <note>A number of actions are required to that end.</note>
+      <note>A: A number of actions are required to that end.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Для этого необходимо выполнить ряд действий.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T100710Z" creationid="Марианна" creationdate="20200608T093827Z">
-        <seg>For that purpose, it is required to perform a number of actions.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T101709Z" creationid="Марианна" creationdate="20200608T093827Z">
+        <seg>A number of actions are required to that end.</seg>
       </tuv>
     </tu>
     <tu>
