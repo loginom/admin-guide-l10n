@@ -1221,12 +1221,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>It is required to run the Activation Wizard (GuardantActivationWizard.exe) on the final user computer (Important: the "Offline mode" option (shown on the bottom left) must not be installed), to press the "Specify the license file..." button and to select the required file in the opened file selection dialog having specified the file type "FIles received from the activation server (*.fromserver)":</note>
+      <note>A: It is required to run the Activation Wizard (GuardantActivationWizard.exe) on the final user computer (Important: the "Offline mode" option (shown on the bottom left) must not be installed), to press the "Specify the license file..." button and to select the required file in the opened file selection dialog having specified the file type "FIles received from the activation server (*.fromserver)":
+M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;5.&lt;x2/&gt; На компьютере конечного пользователя запустить Мастер активации (GuardantActivationWizard.exe) (&lt;x3/&gt;Важно&lt;x4/&gt;: опцию "Режим offline" (внизу слева) не устанавливать), нажать кнопку "Указать файл лицензии" и, в открывшемся диалоге выбора файлов, указав тип файла "Файлы, полученные с сервера активации (*.fromserver)" выбрать нужный файл:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200627T101628Z" creationid="Марианна" creationdate="20200608T095312Z">
-        <seg>&lt;x1/&gt;5.&lt;x2/&gt; It is required to run the Activation Wizard (GuardantActivationWizard.exe) on the end user computer (&lt;x3/&gt;Important&lt;x4/&gt;: the "Offline mode" option (at the bottom, leftward) must not be installed), to press the "Specify the license file..." button and to select the required file in the opened file selection dialog having specified the file type "FIles received from the activation server (*.fromserver)":</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T102154Z" creationid="Марианна" creationdate="20200608T095312Z">
+        <seg>&lt;x1/&gt;5.&lt;x2/&gt; It is required to run the Activation Wizard (GuardantActivationWizard.exe) on the end user computer (&lt;x3/&gt;Important&lt;x4/&gt;: the "Offline mode" option (shown on the bottom left) must not be installed), to press the "Specify the license file..." button and to select the required file in the opened file selection dialog having specified the file type "FIles received from the activation server (*.fromserver)":</seg>
       </tuv>
     </tu>
     <tu>
@@ -1248,12 +1249,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Press the "Next" button:</note>
+      <note>A: Press the "Next" button:
+M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;6.&lt;x2/&gt; Нажать кнопку "Далее":</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T100449Z" creationid="Марианна" creationdate="20200608T100449Z">
-        <seg>&lt;x1/&gt;6.&lt;x2/&gt; To press the "Next" button:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T102218Z" creationid="Марианна" creationdate="20200608T100449Z">
+        <seg>&lt;x1/&gt;6.&lt;x2/&gt; Press the "Next" button:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1266,12 +1268,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>The activation process is complete:</note>
+      <note>A: The activation process is complete:
+M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;7.&lt;x2/&gt; Процесс активации завершен:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T100507Z" creationid="Марианна" creationdate="20200608T100507Z">
-        <seg>&lt;x1/&gt;7.&lt;x2/&gt; The activation process is finished:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T102327Z" creationid="Марианна" creationdate="20200608T100507Z">
+        <seg>&lt;x1/&gt;7.&lt;x2/&gt; The activation process is complete:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8699,8 +8702,8 @@ M: Done. </note>
       <tuv lang="RU">
         <seg>Процедура обновления электронного usb-ключа может потребоваться в следующих случаях:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T071635Z" creationid="Марианна" creationdate="20200610T071635Z">
-        <seg>Procedure of USB dongle upgrade is required in the following cases:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T102356Z" creationid="Марианна" creationdate="20200610T071635Z">
+        <seg>The USB dongle upgrade procedure is required in the following cases:</seg>
       </tuv>
     </tu>
     <tu>
