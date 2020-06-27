@@ -4195,12 +4195,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Websocket proxy enables access to Loginom Server via http(s) port of the web server that facilitates the firewall configuration.</note>
+      <note>A: Websocket proxy enables access to Loginom Server via http(s) port of the web server that facilitates the firewall configuration.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Websocket proxy позволяет предоставлять доступ к Loginom Server через http(s) порт web-сервера, что упрощает конфигурацию сетевых экранов.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T092641Z" creationid="Марианна" creationdate="20200610T092641Z">
-        <seg>Websocket proxy enables to provide access to Loginom Server via http(s) port of the web server that facilitates the firewall configuration.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T105234Z" creationid="Марианна" creationdate="20200610T092641Z">
+        <seg>Websocket proxy enables access to Loginom Server via http(s) port of the web server that facilitates the firewall configuration.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5404,12 +5405,13 @@ M: OK, done. Still i would prefer to preserve the universal style of the text. <
       </tuv>
     </tu>
     <tu>
-      <note>To enable wsproxy on the imbedded web server, it is sufficient to select "Use WebSocket proxy" in the course of installation, IIS will require a more complicated configuration.</note>
+      <note>A: To enable wsproxy on the imbedded web server, it is sufficient to select "Use WebSocket proxy" in the course of installation, IIS will require a more complicated configuration.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Для включения wsproxy на встроенном web-сервере достаточно отметить пункт "Использовать WebSocket proxy" &lt;x1/&gt;при установке&lt;x2/&gt;, IIS требует более сложной &lt;x3/&gt;настройки&lt;x4/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T101904Z" creationid="Марианна" creationdate="20200610T101904Z">
-        <seg>To enable wsproxy on the imbedded web server, it is sufficient to select "Use WebSocket proxy" &lt;x1/&gt;in the course of installation&lt;x2/&gt;, IIS will require more complicated &lt;x3/&gt;configuration&lt;x4/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T105311Z" creationid="Марианна" creationdate="20200610T101904Z">
+        <seg>To enable wsproxy on the imbedded web server, it is sufficient to select "Use WebSocket proxy" &lt;x1/&gt;in the course of installation&lt;x2/&gt;, IIS will require a more complicated &lt;x3/&gt;configuration&lt;x4/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
