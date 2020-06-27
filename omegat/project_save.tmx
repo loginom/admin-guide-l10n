@@ -4052,12 +4052,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Studio is the main working space for analysts and users implementing user interface of the platform operation.</note>
+      <note>A: Studio is the main working space for analysts and users implementing user interface of the platform operation.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Studio – основное рабочее место аналитика и конечного пользователя, реализующее &lt;x1/&gt;пользовательский интерфейс&lt;x2/&gt; работы с платформой.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T104248Z" creationid="Марианна" creationdate="20200610T104248Z">
-        <seg>Studio is the main working place of analysts and users implementing &lt;x1/&gt;user interface&lt;x2/&gt; of the platform operation.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T104849Z" creationid="Марианна" creationdate="20200610T104248Z">
+        <seg>Studio is the main working space for analysts and users implementing &lt;x1/&gt;user interface&lt;x2/&gt; of the platform operation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7801,12 +7802,13 @@ From now on, I will only mention the sections of text that I require a tweak.
       </tuv>
     </tu>
     <tu>
-      <note>Parameters for connection to the Loginom Server are set in the configuration file.</note>
+      <note>A: Parameters for connection to the Loginom Server are set in the configuration file.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Параметры подключения к Loginom Server задаются в &lt;x1/&gt;файле конфигурации&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T104009Z" creationid="Марианна" creationdate="20200610T104009Z">
-        <seg>Parameters of connection to Loginom Server are set in the &lt;x1/&gt;configuration file&lt;x2/&gt;.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T104947Z" creationid="Марианна" creationdate="20200610T104009Z">
+        <seg>Parameters for connection to the Loginom Server are set in the &lt;x1/&gt;configuration file&lt;x2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
