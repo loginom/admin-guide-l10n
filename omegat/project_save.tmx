@@ -4489,12 +4489,13 @@ net start loginom</seg>
       </tuv>
     </tu>
     <tu>
-      <note>As appropriate, these parameters can be changed without a system reinstallation.</note>
+      <note>A: As appropriate, these parameters can be changed without a system reinstallation.
+M: Done.</note>
       <tuv lang="RU">
         <seg>А при необходимости эти параметры можно изменить без переустановки системы.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T202708Z" creationid="Марианна" creationdate="20200610T202708Z">
-        <seg>As appropriate, these parameters can be changed without the system reinstallation.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T111348Z" creationid="Марианна" creationdate="20200610T202708Z">
+        <seg>As appropriate, these parameters can be changed without a system reinstallation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7305,12 +7306,13 @@ The desktop version of the platform is designated for installation on the local 
       </tuv>
     </tu>
     <tu>
-      <note>Start Operation</note>
+      <note>A: Start Operation
+M: Done.</note>
       <tuv lang="RU">
         <seg>Начало работы</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T202753Z" creationid="Марианна" creationdate="20200610T202753Z">
-        <seg>Operation Start</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T111416Z" creationid="Марианна" creationdate="20200610T202753Z">
+        <seg>Start Operation</seg>
       </tuv>
     </tu>
     <tu>
@@ -8723,12 +8725,13 @@ M: Done</note>
       </tuv>
     </tu>
     <tu>
-      <note>Operational Continuity</note>
+      <note>A: Operational Continuity
+M: Done.</note>
       <tuv lang="RU">
         <seg>Продолжение работ</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T203530Z" creationid="Марианна" creationdate="20200610T203530Z">
-        <seg>Operation Continuation</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T111455Z" creationid="Марианна" creationdate="20200610T203530Z">
+        <seg>Operational Continuity</seg>
       </tuv>
     </tu>
     <tu>
@@ -9898,13 +9901,14 @@ M: Done. Вася, посмотрю еще раз в сети, все помен
       </tuv>
     </tu>
     <tu>
-      <note>1. GuardantActivationWizard shortcut is an application for activation of the software SP dongle for Loginom software, manual concerning the activation process is in the "Activation of SP dongles" file. https://help.loginom.ru/adminguide/licenses/sp-activate.html</note>
+      <note>A: 1. GuardantActivationWizard shortcut is an application for activation of the software SP dongle for Loginom software, manual concerning the activation process is in the "Activation of SP dongles" file. https://help.loginom.ru/adminguide/licenses/sp-activate.html
+M: Done.</note>
       <tuv lang="RU">
         <seg>Ярлык &lt;x1/&gt;GuardantActivationWizard&lt;x2/&gt; - приложение для активации программного SP-ключа ПО Loginom, &lt;x3/&gt;инструкция&lt;x4/&gt; по активации в файле "Активация SP-ключей"
 https://help.loginom.ru/adminguide/licenses/sp-activate.html</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T203810Z" creationid="Марианна" creationdate="20200610T203810Z">
-        <seg>&lt;x1/&gt;GuardantActivationWizard&lt;x2/&gt; shortcut is an application for activation of the software SP dongle for Loginom software, &lt;x3/&gt;manual&lt;x4/&gt; concerning the activation process is in "Activation of SP dongles" file.
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T111549Z" creationid="Марианна" creationdate="20200610T203810Z">
+        <seg>&lt;x1/&gt;GuardantActivationWizard&lt;x2/&gt; shortcut is an application for activation of the software SP dongle for Loginom software, &lt;x3/&gt;manual&lt;x4/&gt; concerning the activation process is in the "Activation of SP dongles" file.
 https://help.loginom.ru/adminguide/licenses/sp-activate.html</seg>
       </tuv>
     </tu>
