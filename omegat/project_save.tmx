@@ -1088,12 +1088,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>To run GrdTRU.exe software on a computer on which Loginom USB dongle is installed.</note>
+      <note>A: To run GrdTRU.exe software on a computer on which Loginom USB dongle is installed.
+M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;1.&lt;x2/&gt; На том компьютере, на котором установлен usb-ключ Loginom, запустить программу GrdTRU.exe.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T072442Z" creationid="Марианна" creationdate="20200610T072442Z">
-        <seg>&lt;x1/&gt;1.&lt;x2/&gt; To run GrdTRU.exe software on the computer on which Loginom USB dongle is installed.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T102920Z" creationid="Марианна" creationdate="20200610T072442Z">
+        <seg>&lt;x1/&gt;1.&lt;x2/&gt; To run GrdTRU.exe software on a computer on which Loginom USB dongle is installed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1133,12 +1134,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>**2.**Once the software has been booted up, and you are at the first wizard stage, it is required to select "Start new operation of the dongle upgrade" and press the "Next" button. </note>
+      <note>A: **2.**Once the software has been booted up, and you are at the first wizard stage, it is required to select "Start new operation of the dongle upgrade" and press the "Next" button. 
+M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;2.&lt;x2/&gt; После запуска программы на первом шаге мастера нужно выбрать пункт "Начать новую операцию обновления ключа" и нажать на кнопку "Далее".</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T074647Z" creationid="Марианна" creationdate="20200610T074647Z">
-        <seg>&lt;x1/&gt;2.&lt;x2/&gt;Upon the software start at the first wizard stage, it is required to select "Start the new operation of the dongle upgrade" and press the "Next" button.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T103020Z" creationid="Марианна" creationdate="20200610T074647Z">
+        <seg>&lt;x1/&gt;2.&lt;x2/&gt;Once the software has been booted up, and you are at the first wizard stage, it is required to select "Start new operation of the dongle upgrade" and press the "Next" button.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2329,12 +2331,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Important: It is required to close all Loginom modules before a dongle memory upgrade.</note>
+      <note>A: Important: It is required to close all Loginom modules before a dongle memory upgrade.
+M: Done. </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Важно&lt;x2/&gt;: Перед началом выполнения обновления памяти ключа необходимо закрыть все модули программы Loginom.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T091407Z" creationid="Марианна" creationdate="20200610T072221Z">
-        <seg>&lt;x1/&gt;Important&lt;x2/&gt;: It is required to close all Loginom modules before the dongle memory upgrade.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T102747Z" creationid="Марианна" creationdate="20200610T072221Z">
+        <seg>&lt;x1/&gt;Important&lt;x2/&gt;: It is required to close all Loginom modules before a dongle memory upgrade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5400,12 +5403,13 @@ M: OK, done. Still i would prefer to preserve the universal style of the text. <
       </tuv>
     </tu>
     <tu>
-      <note>Loginom user must perform the following actions prior to remote programming of the dongle memory using GrdTRU.exe software:</note>
+      <note>A: Loginom user must perform the following actions prior to remote programming of the dongle memory using GrdTRU.exe software:
+M: Done.</note>
       <tuv lang="RU">
         <seg>Для дистанционного программирования памяти ключа при помощи программы GrdTRU.exe, пользователю Loginom необходимо выполнить следующие шаги:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T072359Z" creationid="Марианна" creationdate="20200610T072359Z">
-        <seg>Loginom user must perform the following actions prior to the remote programming of the dongle memory using GrdTRU.exe software:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T102817Z" creationid="Марианна" creationdate="20200610T072359Z">
+        <seg>Loginom user must perform the following actions prior to remote programming of the dongle memory using GrdTRU.exe software:</seg>
       </tuv>
     </tu>
     <tu>
