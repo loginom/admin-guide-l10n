@@ -3074,12 +3074,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Certificates Usage</note>
+      <note>A: Certificates Usage
+M: Done</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Работа с сертификатами&lt;x2/&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200512T095639Z" creationid="Марианна" creationdate="20200426T124925Z">
-        <seg>The &lt;x1/&gt;Certificates Usage&lt;x2/&gt;</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T104649Z" creationid="Марианна" creationdate="20200426T124925Z">
+        <seg>&lt;x1/&gt;Certificates Usage&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6746,12 +6747,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>It is a client web application designated for the design of processing workflows, data visualization, server configuration, and user rights management.</note>
+      <note>A: It is a client web application designated for the design of processing workflows, data visualization, server configuration, and user rights management.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Клиентское веб-приложение, предназначенное для проектирования сценариев обработки, визуализации данных, настройки сервера, управления правами пользователей.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T104113Z" creationid="Марианна" creationdate="20200610T104113Z">
-        <seg>It is a client web application designated for design of processing workflows, data visualization, server configuration, user rights management.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T104746Z" creationid="Марианна" creationdate="20200610T104113Z">
+        <seg>It is a client web application designated for the design of processing workflows, data visualization, server configuration, and user rights management.</seg>
       </tuv>
     </tu>
     <tu>
