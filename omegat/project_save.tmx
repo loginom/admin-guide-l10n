@@ -9395,12 +9395,13 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>All technical support concerning deployment, startup and usage issues is available by emailing the relevant enquiry to the following address: help@loginom.ru.</note>
+      <note>A: All technical support concerning deployment, startup and usage issues is available by emailing the relevant enquiry to the following address: help@loginom.ru.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Техподдержка по вопросам развертывания, запуска и использования доступна по адресу  help@loginom.ru.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T205347Z" creationid="Марианна" creationdate="20200610T204801Z">
-        <seg>The technical support service concerning the deployment, start and usage issues is available by the following e-mail: help@loginom.ru.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T112111Z" creationid="Марианна" creationdate="20200610T204801Z">
+        <seg>All technical support concerning deployment, startup and usage issues is available by emailing the relevant enquiry to the following address: help@loginom.ru.</seg>
       </tuv>
     </tu>
     <tu>
