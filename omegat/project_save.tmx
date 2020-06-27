@@ -1245,12 +1245,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>6. Once received, the "number-question" is entered at the next stage.</note>
+      <note>A: 6. Once received, the "number-question" is entered at the next stage.
+M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;6.&lt;x2/&gt; На следующем шаге вводится полученное "число-ответ".</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T085530Z" creationid="Марианна" creationdate="20200610T085530Z">
-        <seg>&lt;x1/&gt;6.&lt;x2/&gt; The received "number-question" is entered at the next stage.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T103828Z" creationid="Марианна" creationdate="20200610T085530Z">
+        <seg>&lt;x1/&gt;6.&lt;x2/&gt; Once received, the "number-question" is entered at the next stage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1264,12 +1265,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Once the instructions above have been properly observed, the next window will read - Dongle programming successfully completed.</note>
+      <note>A: Once the instructions above have been properly observed, the next window will read - Dongle programming successfully completed.
+M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;7.&lt;x2/&gt; В случае правильного следования предшествующих инструкций вы должны увидеть следующее окно – программирование ключа прошло успешно.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T085839Z" creationid="Марианна" creationdate="20200610T085839Z">
-        <seg>&lt;x1/&gt;7.&lt;x2/&gt; In the case of the proper observance of the instructions mentioned above, you will see the next window - Dongle programming successfully completed.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T104013Z" creationid="Марианна" creationdate="20200610T085839Z">
+        <seg>&lt;x1/&gt;7.&lt;x2/&gt; Once the instructions above have been properly observed, the next window will read - Dongle programming successfully completed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2959,12 +2961,13 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Note: It is not permitted to rerun GrdTRU.exe before the receipt of the "number-question", otherwise the whole procedure will be repeated from the very beginning.</note>
+      <note>A: Note: It is not permitted to rerun GrdTRU.exe before the receipt of the "number-question", otherwise the whole procedure will be repeated from the very beginning.
+M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;: Программу GrdTRU.exe не следует повторно запускать до получения "файла-ответа", иначе всю процедуру будет необходимо повторить заново.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T085459Z" creationid="Марианна" creationdate="20200610T081212Z">
-        <seg>&lt;x1/&gt;Note&lt;x2/&gt;: It is not allowed to run GrdTRU.exe once again before "number-question" receipt, otherwise the whole procedure will be repeated from the very beginning.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T103751Z" creationid="Марианна" creationdate="20200610T081212Z">
+        <seg>&lt;x1/&gt;Note&lt;x2/&gt;: It is not permitted to rerun GrdTRU.exe before the receipt of the "number-question", otherwise the whole procedure will be repeated from the very beginning.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5419,8 +5422,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Для его ввода можно воспользоваться кнопками вставки "Из буфера" или "Из файла".</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T085700Z" creationid="Марианна" creationdate="20200610T085700Z">
-        <seg>It is required to use "From clipboard" or "From file" buttons for its entry.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T103900Z" creationid="Марианна" creationdate="20200610T085700Z">
+        <seg>To enter the “number-question”, it is required to use "From clipboard" or "From file" buttons.</seg>
       </tuv>
     </tu>
     <tu>
