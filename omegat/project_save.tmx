@@ -6761,12 +6761,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>The client web application implementing user interface of the platform operation.</note>
+      <note>A: The client web application implementing user interface of the platform operation.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Клиентское веб-приложение, реализующее пользовательский интерфейс работы с платформой.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T214638Z" creationid="Марианна" creationdate="20200605T214638Z">
-        <seg>The client web application implementing the user interface of the platform operation.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T110757Z" creationid="Марианна" creationdate="20200605T214638Z">
+        <seg>The client web application implementing user interface of the platform operation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7321,12 +7322,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Installation is not required, as interaction is provided through use of a browser.</note>
+      <note>A: Installation is not required, as interaction is provided through use of a browser.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Не требует инсталляции, т.к. взаимодействие осуществляется через браузер.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T214711Z" creationid="Марианна" creationdate="20200605T214711Z">
-        <seg>It is not required to install it as interaction is provided by means of browser.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T110841Z" creationid="Марианна" creationdate="20200605T214711Z">
+        <seg>Installation is not required, as interaction is provided through use of a browser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9026,12 +9028,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Server mode is available in Team, Standard and Enterprise editions.</note>
+      <note>A: Server mode is available in Team, Standard and Enterprise editions.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Серверный режим доступен в редакциях Team, Standard и Enterprise.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T213913Z" creationid="Марианна" creationdate="20200605T213913Z">
-        <seg>The server mode is available in Team, Standard and Enterprise editions.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T110557Z" creationid="Марианна" creationdate="20200605T213913Z">
+        <seg>Server mode is available in Team, Standard and Enterprise editions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9410,21 +9413,23 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>It must be installed and can be used as a Microsoft IIS service.</note>
+      <note>A: It must be installed and can be used as a Microsoft IIS service.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Требует инсталляции и функционирует в виде службы Microsoft IIS.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T214502Z" creationid="Марианна" creationdate="20200605T214502Z">
-        <seg>It must be installed and can be used as Microsoft IIS service.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T110706Z" creationid="Марианна" creationdate="20200605T214502Z">
+        <seg>It must be installed and can be used as a Microsoft IIS service.</seg>
       </tuv>
     </tu>
     <tu>
-      <note>It must be installed and can be used as a Windows service.</note>
+      <note>A: It must be installed and can be used as a Windows service.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Требует инсталляции и функционирует в виде службы Windows.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T214314Z" creationid="Марианна" creationdate="20200605T214314Z">
-        <seg>It must be installed and can be used as Windows service.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T110633Z" creationid="Марианна" creationdate="20200605T214314Z">
+        <seg>It must be installed and can be used as a Windows service.</seg>
       </tuv>
     </tu>
     <tu>
