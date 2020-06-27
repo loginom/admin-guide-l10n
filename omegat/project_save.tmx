@@ -6481,21 +6481,23 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
-      <note>Change in the number of product component users</note>
+      <note>A: Change in the number of product component users
+M: Done</note>
       <tuv lang="RU">
         <seg>Изменение количества пользователей компонентов продукта</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T071800Z" creationid="Марианна" creationdate="20200610T071800Z">
-        <seg>Change of the number of the product components users</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T102535Z" creationid="Марианна" creationdate="20200610T071800Z">
+        <seg>Change in the number of product component users</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Change of product composition of product components</note>
+      <note>A: Change of product composition of product components
+M: Done</note>
       <tuv lang="RU">
         <seg>Изменение состава компонентов продукта</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T071738Z" creationid="Марианна" creationdate="20200610T071738Z">
-        <seg>Change of composistion of the product components</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T102503Z" creationid="Марианна" creationdate="20200610T071738Z">
+        <seg>Change of composistion of product components</seg>
       </tuv>
     </tu>
     <tu>
@@ -7406,12 +7408,13 @@ Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Upgrade of Electronic Dongle Memory</note>
+      <note>A: Upgrade of Electronic Dongle Memory
+M: Done</note>
       <tuv lang="RU">
         <seg>Обновление памяти электронного ключа</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T091232Z" creationid="Марианна" creationdate="20200610T072002Z">
-        <seg>Upgrade of the Electronic Dongle Memory</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T102623Z" creationid="Марианна" creationdate="20200610T072002Z">
+        <seg>Upgrade of Electronic Dongle Memory</seg>
       </tuv>
     </tu>
     <tu>
@@ -8681,12 +8684,13 @@ M: Done. </note>
       </tuv>
     </tu>
     <tu>
-      <note>Extension of time limits</note>
+      <note>A: Extension of time limits
+M: Done</note>
       <tuv lang="RU">
         <seg>Продление времени действия временных ограничений</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T071938Z" creationid="Марианна" creationdate="20200610T071938Z">
-        <seg>Extension of the time limits</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T102600Z" creationid="Марианна" creationdate="20200610T071938Z">
+        <seg>Extension of time limits</seg>
       </tuv>
     </tu>
     <tu>
@@ -8979,12 +8983,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>The most convenient way to upgrade the electronic dongle memory is via remote programming of the dongle memory using GrdTRU.exe software.</note>
+      <note>A: The most convenient way to upgrade the electronic dongle memory is via remote programming of the dongle memory using GrdTRU.exe software.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Самый удобный вариант обновления памяти электронного ключа – это дистанционное программирование памяти ключа при помощи программы GrdTRU.exe.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T091323Z" creationid="Марианна" creationdate="20200610T072130Z">
-        <seg>The most convenient way of the electronic dongle memory upgrade is the remote programming of the dongle memory using GrdTRU.exe software.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T102720Z" creationid="Марианна" creationdate="20200610T072130Z">
+        <seg>The most convenient way to upgrade the electronic dongle memory is via remote programming of the dongle memory using GrdTRU.exe software.</seg>
       </tuv>
     </tu>
     <tu>
