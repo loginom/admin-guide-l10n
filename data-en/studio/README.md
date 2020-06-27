@@ -1,8 +1,8 @@
 # Studio
 
-It is a client web application designated for design of processing workflows, data visualization, server configuration, user rights management. Data processing is performed by [Loginom Server](../server/README.md).
+It is a client web application designated for the design of processing workflows, data visualization, server configuration, and user rights management. Data processing is performed by [Loginom Server](../server/README.md).
 
-Studio is the main working place of analysts and users implementing [user interface](https://help.loginom.ru) of the platform operation.
+Studio is the main working space for analysts and users implementing [user interface](https://help.loginom.ru) of the platform operation.
 
 The following browsers are supported:
 
@@ -13,4 +13,4 @@ The following browsers are supported:
 * [Internet Explorer](https://www.microsoft.com/ru-ru/download/internet-explorer.aspx) version 11.0 or higher
 * [Edge](https://www.microsoft.com/ru-ru/windows/microsoft-edge) version 14.0 or higher
 
-Parameters of connection to Loginom Server are set in the [configuration file](./config.md).
+Parameters for connection to the Loginom Server are set in the [configuration file](./config.md).

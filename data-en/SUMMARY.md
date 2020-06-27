@@ -17,7 +17,7 @@
    * [Configuration](./adapter/config/README.md)
       * [Description of parameters](./adapter/config/parameters.md)
       * [Configuration](./adapter/config/tuning-principles.md)
-      * The [Certificates Usage](./adapter/config/work-with-certificates.md)
+      * [Certificates Usage](./adapter/config/work-with-certificates.md)
    * [Uninstalling](./adapter/remove.md)
 * [Loginom Integrator](./integrator/README.md)
    * [Installation](./integrator/setup.md)

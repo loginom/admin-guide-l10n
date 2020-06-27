@@ -3,11 +3,11 @@
 <p><iframe allowfullscreen="" frameborder="0" height="472" src="https://www.youtube.com/embed/rOYXRR-Lzow" width="835"></iframe></p>
 
 
-Access to the analytical platform is provided by resources of Yandex Compute Cloud service. The service enables usage of virtual machines in Yandex.Clouds infrastructure for Loginom operation. Depending on the complexity of computations, it is possible to define the required number of cores, storage capacity, size and amount of discs and accessibility zone of the virtual machine. As appropriate, these parameters can be changed without the system reinstallation.
+Access to the analytical platform is provided by resources of the Yandex Compute Cloud service. The service enables usage of virtual machines in Yandex.Clouds infrastructure for operation on the Loginom platform. Depending on the complexity of computations, it is possible to define the required number of cores, storage capacity, size and amount of discs and accessibility zone of the virtual machine. As appropriate, these parameters can be changed without a system reinstallation.
 
 [Loginom Platform in Yandex.Cloud](https://cloud.yandex.ru/marketplace/products/f2esjn14f4ekcb53igdt)
 
-## Operation Start
+## Start Operation
 
 Upon deployment and start of the virtual machine in Yandex.Cloud, it is required to perform the following actions:
 
@@ -21,20 +21,20 @@ Upon deployment and start of the virtual machine in Yandex.Cloud, it is required
 If Loginom Studio start failed, it is required to use the [manual](https://help.loginom.ru/adminguide/server/setup.html#zapusk-sluzhb) and check availability of the started services.
 `Web server start` and `Loginom server start` shortcuts (on the desktop) enable start of the services required for Loginom Studio operation.
 
-## Operation Continuation
+## Operational Continuity
 
 There are additional shortcuts on the desktop in RDP session:
 
-1. `GuardantActivationWizard` shortcut is an application for activation of the software SP dongle for Loginom software, [manual](https://help.loginom.ru/adminguide/licenses/sp-activate.html) concerning the activation process is in "Activation of SP dongles" file.
+1. `GuardantActivationWizard` shortcut is an application for activation of the software SP dongle for Loginom software, [manual](https://help.loginom.ru/adminguide/licenses/sp-activate.html) concerning the activation process is in the "Activation of SP dongles" file.
    https://help.loginom.ru/adminguide/licenses/sp-activate.html
 
-2. `Set admin password` shortcut runs script of the forced setting and upgrading of the user `admin` password. New password can be required, for example, in the case of the current password loss.
+2. `Set admin password` shortcut runs script of the forced setting and upgrading of the user `admin` password. A new password can be required, for example, in the case of current password loss.
 
-3. `Loginom Studio` shortcut enables opening of the page with Loginom Studio web application. Google Сhrome browser is recommended for work.
+3. `Loginom Studio` shortcut enables opening of the page with Loginom Studio web application. Google Сhrome is the recommended browser.
 
-> Attention: Loginom version located in the software image has the limited effective period, and it is required to request the licence renewal for the effective continuous work by the following e-mail: help@loginom.ru.
+> Attention: The Loginom version located in the software image has a limited period of effect, and you will need to request a licence renewal for effective operational continuity of the software by sending an e-mail to the following address: help@loginom.ru.
 
 ## Additional Support
 
-The technical support service concerning the deployment, start and usage issues is available by the following e-mail: help@loginom.ru.
+All technical support concerning deployment, startup and usage issues is available by emailing the relevant enquiry to the following address: help@loginom.ru.
 
