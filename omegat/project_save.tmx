@@ -5883,12 +5883,13 @@ M: Done</note>
       </tuv>
     </tu>
     <tu>
-      <note>Access to the analytical platform is provided by resources of the Yandex Cloud Computing service.</note>
+      <note>A: Access to the analytical platform is provided by resources of the Yandex Cloud Computing service.
+M: Done, with the exception ща the company name.</note>
       <tuv lang="RU">
         <seg>Доступ к аналитической платформе предоставляется ресурсами сервиса Yandex Compute Cloud.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T202239Z" creationid="Марианна" creationdate="20200610T202239Z">
-        <seg>Access to the analytical platform is provided by resources of Yandex Compute Cloud service.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T111205Z" creationid="Марианна" creationdate="20200610T202239Z">
+        <seg>Access to the analytical platform is provided by resources of the Yandex Compute Cloud service.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9039,14 +9040,15 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>The service enables usage of virtual machines in Yandex.Clouds infrastructure for operation on the Loginom platform. 
+      <note>A: The service enables usage of virtual machines in Yandex.Clouds infrastructure for operation on the Loginom platform. 
+M: Done.
 
 Vasiliy M.: просто Yandex.Cloud, наверное</note>
       <tuv lang="RU">
         <seg>Сервис позволяет использовать виртуальные машины в инфраструктуре Яндекс.Облака для работы с Loginom.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T202343Z" creationid="Марианна" creationdate="20200610T202343Z">
-        <seg>The service enables usage of virtual machines in Yandex.Clouds infrastructure for Loginom operation.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T111307Z" creationid="Марианна" creationdate="20200610T202343Z">
+        <seg>The service enables usage of virtual machines in Yandex.Clouds infrastructure for operation on the Loginom platform.</seg>
       </tuv>
     </tu>
     <tu>
