@@ -2939,12 +2939,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Note: It is required to send the operation confirmation code to Loginom by submitting it to the following email address:l support@loginom.ru with "Loginom upgrade: confirmation code" topic.</note>
+      <note>A: Note: It is required to send the operation confirmation code to Loginom by submitting it to the following email address:l support@loginom.ru with "Loginom upgrade: confirmation code" topic.
+M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Примечание&lt;x2/&gt;:  Код подтверждения операции необходимо обязательно сообщить компании Loginom Company по электронной почте &lt;x3/&gt;support@loginom.ru&lt;x4/&gt; с названием темы "Обновление Loginom: код подтверждения".</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T090656Z" creationid="Марианна" creationdate="20200610T090042Z">
-        <seg>&lt;x1/&gt;Note&lt;x2/&gt;: It is required to send the operation confirmation code to Loginom Company by the following e-mail &lt;x3/&gt;support@loginom.ru&lt;x4/&gt; with "Loginom upgrade: confirmation code" topic.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T104202Z" creationid="Марианна" creationdate="20200610T090042Z">
+        <seg>&lt;x1/&gt;Note&lt;x2/&gt;: It is required to send the operation confirmation code to Loginom Company by submitting it to the following email address: &lt;x3/&gt;support@loginom.ru&lt;x4/&gt; with "Loginom upgrade: confirmation code" topic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5067,12 +5068,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>There will be an operation confirmation code to be resent to the supplier at the bottom of the window.</note>
+      <note>A: There will be an operation confirmation code to be resent to the supplier at the bottom of the window.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Внизу окна отображается код подтверждения операции, который необходимо переслать поставщику.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T091630Z" creationid="Марианна" creationdate="20200610T085954Z">
-        <seg>There is operation confirmation code to be resent to the supplier at the bottom of the window.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T104049Z" creationid="Марианна" creationdate="20200610T085954Z">
+        <seg>There will be an operation confirmation code to be resent to the supplier at the bottom of the window.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5427,12 +5429,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>To complete the operation press the "Finish" button.</note>
+      <note>A: To complete the operation press the "Finish" button.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Для завершения программы нажмите кнопку "Готово".</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T090045Z" creationid="Марианна" creationdate="20200610T090018Z">
-        <seg>To finish the operations press the "Finish" button.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T104121Z" creationid="Марианна" creationdate="20200610T090018Z">
+        <seg>To complete the operation press the "Finish" button.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6050,8 +6053,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Если при перепрограммировании ключа были открыты модули Loginom, то перед запуском нового проекта их необходимо закрыть и заново открыть иначе может возникнуть ошибка запуска проекта.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T091750Z" creationid="Марианна" creationdate="20200610T090343Z">
-        <seg>If Loginom modules were opened before reprogramming, it is required to close them before the new project start and open them once again, otherwise the project start error will occur.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T104314Z" creationid="Марианна" creationdate="20200610T090343Z">
+        <seg>If Loginom modules were opened before reprogramming, it is required to close them before starting a new project, and to open them once again, otherwise you will experience a project start error.</seg>
       </tuv>
     </tu>
     <tu>
