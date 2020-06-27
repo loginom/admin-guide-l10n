@@ -2311,8 +2311,8 @@ M: Done. </note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Важно&lt;x2/&gt;:  После обновления сетевого ключа, в обязательном порядке необходимо перезапустить службу сервера лицензий "Guardant Dongle License Service".</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T090635Z" creationid="Марианна" creationdate="20200610T090635Z">
-        <seg>&lt;x1/&gt;Important&lt;x2/&gt;: Upon the network dongle upgrade, it is required to restart the license server service "Guardant Dongle License Service".</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T104348Z" creationid="Марианна" creationdate="20200610T090635Z">
+        <seg>&lt;x1/&gt;Important&lt;x2/&gt;: Upon completion of the network dongle upgrade, it is required to restart the license server service "Guardant Dongle License Service".</seg>
       </tuv>
     </tu>
     <tu>
