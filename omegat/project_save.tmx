@@ -5892,12 +5892,13 @@ M: Done</note>
       </tuv>
     </tu>
     <tu>
-      <note>32-bit and 64-bit versions are available.</note>
+      <note>A: 32-bit and 64-bit versions are available.
+M: Done.</note>
       <tuv lang="RU">
         <seg>Доступны 32-х и 64-х разрядные редакции.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T215118Z" creationid="Марианна" creationdate="20200605T215118Z">
-        <seg>The 32-bit and 64-bit versions are available.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200627T110917Z" creationid="Марианна" creationdate="20200605T215118Z">
+        <seg>32-bit and 64-bit versions are available.</seg>
       </tuv>
     </tu>
     <tu>
