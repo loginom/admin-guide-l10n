@@ -3352,8 +3352,8 @@ Andrew R: keys_msi — it is possible to find allowable values executing the fo
       <tuv lang="RU">
         <seg>&lt;x1/&gt;параметры_integrator&lt;x2/&gt; в виде &lt;x3/&gt;КЛЮЧ=значение&lt;x4/&gt;:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T230841Z" creationid="Марианна" creationdate="20200604T230841Z">
-        <seg>&lt;x1/&gt;параметры_integrator&lt;x2/&gt; в виде &lt;x3/&gt;КЛЮЧ=значение&lt;x4/&gt;:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T115040Z" creationid="Марианна" creationdate="20200604T230841Z">
+        <seg>&lt;x1/&gt;integrator_options&lt;x2/&gt; in &lt;x3/&gt;KEY=value form&lt;x4/&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4342,8 +4342,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>msiexec /i "LoginomIntegrator_6.x.x.msi" ключи_msi параметры_integrator</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T230734Z" creationid="Марианна" creationdate="20200604T230734Z">
-        <seg>msiexec /i "LoginomIntegrator_6.x.x.msi" ключи_msi параметры_integrator</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T114740Z" creationid="Марианна" creationdate="20200604T230734Z">
+        <seg>msiexec /i "LoginomIntegrator_6.x.x.msi" msi_options integrator_options</seg>
       </tuv>
     </tu>
     <tu>
