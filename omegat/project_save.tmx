@@ -2356,12 +2356,13 @@ M: Not done. The Russian source is different.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Vasiliy M.: мне кажется, тут будет Dongle types, хотя могу и ошибаться</note>
+      <note>Vasiliy M.: мне кажется, тут будет Dongle types, хотя могу и ошибаться
+М: Спасибо, изменила.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Варианты исполнения ключа&lt;x2/&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T064525Z" creationid="Марианна" creationdate="20200605T220126Z">
-        <seg>&lt;x1/&gt;Dongle versions&lt;x2/&gt;</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T103617Z" creationid="Марианна" creationdate="20200605T220126Z">
+        <seg>&lt;x1/&gt;Dongle types&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2716,21 +2717,23 @@ OK
       </tuv>
     </tu>
     <tu>
-      <note>Vasiliy M.: может быть, лучше update?</note>
+      <note>Vasiliy M.: может быть, лучше update?
+М: Спасибо, поменяла.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Обновление USB-ключа&lt;x2/&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T064546Z" creationid="Марианна" creationdate="20200605T220337Z">
-        <seg>&lt;x1/&gt;USB dongle upgrade&lt;x2/&gt;</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T103717Z" creationid="Марианна" creationdate="20200605T220337Z">
+        <seg>&lt;x1/&gt;USB dongle update&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <note>Vasiliy M.: может, update? могу ошибаться</note>
+      <note>Vasiliy M.: может, update? могу ошибаться
+М: Спасибо, поменяла.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Обновление&lt;x2/&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T215755Z" creationid="Марианна" creationdate="20200605T215755Z">
-        <seg>&lt;x1/&gt;Upgrade&lt;x2/&gt;</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T103754Z" creationid="Марианна" creationdate="20200605T215755Z">
+        <seg>&lt;x1/&gt;Update&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3701,8 +3704,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Loginom Integrator должен отдать страницу описания работы с REST сервисом.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200625T144440Z" creationid="Марианна" creationdate="20200604T232446Z">
-        <seg>Loginom Integrator must give a page with the REST service operation description.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T105349Z" creationid="Марианна" creationdate="20200604T232446Z">
+        <seg>The Loginom Integrator must give a page with the REST service operation description.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5120,12 +5123,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Vasiliy M.: Always use encryption when connecting to the Loginom server. - почему не вот так, например? Почему required, а не use?</note>
+      <note>Vasiliy M.: Always use encryption when connecting to the Loginom server. - почему не вот так, например? Почему required, а не use?
+М: Оба варианта подходят. Использую твой. </note>
       <tuv lang="RU">
         <seg>Всегда использовать шифрование при подключении к серверу Loginom.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200610T195214Z" creationid="Марианна" creationdate="20200610T195214Z">
-        <seg>Encryption is always required in the case of connection to Loginom server.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T104039Z" creationid="Марианна" creationdate="20200610T195214Z">
+        <seg>Always use encryption when connecting to the Loginom server.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6607,8 +6611,8 @@ M:Done.</note>
       <tuv lang="RU">
         <seg>Имя учетной записи Loginom Server</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T231054Z" creationid="Марианна" creationdate="20200604T231054Z">
-        <seg>Loginom Server account name</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T105305Z" creationid="Марианна" creationdate="20200604T231054Z">
+        <seg>The Loginom Server account name</seg>
       </tuv>
     </tu>
     <tu>
@@ -7862,8 +7866,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Пароль учетной записи Loginom Server</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T231107Z" creationid="Марианна" creationdate="20200604T231107Z">
-        <seg>Loginom Server account password</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T105322Z" creationid="Марианна" creationdate="20200604T231107Z">
+        <seg>The Loginom Server account password</seg>
       </tuv>
     </tu>
     <tu>
@@ -8149,8 +8153,8 @@ Done. </note>
       <tuv lang="RU">
         <seg>Порт Loginom Server</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T225836Z" creationid="Марианна" creationdate="20200604T225836Z">
-        <seg>Loginom Server port</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T105258Z" creationid="Марианна" creationdate="20200604T225836Z">
+        <seg>The Loginom Server port</seg>
       </tuv>
     </tu>
     <tu>
@@ -9052,12 +9056,13 @@ M: Done.</note>
       <note>A: The service enables usage of virtual machines in Yandex.Clouds infrastructure for operation on the Loginom platform. 
 M: Done.
 
-Vasiliy M.: просто Yandex.Cloud, наверное</note>
+Vasiliy M.: просто Yandex.Cloud, наверное
+М: Спасибо, поменяла.</note>
       <tuv lang="RU">
         <seg>Сервис позволяет использовать виртуальные машины в инфраструктуре Яндекс.Облака для работы с Loginom.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200627T111307Z" creationid="Марианна" creationdate="20200610T202343Z">
-        <seg>The service enables usage of virtual machines in Yandex.Clouds infrastructure for operation on the Loginom platform.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T103900Z" creationid="Марианна" creationdate="20200610T202343Z">
+        <seg>The service enables usage of virtual machines in Yandex.Cloud infrastructure for operation on the Loginom platform.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9730,8 +9735,8 @@ A: Okay, I see that now</note>
       <tuv lang="RU">
         <seg>Хост Loginom Server</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T225851Z" creationid="Марианна" creationdate="20200604T225851Z">
-        <seg>Loginom Server host</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T105250Z" creationid="Марианна" creationdate="20200604T225851Z">
+        <seg>The Loginom Server host</seg>
       </tuv>
     </tu>
     <tu>
