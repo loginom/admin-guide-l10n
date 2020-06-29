@@ -233,24 +233,24 @@ A: "while the command" is placed in a different part of the segment in Github, a
       <tuv lang="RU">
         <seg>* Обзор Каталога</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T233110Z" creationid="Марианна" creationdate="20200604T224431Z">
-        <seg>* Directory overview</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T114327Z" creationid="Марианна" creationdate="20200604T224431Z">
+        <seg>* Directory Browsing</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>* Расширения ISAPI</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T224547Z" creationid="Марианна" creationdate="20200604T224547Z">
-        <seg>* ISAPI extensions</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T114409Z" creationid="Марианна" creationdate="20200604T224547Z">
+        <seg>* ISAPI Extensions</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>* Расширяемость .NET4.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T224606Z" creationid="Марианна" creationdate="20200604T224606Z">
-        <seg>* Extensibility .NET4.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T114435Z" creationid="Марианна" creationdate="20200604T224606Z">
+        <seg>* .NET Extensibility 4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -273,32 +273,32 @@ A: "while the command" is placed in a different part of the segment in Github, a
       <tuv lang="RU">
         <seg>* Фильтры ISAPI</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T224623Z" creationid="Марианна" creationdate="20200604T224623Z">
-        <seg>* ISAPI filters</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T114507Z" creationid="Марианна" creationdate="20200604T224623Z">
+        <seg>* ISAPI Filters</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>- Безопасность (Установлено 1 из 9)</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T224222Z" creationid="Марианна" creationdate="20200604T224222Z">
-        <seg>- Safety (1 installed of 9)</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T114235Z" creationid="Марианна" creationdate="20200604T224222Z">
+        <seg>- Security (1 installed of 9)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>- Общие функции HTTP (Установлено 3 из 6)</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T224314Z" creationid="Марианна" creationdate="20200604T224314Z">
-        <seg>- General HTTP functions (3 installed of 6)</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T114304Z" creationid="Марианна" creationdate="20200604T224314Z">
+        <seg>- Common HTTP functions (3 installed of 6)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>- Разработка приложений (Установлено 4 из 11)</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T224519Z" creationid="Марианна" creationdate="20200604T224519Z">
-        <seg>- Applications development (4 installed of 11)</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T114350Z" creationid="Марианна" creationdate="20200604T224519Z">
+        <seg>- Application development (4 installed of 11)</seg>
       </tuv>
     </tu>
     <tu>
