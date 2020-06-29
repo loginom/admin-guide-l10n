@@ -70,7 +70,7 @@ Windows events log record parameters are specified in the `configuration/log/eve
 
 Event source in Windows log: `Loginom Integrator`.
 
-### Database record
+### Write to Database
 
 Database record parameters are specified in the `configuration/log/database` element:
 
