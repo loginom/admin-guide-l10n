@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2655,8 +2655,8 @@ OK
       <tuv lang="RU">
         <seg>&lt;x1/&gt;Лицензионные ключи&lt;x2/&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T064401Z" creationid="Марианна" creationdate="20200605T220053Z">
-        <seg>&lt;x1/&gt;Licensing Dongles&lt;x2/&gt;</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T111535Z" creationid="Марианна" creationdate="20200605T220053Z">
+        <seg>&lt;x1/&gt;License Dongles&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3362,8 +3362,8 @@ Andrew R: keys_msi — it is possible to find allowable values executing the fo
       <tuv lang="RU">
         <seg>&lt;x3/&gt;Лицензионные ключи&lt;x4/&gt;).</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200629T103527Z" creationid="Марианна" creationdate="20200520T085139Z">
-        <seg>&lt;x3/&gt;Licensing Keys&lt;x4/&gt;).</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T111448Z" creationid="Марианна" creationdate="20200520T085139Z">
+        <seg>&lt;x3/&gt;License Keys&lt;x4/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5456,8 +5456,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Для запуска &lt;x1/&gt;Loginom Desktop&lt;x2/&gt; требуется настройка ключей лицензирования (см.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200529T112617Z" creationid="Марианна" creationdate="20200529T112617Z">
-        <seg>To start the &lt;x1/&gt;Loginom Desktop&lt;x2/&gt; it is required to configure the licensing keys (refer to </seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T111428Z" creationid="Марианна" creationdate="20200529T112617Z">
+        <seg>To start the &lt;x1/&gt;Loginom Desktop&lt;x2/&gt; it is required to configure the license keys (refer to </seg>
       </tuv>
     </tu>
     <tu>
@@ -5502,8 +5502,8 @@ M: Done
       <tuv lang="RU">
         <seg>Для запуска службы &lt;x1/&gt;LoginomServer&lt;x2/&gt; требуется настройка ключей лицензирования (см.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T215008Z" creationid="Марианна" creationdate="20200520T085126Z">
-        <seg>To start the &lt;x1/&gt;LoginomServer&lt;x2/&gt; service, it is required to configure the licensing keys (refer to</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T111523Z" creationid="Марианна" creationdate="20200520T085126Z">
+        <seg>To start the &lt;x1/&gt;LoginomServer&lt;x2/&gt; service, it is required to configure the license keys (refer to</seg>
       </tuv>
     </tu>
     <tu>
@@ -6981,8 +6981,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Лицензионные ключи</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T064349Z" creationid="Марианна" creationdate="20200605T220039Z">
-        <seg>Licensing Dongles</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T111501Z" creationid="Марианна" creationdate="20200605T220039Z">
+        <seg>License Dongles</seg>
       </tuv>
     </tu>
     <tu>
