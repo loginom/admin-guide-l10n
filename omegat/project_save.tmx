@@ -3672,12 +3672,12 @@ Host: stend-057</seg>
       <note>A: Loginom Desktop does not include tools for collaborative work, division of rights, publications and work with web services.
 M: Done.
 Vasiliy M.: Может быть, про разграничение прав надо поменять на что-то другое - см. англ wiki - https://en.wikipedia.org/wiki/File_system_permissions
-М: Вася, предложи свой вариант. </note>
+М: Вася, спасибо, исправила на access permissions.</note>
       <tuv lang="RU">
         <seg>Loginom Desktop не включает инструменты для совместной работы, разграничения прав, публикации и работы с веб-сервисами.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T205914Z" creationid="Марианна" creationdate="20200529T105307Z">
-        <seg>Loginom Desktop does not include tools for collaborative work, division of rights, publications and work with web services.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T105543Z" creationid="Марианна" creationdate="20200529T105307Z">
+        <seg>Loginom Desktop does not include tools for collaborative work, access permissions, publications and work with web services.</seg>
       </tuv>
     </tu>
     <tu>
