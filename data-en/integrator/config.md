@@ -34,10 +34,10 @@ The logging parameters must be specified in the `configuration/log` element.
 
 It is possible to enable the following modes:
 
-* **fileSystem** - file record;
-* **eventLog** - Windows event log record;
-* **database** - database record;
-* **internal** - logging events file record (for example, errors while writing logs to the database).
+* **fileSystem** - write to file;
+* **eventLog** - write to Windows event log;
+* **database** - write to database;
+* **internal** - write to logging events file (for example, errors while writing logs to the database).
 
 It is possible to assign the minimum level of detail to each mode:
 
@@ -50,7 +50,7 @@ It is possible to assign the minimum level of detail to each mode:
 
 In the case of default setup, file record with the Info detailing level is enabled. Logs are recorded in the `%ALLUSERSPROFILE%\BaseGroup\Loginom 6\Integrator\Logs\` directory.
 
-### File Record
+### Write to File
 
 File record parameters are specified in the `configuration/log/fileSystem` element:
 
@@ -62,7 +62,7 @@ Log file name - `log.log`.
 
 New files are created once a day, old log files receive names of the `log.yyyy-MM-dd.log` type.
 
-### Windows Events Log Record
+### Write to Windows Events Log
 
 Windows events log record parameters are specified in the `configuration/log/eventLog` element:
 
