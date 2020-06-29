@@ -5192,8 +5192,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Выполнить в командной строке от имени администратора:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T085940Z" creationid="Марианна" creationdate="20200502T202916Z">
-        <seg>To execute the following command in the command line as an administrator:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T103128Z" creationid="Марианна" creationdate="20200502T202916Z">
+        <seg>Execute the following command in the command line as an administrator:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9523,12 +9523,14 @@ M:
 Done. 
 
 
-Vasiliy M.: Программы и компоненты в eng win называются Programs and Features. Точно ли нужна частица To? Она есть в 0525 и 0528 сегментах, но её нет в 0526. Не уверен в её необходимости</note>
+Vasiliy M.: Программы и компоненты в eng win называются Programs and Features. Точно ли нужна частица To? Она есть в 0525 и 0528 сегментах, но её нет в 0526. Не уверен в её необходимости
+
+М: Спасибо, изменила. Везде оставила вариант без to. Хотя если инфинитив в исходнике, можно с to оставить было. Если без to - больше как повелительное наклонение следует рассматривать.</note>
       <tuv lang="RU">
         <seg>Удалить приложение из окна "Программы и компоненты" в Windows;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200510T214522Z" creationid="Марианна" creationdate="20200502T202647Z">
-        <seg>To uninstall the application from the "Applications and Components" window in Windows</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T103106Z" creationid="Марианна" creationdate="20200502T202647Z">
+        <seg>Uninstall the application from the "Programs and Features" window in Windows</seg>
       </tuv>
     </tu>
     <tu>
