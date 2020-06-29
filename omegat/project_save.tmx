@@ -6145,8 +6145,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Запись в базу данных</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T210030Z" creationid="Марианна" creationdate="20200605T210030Z">
-        <seg>Database record</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T113608Z" creationid="Марианна" creationdate="20200605T210030Z">
+        <seg>Write to Database</seg>
       </tuv>
     </tu>
     <tu>
