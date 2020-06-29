@@ -1,4 +1,4 @@
-# Licensing Dongles
+# License Dongles
 
 Loginom products are licensed by means of Guardant dongles:
 

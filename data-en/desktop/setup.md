@@ -28,7 +28,7 @@ All components are installed by default.
 ### Command Line
 
 ```cmd
-msiexec /i "LoginomPersonal_6.x.x_x64.msi" ключи_msi
+msiexec /i "LoginomPersonal_6.x.x_x64.msi" options_msi
 ```
 
 * `msi_options` — it is possible to find allowable values executing the following command in the command line: `msiexec /?`. The following commands can be especially useful:
@@ -37,6 +37,6 @@ msiexec /i "LoginomPersonal_6.x.x_x64.msi" ключи_msi
 
 ## Licenses
 
-To start the **Loginom Desktop** it is required to configure the licensing keys (refer to  [Licensing Dongles](../licenses/README.md)).
+To start the **Loginom Desktop** it is required to configure the license keys (refer to  [License Keys](../licenses/README.md)).
 
 To use network dongles server, it is required to create the [GnClient.ini](https://dev.guardant.ru/pages/viewpage.action?pageId=1277980) file in the `"C:\ProgramData\BaseGroup\Loginom 6\Personal"` directory

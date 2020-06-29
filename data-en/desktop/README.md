@@ -2,7 +2,7 @@
 
 The desktop version of the platform is designated for installation on the local computer when only one user operation is anticipated.
 
-The 64-bit Loginom Desktop version can process significant data arrays limited only by workstation resources. Loginom Desktop does not include tools for collaborative work, division of rights, publications and work with web services.
+The 64-bit Loginom Desktop version can process significant data arrays limited only by workstation resources. Loginom Desktop does not include tools for collaborative work, access permissions, publications and work with web services.
 
 The desktop component is included in the Loginom Personal platform version.
 

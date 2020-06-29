@@ -102,7 +102,7 @@ Resulting url:
 
 ### secure
 
-Encryption is always required in the case of connection to Loginom server.
+Always use encryption when connecting to the Loginom server.
 
 If the parameter is not specified, in the case of connection to the web server `http` connection to Loginom server will be performed without encryption.
 

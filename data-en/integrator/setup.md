@@ -104,10 +104,10 @@ msiexec /i "LoginomIntegrator_6.x.x.msi" ключи_msi параметры_integ
 | IIS_WEBSITENAME | `Default Web Site` | IIS site name |
 | IIS_WEBSITEIPADDRESS | `0.0.0.0` | IIS site binding address |
 | IIS_WEBSITEPORT | `80` | IIS site binding port |
-| LGS_HOST | `localhost` | Loginom Server host |
-| LGS_PORT | `4580` | Loginom Server port |
-| LGS_USER | `service` | Loginom Server account name |
-| LGS_PASS | `service` | Loginom Server account password |
+| LGS_HOST | `localhost` | The Loginom Server host |
+| LGS_PORT | `4580` | The Loginom Server port |
+| LGS_USER | `service` | The Loginom Server account name |
+| LGS_PASS | `service` | The Loginom Server account password |
 
 ## Manual Installation
 
@@ -132,6 +132,6 @@ No package published at the present moment. To use the packages as a web service
 
 For the second test option — go to the following link: URL: `http://<Server>/lgi/service.svc/rest/help`.
 
-Loginom Integrator must give a page with the REST service operation description.
+The Loginom Integrator must give a page with the REST service operation description.
 
 When installing a product for these URLs in the "Start" menu Windows `All programs\Loginom 6\Integrator` the following shortcuts are added: the *"WSDL service description"* and *"REST service description"*.

@@ -2,9 +2,9 @@
 
 Loginom Adapter can be uninstalled in several ways:
 
-* To uninstall the application from the "Applications and Components" window in Windows
+* Uninstall the application from the "Programs and Features" window in Windows
 * To run the product installer having pressed the **"Uninstall"** button
-* To execute the following command in the command line as an administrator:
+* Execute the following command in the command line as an administrator:
 
    ```cmd
    msiexec /x LoginomAdapter.msi /qn
