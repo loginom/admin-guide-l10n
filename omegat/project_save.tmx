@@ -1902,8 +1902,8 @@ M: Done. But still I do not feel the diffrerence. We need to discuss it and chec
       <tuv lang="RU">
         <seg>&lt;x1/&gt;database&lt;x2/&gt; - запись в базу данных;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T204404Z" creationid="Марианна" creationdate="20200605T204404Z">
-        <seg>&lt;x1/&gt;database&lt;x2/&gt; - database record;</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T113057Z" creationid="Марианна" creationdate="20200605T204404Z">
+        <seg>&lt;x1/&gt;database&lt;x2/&gt; - write to database;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1918,8 +1918,8 @@ M: Done. But still I do not feel the diffrerence. We need to discuss it and chec
       <tuv lang="RU">
         <seg>&lt;x1/&gt;eventLog&lt;x2/&gt; - запись в журнал событий Windows;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T204342Z" creationid="Марианна" creationdate="20200605T204342Z">
-        <seg>&lt;x1/&gt;eventLog&lt;x2/&gt; - Windows event log record;</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T113046Z" creationid="Марианна" creationdate="20200605T204342Z">
+        <seg>&lt;x1/&gt;eventLog&lt;x2/&gt; - write to Windows event log;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1934,8 +1934,8 @@ M: Done. But still I do not feel the diffrerence. We need to discuss it and chec
       <tuv lang="RU">
         <seg>&lt;x1/&gt;fileSystem&lt;x2/&gt; - запись в файл;</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T204254Z" creationid="Марианна" creationdate="20200605T204254Z">
-        <seg>&lt;x1/&gt;fileSystem&lt;x2/&gt; - file record;</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T113024Z" creationid="Марианна" creationdate="20200605T204254Z">
+        <seg>&lt;x1/&gt;fileSystem&lt;x2/&gt; - write to file;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1960,8 +1960,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>&lt;x1/&gt;internal&lt;x2/&gt; - запись в файл событий логирования (к примеру, ошибок при записи логов в базу данных).</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200625T125218Z" creationid="Марианна" creationdate="20200605T204551Z">
-        <seg>&lt;x1/&gt;internal&lt;x2/&gt; - logging events file record (for example, errors while writing logs to the database).</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T113121Z" creationid="Марианна" creationdate="20200605T204551Z">
+        <seg>&lt;x1/&gt;internal&lt;x2/&gt; - write to logging events file (for example, errors while writing logs to the database).</seg>
       </tuv>
     </tu>
     <tu>
