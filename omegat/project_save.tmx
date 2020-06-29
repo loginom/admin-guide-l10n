@@ -507,17 +507,17 @@ dism /online /enable-feature /FeatureName:IIS-ApplicationDevelopment /FeatureNam
 :: Для windows 2008/7/2012/8/2012r2/8.1 разрешаем исполнение модулей ISAPI:
 "%windir%\system32\inetsrv\appcmd.exe" set config /section:isapiCgiRestriction /[path='%WinDir%\Microsoft.NET\Framework64\v4.0.30319\aspnet_isapi.dll'].allowed:True</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200604T233009Z" creationid="Марианна" creationdate="20200604T223842Z">
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T114153Z" creationid="Марианна" creationdate="20200604T223842Z">
         <seg>:: For windows 2008/7/2012/8:
 dism /online /enable-feature /FeatureName:IIS-ApplicationDevelopment /FeatureName:IIS-ISAPIExtensions /FeatureName:WAS-WindowsActivationService /FeatureName:WAS-ProcessModel /FeatureName:IIS-NetFxExtensibility /FeatureName:WAS-NetFxEnvironment /FeatureName:WAS-ConfigurationAPI /FeatureName:WCF-HTTP-Activation
 
 :: For windows 2012r2/8.1/2016/10:
 dism /online /enable-feature /FeatureName:IIS-ApplicationDevelopment /FeatureName:IIS-ISAPIExtensions /FeatureName:WAS-WindowsActivationService /FeatureName:WAS-ProcessModel /FeatureName:IIS-ASPNET45 /FeatureName:IIS-NetFxExtensibility45 /FeatureName:NetFx4Extended-ASPNET45 /FeatureName:WCF-Services45 /FeatureName:IIS-ISAPIFilter /FeatureName:WCF-HTTP-Activation45 /all
 
-::It is required to register ASP.NET for windows 2008/7/2012/8/2012r2/8.1:
+::Register ASP.NET for windows 2008/7/2012/8/2012r2/8.1:
 "%WinDir%\Microsoft.NET\Framework64\v4.0.30319\Aspnet_regiis.exe" -iru
 
-:: It is required to allow execution of ISAPI modules for windows 2008/7/2012/8/2012r2/8.1:
+:: Allow for execution of ISAPI modules for windows 2008/7/2012/8/2012r2/8.1:
 "%windir%\system32\inetsrv\appcmd.exe" set config /section:isapiCgiRestriction /[path='%WinDir%\Microsoft.NET\Framework64\v4.0.30319\aspnet_isapi.dll'].allowed:True</seg>
       </tuv>
     </tu>
