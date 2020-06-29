@@ -48,11 +48,11 @@ It is possible to assign the minimum level of detail to each mode:
 * **Fatal** - fatal errors;
 * **Off** - logging off.
 
-In the case of default setup, file record with the Info detailing level is enabled. Logs are recorded in the `%ALLUSERSPROFILE%\BaseGroup\Loginom 6\Integrator\Logs\` directory.
+In the case of default setup, writing to file with the Info detailing level is enabled. Logs are recorded in the `%ALLUSERSPROFILE%\BaseGroup\Loginom 6\Integrator\Logs\` directory.
 
 ### Write to File
 
-File record parameters are specified in the `configuration/log/fileSystem` element:
+Parameters of writing to file are specified in the `configuration/log/fileSystem` element:
 
 * **path** - full or relative (from the working directory) path to the log directory. Default value: `Logs`.
 * **maxArchiveFiles** - maximum number of archive logs. In the case of "0" value number of files is not limited. Default value: 0;
@@ -64,7 +64,7 @@ New files are created once a day, old log files receive names of the `log.yyyy-M
 
 ### Write to Windows Events Log
 
-Windows events log record parameters are specified in the `configuration/log/eventLog` element:
+Parameters of writing to Windows events log are specified in the `configuration/log/eventLog` element:
 
 * **level** - minimum logging level. Default value: `All`.
 
@@ -72,12 +72,12 @@ Event source in Windows log: `Loginom Integrator`.
 
 ### Write to Database
 
-Database record parameters are specified in the `configuration/log/database` element:
+Parameters of writing to database are specified in the `configuration/log/database` element:
 
 * **connectionString** - database connection string. The required attribute.
 * **level** - minimum logging level. Default value: `All`.
 
-Target fields for the event data record can be specified in two ways: it is possible to bind the log fields to the table fields or to send SQL query.
+Target fields for the event data record can be specified in two ways: it is possible to bind the log fields to the table fields or to write SQL query.
 
 #### Binding to the table fields
 

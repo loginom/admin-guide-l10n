@@ -27,10 +27,10 @@ dism /online /enable-feature /FeatureName:IIS-ApplicationDevelopment /FeatureNam
 :: For windows 2012r2/8.1/2016/10:
 dism /online /enable-feature /FeatureName:IIS-ApplicationDevelopment /FeatureName:IIS-ISAPIExtensions /FeatureName:WAS-WindowsActivationService /FeatureName:WAS-ProcessModel /FeatureName:IIS-ASPNET45 /FeatureName:IIS-NetFxExtensibility45 /FeatureName:NetFx4Extended-ASPNET45 /FeatureName:WCF-Services45 /FeatureName:IIS-ISAPIFilter /FeatureName:WCF-HTTP-Activation45 /all
 
-::It is required to register ASP.NET for windows 2008/7/2012/8/2012r2/8.1:
+::Register ASP.NET for windows 2008/7/2012/8/2012r2/8.1:
 "%WinDir%\Microsoft.NET\Framework64\v4.0.30319\Aspnet_regiis.exe" -iru
 
-:: It is required to allow execution of ISAPI modules for windows 2008/7/2012/8/2012r2/8.1:
+:: Allow for execution of ISAPI modules for windows 2008/7/2012/8/2012r2/8.1:
 "%windir%\system32\inetsrv\appcmd.exe" set config /section:isapiCgiRestriction /[path='%WinDir%\Microsoft.NET\Framework64\v4.0.30319\aspnet_isapi.dll'].allowed:True
 ```
 
@@ -41,17 +41,17 @@ The following server roles (windows 2016) must be installed at a minimum:
 ```txt
 Web server (IIS) (8 installed of 43)
 - Web server (8 installed of 34)
-   - Safety (1 installed of 9)
+   - Security (1 installed of 9)
         * Request filtering
-   - General HTTP functions (3 installed of 6)
+   - Common HTTP functions (3 installed of 6)
         * Default document
-        * Directory overview
+        * Directory Browsing
         *Static content
-   - Applications development (4 installed of 11)
+   - Application development (4 installed of 11)
         * ASP.NET 4.6
-        * ISAPI extensions
-        * Extensibility .NET4.
-        * ISAPI filters
+        * ISAPI Extensions
+        * .NET Extensibility 4.
+        * ISAPI Filters
 ```
 
 ## MSI Installation
@@ -89,13 +89,13 @@ By default, installation is performed in the `%ProgramFiles%\BaseGroup\` directo
 ### Command Line
 
 ```cmd
-msiexec /i "LoginomIntegrator_6.x.x.msi" ключи_msi параметры_integrator
+msiexec /i "LoginomIntegrator_6.x.x.msi" msi_options integrator_options
 ```
 
 * `msi_options` — it is possible to find allowable values executing the following command in the command line: `msiexec /?`. The following commands can be especially useful:
    * `/l* "%TEMP%\loginom.msi.log"` — activation of installation logging.
    * `/qn` — "silent" installation without graphic interface mapping.
-* `параметры_integrator` в виде `КЛЮЧ=значение`:
+* `integrator_options` in `KEY=value form`:
 
 | Key | Default value | Description |
 |:--------- |:-------------|:------------- |
