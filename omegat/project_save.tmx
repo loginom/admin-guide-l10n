@@ -3354,12 +3354,13 @@ Andrew R: keys_msi — it is possible to find allowable values executing the fo
       </tuv>
     </tu>
     <tu>
-      <note>Vasiliy M.: здесь, наверное, надо использовать Keys</note>
+      <note>Vasiliy M.: здесь, наверное, надо использовать Keys
+М: Изменила, спасибо.</note>
       <tuv lang="RU">
         <seg>&lt;x3/&gt;Лицензионные ключи&lt;x4/&gt;).</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200608T064335Z" creationid="Марианна" creationdate="20200520T085139Z">
-        <seg>&lt;x3/&gt;Licensing Dongles&lt;x4/&gt;).</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T103527Z" creationid="Марианна" creationdate="20200520T085139Z">
+        <seg>&lt;x3/&gt;Licensing Keys&lt;x4/&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4343,12 +4344,13 @@ M: Done.</note>
       </tuv>
     </tu>
     <tu>
-      <note>Vasiliy M.: ключи_msi будем называть msi_options</note>
+      <note>Vasiliy M.: ключи_msi будем называть msi_options
+М: Спасибо, изменила. </note>
       <tuv lang="RU">
         <seg>msiexec /i "LoginomPersonal_6.x.x_x64.msi" ключи_msi</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200529T112419Z" creationid="Марианна" creationdate="20200529T112419Z">
-        <seg>msiexec /i "LoginomPersonal_6.x.x_x64.msi" ключи_msi</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T103425Z" creationid="Марианна" creationdate="20200529T112419Z">
+        <seg>msiexec /i "LoginomPersonal_6.x.x_x64.msi" options_msi</seg>
       </tuv>
     </tu>
     <tu>
