@@ -7743,16 +7743,16 @@ M:Done.</note>
       <tuv lang="RU">
         <seg>Параметры записи в базу данных задаются в элементе &lt;x1/&gt;configuration/log/database&lt;x2/&gt;:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T210121Z" creationid="Марианна" creationdate="20200605T210121Z">
-        <seg>Database record parameters are specified in the &lt;x1/&gt;configuration/log/database&lt;x2/&gt; element:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T115653Z" creationid="Марианна" creationdate="20200605T210121Z">
+        <seg>Parameters of writing to database are specified in the &lt;x1/&gt;configuration/log/database&lt;x2/&gt; element:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>Параметры записи в журнал событий Windows задаются в элементе &lt;x1/&gt;configuration/log/eventLog&lt;x2/&gt;:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T212804Z" creationid="Марианна" creationdate="20200605T205937Z">
-        <seg>Windows events log record parameters are specified in the &lt;x1/&gt;configuration/log/eventLog&lt;x2/&gt; element:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T115622Z" creationid="Марианна" creationdate="20200605T205937Z">
+        <seg>Parameters of writing to Windows events log are specified in the &lt;x1/&gt;configuration/log/eventLog&lt;x2/&gt; element:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7761,8 +7761,8 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Параметры записи в файл задаются в элементе &lt;x1/&gt;configuration/log/fileSystem&lt;x2/&gt;:</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200625T125404Z" creationid="Марианна" creationdate="20200605T205322Z">
-        <seg>File record parameters are specified in the &lt;x1/&gt;configuration/log/fileSystem&lt;x2/&gt; element:</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T115542Z" creationid="Марианна" creationdate="20200605T205322Z">
+        <seg>Parameters of writing to file are specified in the &lt;x1/&gt;configuration/log/fileSystem&lt;x2/&gt; element:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8561,8 +8561,8 @@ M: Done. </note>
       <tuv lang="RU">
         <seg>При установке по умолчанию включена запись в файл с уровнем детализации Info, журналы пишутся в каталог &lt;x1/&gt;%ALLUSERSPROFILE%\BaseGroup\Loginom 6\Integrator\Logs\&lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200625T125323Z" creationid="Марианна" creationdate="20200605T205233Z">
-        <seg>In the case of default setup, file record with the Info detailing level is enabled. Logs are recorded in the &lt;x1/&gt;%ALLUSERSPROFILE%\BaseGroup\Loginom 6\Integrator\Logs\&lt;x2/&gt; directory.</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T115510Z" creationid="Марианна" creationdate="20200605T205233Z">
+        <seg>In the case of default setup, writing to file with the Info detailing level is enabled. Logs are recorded in the &lt;x1/&gt;%ALLUSERSPROFILE%\BaseGroup\Loginom 6\Integrator\Logs\&lt;x2/&gt; directory.</seg>
       </tuv>
     </tu>
     <tu>
