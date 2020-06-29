@@ -6153,16 +6153,16 @@ M: Done.</note>
       <tuv lang="RU">
         <seg>Запись в журнал событий Windows</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T212728Z" creationid="Марианна" creationdate="20200605T205820Z">
-        <seg>Windows Events Log Record</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T113303Z" creationid="Марианна" creationdate="20200605T205820Z">
+        <seg>Write to Windows Events Log</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="RU">
         <seg>Запись в файл</seg>
       </tuv>
-      <tuv lang="EN" changeid="Марианна" changedate="20200605T212604Z" creationid="Марианна" creationdate="20200605T205248Z">
-        <seg>File Record</seg>
+      <tuv lang="EN" changeid="Марианна" changedate="20200629T113155Z" creationid="Марианна" creationdate="20200605T205248Z">
+        <seg>Write to File</seg>
       </tuv>
     </tu>
     <tu>
